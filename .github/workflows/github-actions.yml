@@ -1,23 +1,21 @@
 name: Fetch Hotstar Events
-
 on:
   schedule:
-    - cron: "*/10 * * * *" # runs every 10 minutes
+    - cron: "*/10 * * * *"  # runs every 10 minutes
   workflow_dispatch: # allow manual trigger
 
 jobs:
   update-gist:
     runs-on: ubuntu-latest
-
     steps:
       - name: Fetch API data
         run: |
           curl -s "${{ secrets.API_URL }}" -o jiohotstar-events.json
-
+          
       - name: Update Gist
-        uses: andymckay/gist-action@v1
+        uses: andymckay/append-gist-action@1.0.2
         with:
-          gist_id: "${{ secrets.GIST_ID }}"
-          file_path: jiohotstar-events.json
+          gistURL: "https://gist.github.com/${{ secrets.GIST_ID }}"
+          file: jiohotstar-events.json
         env:
-          GIST_TOKEN: ${{ secrets.GIST_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GIST_TOKEN }}
