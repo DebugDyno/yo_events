@@ -1,0 +1,24 @@
+name: Fetch Hotstar Events
+on:
+  schedule:
+    - cron: "*/10 * * * *"  # runs every 10 minutes
+  workflow_dispatch: # allow manual trigger
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        
+      - name: Fetch API data
+        run: |
+          curl -s "${{ secrets.API_URL }}" -o jiohotstar-events.json
+          
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add jiohotstar-events.json
+          git diff --staged --quiet || git commit -m "Update Hotstar events data - $(date)"
+          git push
