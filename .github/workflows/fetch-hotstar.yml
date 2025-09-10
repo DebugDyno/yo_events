@@ -1,7 +1,7 @@
 name: Fetch Hotstar Events
 on:
-  schedule:
-    - cron: "*/10 * * * *"  # runs every 10 minutes
+  #schedule:
+   # - cron: "*/10 * * * *"  # runs every 10 minutes
   workflow_dispatch: # allow manual trigger
 
 jobs:
