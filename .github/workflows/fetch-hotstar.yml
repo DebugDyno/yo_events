@@ -22,5 +22,5 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add .
-          git diff --staged --quiet || git commit -m "Update Hotstar events data - $(date)"
+          git diff --staged --quiet || git commit -m "Update events data - $(date)"
           git push
