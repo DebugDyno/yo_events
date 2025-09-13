@@ -1,24 +1,6 @@
 {
-  "code": 200,
-  "message": "Data fetched successfully",
-  "total": 1,
-  "updatedAt": "14/9/2025, 3:07:56 am",
-  "data": [
-    {
-      "content_id": "1540050769",
-      "title": "Brentford vs Chelsea",
-      "description": "Watch the live stream of the Premier League 2025/26 match between Brentford and Chelsea",
-      "image": "https://img.hotstar.com/image/upload/f_auto,q_90,w_720/sources/r1/cms/prod/8568/1757760028568-h",
-      "poster": "https://img.hotstar.com/image/upload/f_auto,q_90,w_720/sources/r1/cms/prod/4244/1757760084244-i",
-      "languages": {
-        "English": "eng"
-      },
-      "tags": [
-        "English",
-        "Football"
-      ],
-      "watch_url": "https://www.hotstar.com/in/sports/football/brentford-vs-chelsea/1540050769/video/live/watch",
-      "status": "LIVE"
-    }
-  ]
+  "code": 503,
+  "message": "Error fetching live events",
+  "updatedAt": "14/9/2025, 3:17:31 am",
+  "error": "Cannot read properties of undefined (reading '0')"
 }
