@@ -12,11 +12,9 @@ jobs:
         uses: actions/checkout@v4
         
       - name: Fetch API data
-      - name: Fetch and prettify API data
         run: |
           curl -s "${{ secrets.API_URL }}" | jq '.' > data.json
           curl -s "${{ secrets.SPORTS_API_URL }}" | jq '.' > sports.json
-          
           
       - name: Commit and push changes
         run: |
