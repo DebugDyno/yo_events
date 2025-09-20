@@ -1,24 +1,6 @@
 {
-  "code": 200,
-  "message": "Data fetched successfully",
-  "total": 1,
-  "updatedAt": "21/9/2025, 2:58:48 am",
-  "data": [
-    {
-      "content_id": "1540051624",
-      "title": "Fulham vs Brentford",
-      "description": "Watch the live stream of the Premier League 2025/26 match between Fulham and Brentford",
-      "image": "https://img.hotstar.com/image/upload/f_auto,q_90,w_720/sources/r1/cms/prod/1061/1758365451061-h",
-      "poster": "https://img.hotstar.com/image/upload/f_auto,q_90,w_720/sources/r1/cms/prod/2557/1758365542557-i",
-      "languages": {
-        "English": "eng"
-      },
-      "tags": [
-        "English",
-        "Football"
-      ],
-      "watch_url": "https://www.hotstar.com/in/sports/football/fulham-vs-brentford/1540051624/video/live/watch",
-      "status": "LIVE"
-    }
-  ]
+  "code": 503,
+  "message": "Error fetching live events",
+  "updatedAt": "21/9/2025, 3:08:46 am",
+  "error": "Cannot read properties of undefined (reading '0')"
 }
