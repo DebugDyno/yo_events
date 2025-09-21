@@ -13,8 +13,9 @@ jobs:
         
       - name: Fetch API data
         run: |
-          curl -s "${{ secrets.API_URL }}" | jq '.' > data.json
-          curl -s "${{ secrets.SPORTS_API_URL }}" | jq '.' > sports.json
+          curl -s "${{ secrets.API_URL }}" | jq '.' > jiohotstar.json
+          curl -s "${{ secrets.SPORTS_API_URL }}" | jq '.' > sports_1.json
+          curl -s "${{ secrets.SPORTS_API_2_URL }}" | jq '.' > sports_2.json
           
       - name: Commit and push changes
         run: |
