@@ -1,42 +1,5 @@
 {
   "status": "success",
-  "message": "Live matches fetched successfully",
-  "total": 1,
-  "data": [
-    {
-      "id": 1,
-      "contentId": "132379",
-      "name": "GUY vs TKR",
-      "image": [
-        {
-          "order": 1,
-          "url": "https://images.ottplay.com/backdrops/4e54bf5f12bfeb41482bb3b24d1c64e2.jpg",
-          "caption": null,
-          "credit": null
-        },
-        {
-          "order": 2,
-          "url": "https://images.ottplay.com/backdrops/82d2c2fc2282a17738aa3a83001cd2ef.jpg",
-          "caption": null,
-          "credit": null
-        }
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/eeedcdf67c2342bdb6bb60abfa0015fc.jpg",
-        "https://images.ottplay.com/posters/7f4fcb9aade00a16aed947f5b1b46268.jpg"
-      ],
-      "content_type": "sport",
-      "genre": "cricket",
-      "language": "english",
-      "isLive": true,
-      "sports_category": "LIVE_SPORT",
-      "provider": {
-        "id": "63ce216c483822001ca300a4",
-        "name": "FanCode",
-        "hashId": "c60fe425e3269"
-      },
-      "start_time": null,
-      "end_time": null
-    }
-  ]
+  "message": "No live matches at the moment",
+  "data": []
 }
