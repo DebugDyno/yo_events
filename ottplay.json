@@ -1,5 +1,35 @@
 {
   "status": "success",
-  "message": "No live matches at the moment",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 1,
+  "data": [
+    {
+      "id": 1,
+      "contentId": "137071",
+      "name": "CUT vs KNM",
+      "image": [
+        {
+          "order": 1,
+          "url": "https://images.ottplay.com/backdrops/082ae2ce5012c7c65b1621b8354b959d.jpg",
+          "caption": null,
+          "credit": null
+        }
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/be3091833c881bafb5a9803902398d97.jpg"
+      ],
+      "content_type": "sport",
+      "genre": "cricket",
+      "language": "english",
+      "isLive": true,
+      "sports_category": "LIVE_SPORT",
+      "provider": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      },
+      "start_time": null,
+      "end_time": null
+    }
+  ]
 }
