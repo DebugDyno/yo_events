@@ -1,5 +1,35 @@
 {
   "status": "success",
-  "message": "No live matches at the moment",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 1,
+  "data": [
+    {
+      "id": 1,
+      "contentId": "137131",
+      "name": "TR vs MIT",
+      "image": [
+        {
+          "order": 1,
+          "url": "https://images.ottplay.com/backdrops/8999a847dc8c8b7ef7dc639cda0ca165.jpg",
+          "caption": null,
+          "credit": null
+        }
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/6c83f4166205397ad526356ecaeecff6.jpg"
+      ],
+      "content_type": "sport",
+      "genre": "baseball",
+      "language": "english",
+      "isLive": true,
+      "sports_category": "LIVE_SPORT",
+      "provider": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      },
+      "start_time": null,
+      "end_time": null
+    }
+  ]
 }
