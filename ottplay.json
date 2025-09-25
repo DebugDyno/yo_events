@@ -1,7 +1,7 @@
 {
   "status": "success",
   "message": "Live matches fetched successfully",
-  "total": 7,
+  "total": 9,
   "data": [
     {
       "id": 1,
@@ -239,11 +239,73 @@
     },
     {
       "id": 5,
+      "contentId": "137023",
+      "name": "MT vs TEQ",
+      "image": [
+        {
+          "order": 1,
+          "url": "https://images.ottplay.com/backdrops/bda3909960dc37edce636389a277cba0.jpg",
+          "caption": null,
+          "credit": null
+        }
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/e05ff58dbe49c8e122032656b3a45bc1.jpg"
+      ],
+      "content_type": "sport",
+      "genre": "cricket",
+      "language": "english",
+      "isLive": true,
+      "sports_category": "LIVE_SPORT",
+      "provider": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      },
+      "start_time": null,
+      "end_time": null
+    },
+    {
+      "id": 6,
+      "contentId": "1540050495",
+      "name": "Bengaluru Bulls vs UP Yoddhas",
+      "image": [
+        {
+          "order": 1,
+          "url": "https://images.ottplay.com/images/e59fd8cbd4a6840968299de0f0e0b52d.jpg",
+          "caption": "",
+          "credit": null
+        }
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/8ef316f33803e50890f4be7693820777.jpg"
+      ],
+      "content_type": "sport",
+      "genre": "kabaddi",
+      "language": "english",
+      "isLive": true,
+      "sports_category": "LIVE_SPORT",
+      "provider": {
+        "id": "67977987ed126c0029b9f20c",
+        "name": "JioHotstar",
+        "hashId": "4025a7f67d456"
+      },
+      "start_time": null,
+      "end_time": null
+    },
+    {
+      "id": 7,
       "contentId": "137076",
       "name": "CUT vs PUT",
       "image": [
         {
           "order": 1,
+          "url": "https://images.ottplay.com/backdrops/a314525734a57b8a7859049ad4922d8c.jpg",
+          "caption": null,
+          "credit": null
+        },
+        {
+          "order": 2,
           "url": "https://images.ottplay.com/backdrops/31b983dae04fc69d7d376bb94f9d040d.jpg",
           "caption": null,
           "credit": null
@@ -267,7 +329,7 @@
       "end_time": null
     },
     {
-      "id": 6,
+      "id": 8,
       "contentId": "1090490633",
       "name": "Opening Ceremony - 25 Sep 2025",
       "image": [
@@ -319,7 +381,7 @@
       "end_time": null
     },
     {
-      "id": 7,
+      "id": 9,
       "contentId": "137075",
       "name": "SAW vs BBT",
       "image": [
