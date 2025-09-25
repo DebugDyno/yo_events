@@ -1,5 +1,35 @@
 {
   "status": "success",
-  "message": "No live matches at the moment",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 1,
+  "data": [
+    {
+      "id": 1,
+      "contentId": "133951",
+      "name": "VCTW vs NSWB",
+      "image": [
+        {
+          "order": 1,
+          "url": "https://images.ottplay.com/backdrops/8afa196eb61ef31b6936a2e31f1b13e8.jpg",
+          "caption": null,
+          "credit": null
+        }
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/e8156257ec156c7a2b88907c79d40e91.jpg"
+      ],
+      "content_type": "sport",
+      "genre": "cricket",
+      "language": "english",
+      "isLive": true,
+      "sports_category": "LIVE_SPORT",
+      "provider": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      },
+      "start_time": null,
+      "end_time": null
+    }
+  ]
 }
