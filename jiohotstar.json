@@ -1,6 +1,40 @@
 {
-  "code": 503,
-  "message": "Error fetching live events",
-  "updatedAt": "26/9/2025, 12:14:19 pm",
-  "error": "Cannot read properties of undefined (reading '0')"
+  "code": 200,
+  "message": "Data fetched successfully",
+  "total": 2,
+  "updatedAt": "26/9/2025, 12:25:27 pm",
+  "data": [
+    {
+      "content_id": "1540051803",
+      "title": "Australia U19 vs India U19: 3rd ODI",
+      "description": "Watch the live stream of the 3rd ODI between Australia U19 and India U19",
+      "image": "https://img.hotstar.com/image/upload/f_auto,q_90,w_720/sources/r1/cms/prod/2182/1758798902182-h",
+      "poster": "https://img.hotstar.com/image/upload/f_auto,q_90,w_720/sources/r1/cms/prod/3600/1758798953600-i",
+      "languages": {
+        "English": "eng"
+      },
+      "tags": [
+        "English",
+        "Cricket"
+      ],
+      "watch_url": "https://www.hotstar.com/in/sports/cricket/australia-u19-vs-india-u19-3rd-odi/1540051803/video/live/watch",
+      "status": "LIVE"
+    },
+    {
+      "content_id": "1540051735",
+      "title": "QFs: BWF Korea Open",
+      "description": "Watch the live stream of quarter-final matches from BWF Korea Open 2025",
+      "image": "https://img.hotstar.com/image/upload/f_auto,q_90,w_720/sources/r1/cms/prod/7489/1758824677489-h",
+      "poster": "https://img.hotstar.com/image/upload/f_auto,q_90,w_720/sources/r1/cms/prod/900/1758824730900-i",
+      "languages": {
+        "English": "eng"
+      },
+      "tags": [
+        "English",
+        "Badminton"
+      ],
+      "watch_url": "https://www.hotstar.com/in/sports/badminton/qfs-bwf-korea-open/1540051735/video/live/watch",
+      "status": "LIVE"
+    }
+  ]
 }
