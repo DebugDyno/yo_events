@@ -1,5 +1,34 @@
 {
   "status": "success",
-  "message": "No live matches at the moment",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 1,
+  "updatedAt": "26/09/2025, 11:41:43 pm",
+  "data": [
+    {
+      "id": 1,
+      "contentId": "119215",
+      "name": "MOTUL GRAND PRIX OF JAPAN",
+      "genre": "motogp",
+      "isLive": true,
+      "content_type": "sport",
+      "provider": "FanCode",
+      "language": "english",
+      "sports_category": "LIVE_SPORT",
+      "image": [
+        "https://images.ottplay.com/backdrops/61c12de8b7a515b5646ed304be20ed59.jpg",
+        "https://images.ottplay.com/images/media/gallery/d1-live1920x1080fccarousel-1758868676.jpg",
+        "https://images.ottplay.com/backdrops/47ee8e4f31e44ddecf52475540de4ced.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/16134f9cebb728d74b707928ccb9b002.jpg",
+        "https://images.ottplay.com/posters/3249a250ef6585c5653f58a6aa63f14c.jpg",
+        "https://images.ottplay.com/images/media/gallery/d1-live750x1125fcposter-1758868671.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    }
+  ]
 }
