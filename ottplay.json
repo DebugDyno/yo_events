@@ -1,9 +1,33 @@
 {
   "status": "success",
   "message": "Live matches fetched successfully",
-  "total": 8,
-  "updatedAt": "27/09/2025, 10:30:03 PM",
+  "total": 7,
+  "updatedAt": "27/09/2025, 10:50:18 PM",
   "data": [
+    {
+      "id": 1,
+      "contentId": "137139",
+      "name": "NEY vs BAO",
+      "genre": "baseball",
+      "isLive": true,
+      "content_type": "sport",
+      "provider": "FanCode",
+      "language": "english",
+      "sports_category": "LIVE_SPORT",
+      "image": [
+        "https://images.ottplay.com/backdrops/32d0822a1470787388495431b7d07cdf.jpg",
+        "https://images.ottplay.com/backdrops/c880d78bcb32f85f6aa5359c58b45bc5.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/315ab2ce1fcad5e36549ff179a097400.jpg",
+        "https://images.ottplay.com/posters/39a32319fbcda013905c5f3d03868b68.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
     {
       "id": 2,
       "contentId": "130896",
@@ -76,28 +100,6 @@
     },
     {
       "id": 5,
-      "contentId": "1540050498",
-      "name": "Jaipur Pink Panthers vs Tamil Thalaivas",
-      "genre": "kabaddi",
-      "isLive": true,
-      "content_type": "sport",
-      "provider": "JioHotstar",
-      "language": "english",
-      "sports_category": "LIVE_SPORT",
-      "image": [
-        "https://images.ottplay.com/images/f5595bed3315e3ea7dc0a0e71cea58c3.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/1937d805e714a1b730300599de82f09b.jpg"
-      ],
-      "providerInfo": {
-        "id": "67977987ed126c0029b9f20c",
-        "name": "JioHotstar",
-        "hashId": "4025a7f67d456"
-      }
-    },
-    {
-      "id": 6,
       "contentId": "137154",
       "name": "NEP vs WI",
       "genre": "cricket",
@@ -119,7 +121,7 @@
       }
     },
     {
-      "id": 7,
+      "id": 6,
       "contentId": "137080",
       "name": "HAH vs PIC",
       "genre": "cricket",
@@ -141,29 +143,7 @@
       }
     },
     {
-      "id": 8,
-      "contentId": "1540050498",
-      "name": "Patna Pirates vs Bengal Warriorz",
-      "genre": "kabaddi",
-      "isLive": true,
-      "content_type": "sport",
-      "provider": "JioHotstar",
-      "language": "english",
-      "sports_category": "LIVE_SPORT",
-      "image": [
-        "https://images.ottplay.com/images/391f9051fff8c4e8232efec0f6908882.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/503ca6ba86e8906620c669fbc1b29562.jpg"
-      ],
-      "providerInfo": {
-        "id": "67977987ed126c0029b9f20c",
-        "name": "JioHotstar",
-        "hashId": "4025a7f67d456"
-      }
-    },
-    {
-      "id": 9,
+      "id": 7,
       "contentId": "136873",
       "name": "TRC vs LOC",
       "genre": "golf",
