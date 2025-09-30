@@ -1,8 +1,8 @@
 {
   "status": "success",
   "message": "Live matches fetched successfully",
-  "total": 9,
-  "updatedAt": "30/09/2025, 10:23:07 PM",
+  "total": 8,
+  "updatedAt": "30/09/2025, 10:40:33 PM",
   "data": [
     {
       "id": 1,
@@ -84,6 +84,30 @@
     },
     {
       "id": 4,
+      "contentId": "137330",
+      "name": "DET vs CLE",
+      "genre": "baseball",
+      "isLive": true,
+      "content_type": "sport",
+      "provider": "FanCode",
+      "language": "english",
+      "sports_category": "LIVE_SPORT",
+      "image": [
+        "https://images.ottplay.com/backdrops/c25f465269e5ff62e768614cea8ba7bd.jpg",
+        "https://images.ottplay.com/backdrops/c32fc25e6c8754c8a42c2e6a5b414fa3.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/bb66a0299ed6a9e6c151b6c543dfb4ae.jpg",
+        "https://images.ottplay.com/posters/3fd83528fa39b73a5db8aaa8d96552de.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 5,
       "contentId": "1090491166",
       "name": "Atalanta vs Club Brugge  - MD 2 - 30 Sep 2025",
       "genre": "football",
@@ -109,7 +133,7 @@
       }
     },
     {
-      "id": 5,
+      "id": 6,
       "contentId": "136053",
       "name": "SDD vs SHJ",
       "genre": "football",
@@ -128,28 +152,6 @@
         "id": "63ce216c483822001ca300a4",
         "name": "FanCode",
         "hashId": "c60fe425e3269"
-      }
-    },
-    {
-      "id": 6,
-      "contentId": "1540050504",
-      "name": "Bengal Warriorz vs Puneri Paltan",
-      "genre": "kabaddi",
-      "isLive": true,
-      "content_type": "sport",
-      "provider": "JioHotstar",
-      "language": "english",
-      "sports_category": "LIVE_SPORT",
-      "image": [
-        "https://images.ottplay.com/images/ca3043cbcbf8137ba1b5626111afeb86.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/b67b5d765301c27c4ff001110f279faf.jpg"
-      ],
-      "providerInfo": {
-        "id": "67977987ed126c0029b9f20c",
-        "name": "JioHotstar",
-        "hashId": "4025a7f67d456"
       }
     },
     {
@@ -198,28 +200,6 @@
         "id": "63ce216c483822001ca300a4",
         "name": "FanCode",
         "hashId": "c60fe425e3269"
-      }
-    },
-    {
-      "id": 9,
-      "contentId": "1540050504",
-      "name": "Telugu Titans vs Patna Pirates",
-      "genre": "kabaddi",
-      "isLive": true,
-      "content_type": "sport",
-      "provider": "JioHotstar",
-      "language": "english",
-      "sports_category": "LIVE_SPORT",
-      "image": [
-        "https://images.ottplay.com/images/fa67b8f457a24dea37a403572ceb636f.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/2880236331c2c33a5f9851803da6fa11.jpg"
-      ],
-      "providerInfo": {
-        "id": "67977987ed126c0029b9f20c",
-        "name": "JioHotstar",
-        "hashId": "4025a7f67d456"
       }
     }
   ]
