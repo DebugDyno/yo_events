@@ -1,11 +1,37 @@
 {
   "status": "success",
   "message": "Live matches fetched successfully",
-  "total": 7,
-  "updatedAt": "01/10/2025, 10:22:13 PM",
+  "total": 6,
+  "updatedAt": "01/10/2025, 10:39:10 PM",
   "data": [
     {
       "id": 1,
+      "contentId": "137335",
+      "name": "DET vs CLE",
+      "genre": "baseball",
+      "isLive": true,
+      "content_type": "sport",
+      "provider": "FanCode",
+      "language": "english",
+      "sports_category": "LIVE_SPORT",
+      "image": [
+        "https://images.ottplay.com/backdrops/f061ae78070fb0e4d20a6953415ad632.jpg",
+        "https://images.ottplay.com/backdrops/c25f465269e5ff62e768614cea8ba7bd.jpg",
+        "https://images.ottplay.com/backdrops/c32fc25e6c8754c8a42c2e6a5b414fa3.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/a653aae5cf9c744833726c1db21f4adb.jpg",
+        "https://images.ottplay.com/posters/bb66a0299ed6a9e6c151b6c543dfb4ae.jpg",
+        "https://images.ottplay.com/posters/3fd83528fa39b73a5db8aaa8d96552de.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 2,
       "contentId": "1090491228",
       "name": "Qarabag vs Copenhagen - MD 2 - 1 Oct 2025",
       "genre": "football",
@@ -31,7 +57,7 @@
       }
     },
     {
-      "id": 2,
+      "id": 3,
       "contentId": "1090491227",
       "name": "Union SG vs Newcastle - MD 2 - 1 Oct 2025",
       "genre": "football",
@@ -59,7 +85,7 @@
       }
     },
     {
-      "id": 3,
+      "id": 4,
       "contentId": "136093",
       "name": "ESG vs ALM",
       "genre": "football",
@@ -81,7 +107,7 @@
       }
     },
     {
-      "id": 4,
+      "id": 5,
       "contentId": "136094",
       "name": "ALW vs AWL",
       "genre": "football",
@@ -100,28 +126,6 @@
         "id": "63ce216c483822001ca300a4",
         "name": "FanCode",
         "hashId": "c60fe425e3269"
-      }
-    },
-    {
-      "id": 5,
-      "contentId": "1540050507",
-      "name": "U Mumba vs Tamil Thalaivas",
-      "genre": "kabaddi",
-      "isLive": true,
-      "content_type": "sport",
-      "provider": "JioHotstar",
-      "language": "english",
-      "sports_category": "LIVE_SPORT",
-      "image": [
-        "https://images.ottplay.com/images/55563ca34eefeed20c211ffa9c15e7a1.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/d9892824661f25eff75754cda178b50b.jpg"
-      ],
-      "providerInfo": {
-        "id": "67977987ed126c0029b9f20c",
-        "name": "JioHotstar",
-        "hashId": "4025a7f67d456"
       }
     },
     {
@@ -144,28 +148,6 @@
         "id": "63ce216c483822001ca300a4",
         "name": "FanCode",
         "hashId": "c60fe425e3269"
-      }
-    },
-    {
-      "id": 7,
-      "contentId": "1540050507",
-      "name": "Haryana Steelers vs Jaipur Pink Panthers",
-      "genre": "kabaddi",
-      "isLive": true,
-      "content_type": "sport",
-      "provider": "JioHotstar",
-      "language": "english",
-      "sports_category": "LIVE_SPORT",
-      "image": [
-        "https://images.ottplay.com/images/d1c29d8af64d7e8f1aff7047bca4bbbb.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/b3a3dc2d7f7f9f7ac10f6455c0bb411e.jpg"
-      ],
-      "providerInfo": {
-        "id": "67977987ed126c0029b9f20c",
-        "name": "JioHotstar",
-        "hashId": "4025a7f67d456"
       }
     }
   ]
