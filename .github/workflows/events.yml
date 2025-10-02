@@ -23,5 +23,10 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add .
-          git diff --staged --quiet || git commit -m "Update events data - $(date)"
-          git push
+           if ! git diff --staged --quiet; then
+            git commit -m "Update events data - $(date +"%d/%m/%Y, %I:%M:%S %p IST" --date="TZ=\"Asia/Kolkata\" now")"
+            git push
+          else
+            echo "No changes to commit"
+          fi
+       
