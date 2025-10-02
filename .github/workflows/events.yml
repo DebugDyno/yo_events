@@ -1,8 +1,9 @@
 name: Fetch Events
+
 on:
   schedule:
-     - cron: "*/5 * * * *" 
-  workflow_dispatch: # allow manual trigger
+    - cron: "*/5 * * * *"   # every 5 minutes
+  workflow_dispatch:        # allow manual trigger
 
 jobs:
   update-data:
@@ -10,18 +11,26 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-        
+        with:
+          persist-credentials: false   # avoid auth conflicts
+
       - name: Fetch API data
         run: |
           curl -s "${{ secrets.JIOHOTSTAR_API_URL }}" | jq '.' > jiohotstar.json
           curl -s "${{ secrets.WATCHO_API_URL }}" | jq '.' > watcho.json
           curl -s "${{ secrets.OTTPLAY_API_URL }}" | jq '.' > ottplay.json
           curl -s "${{ secrets.BINGE_API_URL }}" | jq '.' > tataplaybinge.json
-          
+
       - name: Commit and push changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add .
-          git diff --staged --quiet || git commit -m "Update events data - $(date)"
-          git push
+          if ! git diff --staged --quiet; then
+            git commit -m "Update events data - $(date -u '+%Y-%m-%d %H:%M:%S UTC')"
+            git push
+          else
+            echo "No changes to commit"
+          fi
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
