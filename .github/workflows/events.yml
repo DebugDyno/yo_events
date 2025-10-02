@@ -13,9 +13,10 @@ jobs:
         
       - name: Fetch API data
         run: |
-          curl -s "${{ secrets.API_URL }}" | jq '.' > jiohotstar.json
-          curl -s "${{ secrets.SPORTS_API_URL }}" | jq '.' > watcho.json
-          curl -s "${{ secrets.SPORTS_API_2_URL }}" | jq '.' > ottplay.json
+          curl -s "${{ secrets.JIOHOTSTAR_API_URL }}" | jq '.' > jiohotstar.json
+          curl -s "${{ secrets.WATCHO_API_URL }}" | jq '.' > watcho.json
+          curl -s "${{ secrets.OTTPLAY_API_URL }}" | jq '.' > ottplay.json
+          curl -s "${{ secrets.BINGE_API_URL }}" | jq '.' > tataplaybinge.json
           
       - name: Commit and push changes
         run: |
