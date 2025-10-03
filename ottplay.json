@@ -1,11 +1,37 @@
 {
   "status": "success",
   "message": "Live matches fetched successfully",
-  "total": 8,
-  "updatedAt": "03/10/2025, 06:19:55 PM",
+  "total": 7,
+  "updatedAt": "03/10/2025, 06:46:08 PM",
   "data": [
     {
       "id": 1,
+      "contentId": "1090491572",
+      "name": "Day 3 - 3 Oct 2025",
+      "genre": "tennis",
+      "isLive": true,
+      "content_type": "sport",
+      "provider": "SonyLIV",
+      "language": "english",
+      "sports_category": "LIVE_SPORT",
+      "image": [
+        "https://images.ottplay.com/images/f8588ce8eb2607aa3ff4f81a835993ef.jpg",
+        "https://images.ottplay.com/images/6f9b6b48d6040ae494061d9b6bb1f35c.jpg",
+        "https://images.ottplay.com/images/a4a34ef321caea0c3937b40462d3ca5c.jpg",
+        "https://images.ottplay.com/images/955ab8c045f70b7c585d9074fc9ec122.jpg",
+        "https://images.ottplay.com/images/065182fd756fec5cf4aa8036c1904ebe.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/e45f094e5d4e7497c9b84989ff88b123.jpg"
+      ],
+      "providerInfo": {
+        "id": "5f456c2aff9ccd034434e6fd",
+        "name": "SonyLIV",
+        "hashId": "100dc02b90dfc"
+      }
+    },
+    {
+      "id": 2,
       "contentId": "1540052065",
       "name": "Qatar Classic 2025: SFs",
       "genre": "squash",
@@ -27,7 +53,7 @@
       }
     },
     {
-      "id": 2,
+      "id": 3,
       "contentId": "118467",
       "name": "F1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2025",
       "genre": "formula1",
@@ -51,7 +77,7 @@
       }
     },
     {
-      "id": 3,
+      "id": 4,
       "contentId": "1540053613",
       "name": "ONE Friday Fights 127",
       "genre": "mixed martial arts",
@@ -73,7 +99,7 @@
       }
     },
     {
-      "id": 4,
+      "id": 5,
       "contentId": "137260",
       "name": "SFC vs LOC",
       "genre": "golf",
@@ -99,7 +125,7 @@
       }
     },
     {
-      "id": 5,
+      "id": 6,
       "contentId": "1090491570",
       "name": "Day 7 - 3 Oct 2025",
       "genre": "sports",
@@ -125,32 +151,6 @@
       }
     },
     {
-      "id": 6,
-      "contentId": "1090491572",
-      "name": "Marin Cilic vs Novak Djokovic - Round of 64 - 3 Oct 2025",
-      "genre": "tennis",
-      "isLive": true,
-      "content_type": "sport",
-      "provider": "SonyLIV",
-      "language": "english",
-      "sports_category": "LIVE_SPORT",
-      "image": [
-        "https://images.ottplay.com/images/dc437e07dbab3d27850c70dc6f993e8e.jpg",
-        "https://images.ottplay.com/images/221a93c7be3468d147f6fe6f4a4f5a77.jpg",
-        "https://images.ottplay.com/images/c19ccfd1ecb7875670da23f7254a95df.jpg",
-        "https://images.ottplay.com/images/33d799db627afba65661b5df4c60a0b9.jpg",
-        "https://images.ottplay.com/images/75cd3943a57fdba291d72b9c39a3b09b.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/62cc33f9ab1362c9002c898fff472ac2.jpg"
-      ],
-      "providerInfo": {
-        "id": "5f456c2aff9ccd034434e6fd",
-        "name": "SonyLIV",
-        "hashId": "100dc02b90dfc"
-      }
-    },
-    {
       "id": 7,
       "contentId": "136856",
       "name": "AD vs LOC",
@@ -167,28 +167,6 @@
       "posters": [
         "https://images.ottplay.com/posters/cea1fe89e1d1dc130eb1e7e3aa56a606.jpg",
         "https://images.ottplay.com/posters/90e15396a5fa266cb8f43041a0f39f66.jpg"
-      ],
-      "providerInfo": {
-        "id": "63ce216c483822001ca300a4",
-        "name": "FanCode",
-        "hashId": "c60fe425e3269"
-      }
-    },
-    {
-      "id": 8,
-      "contentId": "137096",
-      "name": "DHD vs RIF",
-      "genre": "cricket",
-      "isLive": true,
-      "content_type": "sport",
-      "provider": "FanCode",
-      "language": "english",
-      "sports_category": "LIVE_SPORT",
-      "image": [
-        "https://images.ottplay.com/backdrops/20c57a33582254d80b0660d6a1a83068.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/a1daf6a82a62999f92e0c23eccfbbb22.jpg"
       ],
       "providerInfo": {
         "id": "63ce216c483822001ca300a4",
