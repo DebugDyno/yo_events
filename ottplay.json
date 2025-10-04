@@ -1,8 +1,8 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 5,
-  "updatedAt": "04/10/2025, 11:27:53 PM",
+  "total": 4,
+  "updatedAt": "04/10/2025, 11:58:29 PM",
   "data": [
     {
       "id": 1,
@@ -30,6 +30,27 @@
     {
       "id": 2,
       "isLive": true,
+      "contentId": "137475",
+      "name": "MB vs CHC",
+      "genre": "baseball",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/b9bb2e223a862d416e1849bf424cecd5.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/18fd8b82b494804de8ee367355bef167.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 3,
+      "isLive": true,
       "contentId": "130901",
       "name": "ATH vs MRC",
       "genre": "football",
@@ -49,7 +70,7 @@
       }
     },
     {
-      "id": 3,
+      "id": 4,
       "isLive": true,
       "contentId": "1090491616",
       "name": "Eintracht Frankfurt vs Bayern Munich - 4 Oct 2025",
@@ -71,48 +92,6 @@
         "id": "5f456c2aff9ccd034434e6fd",
         "name": "SonyLIV",
         "hashId": "100dc02b90dfc"
-      }
-    },
-    {
-      "id": 4,
-      "isLive": true,
-      "contentId": "1540052068",
-      "name": "Qatar Classic 2025 : Final",
-      "genre": "squash",
-      "language": "english",
-      "provider": "JioHotstar",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/images/6c0ec7f88e60bc78accb4753117f7158.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/aaae31682fc9b086c713711ac2f0d6e5.jpg"
-      ],
-      "providerInfo": {
-        "id": "67977987ed126c0029b9f20c",
-        "name": "JioHotstar",
-        "hashId": "4025a7f67d456"
-      }
-    },
-    {
-      "id": 5,
-      "isLive": true,
-      "contentId": "137099",
-      "name": "NLT vs DHD",
-      "genre": "cricket",
-      "language": "english",
-      "provider": "FanCode",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/backdrops/10a95794fea4cb2f646f6177c7d3fab5.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/88049799fa0427e6da16d466c04287bf.jpg"
-      ],
-      "providerInfo": {
-        "id": "63ce216c483822001ca300a4",
-        "name": "FanCode",
-        "hashId": "c60fe425e3269"
       }
     }
   ]
