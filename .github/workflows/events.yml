@@ -24,7 +24,7 @@ jobs:
           git config --local user.name "GitHub Action"
           git add .
            if ! git diff --staged --quiet; then
-            TZ=Asia/Kolkat
+            TZ=Asia/Kolkata
             export TZ
             git commit -m "Update events data - $(date +"%d/%m/%Y, %I:%M %p IST")"
             git push
