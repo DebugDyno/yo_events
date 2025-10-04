@@ -1,33 +1,6 @@
 {
-  "success": true,
-  "message": "Live matches fetched successfully",
-  "total": 1,
-  "updatedAt": "5/10/2025, 12:38:41 am",
-  "data": [
-    {
-      "content_id": "1540053530",
-      "title": "Chelsea vs Liverpool",
-      "description": "Watch the live stream of the Premier League 2025/26 match between Chelsea and Liverpool",
-      "image": "https://img.hotstar.com/image/upload/f_auto,q_90,w_720/sources/r1/cms/prod/7808/1759581337808-h",
-      "poster": "https://img.hotstar.com/image/upload/f_auto,q_90,w_720/sources/r1/cms/prod/5596/1759581355596-i",
-      "languages": {
-        "English": "eng",
-        "Hindi": "hin",
-        "Bengali": "ben",
-        "Data Zone": "dpl",
-        "Malayalam": "mal",
-        "Cable Cam": "mc_cable",
-        "Hero Cam": "mc_hero",
-        "Tactical High Cam": "mc_tacthigh",
-        "Tactical Side Cam": "mc_tactside"
-      },
-      "tags": [
-        "9 Languages",
-        "Football"
-      ],
-      "watch_url": "https://www.hotstar.com/in/sports/football/chelsea-vs-liverpool/1540053530/video/live/watch",
-      "status": "LIVE",
-      "isLive": true
-    }
-  ]
+  "success": "error",
+  "message": "Error fetching live events",
+  "updatedAt": "5/10/2025, 12:51:32 am",
+  "error": "Cannot read properties of undefined (reading '0')"
 }
