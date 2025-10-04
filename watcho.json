@@ -1,6 +1,71 @@
 {
-  "success": false,
-  "message": "Failed to fetch data",
-  "updatedAt": "04/10/2025, 10:29:18 PM",
-  "error": "Cannot read properties of undefined (reading 'data')"
+  "success": true,
+  "message": "Live matches fetched successfully",
+  "total": 7,
+  "updatedAt": "04/10/2025, 10:37:49 PM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": "true",
+      "contentId": "1090491616",
+      "name": "Sony Sports Ten 2",
+      "genre": "Football",
+      "provider": "Sony Liv",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/sony4/videoasset_images/manage_file/1000009802/175945492122489_bliga2526_MD6_Frankfurt_vs_Bayern_2oct_landscape_thumb.jpg"
+    },
+    {
+      "id": 2,
+      "isLive": "true",
+      "contentId": "1540053530",
+      "name": "Chelsea vs Liverpool",
+      "genre": "Football",
+      "provider": "JioHotstar",
+      "image": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7808/1759581337808-h"
+    },
+    {
+      "id": 3,
+      "isLive": "true",
+      "contentId": "1540052068",
+      "name": "Qatar Classic 2025 : Final",
+      "genre": "Squash",
+      "provider": "JioHotstar",
+      "image": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7602/1759504107602-h"
+    },
+    {
+      "id": 4,
+      "isLive": "true",
+      "contentId": "1540050516",
+      "name": "Gujarat Giants vs Bengal Warriorz",
+      "genre": "KABADDI",
+      "provider": "JioHotstar",
+      "image": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/8271/1759503308271-h"
+    },
+    {
+      "id": 5,
+      "isLive": "true",
+      "contentId": "137200",
+      "name": "E1 Lagos GP",
+      "genre": "Sports",
+      "provider": "FanCode",
+      "image": "https://images.fancode.com/aig/match/v1/137200_CASACARDS_PARTNER_16_9_1920_1080.png"
+    },
+    {
+      "id": 6,
+      "isLive": "true",
+      "contentId": "137099",
+      "name": "Nainital Tigers VS Dehradun Warriors",
+      "genre": "Sports",
+      "provider": "FanCode",
+      "image": "https://images.fancode.com/aig/match/v1/137099_CASACARDS_PARTNER_16_9_1920_1080.png"
+    },
+    {
+      "id": 7,
+      "isLive": "true",
+      "contentId": "130901",
+      "name": "Athletic Club VS RCD Mallorca",
+      "genre": "Sports",
+      "provider": "FanCode",
+      "image": "https://images.fancode.com/aig/match/v1/130901_CASACARDS_PARTNER_16_9_1920_1080.png"
+    }
+  ]
 }
