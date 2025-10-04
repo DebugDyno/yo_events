@@ -1,8 +1,8 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 12,
-  "updatedAt": "04/10/2025, 05:01:16 PM",
+  "total": 9,
+  "updatedAt": "04/10/2025, 05:10:42 PM",
   "data": [
     {
       "id": 1,
@@ -30,6 +30,28 @@
     },
     {
       "id": 2,
+      "contentId": "130908",
+      "name": "RO vs LE",
+      "genre": "football",
+      "isLive": true,
+      "content_type": "sport",
+      "provider": "FanCode",
+      "language": "english",
+      "sports_category": "LIVE_SPORT",
+      "image": [
+        "https://images.ottplay.com/backdrops/0a4989432d125a74f4fe8fc80cea6e14.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/acbf84ec906bad880a55cbe4c022d447.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 3,
       "contentId": "136636",
       "name": "DTM vs LOC",
       "genre": "racing",
@@ -139,7 +161,7 @@
       }
     },
     {
-      "id": 3,
+      "id": 4,
       "contentId": "136945",
       "name": "HUL vs SHF",
       "genre": "football",
@@ -161,7 +183,7 @@
       }
     },
     {
-      "id": 4,
+      "id": 5,
       "contentId": "1090491606",
       "name": "Day 8 - 4 Oct 2025",
       "genre": "sports",
@@ -187,7 +209,7 @@
       }
     },
     {
-      "id": 5,
+      "id": 6,
       "contentId": "136857",
       "name": "AD vs LOC",
       "genre": "golf",
@@ -213,7 +235,7 @@
       }
     },
     {
-      "id": 6,
+      "id": 7,
       "contentId": "137006",
       "name": "KYS vs KAW",
       "genre": "football",
@@ -232,28 +254,6 @@
         "id": "63ce216c483822001ca300a4",
         "name": "FanCode",
         "hashId": "c60fe425e3269"
-      }
-    },
-    {
-      "id": 7,
-      "contentId": "1540047582",
-      "name": "Indian Racing Festival: Coimbatore - Day 1, Rd 3",
-      "genre": "motorsports",
-      "isLive": true,
-      "content_type": "sport",
-      "provider": "JioHotstar",
-      "language": "english",
-      "sports_category": "LIVE_SPORT",
-      "image": [
-        "https://images.ottplay.com/images/209cefdea849855bfc8e30a8f6af5468.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/f8c06f31f8a9c4df572a3f089b8174be.jpg"
-      ],
-      "providerInfo": {
-        "id": "67977987ed126c0029b9f20c",
-        "name": "JioHotstar",
-        "hashId": "4025a7f67d456"
       }
     },
     {
@@ -280,50 +280,6 @@
     },
     {
       "id": 9,
-      "contentId": "1540047582",
-      "name": "Indian Racing Festival: Day 1",
-      "genre": "motorsports",
-      "isLive": true,
-      "content_type": "sport",
-      "provider": "JioHotstar",
-      "language": "english",
-      "sports_category": "LIVE_SPORT",
-      "image": [
-        "https://images.ottplay.com/images/b315fc1bfa6a7d571fdc73b11be8dd0f.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/f8c06f31f8a9c4df572a3f089b8174be.jpg"
-      ],
-      "providerInfo": {
-        "id": "67977987ed126c0029b9f20c",
-        "name": "JioHotstar",
-        "hashId": "4025a7f67d456"
-      }
-    },
-    {
-      "id": 10,
-      "contentId": "1540047582",
-      "name": "Indian Racing Festival: Day 2",
-      "genre": "motorsports",
-      "isLive": true,
-      "content_type": "sport",
-      "provider": "JioHotstar",
-      "language": "english",
-      "sports_category": "LIVE_SPORT",
-      "image": [
-        "https://images.ottplay.com/images/58009c89a879e40f8c5f764e221e6759.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/f8c06f31f8a9c4df572a3f089b8174be.jpg"
-      ],
-      "providerInfo": {
-        "id": "67977987ed126c0029b9f20c",
-        "name": "JioHotstar",
-        "hashId": "4025a7f67d456"
-      }
-    },
-    {
-      "id": 11,
       "contentId": "1090491610",
       "name": "Day 4 - 4 Oct 2025",
       "genre": "tennis",
@@ -346,28 +302,6 @@
         "id": "5f456c2aff9ccd034434e6fd",
         "name": "SonyLIV",
         "hashId": "100dc02b90dfc"
-      }
-    },
-    {
-      "id": 12,
-      "contentId": "1540051994",
-      "name": "Vidarbha vs Rest of India: Day 4",
-      "genre": "cricket",
-      "isLive": true,
-      "content_type": "sport",
-      "provider": "JioHotstar",
-      "language": "english",
-      "sports_category": "LIVE_SPORT",
-      "image": [
-        "https://images.ottplay.com/images/d7ff44e78b1d5d5154d769e0b6be2bae.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/f916d4c3f960ead47885824b192edfab.jpg"
-      ],
-      "providerInfo": {
-        "id": "67977987ed126c0029b9f20c",
-        "name": "JioHotstar",
-        "hashId": "4025a7f67d456"
       }
     }
   ]
