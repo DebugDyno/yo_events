@@ -1,11 +1,32 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 7,
-  "updatedAt": "05/10/2025, 11:57:38 PM",
+  "total": 6,
+  "updatedAt": "06/10/2025, 12:14:04 AM",
   "data": [
     {
       "id": 1,
+      "isLive": true,
+      "contentId": "130904",
+      "name": "CEV vs ATL",
+      "genre": "football",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/fd1e887272d87e6845a600e537361727.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/9507b51ff5a70b75d2a5df8635f9143b.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 2,
       "isLive": true,
       "contentId": "1090491787",
       "name": "Borussia M'gladbach vs SC Freiburg - 5 Oct 2025",
@@ -30,7 +51,7 @@
       }
     },
     {
-      "id": 2,
+      "id": 3,
       "isLive": true,
       "contentId": "1540050381",
       "name": "MXGP of USA",
@@ -51,7 +72,7 @@
       }
     },
     {
-      "id": 3,
+      "id": 4,
       "isLive": true,
       "contentId": "1540053679",
       "name": "Philadelphia Eagles vs Denver Broncos",
@@ -69,27 +90,6 @@
         "id": "67977987ed126c0029b9f20c",
         "name": "JioHotstar",
         "hashId": "4025a7f67d456"
-      }
-    },
-    {
-      "id": 4,
-      "isLive": true,
-      "contentId": "137110",
-      "name": "RAC vs MAG",
-      "genre": "football",
-      "language": "english",
-      "provider": "FanCode",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/backdrops/9cde42807ad1871f76982740cf270648.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/cdabd4dba102e943c37f7a2baf53ae8e.jpg"
-      ],
-      "providerInfo": {
-        "id": "63ce216c483822001ca300a4",
-        "name": "FanCode",
-        "hashId": "c60fe425e3269"
       }
     },
     {
@@ -129,36 +129,6 @@
       "posters": [
         "https://images.ottplay.com/posters/4f9dbf9ea297d5606aaa7f007b29eb07.jpg",
         "https://images.ottplay.com/posters/093028d82223d00eb2ac96d13244d4d7.jpg"
-      ],
-      "providerInfo": {
-        "id": "63ce216c483822001ca300a4",
-        "name": "FanCode",
-        "hashId": "c60fe425e3269"
-      }
-    },
-    {
-      "id": 7,
-      "isLive": true,
-      "contentId": "136880",
-      "name": "AFG vs BAN",
-      "genre": "cricket",
-      "language": "english",
-      "provider": "FanCode",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/images/media/gallery/3live1920x1080fccarousel-1759674742.jpg",
-        "https://images.ottplay.com/backdrops/b928866659e14e16d71bf06fbba62241.jpg",
-        "https://images.ottplay.com/images/carousel-1759502924.jpg",
-        "https://images.ottplay.com/backdrops/be74b7c62419bf0ba5a2b4060c270b06.jpg",
-        "https://images.ottplay.com/images/media/gallery/1live1920x1080fccarousel-1759415017.jpg",
-        "https://images.ottplay.com/backdrops/9027730af5d096462c55866b6b89a5e3.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/0fd64ce9310ee223caa859ccd2e50241.jpg",
-        "https://images.ottplay.com/images/media/gallery/3live750x1125fcposter-1759674729.jpg",
-        "https://images.ottplay.com/posters/9c374ab87359af3b51aefcfb489c66ac.jpg",
-        "https://images.ottplay.com/images/big/poster-1759502880.jpeg",
-        "https://images.ottplay.com/posters/d81d9b967f898588e11e1efa0ae021ff.jpg"
       ],
       "providerInfo": {
         "id": "63ce216c483822001ca300a4",
