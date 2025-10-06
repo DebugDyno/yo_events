@@ -1,5 +1,31 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 1,
+  "updatedAt": "07/10/2025, 03:46:19 AM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "137473",
+      "name": "PHP vs LAD",
+      "genre": "baseball",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/03d4fa8a284d2d9b719002b05c89c850.jpg",
+        "https://images.ottplay.com/backdrops/91db04400a374bc42e9bdd77cad7e536.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/4e2b95c02d2cfec39f5ebee640765579.jpg",
+        "https://images.ottplay.com/posters/15c3a49fd2bd7a1d9f9b529384591ea8.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    }
+  ]
 }
