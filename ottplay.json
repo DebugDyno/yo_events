@@ -1,11 +1,34 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 1,
-  "updatedAt": "07/10/2025, 04:21:32 AM",
+  "total": 2,
+  "updatedAt": "07/10/2025, 04:31:20 AM",
   "data": [
     {
       "id": 1,
+      "isLive": true,
+      "contentId": "137297",
+      "name": "CHI vs HGC",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/53da2f36e6fd47cbc9ebad4f23241c0d.jpg",
+        "https://images.ottplay.com/backdrops/fc2329941805961223a37b06748254d6.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/a6bc34edf3fa98cb07d0c6052e83d76b.jpg",
+        "https://images.ottplay.com/posters/215e8a8ed016e6c2ed720993bd1e8e8f.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 2,
       "isLive": true,
       "contentId": "137473",
       "name": "PHP vs LAD",
