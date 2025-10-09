@@ -1,5 +1,56 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 2,
+  "updatedAt": "10/10/2025, 03:29:15 AM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "137576",
+      "name": "PHP vs LAD",
+      "genre": "baseball",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/516fae20ea26c7c32d9e8e12b3c0e178.jpg",
+        "https://images.ottplay.com/backdrops/7b23156ca80ae4254151f83218b52165.jpg",
+        "https://images.ottplay.com/backdrops/03d4fa8a284d2d9b719002b05c89c850.jpg",
+        "https://images.ottplay.com/backdrops/91db04400a374bc42e9bdd77cad7e536.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/db716f1639e3e055c93ab8f6da9abc21.jpg",
+        "https://images.ottplay.com/posters/674d8316ecf02551258e4e47ecd8f6e4.jpg",
+        "https://images.ottplay.com/posters/4e2b95c02d2cfec39f5ebee640765579.jpg",
+        "https://images.ottplay.com/posters/15c3a49fd2bd7a1d9f9b529384591ea8.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "contentId": "137425",
+      "name": "MGM vs BBZ",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/a532f7a2b1c385da9c1d53d2d9b3976f.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/f5488c3b8077435f6535ac821e3d8189.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    }
+  ]
 }
