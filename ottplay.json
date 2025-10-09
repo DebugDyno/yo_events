@@ -1,11 +1,32 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 8,
-  "updatedAt": "09/10/2025, 07:18:44 AM",
+  "total": 7,
+  "updatedAt": "09/10/2025, 08:23:20 AM",
   "data": [
     {
       "id": 1,
+      "isLive": true,
+      "contentId": "137423",
+      "name": "MRT vs MGM",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/941bb80fd09b98967cd888c11738daaf.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/700332ad2aa5ed499479f8a00d71b532.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 2,
       "isLive": true,
       "contentId": "137575",
       "name": "PHP vs LAD",
@@ -30,7 +51,7 @@
       }
     },
     {
-      "id": 2,
+      "id": 3,
       "isLive": true,
       "contentId": "137311",
       "name": "BCC vs LOC",
@@ -51,7 +72,7 @@
       }
     },
     {
-      "id": 3,
+      "id": 4,
       "isLive": true,
       "contentId": "137302",
       "name": "NYL vs LAW",
@@ -74,7 +95,7 @@
       }
     },
     {
-      "id": 4,
+      "id": 5,
       "isLive": true,
       "contentId": "133934",
       "name": "SAU vs VCT",
@@ -91,27 +112,6 @@
         "https://images.ottplay.com/posters/d99914a7f79c75403f715e02f89c8f17.jpg",
         "https://images.ottplay.com/posters/8c3600e577543cc077f5017ea51146c0.jpg",
         "https://images.ottplay.com/posters/06b0db6108a1cd759acb7bbb211d6d3d.jpg"
-      ],
-      "providerInfo": {
-        "id": "63ce216c483822001ca300a4",
-        "name": "FanCode",
-        "hashId": "c60fe425e3269"
-      }
-    },
-    {
-      "id": 5,
-      "isLive": true,
-      "contentId": "137422",
-      "name": "BBZ vs TTS",
-      "genre": "cricket",
-      "language": "english",
-      "provider": "FanCode",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/backdrops/fd49d67889f72ca1be13d6df97ad5abc.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/a8ce40511ba1203e91acce3bd47dcce1.jpg"
       ],
       "providerInfo": {
         "id": "63ce216c483822001ca300a4",
@@ -156,35 +156,6 @@
       ],
       "posters": [
         "https://images.ottplay.com/posters/473a05c2e0f911ca4c71e5ec62087abd.jpg"
-      ],
-      "providerInfo": {
-        "id": "63ce216c483822001ca300a4",
-        "name": "FanCode",
-        "hashId": "c60fe425e3269"
-      }
-    },
-    {
-      "id": 8,
-      "isLive": true,
-      "contentId": "137574",
-      "name": "TOJ vs NEY",
-      "genre": "baseball",
-      "language": "english",
-      "provider": "FanCode",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/backdrops/91a2b7f959cfd1f0c146552911068c70.jpg",
-        "https://images.ottplay.com/backdrops/a9a643641d1adbbaba51b4d61aedc6ef.jpg",
-        "https://images.ottplay.com/backdrops/ae0e38999b95800afd8705e2769d9f4c.jpg",
-        "https://images.ottplay.com/backdrops/3102555710516f13879331125f0ce0cd.jpg",
-        "https://images.ottplay.com/backdrops/956bdf569a6cb6a61f1b4e496b0810b4.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/e9e433af604312ec282e902458146096.jpg",
-        "https://images.ottplay.com/posters/dadd56cd2eca1c49bcadc468a6e7ee11.jpg",
-        "https://images.ottplay.com/posters/dd046f112b9e097baba9c6f85710e754.jpg",
-        "https://images.ottplay.com/posters/8d1032b5e092a430c207aca5585e9610.jpg",
-        "https://images.ottplay.com/posters/7c6c54185d6a759a80211b029b12de42.jpg"
       ],
       "providerInfo": {
         "id": "63ce216c483822001ca300a4",
