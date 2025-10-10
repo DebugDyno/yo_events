@@ -1,5 +1,29 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 1,
+  "updatedAt": "11/10/2025, 03:25:27 AM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "137460",
+      "name": "TSW vs VTW",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/01cd0d41296a51c41b42ed7d5d78c46f.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/205b0f906892fde87bc8cae784b2069b.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    }
+  ]
 }
