@@ -1,8 +1,8 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 10,
-  "updatedAt": "11/10/2025, 10:26:54 PM",
+  "total": 8,
+  "updatedAt": "11/10/2025, 10:45:05 PM",
   "data": [
     {
       "id": 1,
@@ -34,6 +34,27 @@
     {
       "id": 2,
       "isLive": true,
+      "contentId": "137265",
+      "name": "UAE vs OMN",
+      "genre": "football",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/fc5ed0ee362692e34ff696f8083a56b1.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/bb2abfb6f4dd12e34aae896127fd7985.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 3,
+      "isLive": true,
       "contentId": "137209",
       "name": "ALM vs RZ",
       "genre": "football",
@@ -53,7 +74,7 @@
       }
     },
     {
-      "id": 3,
+      "id": 4,
       "isLive": true,
       "contentId": "136999",
       "name": "OLA vs BAR",
@@ -71,27 +92,6 @@
         "id": "63ce216c483822001ca300a4",
         "name": "FanCode",
         "hashId": "c60fe425e3269"
-      }
-    },
-    {
-      "id": 4,
-      "isLive": true,
-      "contentId": "1540050537",
-      "name": "Tamil Thalaivas vs Puneri Paltan",
-      "genre": "kabaddi",
-      "language": "english",
-      "provider": "JioHotstar",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/images/020fb077ce49a2d00ac095255b526c3e.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/ef58768edfe73bb817b6e1f6d01df5b7.jpg"
-      ],
-      "providerInfo": {
-        "id": "67977987ed126c0029b9f20c",
-        "name": "JioHotstar",
-        "hashId": "4025a7f67d456"
       }
     },
     {
@@ -167,48 +167,6 @@
     },
     {
       "id": 8,
-      "isLive": true,
-      "contentId": "1540050537",
-      "name": "Bengaluru Bulls vs Jaipur Pink Panthers",
-      "genre": "kabaddi",
-      "language": "english",
-      "provider": "JioHotstar",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/images/3e01c806aaa48d87d4730233e7679caa.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/9a3f024b430956c1ab47ac966bfd801e.jpg"
-      ],
-      "providerInfo": {
-        "id": "67977987ed126c0029b9f20c",
-        "name": "JioHotstar",
-        "hashId": "4025a7f67d456"
-      }
-    },
-    {
-      "id": 9,
-      "isLive": true,
-      "contentId": "1540051857",
-      "name": "England W vs Sri Lanka W",
-      "genre": "cricket",
-      "language": "english",
-      "provider": "JioHotstar",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/images/bff7053381ff2efcde8fa0bf017b69ee.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/51349f8ff12caad650a382e8662673e4.jpg"
-      ],
-      "providerInfo": {
-        "id": "67977987ed126c0029b9f20c",
-        "name": "JioHotstar",
-        "hashId": "4025a7f67d456"
-      }
-    },
-    {
-      "id": 10,
       "isLive": true,
       "contentId": "1540055312",
       "name": "BWF Arctic Open: SF's",
