@@ -1,11 +1,32 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 10,
-  "updatedAt": "12/10/2025, 10:39:54 PM",
+  "total": 9,
+  "updatedAt": "12/10/2025, 10:56:01 PM",
   "data": [
     {
       "id": 1,
+      "isLive": true,
+      "contentId": "137490",
+      "name": "EMB vs AJM",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/c8a2651aec402083b73ae6f87a6308a5.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/04639d2ef0bd4cd2370f22450f7d61d7.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 2,
       "isLive": true,
       "contentId": "1540053685",
       "name": "Seattle Seahawks @ Jacksonville Jaguars",
@@ -26,7 +47,7 @@
       }
     },
     {
-      "id": 2,
+      "id": 3,
       "isLive": true,
       "contentId": "1090492174",
       "name": "Malta vs Bosnia and Herzegovia - 12 Oct 2025",
@@ -51,7 +72,7 @@
       }
     },
     {
-      "id": 3,
+      "id": 4,
       "isLive": true,
       "contentId": "137535",
       "name": "CHA vs CAF",
@@ -69,27 +90,6 @@
         "id": "63ce216c483822001ca300a4",
         "name": "FanCode",
         "hashId": "c60fe425e3269"
-      }
-    },
-    {
-      "id": 4,
-      "isLive": true,
-      "contentId": "1540050540",
-      "name": "Bengal Warriorz vs Bengaluru Bulls",
-      "genre": "kabaddi",
-      "language": "english",
-      "provider": "JioHotstar",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/images/f8edcccf4dd2cc30b088651896ab09a3.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/1c12571c178bff45aa7ffe0c8d92774f.jpg"
-      ],
-      "providerInfo": {
-        "id": "67977987ed126c0029b9f20c",
-        "name": "JioHotstar",
-        "hashId": "4025a7f67d456"
       }
     },
     {
@@ -190,27 +190,6 @@
     },
     {
       "id": 9,
-      "isLive": true,
-      "contentId": "1540050540",
-      "name": "Dabang Delhi K.C. vs Puneri Paltan",
-      "genre": "kabaddi",
-      "language": "english",
-      "provider": "JioHotstar",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/images/442effd1e20c0f7eaa3c761343c2aa47.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/fe56953f152aa6d5cbf48d7554fa2e00.jpg"
-      ],
-      "providerInfo": {
-        "id": "67977987ed126c0029b9f20c",
-        "name": "JioHotstar",
-        "hashId": "4025a7f67d456"
-      }
-    },
-    {
-      "id": 10,
       "isLive": true,
       "contentId": "1540051860",
       "name": "India W vs Australia W",
