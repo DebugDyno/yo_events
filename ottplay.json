@@ -2,10 +2,31 @@
   "success": true,
   "message": "Live matches fetched successfully",
   "total": 4,
-  "updatedAt": "12/10/2025, 01:17:39 PM",
+  "updatedAt": "12/10/2025, 01:26:58 PM",
   "data": [
     {
       "id": 1,
+      "isLive": true,
+      "contentId": "1540055315",
+      "name": "BWF Arctic Open: Finals",
+      "genre": "badminton",
+      "language": "english",
+      "provider": "JioHotstar",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/7ca96f8cbed9d45e27d3a003897dd84f.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/7fc3dff51336ce86970d2a040e8abca8.jpg"
+      ],
+      "providerInfo": {
+        "id": "67977987ed126c0029b9f20c",
+        "name": "JioHotstar",
+        "hashId": "4025a7f67d456"
+      }
+    },
+    {
+      "id": 2,
       "isLive": true,
       "contentId": "137183",
       "name": "OMN vs QAT",
@@ -28,7 +49,7 @@
       }
     },
     {
-      "id": 2,
+      "id": 3,
       "isLive": true,
       "contentId": "1090492134",
       "name": "Goransson/Michelsen vs Krawietz/Puetz - Final - 12 Oct 2025",
@@ -50,27 +71,6 @@
         "id": "5f456c2aff9ccd034434e6fd",
         "name": "SonyLIV",
         "hashId": "100dc02b90dfc"
-      }
-    },
-    {
-      "id": 3,
-      "isLive": true,
-      "contentId": "137433",
-      "name": "VCK vs BBZ",
-      "genre": "cricket",
-      "language": "english",
-      "provider": "FanCode",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/backdrops/79bbdacdf0b9ecc3eb29ac98ac0cb89d.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/86f80291767e6b0fed4eeed34cf04c77.jpg"
-      ],
-      "providerInfo": {
-        "id": "63ce216c483822001ca300a4",
-        "name": "FanCode",
-        "hashId": "c60fe425e3269"
       }
     },
     {
