@@ -1,5 +1,29 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 1,
+  "updatedAt": "13/10/2025, 08:38:20 AM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "137435",
+      "name": "TTS vs VCK",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/39a3a2d897b9acde5e867a0b3af6d771.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/48e819ebe189f0f454863f9bee6f644b.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    }
+  ]
 }
