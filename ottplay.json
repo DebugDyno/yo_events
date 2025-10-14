@@ -1,8 +1,8 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 11,
-  "updatedAt": "14/10/2025, 10:23:53 PM",
+  "total": 10,
+  "updatedAt": "14/10/2025, 10:42:32 PM",
   "data": [
     {
       "id": 1,
@@ -38,6 +38,27 @@
     {
       "id": 2,
       "isLive": true,
+      "contentId": "137267",
+      "name": "QAT vs UAE",
+      "genre": "football",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/b382108f0439d0299ba5c04d29856e2f.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/9470404df561fa2c8e241950cbe369d0.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 3,
+      "isLive": true,
       "contentId": "1090492274",
       "name": "Albania vs Jordan - 14 Oct 2025",
       "genre": "football",
@@ -61,7 +82,7 @@
       }
     },
     {
-      "id": 3,
+      "id": 4,
       "isLive": true,
       "contentId": "137550",
       "name": "SA vs RWN",
@@ -82,7 +103,7 @@
       }
     },
     {
-      "id": 4,
+      "id": 5,
       "isLive": true,
       "contentId": "137551",
       "name": "NGA vs BNI",
@@ -103,7 +124,7 @@
       }
     },
     {
-      "id": 5,
+      "id": 6,
       "isLive": true,
       "contentId": "137552",
       "name": "ALG vs UGN",
@@ -124,7 +145,7 @@
       }
     },
     {
-      "id": 6,
+      "id": 7,
       "isLive": true,
       "contentId": "137553",
       "name": "GNA vs BOT",
@@ -145,7 +166,7 @@
       }
     },
     {
-      "id": 7,
+      "id": 8,
       "isLive": true,
       "contentId": "137554",
       "name": "SOM vs MOZ",
@@ -163,27 +184,6 @@
         "id": "63ce216c483822001ca300a4",
         "name": "FanCode",
         "hashId": "c60fe425e3269"
-      }
-    },
-    {
-      "id": 8,
-      "isLive": true,
-      "contentId": "1540053756",
-      "name": "UP Yoddhas vs Tamil Thalaivas",
-      "genre": "kabaddi",
-      "language": "english",
-      "provider": "JioHotstar",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/images/31bac29e58e9cecf1d05799387fa653b.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/10ab9699572897dd777b9e93e6e5fc4e.jpg"
-      ],
-      "providerInfo": {
-        "id": "67977987ed126c0029b9f20c",
-        "name": "JioHotstar",
-        "hashId": "4025a7f67d456"
       }
     },
     {
@@ -234,27 +234,6 @@
         "id": "5f456c2aff9ccd034434e6fd",
         "name": "SonyLIV",
         "hashId": "100dc02b90dfc"
-      }
-    },
-    {
-      "id": 11,
-      "isLive": true,
-      "contentId": "1540053756",
-      "name": "Patna Pirates vs Gujarat Giants",
-      "genre": "kabaddi",
-      "language": "english",
-      "provider": "JioHotstar",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/images/94d096f69cd095f7ba046e16e98fade6.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/a297afb086b5357c3d4f052425d902b9.jpg"
-      ],
-      "providerInfo": {
-        "id": "67977987ed126c0029b9f20c",
-        "name": "JioHotstar",
-        "hashId": "4025a7f67d456"
       }
     }
   ]
