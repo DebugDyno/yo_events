@@ -1,5 +1,29 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 1,
+  "updatedAt": "14/10/2025, 02:46:19 PM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "1540051866",
+      "name": "New Zealand W vs Sri Lanka W",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "JioHotstar",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/32dd8f44b4736a7d7c5559f47f0301e1.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/0efa39dbe6e83e09a17a7c41dea4af45.jpg"
+      ],
+      "providerInfo": {
+        "id": "67977987ed126c0029b9f20c",
+        "name": "JioHotstar",
+        "hashId": "4025a7f67d456"
+      }
+    }
+  ]
 }
