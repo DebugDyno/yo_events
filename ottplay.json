@@ -1,11 +1,32 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 7,
-  "updatedAt": "15/10/2025, 12:21:47 PM",
+  "total": 6,
+  "updatedAt": "15/10/2025, 12:39:59 PM",
   "data": [
     {
       "id": 1,
+      "isLive": true,
+      "contentId": "1540055528",
+      "name": "BWF Denmark Open: R32",
+      "genre": "badminton",
+      "language": "english",
+      "provider": "JioHotstar",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/5fc513d1c7ac558bfdc0704c5ccc25aa.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/542635e5047471d18e86a77d10d02888.jpg"
+      ],
+      "providerInfo": {
+        "id": "67977987ed126c0029b9f20c",
+        "name": "JioHotstar",
+        "hashId": "4025a7f67d456"
+      }
+    },
+    {
+      "id": 2,
       "isLive": true,
       "contentId": "137188",
       "name": "JPN vs QAT",
@@ -26,7 +47,7 @@
       }
     },
     {
-      "id": 2,
+      "id": 3,
       "isLive": true,
       "contentId": "1540054985",
       "name": "Gujarat vs Assam: Day 1",
@@ -47,7 +68,7 @@
       }
     },
     {
-      "id": 3,
+      "id": 4,
       "isLive": true,
       "contentId": "1540054988",
       "name": "Saurashtra vs Karnataka: Day 1",
@@ -68,7 +89,7 @@
       }
     },
     {
-      "id": 4,
+      "id": 5,
       "isLive": true,
       "contentId": "1540054982",
       "name": "Kerala vs Maharashtra: Day 1",
@@ -89,7 +110,7 @@
       }
     },
     {
-      "id": 5,
+      "id": 6,
       "isLive": true,
       "contentId": "134019",
       "name": "SAU vs QUN",
@@ -108,48 +129,6 @@
         "https://images.ottplay.com/posters/e1e262089abb49dc54291dc44b5e99f5.jpg",
         "https://images.ottplay.com/posters/2f0cf4259bb4a407f984914148de9080.jpg",
         "https://images.ottplay.com/posters/4700ef2327badc8302b4e3bec19df604.jpg"
-      ],
-      "providerInfo": {
-        "id": "63ce216c483822001ca300a4",
-        "name": "FanCode",
-        "hashId": "c60fe425e3269"
-      }
-    },
-    {
-      "id": 6,
-      "isLive": true,
-      "contentId": "134017",
-      "name": "VCT vs NSW",
-      "genre": "cricket",
-      "language": "english",
-      "provider": "FanCode",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/backdrops/c4b081a374267a63e8380a688099f07a.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/b4fb2189eef52886ebe4b4931307d206.jpg"
-      ],
-      "providerInfo": {
-        "id": "63ce216c483822001ca300a4",
-        "name": "FanCode",
-        "hashId": "c60fe425e3269"
-      }
-    },
-    {
-      "id": 7,
-      "isLive": true,
-      "contentId": "134018",
-      "name": "TAS vs WAU",
-      "genre": "cricket",
-      "language": "english",
-      "provider": "FanCode",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/backdrops/8abcaf6895f41ba7d9f00fc1adeed019.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/b75430d9c003e9663dbe8ddb141083e2.jpg"
       ],
       "providerInfo": {
         "id": "63ce216c483822001ca300a4",
