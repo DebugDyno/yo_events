@@ -1,11 +1,34 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 7,
-  "updatedAt": "16/10/2025, 10:47:52 PM",
+  "total": 6,
+  "updatedAt": "16/10/2025, 11:04:17 PM",
   "data": [
     {
       "id": 1,
+      "isLive": true,
+      "contentId": "137496",
+      "name": "FUJ vs SHA",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/a00216d125ccbb74ba44c5b535a5563f.jpg",
+        "https://images.ottplay.com/backdrops/b797a8ce401db940eebe522bcc44db6d.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/54f3c6472e2ca692697e401eebda5077.jpg",
+        "https://images.ottplay.com/posters/cda7b72c41fe6cd04c11775a386c9272.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 2,
       "isLive": true,
       "contentId": "137467",
       "name": "ATL-W vs MUN-W",
@@ -26,7 +49,7 @@
       }
     },
     {
-      "id": 2,
+      "id": 3,
       "isLive": true,
       "contentId": "1540053762",
       "name": "UP Yoddhas vs Haryana Steelers",
@@ -47,7 +70,7 @@
       }
     },
     {
-      "id": 3,
+      "id": 4,
       "isLive": true,
       "contentId": "1540053762",
       "name": "Telugu Titans vs U Mumba",
@@ -62,27 +85,6 @@
       "posters": [
         "https://images.ottplay.com/posters/6304c3ee2f4987f9005b48c35892dd63.jpg",
         "https://images.ottplay.com/posters/52f74ad7d3eccea045eb157159a21042.jpg"
-      ],
-      "providerInfo": {
-        "id": "67977987ed126c0029b9f20c",
-        "name": "JioHotstar",
-        "hashId": "4025a7f67d456"
-      }
-    },
-    {
-      "id": 4,
-      "isLive": true,
-      "contentId": "1540055531",
-      "name": "Lakshya Sen vs Anders Antonsen: R16",
-      "genre": "badminton",
-      "language": "english",
-      "provider": "JioHotstar",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/images/efc132279b58bae2da18b22e13b33d4d.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/83448f37cb6a0c50699bd6146f564cba.jpg"
       ],
       "providerInfo": {
         "id": "67977987ed126c0029b9f20c",
@@ -125,27 +127,6 @@
       ],
       "posters": [
         "https://images.ottplay.com/posters/52f74ad7d3eccea045eb157159a21042.jpg"
-      ],
-      "providerInfo": {
-        "id": "67977987ed126c0029b9f20c",
-        "name": "JioHotstar",
-        "hashId": "4025a7f67d456"
-      }
-    },
-    {
-      "id": 7,
-      "isLive": true,
-      "contentId": "1540055531",
-      "name": "BWF Denmark Open: R16, Court 1",
-      "genre": "badminton",
-      "language": "english",
-      "provider": "JioHotstar",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/images/46d4087c423eba72c6cae77ea4a3ded2.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/dd62e90c3e82c6c6310ebb3a840ceaf2.jpg"
       ],
       "providerInfo": {
         "id": "67977987ed126c0029b9f20c",
