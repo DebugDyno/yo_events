@@ -1,11 +1,32 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 9,
-  "updatedAt": "16/10/2025, 09:54:54 PM",
+  "total": 7,
+  "updatedAt": "16/10/2025, 10:15:24 PM",
   "data": [
     {
       "id": 1,
+      "isLive": true,
+      "contentId": "137467",
+      "name": "ATL-W vs MUN-W",
+      "genre": "football",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/72d4813afc25156258648fad566e716e.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/2a833f4773d5cfbb88f75d29b426c337.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 2,
       "isLive": true,
       "contentId": "1540053762",
       "name": "UP Yoddhas vs Haryana Steelers",
@@ -26,7 +47,7 @@
       }
     },
     {
-      "id": 2,
+      "id": 3,
       "isLive": true,
       "contentId": "1540053762",
       "name": "Telugu Titans vs U Mumba",
@@ -41,27 +62,6 @@
       "posters": [
         "https://images.ottplay.com/posters/6304c3ee2f4987f9005b48c35892dd63.jpg",
         "https://images.ottplay.com/posters/52f74ad7d3eccea045eb157159a21042.jpg"
-      ],
-      "providerInfo": {
-        "id": "67977987ed126c0029b9f20c",
-        "name": "JioHotstar",
-        "hashId": "4025a7f67d456"
-      }
-    },
-    {
-      "id": 3,
-      "isLive": true,
-      "contentId": "1540055534",
-      "name": "Rankireddy/Shetty vs Lee/Yang:R16",
-      "genre": "badminton",
-      "language": "english",
-      "provider": "JioHotstar",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/images/14be8dac0927cb6f7682a1b948762978.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/6cfd77f7d47f3327242faeb30043e522.jpg"
       ],
       "providerInfo": {
         "id": "67977987ed126c0029b9f20c",
@@ -114,34 +114,6 @@
     {
       "id": 6,
       "isLive": true,
-      "contentId": "137495",
-      "name": "AJM vs EMB",
-      "genre": "cricket",
-      "language": "english",
-      "provider": "FanCode",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/backdrops/cricket.jpg",
-        "https://images.ottplay.com/backdrops/c7c98c697ac8cf4e273aad8c8332388a.jpg",
-        "https://images.ottplay.com/backdrops/949f25b423b7a64e3f5a2277fb6fcca5.jpg",
-        "https://images.ottplay.com/backdrops/394119a985acff6329e566b3bcd30462.jpg",
-        "https://images.ottplay.com/backdrops/e30cabfb9dad4bd305f68448adf2913f.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/194e2c86ace99485a91518fdd6a5f118.jpg",
-        "https://images.ottplay.com/posters/059b6564ad7c9392cd4bdcbc16614ec1.jpg",
-        "https://images.ottplay.com/posters/5bf816cd93d655dc352a400a67207345.jpg",
-        "https://images.ottplay.com/posters/36e9662e03dc9cb8730b1762a4008d0f.jpg"
-      ],
-      "providerInfo": {
-        "id": "63ce216c483822001ca300a4",
-        "name": "FanCode",
-        "hashId": "c60fe425e3269"
-      }
-    },
-    {
-      "id": 7,
-      "isLive": true,
       "contentId": "1540053762",
       "name": "Bengaluru Bulls vs Patna Pirates",
       "genre": "kabaddi",
@@ -161,7 +133,7 @@
       }
     },
     {
-      "id": 8,
+      "id": 7,
       "isLive": true,
       "contentId": "1540055531",
       "name": "BWF Denmark Open: R16, Court 1",
@@ -174,27 +146,6 @@
       ],
       "posters": [
         "https://images.ottplay.com/posters/dd62e90c3e82c6c6310ebb3a840ceaf2.jpg"
-      ],
-      "providerInfo": {
-        "id": "67977987ed126c0029b9f20c",
-        "name": "JioHotstar",
-        "hashId": "4025a7f67d456"
-      }
-    },
-    {
-      "id": 9,
-      "isLive": true,
-      "contentId": "1540055534",
-      "name": "BWF Denmark Open: R16, Court 2",
-      "genre": "badminton",
-      "language": "english",
-      "provider": "JioHotstar",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/images/0e994fc4e19b13a5157dd7dba4c8dd11.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/31e0ec18f2c0b1ad5d83381be8c9a516.jpg"
       ],
       "providerInfo": {
         "id": "67977987ed126c0029b9f20c",
