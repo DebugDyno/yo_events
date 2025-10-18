@@ -1,11 +1,32 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 11,
-  "updatedAt": "18/10/2025, 11:53:14 PM",
+  "total": 8,
+  "updatedAt": "19/10/2025, 12:11:42 AM",
   "data": [
     {
       "id": 2,
+      "isLive": true,
+      "contentId": "130911",
+      "name": "ATL vs OSN",
+      "genre": "football",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/198a4f41f857e897b902aa87b16c1ef1.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/1b4f7dff997f0288abe5bc4b5a10b5f8.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 3,
       "isLive": true,
       "contentId": "136606",
       "name": "ANF vs AFF",
@@ -26,28 +47,7 @@
       }
     },
     {
-      "id": 3,
-      "isLive": true,
-      "contentId": "137214",
-      "name": "RZ vs CL",
-      "genre": "football",
-      "language": "english",
-      "provider": "FanCode",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/backdrops/bd5733b92a8ecc561489c7c9cbc342d4.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/1a03b966b51d3715454a778505eff4e6.jpg"
-      ],
-      "providerInfo": {
-        "id": "63ce216c483822001ca300a4",
-        "name": "FanCode",
-        "hashId": "c60fe425e3269"
-      }
-    },
-    {
-      "id": 4,
+      "id": 5,
       "isLive": true,
       "contentId": "118473",
       "name": "F1 MSC CRUISES UNITED STATES GRAND PRIX 2025",
@@ -72,7 +72,7 @@
       }
     },
     {
-      "id": 5,
+      "id": 6,
       "isLive": true,
       "contentId": "137500",
       "name": "SHA vs ABD",
@@ -102,7 +102,7 @@
       }
     },
     {
-      "id": 6,
+      "id": 7,
       "isLive": true,
       "contentId": "130917",
       "name": "VIL vs RB",
@@ -123,7 +123,7 @@
       }
     },
     {
-      "id": 7,
+      "id": 8,
       "isLive": true,
       "contentId": "1090492552",
       "name": "Bayern Munich vs Borussia Dortmund - Tactical Feed - 18 Oct 2025",
@@ -148,32 +148,7 @@
       }
     },
     {
-      "id": 8,
-      "isLive": true,
-      "contentId": "1090492488",
-      "name": "Bayern Munich vs Borussia Dortmund - MD 7 - 18 Oct 2025",
-      "genre": "football",
-      "language": "english",
-      "provider": "SonyLIV",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/images/09c0bf4d9658a1f2b0dd2f2bf7ac82c7.jpg",
-        "https://images.ottplay.com/images/6b19cffca9aea55aa7ab52917126361d.jpg",
-        "https://images.ottplay.com/images/f2cdd28071d3338a1aaff9a346e670cb.jpg",
-        "https://images.ottplay.com/images/9915138257ce400282b2eda21c8f00a7.jpg",
-        "https://images.ottplay.com/images/be3b060c84282b9fa7039b1e7fc6c9ff.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/1f97e2436069a26c38286f4baf426b8c.jpg"
-      ],
-      "providerInfo": {
-        "id": "5f456c2aff9ccd034434e6fd",
-        "name": "SonyLIV",
-        "hashId": "100dc02b90dfc"
-      }
-    },
-    {
-      "id": 9,
+      "id": 10,
       "isLive": true,
       "contentId": "1540054766",
       "name": "Fulham vs Arsenal",
@@ -194,28 +169,7 @@
       }
     },
     {
-      "id": 10,
-      "isLive": true,
-      "contentId": "1540055543",
-      "name": "Rankireddy/Shetty vs Hoki/Kobayashi: SFs",
-      "genre": "badminton",
-      "language": "english",
-      "provider": "JioHotstar",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/images/b8bfff9d342274a50018c96cf7f0e2c6.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/de556b637bc4ee976931f063e7f5879a.jpg"
-      ],
-      "providerInfo": {
-        "id": "67977987ed126c0029b9f20c",
-        "name": "JioHotstar",
-        "hashId": "4025a7f67d456"
-      }
-    },
-    {
-      "id": 11,
+      "id": 12,
       "isLive": true,
       "contentId": "1540054837",
       "name": "International Skating Union: France, Day 2",
@@ -228,27 +182,6 @@
       ],
       "posters": [
         "https://images.ottplay.com/posters/26fe7a128182c73a27bce44b880cd820.jpg"
-      ],
-      "providerInfo": {
-        "id": "67977987ed126c0029b9f20c",
-        "name": "JioHotstar",
-        "hashId": "4025a7f67d456"
-      }
-    },
-    {
-      "id": 12,
-      "isLive": true,
-      "contentId": "1540055543",
-      "name": "BWF Denmark Open: SFs",
-      "genre": "badminton",
-      "language": "english",
-      "provider": "JioHotstar",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/images/a1f082255a4aa16e82dcec66b8125a35.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/259366f96936838b4ef59263d728044d.jpg"
       ],
       "providerInfo": {
         "id": "67977987ed126c0029b9f20c",
