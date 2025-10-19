@@ -1,42 +1,6 @@
 {
-  "success": true,
-  "message": "Live matches fetched successfully",
-  "total": 2,
-  "updatedAt": "20/10/2025, 1:05:16 am",
-  "data": [
-    {
-      "content_id": "1540053691",
-      "title": "Las Vegas Raiders @ Kansas City Chiefs",
-      "description": "Watch the live stream of the NFL 2025/26 match between Las Vegas Raiders and Kansas City Chiefs",
-      "image": "https://img.hotstar.com/image/upload/f_auto,q_90,w_720/sources/r1/cms/prod/8283/1760806438283-h",
-      "poster": "https://img.hotstar.com/image/upload/f_auto,q_90,w_720/sources/r1/cms/prod/8685/1760806468685-i",
-      "languages": {
-        "English": "eng"
-      },
-      "tags": [
-        "English",
-        "American Football"
-      ],
-      "watch_url": "https://www.hotstar.com/in/sports/american-football/las-vegas-raiders-at-kansas-city-chiefs/1540053691/video/live/watch",
-      "status": "LIVE",
-      "isLive": true
-    },
-    {
-      "content_id": "1540054840",
-      "title": "International Skating Union: France, Day 3",
-      "description": "Watch the live stream of Day 3 of the International Skating Union 2025/26",
-      "image": "https://img.hotstar.com/image/upload/f_auto,q_90,w_720/sources/r1/cms/prod/1137/1760789451137-h",
-      "poster": "https://img.hotstar.com/image/upload/f_auto,q_90,w_720/sources/r1/cms/prod/7191/1760789477191-i",
-      "languages": {
-        "English": "eng"
-      },
-      "tags": [
-        "English",
-        "Skating"
-      ],
-      "watch_url": "https://www.hotstar.com/in/sports/skating/international-skating-union-france-day-3/1540054840/video/live/watch",
-      "status": "LIVE",
-      "isLive": true
-    }
-  ]
+  "success": "error",
+  "message": "Error fetching live events",
+  "updatedAt": "20/10/2025, 1:14:11 am",
+  "error": "Cannot read properties of undefined (reading '0')"
 }
