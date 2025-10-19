@@ -1,5 +1,31 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 1,
+  "updatedAt": "20/10/2025, 04:37:47 AM",
+  "data": [
+    {
+      "id": 2,
+      "isLive": true,
+      "contentId": "133937",
+      "name": "VCT vs NSW",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/3c1244a9076d17f6c5c26e304e8760e1.jpg",
+        "https://images.ottplay.com/backdrops/c4b081a374267a63e8380a688099f07a.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/8f283d676cfb25518b630192a0b4f9df.jpg",
+        "https://images.ottplay.com/posters/b4fb2189eef52886ebe4b4931307d206.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    }
+  ]
 }
