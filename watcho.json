@@ -1,7 +1,26 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 0,
-  "updatedAt": "19/10/2025, 11:27:40 AM",
-  "data": []
+  "total": 2,
+  "updatedAt": "19/10/2025, 12:01:09 PM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "137008",
+      "name": "Shonan Bellmare VS Kyoto Sanga",
+      "genre": "Sports",
+      "provider": "FanCode",
+      "image": "https://images.fancode.com/aig/match/v1/137008_CASACARDS_PARTNER_16_9_1920_1080.png"
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "contentId": "136866",
+      "name": "DP World India Championship",
+      "genre": "Sports",
+      "provider": "FanCode",
+      "image": "https://images.fancode.com/aig/match/v1/136866_CASACARDS_PARTNER_16_9_1920_1080.png"
+    }
+  ]
 }
