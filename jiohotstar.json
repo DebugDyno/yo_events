@@ -1,6 +1,25 @@
 {
-  "success": "error",
-  "message": "Error fetching live events",
-  "updatedAt": "20/10/2025, 1:14:11 am",
-  "error": "Cannot read properties of undefined (reading '0')"
+  "success": true,
+  "message": "Live matches fetched successfully",
+  "total": 1,
+  "updatedAt": "20/10/2025, 1:23:23 am",
+  "data": [
+    {
+      "content_id": "1540053691",
+      "title": "Las Vegas Raiders @ Kansas City Chiefs",
+      "description": "Watch the live stream of the NFL 2025/26 match between Las Vegas Raiders and Kansas City Chiefs",
+      "image": "https://img.hotstar.com/image/upload/f_auto,q_90,w_720/sources/r1/cms/prod/8283/1760806438283-h",
+      "poster": "https://img.hotstar.com/image/upload/f_auto,q_90,w_720/sources/r1/cms/prod/8685/1760806468685-i",
+      "languages": {
+        "English": "eng"
+      },
+      "tags": [
+        "English",
+        "American Football"
+      ],
+      "watch_url": "https://www.hotstar.com/in/sports/american-football/las-vegas-raiders-at-kansas-city-chiefs/1540053691/video/live/watch",
+      "status": "LIVE",
+      "isLive": true
+    }
+  ]
 }
