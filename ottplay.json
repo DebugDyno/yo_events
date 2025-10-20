@@ -1,5 +1,50 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 2,
+  "updatedAt": "21/10/2025, 04:26:45 AM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "133993",
+      "name": "SS-W vs HB-W",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/9ee0089245faeeb3e112a084e07c4dae.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/4043f00f8b661ea19b916909233a611f.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "contentId": "133994",
+      "name": "BH-W vs MR-W",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/b2f62aeb9f784d12675a154f3b7b0b95.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/415459e8093e3323cefa68e4a98ba305.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    }
+  ]
 }
