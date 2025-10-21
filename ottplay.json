@@ -1,5 +1,33 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 1,
+  "updatedAt": "21/10/2025, 01:00:30 PM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "137701",
+      "name": "BAN vs WI",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/backdrop-1761031627.jpg",
+        "https://images.ottplay.com/backdrops/bf27bd154986ae823744ca955d412a0e.jpg",
+        "https://images.ottplay.com/backdrops/c038155ca2f4cf385fc5679a5c925c4b.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/8b264e283f1c90f31ac0d9b34ec90774.jpg",
+        "https://images.ottplay.com/posters/cd22996208c4f0d714f084275b1da8a6.jpg",
+        "https://images.ottplay.com/images/big/poster-1761031600.jpeg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    }
+  ]
 }
