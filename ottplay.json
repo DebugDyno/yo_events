@@ -1,5 +1,29 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 1,
+  "updatedAt": "22/10/2025, 04:22:26 AM",
+  "data": [
+    {
+      "id": 2,
+      "isLive": true,
+      "contentId": "133997",
+      "name": "PS-W vs SS-W",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/5e4e7adc90866b367fe69de592854eae.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/1c1fb88361548cef452dcd3aa9f09190.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    }
+  ]
 }
