@@ -1,5 +1,29 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 1,
+  "updatedAt": "22/10/2025, 01:21:52 PM",
+  "data": [
+    {
+      "id": 2,
+      "isLive": true,
+      "contentId": "1540055370",
+      "name": "BWF French Open: Round of 32",
+      "genre": "badminton",
+      "language": "english",
+      "provider": "JioHotstar",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/1c7c1bfad677873733001cabbf889c19.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/6a32bff48f9f02bb1afba71d57c86f09.jpg"
+      ],
+      "providerInfo": {
+        "id": "67977987ed126c0029b9f20c",
+        "name": "JioHotstar",
+        "hashId": "4025a7f67d456"
+      }
+    }
+  ]
 }
