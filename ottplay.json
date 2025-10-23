@@ -1,5 +1,31 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 1,
+  "updatedAt": "24/10/2025, 04:14:11 AM",
+  "data": [
+    {
+      "id": 2,
+      "isLive": true,
+      "contentId": "137316",
+      "name": "Bank of Utah Championship",
+      "genre": "golf",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/c55b2724e5881119851a7996f4bde320.jpg",
+        "https://images.ottplay.com/backdrops/4443d1338bae81e61502ee873977c0bf.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/f9bc2f2e86ba3683d8d0fa531758a8b0.jpg",
+        "https://images.ottplay.com/posters/76e51f584ceff945cf1cf21c92ba2803.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    }
+  ]
 }
