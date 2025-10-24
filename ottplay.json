@@ -1,5 +1,73 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 3,
+  "updatedAt": "24/10/2025, 08:54:01 AM",
+  "data": [
+    {
+      "id": 2,
+      "isLive": true,
+      "contentId": "134002",
+      "name": "MR-W vs AS-W",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/2e26887157b1d00164b9911a795e3cbe.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/57fb4fe4e8279f8a61146d9965e91602.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 3,
+      "isLive": true,
+      "contentId": "136868",
+      "name": "Genesis Championship",
+      "genre": "golf",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/aafa3e4e28c7476eba967370e9166afd.jpg",
+        "https://images.ottplay.com/backdrops/ed4a8b5414b308ce59b905b0e9b9d712.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/0de52725f0be9e15d69b8b5eaaeefe7d.jpg",
+        "https://images.ottplay.com/posters/a9ca230e110b01c3c72008151740a50a.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 4,
+      "isLive": true,
+      "contentId": "119261",
+      "name": "PETRONAS GRAND PRIX OF MALAYSIA",
+      "genre": "motogp",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/bbd156b33735f0915c49a9e54753bf1d.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/a97a698bcfbb190d02c2f2d2ea527ce8.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    }
+  ]
 }
