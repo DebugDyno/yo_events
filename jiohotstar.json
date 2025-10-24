@@ -1,42 +1,6 @@
 {
-  "success": true,
-  "message": "Live matches fetched successfully",
-  "total": 2,
-  "updatedAt": "25/10/2025, 2:27:30 am",
-  "data": [
-    {
-      "content_id": "1540055587",
-      "title": "Leeds United vs West Ham",
-      "description": "Watch the live stream of the Premier League 2025/26 match between Leeds United and West Ham",
-      "image": "https://img.hotstar.com/image/upload/f_auto,q_90,w_720/sources/r1/cms/prod/8531/1761302938531-h",
-      "poster": "https://img.hotstar.com/image/upload/f_auto,q_90,w_720/sources/r1/cms/prod/2529/1761302962529-i",
-      "languages": {
-        "English": "eng"
-      },
-      "tags": [
-        "English",
-        "Football"
-      ],
-      "watch_url": "https://www.hotstar.com/in/sports/football/leeds-united-vs-west-ham/1540055587/video/live/watch",
-      "status": "LIVE",
-      "isLive": true
-    },
-    {
-      "content_id": "1540055379",
-      "title": "BWF French Open: QFs, Court 1",
-      "description": "Watch the live stream of the quarter-final matches from court 1 of BWF French Open 2025",
-      "image": "https://img.hotstar.com/image/upload/f_auto,q_90,w_720/sources/r1/cms/prod/4047/1761282914047-h",
-      "poster": "https://img.hotstar.com/image/upload/f_auto,q_90,w_720/sources/r1/cms/prod/6163/1761282986163-i",
-      "languages": {
-        "English": "eng"
-      },
-      "tags": [
-        "English",
-        "Badminton"
-      ],
-      "watch_url": "https://www.hotstar.com/in/sports/badminton/bwf-french-open-qfs-court-1/1540055379/video/live/watch",
-      "status": "LIVE",
-      "isLive": true
-    }
-  ]
+  "success": "error",
+  "message": "Error fetching live events",
+  "updatedAt": "25/10/2025, 2:48:44 am",
+  "error": "Cannot read properties of undefined (reading '0')"
 }
