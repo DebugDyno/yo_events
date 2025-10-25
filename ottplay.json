@@ -1,11 +1,32 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 4,
-  "updatedAt": "26/10/2025, 03:14:53 AM",
+  "total": 3,
+  "updatedAt": "26/10/2025, 03:23:53 AM",
   "data": [
     {
       "id": 2,
+      "isLive": true,
+      "contentId": "1540055815",
+      "name": "US Open 2025: Finals",
+      "genre": "squash",
+      "language": "english",
+      "provider": "JioHotstar",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/6496a835488bc2b17c6c443adb059c88.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/0d27db2abbe44132c9545f6123c5c4c0.jpg"
+      ],
+      "providerInfo": {
+        "id": "67977987ed126c0029b9f20c",
+        "name": "JioHotstar",
+        "hashId": "4025a7f67d456"
+      }
+    },
+    {
+      "id": 3,
       "isLive": true,
       "contentId": "137319",
       "name": "Bank of Utah Championship",
@@ -34,7 +55,7 @@
       }
     },
     {
-      "id": 3,
+      "id": 4,
       "isLive": true,
       "contentId": "118479",
       "name": "F1 GRAN PREMIO DE LA CIUDAD DE MEXICO 2025",
@@ -58,49 +79,6 @@
         "id": "63ce216c483822001ca300a4",
         "name": "FanCode",
         "hashId": "c60fe425e3269"
-      }
-    },
-    {
-      "id": 4,
-      "isLive": true,
-      "contentId": "1540055596",
-      "name": "Brentford vs Liverpool",
-      "genre": "football",
-      "language": "english",
-      "provider": "JioHotstar",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/images/dd39e6985a2bf112a21342288d7666d4.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/62d7ba968bbbc0abd7a60c6f4839d767.jpg",
-        "https://images.ottplay.com/images/media/gallery/750x1125live-2-1761416575.jpg"
-      ],
-      "providerInfo": {
-        "id": "67977987ed126c0029b9f20c",
-        "name": "JioHotstar",
-        "hashId": "4025a7f67d456"
-      }
-    },
-    {
-      "id": 5,
-      "isLive": true,
-      "contentId": "1540055385",
-      "name": "BWF French Open: SFs",
-      "genre": "badminton",
-      "language": "english",
-      "provider": "JioHotstar",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/images/94f695027680b2c3bd9f6fc8c4d6e9d4.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/f9bc4450338e5d896822ccfc7bc018c8.jpg"
-      ],
-      "providerInfo": {
-        "id": "67977987ed126c0029b9f20c",
-        "name": "JioHotstar",
-        "hashId": "4025a7f67d456"
       }
     }
   ]
