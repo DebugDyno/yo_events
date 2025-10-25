@@ -1,11 +1,32 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 9,
-  "updatedAt": "25/10/2025, 05:04:12 PM",
+  "total": 8,
+  "updatedAt": "25/10/2025, 05:13:10 PM",
   "data": [
     {
       "id": 1,
+      "isLive": true,
+      "contentId": "130920",
+      "name": "GIR vs RO",
+      "genre": "football",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/e5d62009f8455ced66265bae8cc03b79.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/c84e8105a74a3b0c0c535b3de9f15790.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 2,
       "isLive": true,
       "contentId": "137900",
       "name": "IPT vs WBA",
@@ -26,7 +47,7 @@
       }
     },
     {
-      "id": 2,
+      "id": 3,
       "isLive": true,
       "contentId": "137724",
       "name": "WCB vs PR",
@@ -47,7 +68,7 @@
       }
     },
     {
-      "id": 3,
+      "id": 4,
       "isLive": true,
       "contentId": "1540055762",
       "name": "Vidarbha W vs Madhya Pradesh W",
@@ -68,7 +89,7 @@
       }
     },
     {
-      "id": 4,
+      "id": 5,
       "isLive": true,
       "contentId": "137858",
       "name": "URP vs GUR",
@@ -89,7 +110,7 @@
       }
     },
     {
-      "id": 5,
+      "id": 6,
       "isLive": true,
       "contentId": "1540051899",
       "name": "Australia W vs South Africa W",
@@ -110,7 +131,7 @@
       }
     },
     {
-      "id": 6,
+      "id": 7,
       "isLive": true,
       "contentId": "1540055385",
       "name": "BWF French Open: SFs",
@@ -131,7 +152,7 @@
       }
     },
     {
-      "id": 7,
+      "id": 8,
       "isLive": true,
       "contentId": "1540054846",
       "name": "International Skating Union: China, Day 2",
@@ -144,50 +165,6 @@
       ],
       "posters": [
         "https://images.ottplay.com/posters/75d79885c1ec746ebddb6661606b8ff0.jpg"
-      ],
-      "providerInfo": {
-        "id": "67977987ed126c0029b9f20c",
-        "name": "JioHotstar",
-        "hashId": "4025a7f67d456"
-      }
-    },
-    {
-      "id": 8,
-      "isLive": true,
-      "contentId": "1540055024",
-      "name": "Mumbai vs Chhattisgarh: Day 1",
-      "genre": "cricket",
-      "language": "english",
-      "provider": "JioHotstar",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/images/ab6f3ed268a28f7ae9cfb0254972b696.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/788455614e5100e529493c5a9501cff3.jpg"
-      ],
-      "providerInfo": {
-        "id": "67977987ed126c0029b9f20c",
-        "name": "JioHotstar",
-        "hashId": "4025a7f67d456"
-      }
-    },
-    {
-      "id": 9,
-      "isLive": true,
-      "contentId": "1540055021",
-      "name": "Saurashtra vs Madhya Pradesh: Day 1",
-      "genre": "cricket",
-      "language": "english",
-      "provider": "JioHotstar",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/images/3a64db588c5a7804d46b0d3ae12da682.jpg",
-        "https://images.ottplay.com/images/1e04d35f7706388f392468e4fd63a21d.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/8ee0edea76c4261360270dcf7c10e302.jpg",
-        "https://images.ottplay.com/posters/d8f90e6a1d0622a1ac85250bf766e55c.jpg"
       ],
       "providerInfo": {
         "id": "67977987ed126c0029b9f20c",
