@@ -1,6 +1,44 @@
 {
-  "success": "error",
-  "message": "Error fetching live events",
-  "updatedAt": "26/10/2025, 11:17:58 pm",
-  "error": "Cannot read properties of undefined (reading '0')"
+  "success": true,
+  "message": "Live matches fetched successfully",
+  "total": 2,
+  "updatedAt": "26/10/2025, 11:27:02 pm",
+  "data": [
+    {
+      "content_id": "1540055602",
+      "title": "Everton vs Tottenham Hotspur",
+      "description": "Watch the live stream of the Premier League 2025/26 match between Everton and Tottenham Hotspur",
+      "image": "https://img.hotstar.com/image/upload/f_auto,q_90,w_720/sources/r1/cms/prod/8420/1761394588420-h",
+      "poster": "https://img.hotstar.com/image/upload/f_auto,q_90,w_720/sources/r1/cms/prod/842/1761394650842-i",
+      "languages": {
+        "English": "eng",
+        "Bengali": "ben",
+        "Malayalam": "mal"
+      },
+      "tags": [
+        "3 Languages",
+        "Football"
+      ],
+      "watch_url": "https://www.hotstar.com/in/sports/football/everton-vs-tottenham-hotspur/1540055602/video/live/watch",
+      "status": "LIVE",
+      "isLive": true
+    },
+    {
+      "content_id": "1540053694",
+      "title": "New York Giants @ Philadelphia Eagles",
+      "description": "Watch the live stream of the NFL 2025/26 match between New York Giants and Philadelphia Eagles",
+      "image": "https://img.hotstar.com/image/upload/f_auto,q_90,w_720/sources/r1/cms/prod/9600/1761476499600-h",
+      "poster": "https://img.hotstar.com/image/upload/f_auto,q_90,w_720/sources/r1/cms/prod/3792/1761476543792-i",
+      "languages": {
+        "English": "eng"
+      },
+      "tags": [
+        "English",
+        "American Football"
+      ],
+      "watch_url": "https://www.hotstar.com/in/sports/american-football/new-york-giants-at-philadelphia-eagles/1540053694/video/live/watch",
+      "status": "LIVE",
+      "isLive": true
+    }
+  ]
 }
