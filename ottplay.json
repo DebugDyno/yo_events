@@ -1,11 +1,32 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 10,
-  "updatedAt": "26/10/2025, 03:10:57 PM",
+  "total": 9,
+  "updatedAt": "26/10/2025, 03:20:26 PM",
   "data": [
     {
       "id": 1,
+      "isLive": true,
+      "contentId": "1540055388",
+      "name": "BWF French Open: Finals",
+      "genre": "badminton",
+      "language": "english",
+      "provider": "JioHotstar",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/402636c12edbc508fbc5426f9ffce705.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/20698a6515facbadb0fd59a9c44103ad.jpg"
+      ],
+      "providerInfo": {
+        "id": "67977987ed126c0029b9f20c",
+        "name": "JioHotstar",
+        "hashId": "4025a7f67d456"
+      }
+    },
+    {
+      "id": 2,
       "isLive": true,
       "contentId": "1540055828",
       "name": "India W vs Bangladesh W",
@@ -28,7 +49,7 @@
       }
     },
     {
-      "id": 2,
+      "id": 3,
       "isLive": true,
       "contentId": "137727",
       "name": "OBI vs WEW",
@@ -49,34 +70,7 @@
       }
     },
     {
-      "id": 3,
-      "isLive": true,
-      "contentId": "119265",
-      "name": "PETRONAS GRAND PRIX OF MALAYSIA",
-      "genre": "motogp",
-      "language": "english",
-      "provider": "FanCode",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/images/media/gallery/rd-live1920x1080fccarousel-1761458756.jpg",
-        "https://images.ottplay.com/backdrops/6eee41b8aa9dc30e127bad71fc5425f8.jpg",
-        "https://images.ottplay.com/backdrops/f9c40ad77dd34a87c9558ae03c0f533b.jpg",
-        "https://images.ottplay.com/backdrops/bbd156b33735f0915c49a9e54753bf1d.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/d547bce7fed36ccc2738c45a57e679bd.jpg",
-        "https://images.ottplay.com/images/media/gallery/rd-live750x1125fcposter-1761458756.jpg",
-        "https://images.ottplay.com/posters/801c31c3b83907a2c64481d56bfa8ff3.jpg",
-        "https://images.ottplay.com/posters/a97a698bcfbb190d02c2f2d2ea527ce8.jpg"
-      ],
-      "providerInfo": {
-        "id": "63ce216c483822001ca300a4",
-        "name": "FanCode",
-        "hashId": "c60fe425e3269"
-      }
-    },
-    {
-      "id": 4,
+      "id": 5,
       "isLive": true,
       "contentId": "137369",
       "name": "Wistron Ladies Open",
@@ -103,7 +97,7 @@
       }
     },
     {
-      "id": 5,
+      "id": 6,
       "isLive": true,
       "contentId": "137251",
       "name": "NEP vs USA",
@@ -124,7 +118,7 @@
       }
     },
     {
-      "id": 6,
+      "id": 7,
       "isLive": true,
       "contentId": "1540055824",
       "name": "England W vs New Zealand W",
@@ -145,7 +139,7 @@
       }
     },
     {
-      "id": 7,
+      "id": 8,
       "isLive": true,
       "contentId": "1540055033",
       "name": "Mumbai vs Chhattisgarh: Day 2",
@@ -166,7 +160,7 @@
       }
     },
     {
-      "id": 8,
+      "id": 9,
       "isLive": true,
       "contentId": "1540055030",
       "name": "Saurashtra vs Madhya Pradesh: Day 2",
@@ -187,7 +181,7 @@
       }
     },
     {
-      "id": 9,
+      "id": 10,
       "isLive": true,
       "contentId": "1540055027",
       "name": "Bengal vs Gujarat: Day 2",
@@ -205,33 +199,6 @@
         "id": "67977987ed126c0029b9f20c",
         "name": "JioHotstar",
         "hashId": "4025a7f67d456"
-      }
-    },
-    {
-      "id": 10,
-      "isLive": true,
-      "contentId": "119265",
-      "name": "PETRONAS GRAND PRIX OF MALAYSIA",
-      "genre": "motogp",
-      "language": "english",
-      "provider": "FanCode",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/images/media/gallery/rd-live1920x1080fccarousel-1761458756.jpg",
-        "https://images.ottplay.com/backdrops/6eee41b8aa9dc30e127bad71fc5425f8.jpg",
-        "https://images.ottplay.com/backdrops/f9c40ad77dd34a87c9558ae03c0f533b.jpg",
-        "https://images.ottplay.com/backdrops/bbd156b33735f0915c49a9e54753bf1d.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/d547bce7fed36ccc2738c45a57e679bd.jpg",
-        "https://images.ottplay.com/images/media/gallery/rd-live750x1125fcposter-1761458756.jpg",
-        "https://images.ottplay.com/posters/801c31c3b83907a2c64481d56bfa8ff3.jpg",
-        "https://images.ottplay.com/posters/a97a698bcfbb190d02c2f2d2ea527ce8.jpg"
-      ],
-      "providerInfo": {
-        "id": "63ce216c483822001ca300a4",
-        "name": "FanCode",
-        "hashId": "c60fe425e3269"
       }
     }
   ]
