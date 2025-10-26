@@ -1,11 +1,32 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 9,
-  "updatedAt": "26/10/2025, 10:56:52 PM",
+  "total": 7,
+  "updatedAt": "26/10/2025, 11:08:28 PM",
   "data": [
     {
       "id": 1,
+      "isLive": true,
+      "contentId": "137613",
+      "name": "SG vs RZ",
+      "genre": "football",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/90f5fc3feb7e66237064053576c88475.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/b99adfd9913f613b720132228d272301.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 2,
       "isLive": true,
       "contentId": "130926",
       "name": "OSN vs CEV",
@@ -26,7 +47,7 @@
       }
     },
     {
-      "id": 2,
+      "id": 3,
       "isLive": true,
       "contentId": "1540053694",
       "name": "New York Giants @ Philadelphia Eagles",
@@ -47,7 +68,7 @@
       }
     },
     {
-      "id": 3,
+      "id": 4,
       "isLive": true,
       "contentId": "1540055602",
       "name": "Everton vs Tottenham Hotspur",
@@ -70,7 +91,7 @@
       }
     },
     {
-      "id": 4,
+      "id": 5,
       "isLive": true,
       "contentId": "1090493185",
       "name": "VfB Stuttgart vs Mainz - 26 Oct 2025",
@@ -95,7 +116,7 @@
       }
     },
     {
-      "id": 5,
+      "id": 6,
       "isLive": true,
       "contentId": "137730",
       "name": "PR vs PR",
@@ -113,29 +134,6 @@
         "id": "63ce216c483822001ca300a4",
         "name": "FanCode",
         "hashId": "c60fe425e3269"
-      }
-    },
-    {
-      "id": 6,
-      "isLive": true,
-      "contentId": "1540055704",
-      "name": "Mini-Qualifier: Bengaluru Bulls vs Telugu Titans",
-      "genre": "kabaddi",
-      "language": "english",
-      "provider": "JioHotstar",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/images/b802c42a01b564b5705c456201fdec9e.jpg",
-        "https://images.ottplay.com/images/e96019f0672319bb61ec2dae040a9b83.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/cf35bf997c29619cfed5b89758c7e3f8.jpg",
-        "https://images.ottplay.com/posters/9e0a05f72e9690a1a3b4f40c26b123be.jpg"
-      ],
-      "providerInfo": {
-        "id": "67977987ed126c0029b9f20c",
-        "name": "JioHotstar",
-        "hashId": "4025a7f67d456"
       }
     },
     {
@@ -159,50 +157,6 @@
         "id": "63ce216c483822001ca300a4",
         "name": "FanCode",
         "hashId": "c60fe425e3269"
-      }
-    },
-    {
-      "id": 8,
-      "isLive": true,
-      "contentId": "1540055704",
-      "name": "Eliminator 1: Jaipur Pink Panthers vs Patna Pirates",
-      "genre": "kabaddi",
-      "language": "english",
-      "provider": "JioHotstar",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/images/b30d463bc9be06b08465ecb42c919eeb.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/9e0a05f72e9690a1a3b4f40c26b123be.jpg"
-      ],
-      "providerInfo": {
-        "id": "67977987ed126c0029b9f20c",
-        "name": "JioHotstar",
-        "hashId": "4025a7f67d456"
-      }
-    },
-    {
-      "id": 9,
-      "isLive": true,
-      "contentId": "1540055828",
-      "name": "India W vs Bangladesh W",
-      "genre": "cricket",
-      "language": "english",
-      "provider": "JioHotstar",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/images/media/gallery/live1920x1080jiohotstar-1761467206.jpg",
-        "https://images.ottplay.com/images/f81504cfc01e2434a8aba64767654158.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/f92e7021ba93aacb732e24b842daffd3.jpg",
-        "https://images.ottplay.com/images/media/gallery/live750x1125-jiohotstar-1761467201.jpg"
-      ],
-      "providerInfo": {
-        "id": "67977987ed126c0029b9f20c",
-        "name": "JioHotstar",
-        "hashId": "4025a7f67d456"
       }
     }
   ]
