@@ -1,5 +1,31 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 1,
+  "updatedAt": "28/10/2025, 05:10:34 AM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "134021",
+      "name": "VCT vs TAS",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/09414b0918cd6cc860debb154eb4475b.jpg",
+        "https://images.ottplay.com/backdrops/19f0ed636c6db802bb0a757da77c25ec.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/e725f1699c0e857a7e0afb82ae7f8231.jpg",
+        "https://images.ottplay.com/posters/a60a9031452a1447753cdd0543a2bf90.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    }
+  ]
 }
