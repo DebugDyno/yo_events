@@ -1,5 +1,29 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 1,
+  "updatedAt": "29/10/2025, 04:26:10 AM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "134011",
+      "name": "HB-W vs PS-W",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/62e7f06bc66d2bb6f5fffb4e4edd7030.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/84324e794c00d882ae477c2d7c1c3b14.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    }
+  ]
 }
