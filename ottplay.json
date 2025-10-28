@@ -1,11 +1,32 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 3,
-  "updatedAt": "28/10/2025, 07:16:08 PM",
+  "total": 4,
+  "updatedAt": "28/10/2025, 07:25:57 PM",
   "data": [
     {
       "id": 1,
+      "isLive": true,
+      "contentId": "1540055710",
+      "name": "Eliminator 3: Telugu Titans vs Patna Pirates",
+      "genre": "kabaddi",
+      "language": "english",
+      "provider": "JioHotstar",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/1498718556835a30cf42e6c319955bb2.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/08d549d6d26bc2d0babcc2b97a0ed071.jpg"
+      ],
+      "providerInfo": {
+        "id": "67977987ed126c0029b9f20c",
+        "name": "JioHotstar",
+        "hashId": "4025a7f67d456"
+      }
+    },
+    {
+      "id": 2,
       "isLive": true,
       "contentId": "137864",
       "name": "LHH vs TPT",
@@ -26,7 +47,7 @@
       }
     },
     {
-      "id": 2,
+      "id": 3,
       "isLive": true,
       "contentId": "1090493178",
       "name": "Round 2 - 28 Oct 2025",
@@ -51,7 +72,7 @@
       }
     },
     {
-      "id": 3,
+      "id": 4,
       "isLive": true,
       "contentId": "137252",
       "name": "UAE vs USA",
