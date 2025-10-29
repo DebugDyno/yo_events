@@ -1,6 +1,54 @@
 {
-  "success": "error",
-  "message": "Error fetching live events",
-  "updatedAt": "29/10/2025, 5:27:28 pm",
-  "error": "Cannot read properties of undefined (reading '0')"
+  "success": true,
+  "message": "Live matches fetched successfully",
+  "total": 2,
+  "updatedAt": "29/10/2025, 6:18:58 pm",
+  "data": [
+    {
+      "content_id": "1540055833",
+      "title": "SF: England W vs South Africa W",
+      "description": "Watch the live stream of ICC Women's Cricket World Cup 2025 semi-final between England Women and South Africa Women",
+      "image": "https://img.hotstar.com/image/upload/f_auto,q_90,w_720/sources/r1/cms/prod/5163/1761662235163-h",
+      "poster": "https://img.hotstar.com/image/upload/f_auto,q_90,w_720/sources/r1/cms/prod/5519/1761662305519-i",
+      "languages": {
+        "English": "eng",
+        "Hindi": "hin",
+        "Hindi Audio Description": "hin_ad",
+        "Kannada": "kan",
+        "Sign Language": "sgn",
+        "Tamil": "tam",
+        "Telugu": "tel",
+        "Batter Cam": "mc_batter",
+        "Birdseye": "mc_bird",
+        "Hero Cam": "mc_hero",
+        "Stump Cam": "mc_stump",
+        "English Vertical": "eng_vlc",
+        "Hindi Vertical": "hin_vlc"
+      },
+      "tags": [
+        "13 Languages",
+        "Cricket"
+      ],
+      "watch_url": "https://www.hotstar.com/in/sports/cricket/sf-england-w-vs-south-africa-w/1540055833/video/live/watch",
+      "status": "LIVE",
+      "isLive": true
+    },
+    {
+      "content_id": "1540055774",
+      "title": "Madhya Pradesh W vs Karnataka W",
+      "description": "Watch the live stream of IDFC FIRST Bank Senior Women's T20 Trophy 2025 match between Madhya Pradesh Women and Karnataka Women",
+      "image": "https://img.hotstar.com/image/upload/f_auto,q_90,w_720/sources/r1/cms/prod/6181/1761651066181-h",
+      "poster": "https://img.hotstar.com/image/upload/f_auto,q_90,w_720/sources/r1/cms/prod/6274/1761651106274-i",
+      "languages": {
+        "English": "eng"
+      },
+      "tags": [
+        "English",
+        "Cricket"
+      ],
+      "watch_url": "https://www.hotstar.com/in/sports/cricket/madhya-pradesh-w-vs-karnataka-w/1540055774/video/live/watch",
+      "status": "LIVE",
+      "isLive": true
+    }
+  ]
 }
