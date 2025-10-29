@@ -1,11 +1,34 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 7,
-  "updatedAt": "29/10/2025, 12:29:31 PM",
+  "total": 6,
+  "updatedAt": "29/10/2025, 12:56:09 PM",
   "data": [
     {
       "id": 1,
+      "isLive": true,
+      "contentId": "1540055446",
+      "name": "Australia vs India: 1st T20I",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "JioHotstar",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/backdrop-1761721670.jpg",
+        "https://images.ottplay.com/images/7ddbd244b06a5df0e1b2331b4dd968cc.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/c5bdcadad001dfa4e00ce35ae46b5da6.jpg",
+        "https://images.ottplay.com/images/big/poster-1761721703.jpeg"
+      ],
+      "providerInfo": {
+        "id": "67977987ed126c0029b9f20c",
+        "name": "JioHotstar",
+        "hashId": "4025a7f67d456"
+      }
+    },
+    {
+      "id": 2,
       "isLive": true,
       "contentId": "1090492565",
       "name": "2nd ODI - 29 Oct 2025",
@@ -29,27 +52,6 @@
         "id": "5f456c2aff9ccd034434e6fd",
         "name": "SonyLIV",
         "hashId": "100dc02b90dfc"
-      }
-    },
-    {
-      "id": 2,
-      "isLive": true,
-      "contentId": "1540055446",
-      "name": "Australia vs India: 1st T20I",
-      "genre": "cricket",
-      "language": "english",
-      "provider": "JioHotstar",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/images/7ddbd244b06a5df0e1b2331b4dd968cc.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/c5bdcadad001dfa4e00ce35ae46b5da6.jpg"
-      ],
-      "providerInfo": {
-        "id": "67977987ed126c0029b9f20c",
-        "name": "JioHotstar",
-        "hashId": "4025a7f67d456"
       }
     },
     {
@@ -123,29 +125,6 @@
     },
     {
       "id": 6,
-      "isLive": true,
-      "contentId": "134021",
-      "name": "VCT vs TAS",
-      "genre": "cricket",
-      "language": "english",
-      "provider": "FanCode",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/backdrops/09414b0918cd6cc860debb154eb4475b.jpg",
-        "https://images.ottplay.com/backdrops/19f0ed636c6db802bb0a757da77c25ec.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/e725f1699c0e857a7e0afb82ae7f8231.jpg",
-        "https://images.ottplay.com/posters/a60a9031452a1447753cdd0543a2bf90.jpg"
-      ],
-      "providerInfo": {
-        "id": "63ce216c483822001ca300a4",
-        "name": "FanCode",
-        "hashId": "c60fe425e3269"
-      }
-    },
-    {
-      "id": 7,
       "isLive": true,
       "contentId": "134020",
       "name": "QUN vs NSW",
