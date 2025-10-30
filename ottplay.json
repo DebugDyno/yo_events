@@ -1,11 +1,34 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 7,
-  "updatedAt": "30/10/2025, 11:29:44 AM",
+  "total": 6,
+  "updatedAt": "30/10/2025, 12:08:34 PM",
   "data": [
     {
       "id": 1,
+      "isLive": true,
+      "contentId": "1540055885",
+      "name": "India A vs South Africa A: Day 1",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "JioHotstar",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/fba0e8f579c38eb605d8d0c9e734987d.jpg",
+        "https://images.ottplay.com/images/83e78db8eda6a61c65ee0b92ba61c019.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/0e433a660f0f6253e251e55803b88de9.jpg",
+        "https://images.ottplay.com/posters/58fe9c2bbd1387a113dac2bb3890f56d.jpg"
+      ],
+      "providerInfo": {
+        "id": "67977987ed126c0029b9f20c",
+        "name": "JioHotstar",
+        "hashId": "4025a7f67d456"
+      }
+    },
+    {
+      "id": 2,
       "isLive": true,
       "contentId": "137253",
       "name": "UAE vs NEP",
@@ -28,7 +51,7 @@
       }
     },
     {
-      "id": 2,
+      "id": 3,
       "isLive": true,
       "contentId": "137867",
       "name": "URP vs SNS",
@@ -49,51 +72,7 @@
       }
     },
     {
-      "id": 3,
-      "isLive": true,
-      "contentId": "1540055885",
-      "name": "India A vs South Africa A: Day 1",
-      "genre": "cricket",
-      "language": "english",
-      "provider": "JioHotstar",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/images/83e78db8eda6a61c65ee0b92ba61c019.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/58fe9c2bbd1387a113dac2bb3890f56d.jpg"
-      ],
-      "providerInfo": {
-        "id": "67977987ed126c0029b9f20c",
-        "name": "JioHotstar",
-        "hashId": "4025a7f67d456"
-      }
-    },
-    {
       "id": 4,
-      "isLive": true,
-      "contentId": "134013",
-      "name": "HB-W vs BH-W",
-      "genre": "cricket",
-      "language": "english",
-      "provider": "FanCode",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/backdrops/7d5bc95f48db2a7ecf973412d62745e8.jpg",
-        "https://images.ottplay.com/backdrops/a2fb1c4b3ad33b7f1c18abfe6301a722.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/88a6816153f2060d551bc72beeebf614.jpg",
-        "https://images.ottplay.com/posters/6817b0d53c7c2f4c32d6df94e8541df0.jpg"
-      ],
-      "providerInfo": {
-        "id": "63ce216c483822001ca300a4",
-        "name": "FanCode",
-        "hashId": "c60fe425e3269"
-      }
-    },
-    {
-      "id": 5,
       "isLive": true,
       "contentId": "134022",
       "name": "WAU vs SAU",
@@ -120,7 +99,7 @@
       }
     },
     {
-      "id": 6,
+      "id": 5,
       "isLive": true,
       "contentId": "134021",
       "name": "VCT vs TAS",
@@ -143,7 +122,7 @@
       }
     },
     {
-      "id": 7,
+      "id": 6,
       "isLive": true,
       "contentId": "134020",
       "name": "QUN vs NSW",
