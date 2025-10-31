@@ -1,11 +1,36 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 4,
-  "updatedAt": "01/11/2025, 12:31:03 AM",
+  "total": 2,
+  "updatedAt": "01/11/2025, 12:50:08 AM",
   "data": [
     {
       "id": 1,
+      "isLive": true,
+      "contentId": "1090493385",
+      "name": "FC Augsburg vs Borussia Dortmund - MD 9 - 1 Nov 2025",
+      "genre": "football",
+      "language": "english",
+      "provider": "SonyLIV",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/43a31482abee1b5db299ed5c64da44d6.jpg",
+        "https://images.ottplay.com/images/5f48bce22c697b149c1765fb346cd658.jpg",
+        "https://images.ottplay.com/images/3029587e027c70e652bf1740ed71b1f8.jpg",
+        "https://images.ottplay.com/images/c242c27435a0c0d9cf827b441169b8c5.jpg",
+        "https://images.ottplay.com/images/862c9af3b96f1218f14d3f8fc935e969.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/e0817e67056b3353bd8c2e1f0907ec9b.jpg"
+      ],
+      "providerInfo": {
+        "id": "5f456c2aff9ccd034434e6fd",
+        "name": "SonyLIV",
+        "hashId": "100dc02b90dfc"
+      }
+    },
+    {
+      "id": 2,
       "isLive": true,
       "contentId": "1090493181",
       "name": "Shelton vs Sinner - QF - 31 Oct 2025",
@@ -27,71 +52,6 @@
         "id": "5f456c2aff9ccd034434e6fd",
         "name": "SonyLIV",
         "hashId": "100dc02b90dfc"
-      }
-    },
-    {
-      "id": 2,
-      "isLive": true,
-      "contentId": "1540055394",
-      "name": "Kiran George vs Jonatan Christie: QF",
-      "genre": "badminton",
-      "language": "english",
-      "provider": "JioHotstar",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/images/c05798d982f067a9b0ec042ff3972e2b.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/c90bdd58aaffa04d8c2e8d028927a83c.jpg"
-      ],
-      "providerInfo": {
-        "id": "67977987ed126c0029b9f20c",
-        "name": "JioHotstar",
-        "hashId": "4025a7f67d456"
-      }
-    },
-    {
-      "id": 3,
-      "isLive": true,
-      "contentId": "1540055394",
-      "name": "Lakshya Sen vs Alex Lanier: QF",
-      "genre": "badminton",
-      "language": "english",
-      "provider": "JioHotstar",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/images/164909f5ca1a7d6da44c8323d1fd8f50.jpg",
-        "https://images.ottplay.com/images/07f5332d35a7cdb0e9809ec492f19a58.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/df827f24c6852978384c3fcfdcee1c4b.jpg",
-        "https://images.ottplay.com/posters/8eeb08ab5446bd7393b3a33a9c6f7cb4.jpg"
-      ],
-      "providerInfo": {
-        "id": "67977987ed126c0029b9f20c",
-        "name": "JioHotstar",
-        "hashId": "4025a7f67d456"
-      }
-    },
-    {
-      "id": 4,
-      "isLive": true,
-      "contentId": "1540055394",
-      "name": "BWF Hylo Open: QFs",
-      "genre": "badminton",
-      "language": "english",
-      "provider": "JioHotstar",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/images/77b0e7a8e1271f5f5172d096df91c4f7.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/2b7207645d2ffa00ffdc6c36a5e11097.jpg"
-      ],
-      "providerInfo": {
-        "id": "67977987ed126c0029b9f20c",
-        "name": "JioHotstar",
-        "hashId": "4025a7f67d456"
       }
     }
   ]
