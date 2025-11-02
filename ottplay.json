@@ -1,5 +1,29 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 1,
+  "updatedAt": "03/11/2025, 04:23:37 AM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "133940",
+      "name": "NSW vs QUN",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/2d378867e9712b0f5b58235645b78f25.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/caddb2ffc2970c7470a12628fc1dd581.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    }
+  ]
 }
