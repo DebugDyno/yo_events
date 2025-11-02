@@ -1,42 +1,6 @@
 {
-  "success": true,
-  "message": "Live matches fetched successfully",
-  "total": 2,
-  "updatedAt": "3/11/2025, 2:20:06 am",
-  "data": [
-    {
-      "content_id": "1540055876",
-      "title": "Indianapolis Colts @ Pittsburgh Steelers",
-      "description": "Watch the live stream of the NFL 2025/26 match between Indianapolis Colts and Pittsburgh Steelers",
-      "image": "https://img.hotstar.com/image/upload/f_auto,q_90,w_720/sources/r1/cms/prod/9253/1762004009253-h",
-      "poster": "https://img.hotstar.com/image/upload/f_auto,q_90,w_720/sources/r1/cms/prod/7361/1762004067361-i",
-      "languages": {
-        "English": "eng"
-      },
-      "tags": [
-        "English",
-        "American Football"
-      ],
-      "watch_url": "https://www.hotstar.com/in/sports/american-football/indianapolis-colts-at-pittsburgh-steelers/1540055876/video/live/watch",
-      "status": "LIVE",
-      "isLive": true
-    },
-    {
-      "content_id": "1540054858",
-      "title": "International Skating Union: Canada, Day 3",
-      "description": "Watch the live stream of Day 3 of International Skating Union 2025/26 in Canada",
-      "image": "https://img.hotstar.com/image/upload/f_auto,q_90,w_720/sources/r1/cms/prod/7436/1761999597436-h",
-      "poster": "https://img.hotstar.com/image/upload/f_auto,q_90,w_720/sources/r1/cms/prod/2398/1761999682398-i",
-      "languages": {
-        "English": "eng"
-      },
-      "tags": [
-        "English",
-        "Skating"
-      ],
-      "watch_url": "https://www.hotstar.com/in/sports/skating/international-skating-union-canada-day-3/1540054858/video/live/watch",
-      "status": "LIVE",
-      "isLive": true
-    }
-  ]
+  "success": "error",
+  "message": "Error fetching live events",
+  "updatedAt": "3/11/2025, 2:28:59 am",
+  "error": "Cannot read properties of undefined (reading '0')"
 }
