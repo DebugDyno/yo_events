@@ -1,25 +1,6 @@
 {
-  "success": true,
-  "message": "Live matches fetched successfully",
-  "total": 1,
-  "updatedAt": "4/11/2025, 3:46:25 am",
-  "data": [
-    {
-      "content_id": "1540055962",
-      "title": "Sunderland vs Everton",
-      "description": "Watch the live stream of the Premier League 2025/26 match between Sunderland and Everton",
-      "image": "https://img.hotstar.com/image/upload/f_auto,q_90,w_720/sources/r1/cms/prod/479/1762166350479-h",
-      "poster": "https://img.hotstar.com/image/upload/f_auto,q_90,w_720/sources/r1/cms/prod/6107/1762167116107-i",
-      "languages": {
-        "English": "eng"
-      },
-      "tags": [
-        "English",
-        "Football"
-      ],
-      "watch_url": "https://www.hotstar.com/in/sports/football/sunderland-vs-everton/1540055962/video/live/watch",
-      "status": "LIVE",
-      "isLive": true
-    }
-  ]
+  "success": "error",
+  "message": "Error fetching live events",
+  "updatedAt": "4/11/2025, 4:05:13 am",
+  "error": "Cannot read properties of undefined (reading '0')"
 }
