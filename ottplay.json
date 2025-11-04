@@ -1,5 +1,31 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 1,
+  "updatedAt": "04/11/2025, 08:46:06 AM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "137283",
+      "name": "MCC vs Loc",
+      "genre": "horseracing",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/sport_2.jpg",
+        "https://images.ottplay.com/backdrops/sport_3.jpg",
+        "https://images.ottplay.com/backdrops/sport_1.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/default_sports.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    }
+  ]
 }
