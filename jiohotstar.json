@@ -1,25 +1,6 @@
 {
-  "success": true,
-  "message": "Live matches fetched successfully",
-  "total": 1,
-  "updatedAt": "4/11/2025, 5:01:28 pm",
-  "data": [
-    {
-      "content_id": "1540055081",
-      "title": "Tamil Nadu vs Vidarbha: Day 4",
-      "description": "Watch the live stream of Day 4 from the IDFC FIRST Bank Ranji Trophy 2025/26 match between Tamil Nadu and Vidarbha",
-      "image": "https://img.hotstar.com/image/upload/f_auto,q_90,w_720/sources/r1/cms/prod/1268/1762167891268-h",
-      "poster": "https://img.hotstar.com/image/upload/f_auto,q_90,w_720/sources/r1/cms/prod/5695/1762167905695-i",
-      "languages": {
-        "English": "eng"
-      },
-      "tags": [
-        "English",
-        "Cricket"
-      ],
-      "watch_url": "https://www.hotstar.com/in/sports/cricket/tamil-nadu-vs-vidarbha-day-4/1540055081/video/live/watch",
-      "status": "LIVE",
-      "isLive": true
-    }
-  ]
+  "success": "error",
+  "message": "Error fetching live events",
+  "updatedAt": "4/11/2025, 5:13:26 pm",
+  "error": "Cannot read properties of undefined (reading '0')"
 }
