@@ -1,5 +1,58 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 2,
+  "updatedAt": "05/11/2025, 11:07:51 AM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "1090493797",
+      "name": "1st T20I - 5 Nov 2025",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "SonyLIV",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/2e97e6cd7135f81f0c7ecf519fea3940.jpg",
+        "https://images.ottplay.com/images/818805523c6e39b020748922ca2e6335.jpg",
+        "https://images.ottplay.com/images/c162bddfed79a02f32e17f05f1a3054c.jpg",
+        "https://images.ottplay.com/images/f8f007519d1b700ed7d4487d79475f26.jpg",
+        "https://images.ottplay.com/images/3ce0cdead509549edcce11e304c023f5.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/bd7143714681adc96e2e9dea857bc653.jpg"
+      ],
+      "providerInfo": {
+        "id": "5f456c2aff9ccd034434e6fd",
+        "name": "SonyLIV",
+        "hashId": "100dc02b90dfc"
+      }
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "contentId": "137256",
+      "name": "UAE vs NEP",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/e9532c61f60d30fd9bdf760f6ea15e53.jpg",
+        "https://images.ottplay.com/backdrops/b9fa591141d6701d4f86c4be6c8293af.jpg",
+        "https://images.ottplay.com/backdrops/bc5905c27694f3e914b7b1191a8c8753.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/7855b11b02237408ddd9fff37da12e49.jpg",
+        "https://images.ottplay.com/posters/824fe95e100fafbde885279559dbce50.jpg",
+        "https://images.ottplay.com/posters/d5b339b5aa495b5338ea6e13ffa642c1.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    }
+  ]
 }
