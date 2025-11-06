@@ -1,5 +1,29 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 1,
+  "updatedAt": "06/11/2025, 06:45:11 AM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "138011",
+      "name": "INA vs MYN",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/fd53274317305d4ba303759e922c2040.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/4f1c11e02ff9edbf7ea1ab665b514a17.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    }
+  ]
 }
