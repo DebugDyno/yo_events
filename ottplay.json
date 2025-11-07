@@ -1,5 +1,29 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 1,
+  "updatedAt": "07/11/2025, 06:43:29 AM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "137826",
+      "name": "ENG vs UAE",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/8f4fbe8d63dd1a77c2b85d5d33379df9.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/b42df03817d97d759b109f4074ffc548.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    }
+  ]
 }
