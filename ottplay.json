@@ -1,5 +1,73 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 3,
+  "updatedAt": "08/11/2025, 07:11:11 AM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "138014",
+      "name": "TLS vs INA",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/7948ec36f968128e5b81303b7c95e6e8.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/5e78169aaf88fe30e97e6f2cf1f13409.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "contentId": "137836",
+      "name": "IND vs KUW",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/a8b8f66b17a751bb3306c1c1fb232df2.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/8b8416ba169dc47b714a0622fb68fa4e.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 3,
+      "isLive": true,
+      "contentId": "137285",
+      "name": "MCC vs Loc",
+      "genre": "horseracing",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/sport_2.jpg",
+        "https://images.ottplay.com/backdrops/sport_3.jpg",
+        "https://images.ottplay.com/backdrops/sport_1.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/default_sports.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    }
+  ]
 }
