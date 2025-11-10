@@ -1,5 +1,33 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 1,
+  "updatedAt": "10/11/2025, 10:05:37 PM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "1090494411",
+      "name": "Heliovaara/Patten vs Harrison vs King - Group Stage - 10 Nov 2025",
+      "genre": "tennis",
+      "language": "english",
+      "provider": "SonyLIV",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/d7f1e1db2e3c44b2f3525f03ba6a4e6c.jpg",
+        "https://images.ottplay.com/images/fa84e07fd7f97448a4234caf67ebfdc4.jpg",
+        "https://images.ottplay.com/images/604db27b77b13012d2548bb4492d0984.jpg",
+        "https://images.ottplay.com/images/0c3528fcd400803b6af9624cecd768c9.jpg",
+        "https://images.ottplay.com/images/fa0803d234fda6efbeee46ff4653e3b0.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/c7e6bcbb2a9c0276a8f1665ef1ed1407.jpg"
+      ],
+      "providerInfo": {
+        "id": "5f456c2aff9ccd034434e6fd",
+        "name": "SonyLIV",
+        "hashId": "100dc02b90dfc"
+      }
+    }
+  ]
 }
