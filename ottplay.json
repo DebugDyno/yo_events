@@ -1,5 +1,33 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 1,
+  "updatedAt": "12/11/2025, 10:15:12 PM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "1090494424",
+      "name": "Pavic/Arevalo vs King/Harrison  - 12 Nov 2025",
+      "genre": "tennis",
+      "language": "english",
+      "provider": "SonyLIV",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/7713da455a77126d06aa32d94042a406.jpg",
+        "https://images.ottplay.com/images/b405bcd799fdedfdc638f9bbd13fc196.jpg",
+        "https://images.ottplay.com/images/50e2e774fe4ec3bb899b8a20bcf73cc1.jpg",
+        "https://images.ottplay.com/images/7f4b37e6fecc4f9e515f6d112c2b97e6.jpg",
+        "https://images.ottplay.com/images/ce5bb8ae74cdc0b66e32e1bd5fb33d45.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/b4f9aec036c48886cdea73fbd38a7618.jpg"
+      ],
+      "providerInfo": {
+        "id": "5f456c2aff9ccd034434e6fd",
+        "name": "SonyLIV",
+        "hashId": "100dc02b90dfc"
+      }
+    }
+  ]
 }
