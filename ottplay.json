@@ -1,6 +1,148 @@
 {
-  "success": false,
-  "message": "Failed to fetch data",
-  "data": [],
-  "error": "HTTP error! Status: 403"
+  "success": true,
+  "message": "Live matches fetched successfully",
+  "total": 6,
+  "updatedAt": "13/11/2025, 09:04:18 AM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "138237",
+      "name": "BAN vs IRE",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/media/gallery/01920x1080fancodecarousel-2-1763000834.jpg",
+        "https://images.ottplay.com/images/media/gallery/01920x1080fancodecarousel-1762919790.jpg",
+        "https://images.ottplay.com/backdrops/3f510b256e7596f27a282ef453703c02.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/ab8ca69d452e77ea44cd159f7660a43b.jpg",
+        "https://images.ottplay.com/images/media/gallery/0750x1125fancodeposter-2-1763000834.jpg",
+        "https://images.ottplay.com/images/media/gallery/0750x1125fancodeposter-1762919790.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "contentId": "1090494422",
+      "name": "5th T20I - 13 Nov 2025",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "SonyLIV",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/media/gallery/live1920x1080sonylivcarousel-3-1762997671.jpg",
+        "https://images.ottplay.com/images/16c4170fbc58fbca0fa78b01ddfd6370.jpg",
+        "https://images.ottplay.com/images/14c2d7170f9fb166b7239480cd4ffbd4.jpg",
+        "https://images.ottplay.com/images/fbd82c7994416fe242cc08054932a6c4.jpg",
+        "https://images.ottplay.com/images/2b2f99a362c60b92e7211570b5079972.jpg",
+        "https://images.ottplay.com/images/513e736cd6dc4a14d1882552ede8eea9.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/80d42657a462d1433ca582f7d2e4c255.jpg",
+        "https://images.ottplay.com/images/media/gallery/live750x1125sonylivposter-3-1762997670.jpg"
+      ],
+      "providerInfo": {
+        "id": "5f456c2aff9ccd034434e6fd",
+        "name": "SonyLIV",
+        "hashId": "100dc02b90dfc"
+      }
+    },
+    {
+      "id": 3,
+      "isLive": true,
+      "contentId": "1540056008",
+      "name": "Lakshya Sen vs Jason Teh: Round of 16",
+      "genre": "badminton",
+      "language": "english",
+      "provider": "JioHotstar",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/c901e39970a15cbd10d9f1c4a9150437.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/c35d129f654ac1fc9f9515e5f2fdedc5.jpg"
+      ],
+      "providerInfo": {
+        "id": "67977987ed126c0029b9f20c",
+        "name": "JioHotstar",
+        "hashId": "4025a7f67d456"
+      }
+    },
+    {
+      "id": 4,
+      "isLive": true,
+      "contentId": "134025",
+      "name": "WAU vs QUN",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/5222bf89d1590d8ea1949f1056ae1643.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/485daf28b57df57c831d44c5c1d007cb.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 5,
+      "isLive": true,
+      "contentId": "138020",
+      "name": "TLS vs INA",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/c08cd70d42df26cced5171d858436545.jpg",
+        "https://images.ottplay.com/backdrops/7948ec36f968128e5b81303b7c95e6e8.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/3f871a195a484637e97dac81d33f3ca7.jpg",
+        "https://images.ottplay.com/posters/5e78169aaf88fe30e97e6f2cf1f13409.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 6,
+      "isLive": true,
+      "contentId": "1540056008",
+      "name": "BWF Japan Masters: R16",
+      "genre": "badminton",
+      "language": "english",
+      "provider": "JioHotstar",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/52beb1a9c90117edc2645a49c23cacd5.jpg",
+        "https://images.ottplay.com/images/cfa1c17f9960aa43b1deece3194e5c59.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/9b2e057ebaca99f4bff9682298551f8b.jpg",
+        "https://images.ottplay.com/posters/c35d129f654ac1fc9f9515e5f2fdedc5.jpg"
+      ],
+      "providerInfo": {
+        "id": "67977987ed126c0029b9f20c",
+        "name": "JioHotstar",
+        "hashId": "4025a7f67d456"
+      }
+    }
+  ]
 }
