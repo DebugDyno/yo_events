@@ -1,54 +1,6 @@
 {
-  "success": true,
-  "message": "Live matches fetched successfully",
-  "total": 2,
-  "updatedAt": "13/11/2025, 07:11:04 PM",
-  "data": [
-    {
-      "id": 1,
-      "isLive": true,
-      "contentId": "1090494495",
-      "name": "Taylor Fritz vs Alex de Minaur - Group Stage - 13 Nov 2025",
-      "genre": "tennis",
-      "language": "english",
-      "provider": "SonyLIV",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/images/b7409271a11075e8f9a0fc5ae6fbab77.jpg",
-        "https://images.ottplay.com/images/03ef93ccf401296a2c427a1a3f4e3e32.jpg",
-        "https://images.ottplay.com/images/e37e72eb4653d341f3fd9b5af4d1174a.jpg",
-        "https://images.ottplay.com/images/feb92d6b223e22c645d85e6febd8e455.jpg",
-        "https://images.ottplay.com/images/684597ec9056a59cefac8370fe67734f.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/87aa0eb4bd1948f07eaedc7a9a3e1977.jpg"
-      ],
-      "providerInfo": {
-        "id": "5f456c2aff9ccd034434e6fd",
-        "name": "SonyLIV",
-        "hashId": "100dc02b90dfc"
-      }
-    },
-    {
-      "id": 2,
-      "isLive": true,
-      "contentId": "137947",
-      "name": "HCMC vs SL",
-      "genre": "football",
-      "language": "english",
-      "provider": "FanCode",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/backdrops/b703299affb5f3aeea545b0d755859ee.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/d12ddded86b6aafa0be814ac5574a10e.jpg"
-      ],
-      "providerInfo": {
-        "id": "63ce216c483822001ca300a4",
-        "name": "FanCode",
-        "hashId": "c60fe425e3269"
-      }
-    }
-  ]
+  "success": false,
+  "message": "Failed to fetch data",
+  "data": [],
+  "error": "HTTP error! Status: 403"
 }
