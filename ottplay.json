@@ -1,5 +1,29 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 1,
+  "updatedAt": "14/11/2025, 06:25:38 AM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "1540056011",
+      "name": "BWF Japan Masters: QFs",
+      "genre": "badminton",
+      "language": "english",
+      "provider": "JioHotstar",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/e0f35e4e9088d8516cf92ac6ae7c85cd.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/ec06ce21d6aece366e96a4c4cc63ed53.jpg"
+      ],
+      "providerInfo": {
+        "id": "67977987ed126c0029b9f20c",
+        "name": "JioHotstar",
+        "hashId": "4025a7f67d456"
+      }
+    }
+  ]
 }
