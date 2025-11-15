@@ -1,11 +1,32 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 1,
-  "updatedAt": "16/11/2025, 04:18:58 AM",
+  "total": 2,
+  "updatedAt": "16/11/2025, 04:28:05 AM",
   "data": [
     {
       "id": 1,
+      "isLive": true,
+      "contentId": "1540056309",
+      "name": "Adelaide Strikers vs Perth Scorchers",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "JioHotstar",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/04fc7b26a22fa38980ea01feb36c1a8d.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/94502cd8d6460967e38f7f6dddc23d9c.jpg"
+      ],
+      "providerInfo": {
+        "id": "67977987ed126c0029b9f20c",
+        "name": "JioHotstar",
+        "hashId": "4025a7f67d456"
+      }
+    },
+    {
+      "id": 2,
       "isLive": true,
       "contentId": "1540054873",
       "name": "International Skating Union: USA, Day 2",
