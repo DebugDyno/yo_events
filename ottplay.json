@@ -1,5 +1,58 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 2,
+  "updatedAt": "17/11/2025, 07:29:25 PM",
+  "data": [
+    {
+      "id": 2,
+      "isLive": true,
+      "contentId": "1090495083",
+      "name": "Bangladesh A vs Afghanistan A - 17 Nov 2025 - Audio Only",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "SonyLIV",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/2c4329c5740ad1e0e52aaacfc8207da8.jpg",
+        "https://images.ottplay.com/images/67ec9c514da1fd758d75ae3959965df9.jpg",
+        "https://images.ottplay.com/images/7e9e69dfc19d0fe27eca389cddc5a8f6.jpg",
+        "https://images.ottplay.com/images/baf046fe557e94b7c5ea0667c571cf01.jpg",
+        "https://images.ottplay.com/images/15bc7ec3708c0a90998b0978d3556c52.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/049bbd1f134e2946eb45c5c7089ce1e2.jpg"
+      ],
+      "providerInfo": {
+        "id": "5f456c2aff9ccd034434e6fd",
+        "name": "SonyLIV",
+        "hashId": "100dc02b90dfc"
+      }
+    },
+    {
+      "id": 3,
+      "isLive": true,
+      "contentId": "1090495078",
+      "name": "Bangladesh A vs Afghanistan A - 17 Nov 2025",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "SonyLIV",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/b9c8c883a865b7a3c24ee2deeca79461.jpg",
+        "https://images.ottplay.com/images/c24270a0b4e5b3359dae04880690f6a6.jpg",
+        "https://images.ottplay.com/images/18d64d54a76f2ddd6f00d4886956d35d.jpg",
+        "https://images.ottplay.com/images/8c4ed570a772206a2dc57d47b681683d.jpg",
+        "https://images.ottplay.com/images/45e7b537f7b9a1d68be24347cab5f087.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/33583ecfa40fef63af021d632d3f042c.jpg"
+      ],
+      "providerInfo": {
+        "id": "5f456c2aff9ccd034434e6fd",
+        "name": "SonyLIV",
+        "hashId": "100dc02b90dfc"
+      }
+    }
+  ]
 }
