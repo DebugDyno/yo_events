@@ -1,6 +1,121 @@
 {
-  "success": false,
-  "message": "Failed to fetch data",
-  "data": [],
-  "error": "HTTP error! Status: 403"
+  "success": true,
+  "message": "Live matches fetched successfully",
+  "total": 5,
+  "updatedAt": "17/11/2025, 05:11:20 PM",
+  "data": [
+    {
+      "id": 2,
+      "isLive": true,
+      "contentId": "137949",
+      "name": "WJ-W vs NAS-W",
+      "genre": "football",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/36c36d7d18e6c7e10c08ce2936a3b330.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/b7e076a99c765c077a33e66f134fe120.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 3,
+      "isLive": true,
+      "contentId": "138293",
+      "name": "JKB vs KMG",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/7f2df5db34658b59fe667177c0ba0d70.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/043d5f4e7a531294113196e21ef5d2ce.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 4,
+      "isLive": true,
+      "contentId": "1090495073",
+      "name": "Sri Lanka A vs Hong Kong, China - 17 Nov 2025 - Audio Only",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "SonyLIV",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/a281a50ad3fbe1bc2bfdb0bf507b1e9c.jpg",
+        "https://images.ottplay.com/images/e302f3a24f67925068e977bc3503df09.jpg",
+        "https://images.ottplay.com/images/c266ae86f5a8836cedacb427b8837309.jpg",
+        "https://images.ottplay.com/images/b1224e5a5f24dd2505aae502dbe807b9.jpg",
+        "https://images.ottplay.com/images/75212239ce85005f3bc6131fec37e049.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/327f54f6536d8e8c60a1b16ebbdd753b.jpg"
+      ],
+      "providerInfo": {
+        "id": "5f456c2aff9ccd034434e6fd",
+        "name": "SonyLIV",
+        "hashId": "100dc02b90dfc"
+      }
+    },
+    {
+      "id": 5,
+      "isLive": true,
+      "contentId": "1090495066",
+      "name": "Sri Lanka A vs Hong Kong, China - 17 Nov 2025",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "SonyLIV",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/7953d2c945609b73dea32d365c2418e0.jpg",
+        "https://images.ottplay.com/images/4425b8ce380e9c318f1cb0a08b6962dd.jpg",
+        "https://images.ottplay.com/images/f0af5f8187929e55ce75804fa32815be.jpg",
+        "https://images.ottplay.com/images/1ac8f7a3d1dd08e81d97920949cea5df.jpg",
+        "https://images.ottplay.com/images/3874049c7c7eebf32df592ca0d81c1fc.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/b08462f2f6e7fc98e1ded2ce144bd13a.jpg"
+      ],
+      "providerInfo": {
+        "id": "5f456c2aff9ccd034434e6fd",
+        "name": "SonyLIV",
+        "hashId": "100dc02b90dfc"
+      }
+    },
+    {
+      "id": 7,
+      "isLive": true,
+      "contentId": "1540055135",
+      "name": "Madhya Pradesh vs Kerala: Day 2",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "JioHotstar",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/2931d6e2c4a69bcae81b41ba29fedc84.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/318d214bd48d45352121d1fe8c8969bc.jpg"
+      ],
+      "providerInfo": {
+        "id": "67977987ed126c0029b9f20c",
+        "name": "JioHotstar",
+        "hashId": "4025a7f67d456"
+      }
+    }
+  ]
 }
