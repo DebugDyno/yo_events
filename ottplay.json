@@ -1,5 +1,29 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 1,
+  "updatedAt": "18/11/2025, 11:27:12 AM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "138294",
+      "name": "CWR vs KNY",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/f4a72eaa3d58f2d0d0bd3c82f3756be3.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/152d93fa684d115d933ce95cea073177.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    }
+  ]
 }
