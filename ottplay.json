@@ -1,5 +1,31 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 1,
+  "updatedAt": "18/11/2025, 07:54:15 AM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "138008",
+      "name": "INA vs BAH",
+      "genre": "football",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/7876366ec593cf20bf853389125308dd.jpg",
+        "https://images.ottplay.com/backdrops/6dbdc3480c8b1d142812bfd702560c8f.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/3137a072ef7c3cfbbdea4d285c8be9c6.jpg",
+        "https://images.ottplay.com/posters/0558c4882c1a375b307ac325964804ce.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    }
+  ]
 }
