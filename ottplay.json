@@ -1,5 +1,58 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 2,
+  "updatedAt": "19/11/2025, 07:27:47 AM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "138009",
+      "name": "INA vs BAH",
+      "genre": "football",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/aa75827f4b18798b5da5c55aa73d8192.jpg",
+        "https://images.ottplay.com/backdrops/7876366ec593cf20bf853389125308dd.jpg",
+        "https://images.ottplay.com/backdrops/6dbdc3480c8b1d142812bfd702560c8f.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/f60c02431da16411294e4ff7a8da1156.jpg",
+        "https://images.ottplay.com/posters/3137a072ef7c3cfbbdea4d285c8be9c6.jpg",
+        "https://images.ottplay.com/posters/0558c4882c1a375b307ac325964804ce.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "contentId": "1090495305",
+      "name": "2nd ODI - 19 Nov 2025",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "SonyLIV",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/eb2456be2b9440a9193cf418ef97f8c9.jpg",
+        "https://images.ottplay.com/images/c7cfb788115a0d76ee9d7f6a3af93fb0.jpg",
+        "https://images.ottplay.com/images/1777947282310530ceee1d8a7526258a.jpg",
+        "https://images.ottplay.com/images/602211e2f4076cec571693ed74568eb1.jpg",
+        "https://images.ottplay.com/images/a9ba0c73a8084ca8a484a13b29d7f45b.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/7f6c4a7d009809782a171072b9960442.jpg"
+      ],
+      "providerInfo": {
+        "id": "5f456c2aff9ccd034434e6fd",
+        "name": "SonyLIV",
+        "hashId": "100dc02b90dfc"
+      }
+    }
+  ]
 }
