@@ -1,8 +1,8 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 4,
-  "updatedAt": "20/11/2025, 03:25:28 PM",
+  "total": 3,
+  "updatedAt": "20/11/2025, 03:49:44 PM",
   "data": [
     {
       "id": 1,
@@ -30,6 +30,27 @@
     {
       "id": 2,
       "isLive": true,
+      "contentId": "138297",
+      "name": "LBL vs CWR",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/d43dbfdc3dc7fe23f51c8da49b2025ac.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/e5d2c815312febf0352c655df91938a3.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 3,
+      "isLive": true,
       "contentId": "1090495443",
       "name": "PIF Saudi International - Day 2 - 20 Nov 2025",
       "genre": "golf",
@@ -50,48 +71,6 @@
         "id": "5f456c2aff9ccd034434e6fd",
         "name": "SonyLIV",
         "hashId": "100dc02b90dfc"
-      }
-    },
-    {
-      "id": 4,
-      "isLive": true,
-      "contentId": "138087",
-      "name": "SC-W vs UG-W",
-      "genre": "cricket",
-      "language": "english",
-      "provider": "FanCode",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/backdrops/14fc233f45b5e692ab53045d5acafa10.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/719a69a72bb2092dee82144682dbfed8.jpg"
-      ],
-      "providerInfo": {
-        "id": "63ce216c483822001ca300a4",
-        "name": "FanCode",
-        "hashId": "c60fe425e3269"
-      }
-    },
-    {
-      "id": 5,
-      "isLive": true,
-      "contentId": "138074",
-      "name": "NAM-W vs TANW",
-      "genre": "cricket",
-      "language": "english",
-      "provider": "FanCode",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/backdrops/bc872a129df3ff28d7af0361dd7096cf.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/a902bd08bdd54b9c78f10209ff4dc7f7.jpg"
-      ],
-      "providerInfo": {
-        "id": "63ce216c483822001ca300a4",
-        "name": "FanCode",
-        "hashId": "c60fe425e3269"
       }
     }
   ]
