@@ -1,5 +1,29 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 1,
+  "updatedAt": "21/11/2025, 06:10:34 AM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "118486",
+      "name": "F1 HEINEKEN LAS VEGAS GRAND PRIX 2025",
+      "genre": "formula1",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/518c2b80dabe573f09718468d863dfe1.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/7f63500dd7bc5918659bb133b38b792b.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    }
+  ]
 }
