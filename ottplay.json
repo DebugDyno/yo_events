@@ -1,8 +1,8 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 10,
-  "updatedAt": "21/11/2025, 03:29:39 PM",
+  "total": 6,
+  "updatedAt": "21/11/2025, 03:59:14 PM",
   "data": [
     {
       "id": 1,
@@ -34,29 +34,6 @@
     {
       "id": 2,
       "isLive": true,
-      "contentId": "1540056608",
-      "name": "1st Test: Australia vs England, Day 1",
-      "genre": "cricket",
-      "language": "english",
-      "provider": "JioHotstar",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/images/media/gallery/d1live1920x1080jiohotstar-1763695147.jpg",
-        "https://images.ottplay.com/images/11b1bccad500ac3c40714d5c64257a3b.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/24f69dd8571a4c6b6bda5c1caec0e553.jpg",
-        "https://images.ottplay.com/images/media/gallery/d1live750x1125-jiohotstar-1763695146.jpg"
-      ],
-      "providerInfo": {
-        "id": "67977987ed126c0029b9f20c",
-        "name": "JioHotstar",
-        "hashId": "4025a7f67d456"
-      }
-    },
-    {
-      "id": 3,
-      "isLive": true,
       "contentId": "138238",
       "name": "BAN vs IRE",
       "genre": "cricket",
@@ -72,6 +49,27 @@
         "https://images.ottplay.com/posters/98015a421b15c21b22f3ca32a1669b14.jpg",
         "https://images.ottplay.com/images/media/gallery/0750x1125fancodeposter-1763695437.jpg",
         "https://images.ottplay.com/images/media/gallery/0750x1125fancodeposter-1763609660.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 3,
+      "isLive": true,
+      "contentId": "138298",
+      "name": "PKA vs SPR",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/a6dedfd6facec874e1c5d421090c4376.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/7f19be877524e654bd402357a00b5ed8.jpg"
       ],
       "providerInfo": {
         "id": "63ce216c483822001ca300a4",
@@ -114,9 +112,11 @@
       "provider": "JioHotstar",
       "content_type": "sport",
       "image": [
+        "https://images.ottplay.com/images/c45472c1ed8a3c5064a83fc6bb340f2e.jpg",
         "https://images.ottplay.com/images/4f1bc59d923f825ccf998554a44b0a0d.jpg"
       ],
       "posters": [
+        "https://images.ottplay.com/posters/9d591cff828b1694324f8c3412af2be6.jpg",
         "https://images.ottplay.com/posters/02cf6c6bfcde41d0f575f0259a76b253.jpg"
       ],
       "providerInfo": {
@@ -148,90 +148,6 @@
         "id": "5f456c2aff9ccd034434e6fd",
         "name": "SonyLIV",
         "hashId": "100dc02b90dfc"
-      }
-    },
-    {
-      "id": 7,
-      "isLive": true,
-      "contentId": "138076",
-      "name": "UG-W vs NAM-W",
-      "genre": "cricket",
-      "language": "english",
-      "provider": "FanCode",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/backdrops/c2844c82a12b5a6b4e5dc1258f7b58a4.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/0404e9c39efe50d37fb7af34e59949d3.jpg"
-      ],
-      "providerInfo": {
-        "id": "63ce216c483822001ca300a4",
-        "name": "FanCode",
-        "hashId": "c60fe425e3269"
-      }
-    },
-    {
-      "id": 8,
-      "isLive": true,
-      "contentId": "138089",
-      "name": "SC-W vs TANW",
-      "genre": "cricket",
-      "language": "english",
-      "provider": "FanCode",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/backdrops/832310a5fba03d5d7e9907e549491588.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/b0bd00778d88d780cfdc2bca3fb6235b.jpg"
-      ],
-      "providerInfo": {
-        "id": "63ce216c483822001ca300a4",
-        "name": "FanCode",
-        "hashId": "c60fe425e3269"
-      }
-    },
-    {
-      "id": 9,
-      "isLive": true,
-      "contentId": "1540056643",
-      "name": "Rankireddy/Shetty vs Alfian/Fikri: QFs",
-      "genre": "badminton",
-      "language": "english",
-      "provider": "JioHotstar",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/images/c95dc2b372bff200c8134988d0e865a9.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/3a3597d7aae9ae5cac013b3ee56cbc25.jpg"
-      ],
-      "providerInfo": {
-        "id": "67977987ed126c0029b9f20c",
-        "name": "JioHotstar",
-        "hashId": "4025a7f67d456"
-      }
-    },
-    {
-      "id": 10,
-      "isLive": true,
-      "contentId": "1540056643",
-      "name": "BWF Australian Open: QFs",
-      "genre": "badminton",
-      "language": "english",
-      "provider": "JioHotstar",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/images/310c79df6f664a2244dc357911fca770.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/80e11d50bcb1d0deaf0b2c625ad7025c.jpg"
-      ],
-      "providerInfo": {
-        "id": "67977987ed126c0029b9f20c",
-        "name": "JioHotstar",
-        "hashId": "4025a7f67d456"
       }
     }
   ]
