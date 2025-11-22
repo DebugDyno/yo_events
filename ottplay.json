@@ -1,5 +1,29 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 1,
+  "updatedAt": "23/11/2025, 04:24:55 AM",
+  "data": [
+    {
+      "id": 2,
+      "isLive": true,
+      "contentId": "1540056336",
+      "name": "Sydney Thunder vs Melbourne Renegades",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "JioHotstar",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/9ab3b8067587a4b372385203ada5e172.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/259605884f5a6639cad72290a5bd6d89.jpg"
+      ],
+      "providerInfo": {
+        "id": "67977987ed126c0029b9f20c",
+        "name": "JioHotstar",
+        "hashId": "4025a7f67d456"
+      }
+    }
+  ]
 }
