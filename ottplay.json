@@ -1,8 +1,8 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 9,
-  "updatedAt": "23/11/2025, 01:27:49 PM",
+  "total": 8,
+  "updatedAt": "23/11/2025, 01:58:56 PM",
   "data": [
     {
       "id": 1,
@@ -48,6 +48,27 @@
         "https://images.ottplay.com/images/media/gallery/0750x1125fancodeposter-4-1763867877.jpg",
         "https://images.ottplay.com/images/media/gallery/0750x1125fancodeposter-1763695437.jpg",
         "https://images.ottplay.com/images/poster-1763781666.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 3,
+      "isLive": true,
+      "contentId": "138411",
+      "name": "IND vs KOR",
+      "genre": "hockey",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/ef793a7d6995a8c969c6a8189b1688a9.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/1c79c09bdc7e0de209e25b90d62fcaff.jpg"
       ],
       "providerInfo": {
         "id": "63ce216c483822001ca300a4",
@@ -121,27 +142,6 @@
     {
       "id": 7,
       "isLive": true,
-      "contentId": "1540056649",
-      "name": "Lakshya Sen vs Yushi Tanaka: Final",
-      "genre": "badminton",
-      "language": "english",
-      "provider": "JioHotstar",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/images/5f4d38c66decc8da30602c068b1efd85.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/7503f0efc3f212be40305bb4cb94834b.jpg"
-      ],
-      "providerInfo": {
-        "id": "67977987ed126c0029b9f20c",
-        "name": "JioHotstar",
-        "hashId": "4025a7f67d456"
-      }
-    },
-    {
-      "id": 8,
-      "isLive": true,
       "contentId": "134027",
       "name": "QUN vs VCT",
       "genre": "cricket",
@@ -163,7 +163,7 @@
       }
     },
     {
-      "id": 10,
+      "id": 9,
       "isLive": true,
       "contentId": "134028",
       "name": "SAU vs WAU",
@@ -183,29 +183,6 @@
         "id": "63ce216c483822001ca300a4",
         "name": "FanCode",
         "hashId": "c60fe425e3269"
-      }
-    },
-    {
-      "id": 11,
-      "isLive": true,
-      "contentId": "1540056649",
-      "name": "BWF Australian Open: Finals",
-      "genre": "badminton",
-      "language": "english",
-      "provider": "JioHotstar",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/images/a52432b76e592a18566ffabe828fe3bc.jpg",
-        "https://images.ottplay.com/images/d035ac5900b2eed1a6540bf8697cd439.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/7f58aadf504fef3133f7ad3bfb0d2691.jpg",
-        "https://images.ottplay.com/posters/cb5e3ebf459bfe9446a36d133ea09431.jpg"
-      ],
-      "providerInfo": {
-        "id": "67977987ed126c0029b9f20c",
-        "name": "JioHotstar",
-        "hashId": "4025a7f67d456"
       }
     }
   ]
