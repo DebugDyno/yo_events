@@ -1,8 +1,8 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 5,
-  "updatedAt": "25/11/2025, 11:24:30 AM",
+  "total": 4,
+  "updatedAt": "25/11/2025, 11:55:09 AM",
   "data": [
     {
       "id": 1,
@@ -30,6 +30,27 @@
     {
       "id": 2,
       "isLive": true,
+      "contentId": "138458",
+      "name": "MALA vs TL",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/ab3046c797655d0b3e9d52a65383afd3.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/d4d7492b1fddbaa046ed9577ed214bb9.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 3,
+      "isLive": true,
       "contentId": "134028",
       "name": "SAU vs WAU",
       "genre": "cricket",
@@ -51,55 +72,7 @@
       }
     },
     {
-      "id": 3,
-      "isLive": true,
-      "contentId": "138453",
-      "name": "MAS vs BAH",
-      "genre": "cricket",
-      "language": "english",
-      "provider": "FanCode",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/backdrops/bad0b175e8796001d20b7bffd083b578.jpg",
-        "https://images.ottplay.com/backdrops/fe281b59089176e3d88cf89e4e5c7e93.jpg",
-        "https://images.ottplay.com/backdrops/45710eebc421f226bb6c93bc78a15ed3.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/1efb89983dfa9cb22e0c99cf9ce6194d.jpg",
-        "https://images.ottplay.com/posters/6776f08f15f5cef590bd60f0776c37dd.jpg",
-        "https://images.ottplay.com/posters/d5f81c49c41a108d2e5f26afd81f6ff3.jpg"
-      ],
-      "providerInfo": {
-        "id": "63ce216c483822001ca300a4",
-        "name": "FanCode",
-        "hashId": "c60fe425e3269"
-      }
-    },
-    {
-      "id": 4,
-      "isLive": true,
-      "contentId": "134026",
-      "name": "NSW vs TAS",
-      "genre": "cricket",
-      "language": "english",
-      "provider": "FanCode",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/backdrops/a6772c9dc34d91f88a513cfa5e659bbc.jpg",
-        "https://images.ottplay.com/backdrops/e8d84e417672fa61d381437c9adb8d1f.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/c51bccb306aba2b5f161414663f4b3f9.jpg",
-        "https://images.ottplay.com/posters/cda737f897b6c656c62777c8f67b7061.jpg"
-      ],
-      "providerInfo": {
-        "id": "63ce216c483822001ca300a4",
-        "name": "FanCode",
-        "hashId": "c60fe425e3269"
-      }
-    },
-    {
-      "id": 7,
+      "id": 6,
       "isLive": true,
       "contentId": "1540056222",
       "name": "2nd Test: India vs South Africa, Day 4",
