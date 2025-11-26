@@ -1,8 +1,8 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 4,
-  "updatedAt": "26/11/2025, 03:22:45 PM",
+  "total": 3,
+  "updatedAt": "26/11/2025, 03:43:43 PM",
   "data": [
     {
       "id": 1,
@@ -14,10 +14,12 @@
       "provider": "FanCode",
       "content_type": "sport",
       "image": [
+        "https://images.ottplay.com/images/media/gallery/live1920x1080fccarousel-1764150930.jpg",
         "https://images.ottplay.com/backdrops/d9cdd64a4cee1c072ec1141828793f7b.jpg"
       ],
       "posters": [
-        "https://images.ottplay.com/posters/036b4de9cf84ccdee35517d76aedc714.jpg"
+        "https://images.ottplay.com/posters/036b4de9cf84ccdee35517d76aedc714.jpg",
+        "https://images.ottplay.com/images/media/gallery/live750x1125fcposter-1764150930.jpg"
       ],
       "providerInfo": {
         "id": "63ce216c483822001ca300a4",
@@ -27,6 +29,27 @@
     },
     {
       "id": 2,
+      "isLive": true,
+      "contentId": "138304",
+      "name": "BK vs CWR",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/9f17d39484ffd23ef20fe8718366455c.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/bb98623f0e69585ba0bf8b19baaec521.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 3,
       "isLive": true,
       "contentId": "136023",
       "name": "ULS vs BU",
@@ -39,48 +62,6 @@
       ],
       "posters": [
         "https://images.ottplay.com/posters/8d4e0ba9a928562d30fd93250c15fe83.jpg"
-      ],
-      "providerInfo": {
-        "id": "63ce216c483822001ca300a4",
-        "name": "FanCode",
-        "hashId": "c60fe425e3269"
-      }
-    },
-    {
-      "id": 3,
-      "isLive": true,
-      "contentId": "138418",
-      "name": "KOR vs BEL",
-      "genre": "hockey",
-      "language": "english",
-      "provider": "FanCode",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/backdrops/1aea33b5a6b1e2c54327e4d12db697cd.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/5bb679b365282274a53611b41829b4dc.jpg"
-      ],
-      "providerInfo": {
-        "id": "63ce216c483822001ca300a4",
-        "name": "FanCode",
-        "hashId": "c60fe425e3269"
-      }
-    },
-    {
-      "id": 4,
-      "isLive": true,
-      "contentId": "138096",
-      "name": "PN-W vs SC-W",
-      "genre": "cricket",
-      "language": "english",
-      "provider": "FanCode",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/backdrops/51c019db117f7815d5b761e93f575c8f.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/8a08ad3081e99c303a1ad3c26c20157a.jpg"
       ],
       "providerInfo": {
         "id": "63ce216c483822001ca300a4",
