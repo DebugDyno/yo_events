@@ -1,7 +1,35 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 0,
-  "updatedAt": "26/11/2025, 07:58:21 AM",
-  "data": []
+  "total": 3,
+  "updatedAt": "26/11/2025, 09:06:36 AM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "1540056225",
+      "name": "2nd Test: India vs South Africa, Day 5",
+      "genre": "Cricket",
+      "provider": "JioHotstar",
+      "image": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7853/1764067367853-h"
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "contentId": "138095",
+      "name": "Tanzania Women VS United Arab Emirates Women",
+      "genre": "Sports",
+      "provider": "FanCode",
+      "image": "https://images.fancode.com/aig/match/v1/138095_CASACARDS_PARTNER_16_9_1920_1080.png"
+    },
+    {
+      "id": 3,
+      "isLive": true,
+      "contentId": "138079",
+      "name": "Thailand Women VS Uganda Women",
+      "genre": "Sports",
+      "provider": "FanCode",
+      "image": "https://images.fancode.com/aig/match/v1/138079_CASACARDS_PARTNER_16_9_1920_1080.png"
+    }
+  ]
 }
