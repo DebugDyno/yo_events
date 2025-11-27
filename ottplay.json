@@ -1,5 +1,29 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 1,
+  "updatedAt": "27/11/2025, 06:45:30 AM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "138610",
+      "name": "BMW Australian PGA Championship",
+      "genre": "golf",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/e45498f46812cbba1e1f959a2876f0f3.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/2e86eb188154bba8d3486a2dfa50c196.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    }
+  ]
 }
