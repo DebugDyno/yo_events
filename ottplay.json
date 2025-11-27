@@ -1,8 +1,8 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 8,
-  "updatedAt": "27/11/2025, 05:22:28 PM",
+  "total": 6,
+  "updatedAt": "27/11/2025, 05:51:18 PM",
   "data": [
     {
       "id": 1,
@@ -14,6 +14,7 @@
       "provider": "FanCode",
       "content_type": "sport",
       "image": [
+        "https://images.ottplay.com/images/backdrop-1764244526.jpg",
         "https://images.ottplay.com/backdrops/b20de19c25931695c5cbf89aac4c717f.jpg",
         "https://images.ottplay.com/images/media/gallery/01920x1080fancodecarousel-4-1763867878.jpg",
         "https://images.ottplay.com/images/backdrop-1763781690.jpg",
@@ -23,10 +24,8 @@
       ],
       "posters": [
         "https://images.ottplay.com/posters/7e04c55923fc5a87fb8f11c2a64bac21.jpg",
-        "https://images.ottplay.com/posters/98015a421b15c21b22f3ca32a1669b14.jpg",
-        "https://images.ottplay.com/images/media/gallery/0750x1125fancodeposter-4-1763867877.jpg",
-        "https://images.ottplay.com/images/media/gallery/0750x1125fancodeposter-1763695437.jpg",
-        "https://images.ottplay.com/images/poster-1763781666.jpg"
+        "https://images.ottplay.com/images/poster-1764244444.jpg",
+        "https://images.ottplay.com/posters/98015a421b15c21b22f3ca32a1669b14.jpg"
       ],
       "providerInfo": {
         "id": "63ce216c483822001ca300a4",
@@ -36,6 +35,48 @@
     },
     {
       "id": 2,
+      "isLive": true,
+      "contentId": "136148",
+      "name": "CAH vs BEI",
+      "genre": "football",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/81114e21d8bf5ab4a6d6e95fcf87a9e5.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/7d80605a0133eff7087f4dfa96936f3f.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 3,
+      "isLive": true,
+      "contentId": "136184",
+      "name": "TAM vs KAYA",
+      "genre": "football",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/4c31eb71b2a6899fc70663a293746a5b.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/7b918d73f2fef2df09378c47475be27f.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 4,
       "isLive": true,
       "contentId": "138225",
       "name": "VTR vs QQY",
@@ -56,7 +97,7 @@
       }
     },
     {
-      "id": 3,
+      "id": 5,
       "isLive": true,
       "contentId": "138306",
       "name": "JKB vs PKA",
@@ -77,91 +118,7 @@
       }
     },
     {
-      "id": 4,
-      "isLive": true,
-      "contentId": "136160",
-      "name": "RAT vs ND",
-      "genre": "football",
-      "language": "english",
-      "provider": "FanCode",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/backdrops/92d802c0a7452bb2b29b8957f54f26e3.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/9bf1f10d746d29955f11f47f4bac26a9.jpg"
-      ],
-      "providerInfo": {
-        "id": "63ce216c483822001ca300a4",
-        "name": "FanCode",
-        "hashId": "c60fe425e3269"
-      }
-    },
-    {
-      "id": 5,
-      "isLive": true,
-      "contentId": "136183",
-      "name": "PHG vs PNU",
-      "genre": "football",
-      "language": "english",
-      "provider": "FanCode",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/backdrops/be23374768dcadd412f93b0601ab27e2.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/3a285e6ba0b42a39e79cc083a4e1b834.jpg"
-      ],
-      "providerInfo": {
-        "id": "63ce216c483822001ca300a4",
-        "name": "FanCode",
-        "hashId": "c60fe425e3269"
-      }
-    },
-    {
-      "id": 6,
-      "isLive": true,
-      "contentId": "138422",
-      "name": "ML vs BEL",
-      "genre": "hockey",
-      "language": "english",
-      "provider": "FanCode",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/backdrops/7b36bad74a71716a9bd663bf825104a9.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/4fb38ee274dc65b7e394cc8cbfc45aed.jpg"
-      ],
-      "providerInfo": {
-        "id": "63ce216c483822001ca300a4",
-        "name": "FanCode",
-        "hashId": "c60fe425e3269"
-      }
-    },
-    {
       "id": 7,
-      "isLive": true,
-      "contentId": "136159",
-      "name": "ESC vs OSK",
-      "genre": "football",
-      "language": "english",
-      "provider": "FanCode",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/backdrops/33f960dbc5c201b0b5ff874d98dba495.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/42b5b891d0e4c4452ac9ed952d3341cb.jpg"
-      ],
-      "providerInfo": {
-        "id": "63ce216c483822001ca300a4",
-        "name": "FanCode",
-        "hashId": "c60fe425e3269"
-      }
-    },
-    {
-      "id": 8,
       "isLive": true,
       "contentId": "1540057001",
       "name": "TATA WPL 2026: Player Auction",
