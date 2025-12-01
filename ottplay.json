@@ -1,5 +1,35 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 1,
+  "updatedAt": "01/12/2025, 08:40:10 AM",
+  "data": [
+    {
+      "id": 4,
+      "isLive": true,
+      "contentId": "138456",
+      "name": "MAS vs BAH",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/cc3d336db99ca142f4105172a79fa3c0.jpg",
+        "https://images.ottplay.com/backdrops/bad0b175e8796001d20b7bffd083b578.jpg",
+        "https://images.ottplay.com/backdrops/fe281b59089176e3d88cf89e4e5c7e93.jpg",
+        "https://images.ottplay.com/backdrops/45710eebc421f226bb6c93bc78a15ed3.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/8f1241d718b236f5fceaa47f880e9ac8.jpg",
+        "https://images.ottplay.com/posters/1efb89983dfa9cb22e0c99cf9ce6194d.jpg",
+        "https://images.ottplay.com/posters/6776f08f15f5cef590bd60f0776c37dd.jpg",
+        "https://images.ottplay.com/posters/d5f81c49c41a108d2e5f26afd81f6ff3.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    }
+  ]
 }
