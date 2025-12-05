@@ -1,11 +1,34 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 6,
-  "updatedAt": "05/12/2025, 06:41:46 AM",
+  "total": 5,
+  "updatedAt": "05/12/2025, 08:25:51 AM",
   "data": [
     {
       "id": 2,
+      "isLive": true,
+      "contentId": "138615",
+      "name": "Crown Australian Open 2025",
+      "genre": "golf",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/c7f979fbf8c87994d6093df4e7d09578.jpg",
+        "https://images.ottplay.com/backdrops/959c3fbe4caba111dea99bb2b1bac319.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/c86c219a603dbbd5ae80be4e8f044df4.jpg",
+        "https://images.ottplay.com/posters/9ecc1fc08a2a341f4e2b9403d67d2758.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 3,
       "isLive": true,
       "contentId": "134031",
       "name": "SAU vs TAS",
@@ -29,27 +52,6 @@
         "id": "63ce216c483822001ca300a4",
         "name": "FanCode",
         "hashId": "c60fe425e3269"
-      }
-    },
-    {
-      "id": 3,
-      "isLive": true,
-      "contentId": "1540057359",
-      "name": "Melbourne Renegades vs Sydney Sixers",
-      "genre": "cricket",
-      "language": "english",
-      "provider": "JioHotstar",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/images/af6989e9470f78c6c72fc76a9bb096ff.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/bdf40d7fd3e791ce6b8b03c426dcc903.jpg"
-      ],
-      "providerInfo": {
-        "id": "67977987ed126c0029b9f20c",
-        "name": "JioHotstar",
-        "hashId": "4025a7f67d456"
       }
     },
     {
@@ -121,27 +123,6 @@
         "id": "5f456c2aff9ccd034434e6fd",
         "name": "SonyLIV",
         "hashId": "100dc02b90dfc"
-      }
-    },
-    {
-      "id": 7,
-      "isLive": true,
-      "contentId": "1540057416",
-      "name": "FIH Hockey Women's Junior WC 2025: Day 4",
-      "genre": "hockey",
-      "language": "english",
-      "provider": "JioHotstar",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/images/be7b4ba2920d2d7e2bf48c5e09fe095a.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/7f5e1e08bb9436f44009d489ea6d87ad.jpg"
-      ],
-      "providerInfo": {
-        "id": "67977987ed126c0029b9f20c",
-        "name": "JioHotstar",
-        "hashId": "4025a7f67d456"
       }
     }
   ]
