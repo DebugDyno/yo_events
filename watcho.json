@@ -1,11 +1,20 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 14,
-  "updatedAt": "14/12/2025, 06:22:56 PM",
+  "total": 13,
+  "updatedAt": "14/12/2025, 06:51:09 PM",
   "data": [
     {
       "id": 1,
+      "isLive": true,
+      "contentId": "1540057700",
+      "name": "Sunderland vs Newcastle",
+      "genre": "Football",
+      "provider": "JioHotstar",
+      "image": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7928/1765638257928-h"
+    },
+    {
+      "id": 2,
       "isLive": true,
       "contentId": "1540056406",
       "name": "India vs South Africa: 3rd T20I",
@@ -14,31 +23,22 @@
       "image": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2397/1765628622397-h"
     },
     {
-      "id": 2,
+      "id": 3,
       "isLive": true,
       "contentId": "1540058470",
-      "name": "Triveni Continental Kings vs Alpine SG Pipers",
+      "name": "Ganges Grandmasters vs upGrad Mumba Masters",
       "genre": "CHESS",
       "provider": "JioHotstar",
-      "image": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/4307/1765647894307-h"
+      "image": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/5150/1765716645150-h"
     },
     {
-      "id": 3,
+      "id": 4,
       "isLive": true,
       "contentId": "1090497424",
       "name": "LIV",
       "genre": "Football",
       "provider": "Sony Liv",
       "image": "https://d229kpbsb5jevy.cloudfront.net/sony4/videoasset_images/manage_file/1000012312/1765536441245773_Messi_India_Tour25_Mumbai_12dec_landscape_thumb.jpg"
-    },
-    {
-      "id": 4,
-      "isLive": true,
-      "contentId": "1540057930",
-      "name": "England vs Belgium",
-      "genre": "Hockey",
-      "provider": "JioHotstar",
-      "image": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2937/1765629452937-h"
     },
     {
       "id": 5,
@@ -106,15 +106,6 @@
     {
       "id": 12,
       "isLive": true,
-      "contentId": "1090497535",
-      "name": "Sony Sports Ten 5",
-      "genre": "Cricket",
-      "provider": "Sony Liv",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/sony4/videoasset_images/manage_file/1000012363/1765623100348611_AC25_U19_IND_vs_PAK_13dec_ACS_landscape_thumb.jpg"
-    },
-    {
-      "id": 13,
-      "isLive": true,
       "contentId": "1090497528",
       "name": "Sony Sports Ten 5",
       "genre": "Cricket",
@@ -122,7 +113,7 @@
       "image": "https://d229kpbsb5jevy.cloudfront.net/sony4/videoasset_images/manage_file/1000012366/1765628523593836_AC25_U19_UAE_vs_MAS_13dec_Landscape_thumb.jpg"
     },
     {
-      "id": 14,
+      "id": 13,
       "isLive": true,
       "contentId": "138636",
       "name": "MI Emirates VS Sharjah Warriorz",

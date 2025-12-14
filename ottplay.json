@@ -1,8 +1,8 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 20,
-  "updatedAt": "14/12/2025, 06:22:58 PM",
+  "total": 14,
+  "updatedAt": "14/12/2025, 06:51:10 PM",
   "data": [
     {
       "id": 1,
@@ -30,6 +30,27 @@
     {
       "id": 2,
       "isLive": true,
+      "contentId": "1540058470",
+      "name": "Ganges Grandmasters vs upGrad Mumba Masters",
+      "genre": "chess",
+      "language": "english",
+      "provider": "JioHotstar",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/455e83508ac87db2bdab668cdd10c64b.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/178dd17df2fbe020334e2daac5036dfc.jpg"
+      ],
+      "providerInfo": {
+        "id": "67977987ed126c0029b9f20c",
+        "name": "JioHotstar",
+        "hashId": "4025a7f67d456"
+      }
+    },
+    {
+      "id": 3,
+      "isLive": true,
       "contentId": "1540057700",
       "name": "Sunderland vs Newcastle",
       "genre": "football",
@@ -49,7 +70,7 @@
       }
     },
     {
-      "id": 3,
+      "id": 4,
       "isLive": true,
       "contentId": "1540057610",
       "name": "Semi-final: SG Pipers vs Yash Mumbai Eagles",
@@ -70,7 +91,7 @@
       }
     },
     {
-      "id": 4,
+      "id": 5,
       "isLive": true,
       "contentId": "130986",
       "name": "SEV vs RO",
@@ -88,33 +109,6 @@
         "id": "63ce216c483822001ca300a4",
         "name": "FanCode",
         "hashId": "c60fe425e3269"
-      }
-    },
-    {
-      "id": 5,
-      "isLive": true,
-      "contentId": "1090497525",
-      "name": "India U19 vs Pakistan U19 - 14 Dec 2025",
-      "genre": "cricket",
-      "language": "english",
-      "provider": "SonyLIV",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/images/media/gallery/1920x1080carousellive-1765687058.jpg",
-        "https://images.ottplay.com/images/76a9e9cf8537793b0ce1268eb9e58c19.jpg",
-        "https://images.ottplay.com/images/e5fd82c198a0c88bc0e227d6120b92f9.jpg",
-        "https://images.ottplay.com/images/d81906778302f550fad1176297b4df5f.jpg",
-        "https://images.ottplay.com/images/77079cd7a6826943c92946f4282a88de.jpg",
-        "https://images.ottplay.com/images/49a431246f331b63e671cc66268772b5.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/4d7193b3f0b9b4910516e1befb25f866.jpg",
-        "https://images.ottplay.com/images/media/gallery/750x1125posterlive-1765687051.jpg"
-      ],
-      "providerInfo": {
-        "id": "5f456c2aff9ccd034434e6fd",
-        "name": "SonyLIV",
-        "hashId": "100dc02b90dfc"
       }
     },
     {
@@ -239,29 +233,6 @@
     {
       "id": 11,
       "isLive": true,
-      "contentId": "1540057930",
-      "name": "England vs Belgium",
-      "genre": "hockey",
-      "language": "english",
-      "provider": "JioHotstar",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/images/e6e1967088c5d108ff16354347fbd759.jpg",
-        "https://images.ottplay.com/images/c244be648e693d837b9e4856f4509823.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/90264bf5d1b8c8dcfb9dcbf45e4adcd5.jpg",
-        "https://images.ottplay.com/posters/6cf157bbded743c299c5f005a6875cb9.jpg"
-      ],
-      "providerInfo": {
-        "id": "67977987ed126c0029b9f20c",
-        "name": "JioHotstar",
-        "hashId": "4025a7f67d456"
-      }
-    },
-    {
-      "id": 12,
-      "isLive": true,
       "contentId": "1540057548",
       "name": "Madhya Pradesh vs Jharkhand",
       "genre": "cricket",
@@ -281,28 +252,7 @@
       }
     },
     {
-      "id": 13,
-      "isLive": true,
-      "contentId": "0-1-6z5873750",
-      "name": "Jhr Royal City Fc Malda | Murshidabad Vs Northbengal United Fc",
-      "genre": "cricket",
-      "language": "bengali",
-      "provider": "ZEE5",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/images/ac6ae81adda76a949bb58764c1de3e36.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/cd64df41c587ad4df0c17279c9ac6e0f.jpg"
-      ],
-      "providerInfo": {
-        "id": "5f456c2aff9ccd034434e700",
-        "name": "ZEE5",
-        "hashId": "797030683f505"
-      }
-    },
-    {
-      "id": 14,
+      "id": 12,
       "isLive": true,
       "contentId": "0-1-6z5853042",
       "name": "MIE Vs SW",
@@ -325,82 +275,7 @@
       }
     },
     {
-      "id": 15,
-      "isLive": true,
-      "contentId": "1090497535",
-      "name": "India U19 vs Pakistan U19 - 14 Dec 2025 - Audio Only",
-      "genre": "cricket",
-      "language": "english",
-      "provider": "SonyLIV",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/images/b1094b058b6b7ddf7b249a1ba2e4d7d3.jpg",
-        "https://images.ottplay.com/images/432f9c3b57bd8314c1c7a31a9887b8af.jpg",
-        "https://images.ottplay.com/images/89745baa136c77143eb13ee1b38dfe03.jpg",
-        "https://images.ottplay.com/images/3581d811626f53b4d048a60c19a7651e.jpg",
-        "https://images.ottplay.com/images/280eeed83faca1e7f8f10fe7f2881ffe.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/2866c862700377b134817501f849cb03.jpg"
-      ],
-      "providerInfo": {
-        "id": "5f456c2aff9ccd034434e6fd",
-        "name": "SonyLIV",
-        "hashId": "100dc02b90dfc"
-      }
-    },
-    {
-      "id": 16,
-      "isLive": true,
-      "contentId": "1090497532",
-      "name": "India U19 vs Pakistan U19 - 14 Dec 2025",
-      "genre": "cricket",
-      "language": "telugu",
-      "provider": "SonyLIV",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/images/5a853fea5b3e4c6070022fafce13e189.jpg",
-        "https://images.ottplay.com/images/e5fd82c198a0c88bc0e227d6120b92f9.jpg",
-        "https://images.ottplay.com/images/4b8c32db033691b6928ce8b445d14334.jpg",
-        "https://images.ottplay.com/images/afe6cb2ad57dacec3f5053ffccc68de3.jpg",
-        "https://images.ottplay.com/images/ecf485d69e8e61925383bc93544e5da4.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/afdcb6f315b39ae5d297094e428e1442.jpg"
-      ],
-      "providerInfo": {
-        "id": "5f456c2aff9ccd034434e6fd",
-        "name": "SonyLIV",
-        "hashId": "100dc02b90dfc"
-      }
-    },
-    {
-      "id": 17,
-      "isLive": true,
-      "contentId": "1090497531",
-      "name": "India U19 vs Pakistan U19 - 14 Dec 2025",
-      "genre": "cricket",
-      "language": "tamil",
-      "provider": "SonyLIV",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/images/c6e2d6d30094c8a6f68544fc761e4f12.jpg",
-        "https://images.ottplay.com/images/e5fd82c198a0c88bc0e227d6120b92f9.jpg",
-        "https://images.ottplay.com/images/941dd42da86e445c237f7837f8e69527.jpg",
-        "https://images.ottplay.com/images/dcd1f6cdff040f06307c57638dc94560.jpg",
-        "https://images.ottplay.com/images/3859c3f02b0e8f55ab31c22064156a13.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/c84000b6bd03d1103602311c94547912.jpg"
-      ],
-      "providerInfo": {
-        "id": "5f456c2aff9ccd034434e6fd",
-        "name": "SonyLIV",
-        "hashId": "100dc02b90dfc"
-      }
-    },
-    {
-      "id": 18,
+      "id": 14,
       "isLive": true,
       "contentId": "1090497530",
       "name": "UAE U19 vs Malaysia U19 - 13 Dec 2025 - Audio Only",
@@ -425,7 +300,7 @@
       }
     },
     {
-      "id": 19,
+      "id": 15,
       "isLive": true,
       "contentId": "1090497528",
       "name": "UAE U19 vs Malaysia U19 - 14 Dec 2025",
@@ -442,31 +317,6 @@
       ],
       "posters": [
         "https://images.ottplay.com/posters/a9bbee5b6dbcc00f4d533bc36bc817ec.jpg"
-      ],
-      "providerInfo": {
-        "id": "5f456c2aff9ccd034434e6fd",
-        "name": "SonyLIV",
-        "hashId": "100dc02b90dfc"
-      }
-    },
-    {
-      "id": 20,
-      "isLive": true,
-      "contentId": "1090497526",
-      "name": "India U19 vs Pakistan U19 - 14 Dec 2025",
-      "genre": "cricket",
-      "language": "hindi",
-      "provider": "SonyLIV",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/images/dd17585affb41d1a6a3787015c511556.jpg",
-        "https://images.ottplay.com/images/e5fd82c198a0c88bc0e227d6120b92f9.jpg",
-        "https://images.ottplay.com/images/62106b580013a31f76842a661167da6d.jpg",
-        "https://images.ottplay.com/images/ab2b99cd284e42e72c7f0191d29ff79f.jpg",
-        "https://images.ottplay.com/images/effb698d519e29417396e7fecb33d64c.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/71ab00ea0cafa2d205b148f374d4a322.jpg"
       ],
       "providerInfo": {
         "id": "5f456c2aff9ccd034434e6fd",
