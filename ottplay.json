@@ -2,10 +2,33 @@
   "success": true,
   "message": "Live matches fetched successfully",
   "total": 2,
-  "updatedAt": "15/12/2025, 06:58:02 PM",
+  "updatedAt": "15/12/2025, 07:25:52 PM",
   "data": [
     {
       "id": 1,
+      "isLive": true,
+      "contentId": "0-1-6z5853040",
+      "name": "SW Vs GG",
+      "genre": "cricket",
+      "language": "hindi",
+      "provider": "ZEE5",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/a7713a5daa77bc4f0d203a0a4ecc8ff7.jpg",
+        "https://images.ottplay.com/images/b1e06006b3ab03b544823f00ff7b1d6d.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/d644e1d1560c155d20c4248c2885a99e.jpg",
+        "https://images.ottplay.com/posters/f3c3671737cab66335cfab6b30a60d8e.jpg"
+      ],
+      "providerInfo": {
+        "id": "5f456c2aff9ccd034434e700",
+        "name": "ZEE5",
+        "hashId": "797030683f505"
+      }
+    },
+    {
+      "id": 2,
       "isLive": true,
       "contentId": "1540058473",
       "name": "Fyers American Gambits vs upGrad Mumbai Masters",
@@ -29,27 +52,6 @@
         "id": "67977987ed126c0029b9f20c",
         "name": "JioHotstar",
         "hashId": "4025a7f67d456"
-      }
-    },
-    {
-      "id": 2,
-      "isLive": true,
-      "contentId": "0-1-6z5873773",
-      "name": "North 24 Parganas Fc Vs Kopa Tigers Birbhum",
-      "genre": "cricket",
-      "language": "bengali",
-      "provider": "ZEE5",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/images/fc470c8c17ff4691670515e03dc69847.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/2ff2b715beee14b33be09c62a0624c8d.jpg"
-      ],
-      "providerInfo": {
-        "id": "5f456c2aff9ccd034434e700",
-        "name": "ZEE5",
-        "hashId": "797030683f505"
       }
     }
   ]
