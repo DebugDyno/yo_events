@@ -1,7 +1,35 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 0,
-  "updatedAt": "16/12/2025, 07:37:24 AM",
-  "data": []
+  "total": 3,
+  "updatedAt": "16/12/2025, 09:10:42 AM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "1540058444",
+      "name": "Madhya Pradesh vs Punjab",
+      "genre": "Cricket",
+      "provider": "JioHotstar",
+      "image": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7944/1765824297944-h"
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "contentId": "138911",
+      "name": "Anjuman English Allana VS Dyandeep Seva Mandal",
+      "genre": "Sports",
+      "provider": "FanCode",
+      "image": "https://images.fancode.com/aig/match/v1/138911_CASACARDS_PARTNER_16_9_1920_1080.png"
+    },
+    {
+      "id": 3,
+      "isLive": true,
+      "contentId": "138910",
+      "name": "General Education Academy VS Al Barkat",
+      "genre": "Sports",
+      "provider": "FanCode",
+      "image": "https://images.fancode.com/aig/match/v1/138910_CASACARDS_PARTNER_16_9_1920_1080.png"
+    }
+  ]
 }

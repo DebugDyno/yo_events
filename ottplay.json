@@ -1,5 +1,71 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 3,
+  "updatedAt": "16/12/2025, 09:10:43 AM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "1540058444",
+      "name": "Madhya Pradesh vs Punjab",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "JioHotstar",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/a78c80f9af99b5a0c3205023540c0c38.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/9b1b86de2aa1426f965b1c8e6de20ae3.jpg"
+      ],
+      "providerInfo": {
+        "id": "67977987ed126c0029b9f20c",
+        "name": "JioHotstar",
+        "hashId": "4025a7f67d456"
+      }
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "contentId": "138911",
+      "name": "AEA vs DSM",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/0fb6d5b8b8313bf92b907902eeaab2d5.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/f7b09a4553b2fb136176e0c40408717e.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 3,
+      "isLive": true,
+      "contentId": "138910",
+      "name": "GEA vs ALB",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/1cacbd7cbbcafb1af6d6099650b6cceb.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/af55ac37d3b13215940f806203f4c220.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    }
+  ]
 }
