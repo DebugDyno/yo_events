@@ -1,8 +1,8 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 11,
-  "updatedAt": "17/12/2025, 06:31:33 PM",
+  "total": 9,
+  "updatedAt": "17/12/2025, 07:08:08 PM",
   "data": [
     {
       "id": 1,
@@ -14,10 +14,12 @@
       "provider": "JioHotstar",
       "content_type": "sport",
       "image": [
+        "https://images.ottplay.com/images/d5f04e935d5628a1d14967c493afb3fc.jpg",
         "https://images.ottplay.com/images/media/gallery/1920x1080carousellive-1765973609.jpg",
         "https://images.ottplay.com/images/cb5d6f4ded835d3f4164431dd8f72edb.jpg"
       ],
       "posters": [
+        "https://images.ottplay.com/posters/6f97d03f1888e31f8a34083949f7ca90.jpg",
         "https://images.ottplay.com/posters/62b8eaa068cc45b5a42c8cd7727d1303.jpg",
         "https://images.ottplay.com/images/media/gallery/750x1125posterlive-1765973609.jpg"
       ],
@@ -29,6 +31,27 @@
     },
     {
       "id": 2,
+      "isLive": true,
+      "contentId": "138826",
+      "name": "AOS vs GCF",
+      "genre": "teamtennis",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/d0967c5f35f550e425a3fed91f194125.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/4417e0a3cd2d1300294456940b3af29a.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 3,
       "isLive": true,
       "contentId": "1540058479",
       "name": "PBG Alaskan Knights vs UpGrad Mumba Masters",
@@ -49,7 +72,7 @@
       }
     },
     {
-      "id": 3,
+      "id": 4,
       "isLive": true,
       "contentId": "1540058362",
       "name": "Rankireddy/Shetty vs Liang/Wang: Group Stage",
@@ -70,7 +93,7 @@
       }
     },
     {
-      "id": 4,
+      "id": 5,
       "isLive": true,
       "contentId": "1540058479",
       "name": "Fyers American Gambits vs Alpine SG Pipers",
@@ -90,27 +113,6 @@
         "id": "67977987ed126c0029b9f20c",
         "name": "JioHotstar",
         "hashId": "4025a7f67d456"
-      }
-    },
-    {
-      "id": 5,
-      "isLive": true,
-      "contentId": "0-1-6z5873786",
-      "name": "Jhr Royal City Fc Malda | Murshidabad Vs Sundarban Bengal Auto Fc",
-      "genre": "cricket",
-      "language": "bengali",
-      "provider": "ZEE5",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/images/af1ae16cb2eca2bf5983bbe508c0fe56.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/df2f960d1712e3a5f5b6a296054a039f.jpg"
-      ],
-      "providerInfo": {
-        "id": "5f456c2aff9ccd034434e700",
-        "name": "ZEE5",
-        "hashId": "797030683f505"
       }
     },
     {
@@ -158,52 +160,6 @@
     {
       "id": 8,
       "isLive": true,
-      "contentId": "138825",
-      "name": "VBR vs AMK",
-      "genre": "teamtennis",
-      "language": "english",
-      "provider": "FanCode",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/backdrops/2378b55b35b22ac60ff7baad16755713.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/97097d2f2c601e6f07eb362d49b5770b.jpg"
-      ],
-      "providerInfo": {
-        "id": "63ce216c483822001ca300a4",
-        "name": "FanCode",
-        "hashId": "c60fe425e3269"
-      }
-    },
-    {
-      "id": 9,
-      "isLive": true,
-      "contentId": "1090497811",
-      "name": "Bangladesh U19 vs Sri Lanka U19 - 17 Dec 2025",
-      "genre": "cricket",
-      "language": "english",
-      "provider": "SonyLIV",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/images/e72bb00784a2208d9e31b6f6ae0c5a5b.jpg",
-        "https://images.ottplay.com/images/b17ac68c62ac393f92f5406319db473d.jpg",
-        "https://images.ottplay.com/images/2f30f6f3206fd7600da4a609e7bca2e8.jpg",
-        "https://images.ottplay.com/images/ac00cb8a5416255f8d20eeb115807998.jpg",
-        "https://images.ottplay.com/images/346f89863f0b2e7f08c5c08dde3fc689.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/4723c6e45c99802ab521a3e1c7dc7831.jpg"
-      ],
-      "providerInfo": {
-        "id": "5f456c2aff9ccd034434e6fd",
-        "name": "SonyLIV",
-        "hashId": "100dc02b90dfc"
-      }
-    },
-    {
-      "id": 10,
-      "isLive": true,
       "contentId": "1540058362",
       "name": "BWF World Tour Finals: Group Stage, Court 1",
       "genre": "badminton",
@@ -223,7 +179,7 @@
       }
     },
     {
-      "id": 11,
+      "id": 9,
       "isLive": true,
       "contentId": "1540058365",
       "name": "BWF World Tour Finals: Group Stage, Court 2",
