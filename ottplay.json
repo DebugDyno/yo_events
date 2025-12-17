@@ -1,11 +1,32 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 6,
-  "updatedAt": "18/12/2025, 12:29:23 AM",
+  "total": 5,
+  "updatedAt": "18/12/2025, 12:55:55 AM",
   "data": [
     {
       "id": 1,
+      "isLive": true,
+      "contentId": "137983",
+      "name": "MCI vs BRE",
+      "genre": "football",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/61bb9092da478c1819929c867d4796bd.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/8151da70704e144318da493394b48158.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 2,
       "isLive": true,
       "contentId": "138900",
       "name": "ABA vs ATL",
@@ -26,7 +47,7 @@
       }
     },
     {
-      "id": 2,
+      "id": 3,
       "isLive": true,
       "contentId": "138901",
       "name": "ALB vs CEV",
@@ -47,7 +68,7 @@
       }
     },
     {
-      "id": 3,
+      "id": 4,
       "isLive": true,
       "contentId": "138902",
       "name": "HUE vs OSN",
@@ -68,7 +89,7 @@
       }
     },
     {
-      "id": 4,
+      "id": 5,
       "isLive": true,
       "contentId": "138903",
       "name": "RAC vs VIL",
@@ -86,52 +107,6 @@
         "id": "63ce216c483822001ca300a4",
         "name": "FanCode",
         "hashId": "c60fe425e3269"
-      }
-    },
-    {
-      "id": 5,
-      "isLive": true,
-      "contentId": "138899",
-      "name": "CL vs LE",
-      "genre": "football",
-      "language": "english",
-      "provider": "FanCode",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/backdrops/5bb772da7c7d59a8f2aeb3c2b97a6f49.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/6281fbb899af2dc4c5a913caf5eeb12c.jpg"
-      ],
-      "providerInfo": {
-        "id": "63ce216c483822001ca300a4",
-        "name": "FanCode",
-        "hashId": "c60fe425e3269"
-      }
-    },
-    {
-      "id": 6,
-      "isLive": true,
-      "contentId": "0-1-6z5853056",
-      "name": "DC Vs MIE",
-      "genre": "cricket",
-      "language": "hindi",
-      "provider": "ZEE5",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/images/75f525c2af0a38c8776005fe21b8d9ea.jpg",
-        "https://images.ottplay.com/images/media/gallery/live1920x1080-1736579633.jpg",
-        "https://images.ottplay.com/images/dc0c83b646a8369127ea2b95f5e120c8.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/a39901eb23ba1cc33a197ce04f77ee27.jpg",
-        "https://images.ottplay.com/posters/f5ffe07181b25fb9b0dac4481bc2b958.jpg",
-        "https://images.ottplay.com/images/media/gallery/live750x1125-1736579633.jpg"
-      ],
-      "providerInfo": {
-        "id": "5f456c2aff9ccd034434e700",
-        "name": "ZEE5",
-        "hashId": "797030683f505"
       }
     }
   ]
