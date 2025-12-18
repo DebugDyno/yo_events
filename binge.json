@@ -1,6 +1,51 @@
 {
-  "status": "500",
-  "success": false,
-  "message": "Failed to fetch data",
-  "error": "HTTP error! Status: 403"
+  "status": "200",
+  "success": true,
+  "message": "Data fetched successfully",
+  "total": 3,
+  "updatedAt": "18/12/2025, 09:28:20 PM",
+  "data": [
+    {
+      "id": "0-1-6z5853053",
+      "name": "ADKR Vs GG",
+      "tounament": "Watch the live stream of the 19th match of the ongoing DP World ILT20 Season 4 between AD Knight Riders and Gulf Giants",
+      "Portrait_Image": "https://akamaividz2.zee5.com/image/upload/w_1920,h_1080,c_scale/resources/0-1-6z5853053/list_original/1920x1080listba331276aeee484db3d99b13b720f66e6109979af43241d986dbab888feb0ea8.jpg",
+      "Landscape_Image": "https://akamaividz2.zee5.com/image/upload/w_1920,h_1080,c_scale/resources/0-1-6z5853053/list_original/1920x1080listba331276aeee484db3d99b13b720f66e6109979af43241d986dbab888feb0ea8.jpg",
+      "provider": "Zee5",
+      "language": [
+        "Hindi"
+      ],
+      "isLive": true,
+      "metaDetailVerbiage": "Hindi • Sports • U",
+      "genre": "Sports"
+    },
+    {
+      "id": "138641",
+      "name": "Abu Dhabi Knight Riders VS Gulf Giants",
+      "tounament": "DP World ILT20 2025-26",
+      "Portrait_Image": "https://images.fancode.com/aig/match/v1/138641_CASACARDS_PARTNER_2_3_700_1050.png",
+      "Landscape_Image": "https://images.fancode.com/aig/match/v1/138641_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "provider": "FanCode",
+      "language": [
+        "English"
+      ],
+      "isLive": true,
+      "metaDetailVerbiage": "English • Cricket • U",
+      "genre": "Cricket"
+    },
+    {
+      "id": "138726",
+      "name": "Qatar Women VS Oman Women",
+      "tounament": "GCC Women's T20I Championship, 2025",
+      "Portrait_Image": "https://images.fancode.com/aig/match/v1/138726_CASACARDS_PARTNER_2_3_700_1050.png",
+      "Landscape_Image": "https://images.fancode.com/aig/match/v1/138726_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "provider": "FanCode",
+      "language": [
+        "English"
+      ],
+      "isLive": true,
+      "metaDetailVerbiage": "English • Cricket • U",
+      "genre": "Cricket"
+    }
+  ]
 }
