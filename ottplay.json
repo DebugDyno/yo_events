@@ -2,10 +2,79 @@
   "success": true,
   "message": "Live matches fetched successfully",
   "total": 10,
-  "updatedAt": "18/12/2025, 07:49:51 PM",
+  "updatedAt": "18/12/2025, 08:14:04 PM",
   "data": [
     {
       "id": 1,
+      "isLive": true,
+      "contentId": "1540058482",
+      "name": "Ganges Grandmasters vs Fyers American Gambits",
+      "genre": "chess",
+      "language": "english",
+      "provider": "JioHotstar",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/7eec65386405750e628cef5d0c689fc7.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/514a8ee97fa296b16cdd176209459ba5.jpg"
+      ],
+      "providerInfo": {
+        "id": "67977987ed126c0029b9f20c",
+        "name": "JioHotstar",
+        "hashId": "4025a7f67d456"
+      }
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "contentId": "138726",
+      "name": "QAT-W vs OMN-W",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/afeeaa5ca7035e86b0835d32cc6dc820.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/d75446e1d8de0fb264ca57eddbc17ad9.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 3,
+      "isLive": true,
+      "contentId": "138641",
+      "name": "ADKR vs GG",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/media/gallery/01920x1080fancodecarousel-7-1766066277.jpg",
+        "https://images.ottplay.com/backdrops/2cdcca1edf1e9033cd826e9f343057b8.jpg",
+        "https://images.ottplay.com/images/big/ia-1738418353.jpeg",
+        "https://images.ottplay.com/backdrops/eb0daa71042e8a78acc9b835fbfe90ad.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/9b2b5c5ae24346bfbb41ae80c844d000.jpg",
+        "https://images.ottplay.com/images/media/gallery/0750x1125fancodeposter-7-1766066277.jpg",
+        "https://images.ottplay.com/posters/416c1bf79b2c3dcfad21e7dd1b5afd71.jpg",
+        "https://images.ottplay.com/images/media/gallery/abu-dhabi-knight-riders-vs-gulf-giants750x1125fcposter-1738418176.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 4,
       "isLive": true,
       "contentId": "0-1-6z5853053",
       "name": "ADKR Vs GG",
@@ -18,8 +87,7 @@
         "https://images.ottplay.com/images/263838eee8c0432b92a3b47fd4abf6f3.jpg"
       ],
       "posters": [
-        "https://images.ottplay.com/posters/40e0f1b84ffc7c6bad66fb701819a8b9.jpg",
-        "https://images.ottplay.com/posters/49b3900fb7d338c9b116086dfb23027e.jpg"
+        "https://images.ottplay.com/posters/40e0f1b84ffc7c6bad66fb701819a8b9.jpg"
       ],
       "providerInfo": {
         "id": "5f456c2aff9ccd034434e700",
@@ -28,28 +96,7 @@
       }
     },
     {
-      "id": 2,
-      "isLive": true,
-      "contentId": "1540058371",
-      "name": "Rankireddy/Shetty vs Alfian/Fikri",
-      "genre": "badminton",
-      "language": "english",
-      "provider": "JioHotstar",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/images/39f117ad7b54e0cefdfbd6ed46f14263.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/bbe288981ea88b4bc91b8aee42e43e19.jpg"
-      ],
-      "providerInfo": {
-        "id": "67977987ed126c0029b9f20c",
-        "name": "JioHotstar",
-        "hashId": "4025a7f67d456"
-      }
-    },
-    {
-      "id": 3,
+      "id": 5,
       "isLive": true,
       "contentId": "138828",
       "name": "GCF vs VBR",
@@ -70,7 +117,7 @@
       }
     },
     {
-      "id": 4,
+      "id": 6,
       "isLive": true,
       "contentId": "1540058482",
       "name": "Alpine Sg Pipers vs PBG Alaskan Knights",
@@ -92,7 +139,7 @@
       }
     },
     {
-      "id": 5,
+      "id": 7,
       "isLive": true,
       "contentId": "1540058482",
       "name": "upGrad Mumba Masters vs Triveni Continental King",
@@ -114,7 +161,7 @@
       }
     },
     {
-      "id": 6,
+      "id": 8,
       "isLive": true,
       "contentId": "1540058456",
       "name": "Final: Haryana vs Jharkhand",
@@ -139,7 +186,7 @@
       }
     },
     {
-      "id": 7,
+      "id": 9,
       "isLive": true,
       "contentId": "0-1-6z5878233",
       "name": "Challenger- GSPL",
@@ -161,7 +208,7 @@
       }
     },
     {
-      "id": 8,
+      "id": 10,
       "isLive": true,
       "contentId": "0-1-6z5878232",
       "name": "Pro - GSPL",
@@ -179,58 +226,6 @@
         "id": "5f456c2aff9ccd034434e700",
         "name": "ZEE5",
         "hashId": "797030683f505"
-      }
-    },
-    {
-      "id": 9,
-      "isLive": true,
-      "contentId": "1540058368",
-      "name": "BWF World Tour Finals: Group Stage, Court 1",
-      "genre": "badminton",
-      "language": "english",
-      "provider": "JioHotstar",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/images/b1ecdf4b77bc082482d4de4eb965f2c0.jpg",
-        "https://images.ottplay.com/images/0cc09724e7cf676c24ddb459b46d99ef.jpg",
-        "https://images.ottplay.com/images/b15e0990da00c3a37aad42b831c4a561.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/e97c464f83c92aeecb41bf3df06d80a3.jpg",
-        "https://images.ottplay.com/posters/08e8e27e9a04e3b78a0e4df93d68b0aa.jpg",
-        "https://images.ottplay.com/posters/ae42bce2e9d95ad44cfff0544b1ed819.jpg"
-      ],
-      "providerInfo": {
-        "id": "67977987ed126c0029b9f20c",
-        "name": "JioHotstar",
-        "hashId": "4025a7f67d456"
-      }
-    },
-    {
-      "id": 10,
-      "isLive": true,
-      "contentId": "1540058371",
-      "name": "BWF World Tour Finals: Group Stage, Court 2",
-      "genre": "badminton",
-      "language": "english",
-      "provider": "JioHotstar",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/images/81124d10272ebee4999179ffa026bc71.jpg",
-        "https://images.ottplay.com/images/12352602d66b4a6c901042a19c768094.jpg",
-        "https://images.ottplay.com/images/dcf289b6e9bc1969102d5650a589d07a.jpg",
-        "https://images.ottplay.com/images/201f41a3ad1488dffafdb17c316c7343.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/bbe288981ea88b4bc91b8aee42e43e19.jpg",
-        "https://images.ottplay.com/posters/65f64768cdff5e7c41a30b15d126c0da.jpg",
-        "https://images.ottplay.com/posters/7fd371b6b607914b69d03e8462dca86d.jpg",
-        "https://images.ottplay.com/posters/3e436ebbe187cd80343d6d57c38c7cdd.jpg"
-      ],
-      "providerInfo": {
-        "id": "67977987ed126c0029b9f20c",
-        "name": "JioHotstar",
-        "hashId": "4025a7f67d456"
       }
     }
   ]
