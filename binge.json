@@ -1,51 +1,6 @@
 {
-  "status": "200",
-  "success": true,
-  "message": "Data fetched successfully",
-  "total": 3,
-  "updatedAt": "20/12/2025, 01:58:51 AM",
-  "data": [
-    {
-      "id": "0-1-6z5853068",
-      "name": "SW Vs DC",
-      "tounament": "Watch the live stream of the 20th match of the ongoing DP World ILT20 Season 4 between Sharjah Warriorz and Dubai Capitals",
-      "Portrait_Image": "https://akamaividz2.zee5.com/image/upload/w_1920,h_1080,c_scale/resources/0-1-6z5853068/list_original/1920x1080lista9b6c8350b56428e9c0cb24cd36948cbc55d661a8409449ba6bb00f2c7fea4d3.jpg",
-      "Landscape_Image": "https://akamaividz2.zee5.com/image/upload/w_1920,h_1080,c_scale/resources/0-1-6z5853068/list_original/1920x1080lista9b6c8350b56428e9c0cb24cd36948cbc55d661a8409449ba6bb00f2c7fea4d3.jpg",
-      "provider": "Zee5",
-      "language": [
-        "Hindi"
-      ],
-      "isLive": true,
-      "metaDetailVerbiage": "Hindi • Sports • U",
-      "genre": "Sports"
-    },
-    {
-      "id": "130995",
-      "name": "Valencia CF VS RCD Mallorca",
-      "tounament": "LALIGA 2025-26",
-      "Portrait_Image": "https://images.fancode.com/aig/match/v1/130995_CASACARDS_PARTNER_2_3_700_1050.png",
-      "Landscape_Image": "https://images.fancode.com/aig/match/v1/130995_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "provider": "FanCode",
-      "language": [
-        "English"
-      ],
-      "isLive": true,
-      "metaDetailVerbiage": "English • Football • U",
-      "genre": "Football"
-    },
-    {
-      "id": "136985",
-      "name": "Swansea City A.F.C. VS Wrexham A.F.C.",
-      "tounament": "EFL Championship 2025-26",
-      "Portrait_Image": "https://images.fancode.com/aig/match/v1/136985_CASACARDS_PARTNER_2_3_700_1050.png",
-      "Landscape_Image": "https://images.fancode.com/aig/match/v1/136985_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "provider": "FanCode",
-      "language": [
-        "English"
-      ],
-      "isLive": true,
-      "metaDetailVerbiage": "English • Football • U",
-      "genre": "Football"
-    }
-  ]
+  "status": "500",
+  "success": false,
+  "message": "Failed to fetch data",
+  "error": "HTTP error! Status: 403"
 }
