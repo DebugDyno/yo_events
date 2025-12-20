@@ -1,51 +1,6 @@
 {
-  "status": "200",
-  "success": true,
-  "message": "Data fetched successfully",
-  "total": 3,
-  "updatedAt": "20/12/2025, 12:16:50 PM",
-  "data": [
-    {
-      "id": "1540056700",
-      "name": "3rd Test: Australia vs England, Day 4",
-      "tounament": "Watch the live stream of Day 4 from the Ashes 2025/26 3rd Test between Australia and England",
-      "Portrait_Image": "https://img.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/3321/1766140593321-h",
-      "Landscape_Image": "https://img.hotstar.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/3321/1766140593321-h",
-      "provider": "Hotstar",
-      "language": [
-        "English"
-      ],
-      "isLive": true,
-      "metaDetailVerbiage": "English • Sports",
-      "genre": "Sports"
-    },
-    {
-      "id": "1540058380",
-      "name": "BWF World Tour Finals: Semi-finals",
-      "tounament": "Watch the live stream of the semi-final matches of BWF World Tour Finals 2025",
-      "Portrait_Image": "https://img.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/1494/1766176991494-h",
-      "Landscape_Image": "https://img.hotstar.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/1494/1766176991494-h",
-      "provider": "Hotstar",
-      "language": [
-        "English"
-      ],
-      "isLive": true,
-      "metaDetailVerbiage": "English • Sports",
-      "genre": "Sports"
-    },
-    {
-      "id": "138803",
-      "name": "Newcastle Jets VS Sydney FC",
-      "tounament": "A League 2025-26",
-      "Portrait_Image": "https://images.fancode.com/aig/match/v1/138803_CASACARDS_PARTNER_2_3_700_1050.png",
-      "Landscape_Image": "https://images.fancode.com/aig/match/v1/138803_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "provider": "FanCode",
-      "language": [
-        "English"
-      ],
-      "isLive": true,
-      "metaDetailVerbiage": "English • Football • U",
-      "genre": "Football"
-    }
-  ]
+  "status": "500",
+  "success": false,
+  "message": "Failed to fetch data",
+  "error": "HTTP error! Status: 403"
 }
