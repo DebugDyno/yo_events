@@ -1,9 +1,30 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 5,
-  "updatedAt": "23/12/2025, 12:27:57 AM",
+  "total": 4,
+  "updatedAt": "23/12/2025, 12:50:41 AM",
   "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "1540058663",
+      "name": "Fulham vs Nottingham Forest",
+      "genre": "football",
+      "language": "english",
+      "provider": "JioHotstar",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/d29b7590a5c0e24c2b527abdf9cc0ad2.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/f1dc1ab2832fad05881ac3e852122016.jpg"
+      ],
+      "providerInfo": {
+        "id": "67977987ed126c0029b9f20c",
+        "name": "JioHotstar",
+        "hashId": "4025a7f67d456"
+      }
+    },
     {
       "id": 2,
       "isLive": true,
@@ -14,6 +35,7 @@
       "provider": "FanCode",
       "content_type": "sport",
       "image": [
+        "https://images.ottplay.com/backdrops/football.jpg",
         "https://images.ottplay.com/backdrops/c62f9ed20b6ae428790b77b32ed8efd3.jpg"
       ],
       "posters": [
@@ -68,52 +90,6 @@
         "id": "5f456c2aff9ccd034434e700",
         "name": "ZEE5",
         "hashId": "797030683f505"
-      }
-    },
-    {
-      "id": 5,
-      "isLive": true,
-      "contentId": "0-1-6z5853067",
-      "name": "ADKR Vs SW",
-      "genre": "cricket",
-      "language": "hindi",
-      "provider": "ZEE5",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/images/backdrop-1766414084.jpg",
-        "https://images.ottplay.com/images/d6573994cd7e74e9cf759c19580e8f59.jpg",
-        "https://images.ottplay.com/images/70456ba312b1ad281f86a38f2cca629f.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/72b1ba238d0bc25969fb8dfbca9d3ce3.jpg",
-        "https://images.ottplay.com/posters/f4a8e1e60efd4ebda83c178520f8110e.jpg",
-        "https://images.ottplay.com/images/poster-1766414062.jpg"
-      ],
-      "providerInfo": {
-        "id": "5f456c2aff9ccd034434e700",
-        "name": "ZEE5",
-        "hashId": "797030683f505"
-      }
-    },
-    {
-      "id": 6,
-      "isLive": true,
-      "contentId": "138339",
-      "name": "SA vs AGL",
-      "genre": "football",
-      "language": "english",
-      "provider": "FanCode",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/backdrops/86f5c1ba73489b8e0317b110e99959e6.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/f5572e79e6a0461d218bce6ddcbbdd99.jpg"
-      ],
-      "providerInfo": {
-        "id": "63ce216c483822001ca300a4",
-        "name": "FanCode",
-        "hashId": "c60fe425e3269"
       }
     }
   ]
