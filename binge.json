@@ -1,23 +1,6 @@
 {
-  "status": "200",
-  "success": true,
-  "message": "Data fetched successfully",
-  "total": 1,
-  "updatedAt": "22/12/2025, 05:22:55 PM",
-  "data": [
-    {
-      "id": "1540058318",
-      "name": "Sydney Thunder vs Brisbane Heat",
-      "tounament": "Watch the live stream of the Big Bash League 2025/26 match between Sydney Thunder and Brisbane Heat",
-      "Portrait_Image": "https://img.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/2113/1766374832113-h",
-      "Landscape_Image": "https://img.hotstar.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/2113/1766374832113-h",
-      "provider": "Hotstar",
-      "language": [
-        "English"
-      ],
-      "isLive": true,
-      "metaDetailVerbiage": "English • Sports",
-      "genre": "Sports"
-    }
-  ]
+  "status": "500",
+  "success": false,
+  "message": "Failed to fetch data",
+  "error": "HTTP error! Status: 403"
 }
