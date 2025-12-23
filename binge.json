@@ -1,23 +1,6 @@
 {
-  "status": "200",
-  "success": true,
-  "message": "Data fetched successfully",
-  "total": 1,
-  "updatedAt": "23/12/2025, 04:59:55 PM",
-  "data": [
-    {
-      "id": "1540058321",
-      "name": "Adelaide Strikers vs Melbourne Stars",
-      "tounament": "Watch the live stream of the Big Bash League 2025/26 match between Adelaide Strikers and Melbourne Stars",
-      "Portrait_Image": "https://img.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/9717/1766400979717-h",
-      "Landscape_Image": "https://img.hotstar.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/9717/1766400979717-h",
-      "provider": "Hotstar",
-      "language": [
-        "English"
-      ],
-      "isLive": true,
-      "metaDetailVerbiage": "English • Sports",
-      "genre": "Sports"
-    }
-  ]
+  "status": "500",
+  "success": false,
+  "message": "Failed to fetch data",
+  "error": "HTTP error! Status: 403"
 }
