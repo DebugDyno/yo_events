@@ -1,6 +1,32 @@
 {
-  "success": false,
-  "message": "Failed to fetch data",
-  "data": [],
-  "error": "HTTP error! Status: 403"
+  "success": true,
+  "message": "Live matches fetched successfully",
+  "total": 1,
+  "updatedAt": "24/12/2025, 04:56:34 AM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "0-1-6z5861567",
+      "name": "M22L1C",
+      "genre": "cricket",
+      "language": "hindi",
+      "provider": "ZEE5",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/3c5011d76f0b38b4d0e53cf63de344db.jpg",
+        "https://images.ottplay.com/images/898ac3ed707700474df9d069f2ed2c07.jpg",
+        "https://images.ottplay.com/images/0f82a36119bc3b328c33c4b02c5cd012.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/0c8f4b8b4ae6db40e9ede419f929afae.jpg",
+        "https://images.ottplay.com/posters/39908a4b058c1fe4d23b343b76b8f58b.jpg"
+      ],
+      "providerInfo": {
+        "id": "5f456c2aff9ccd034434e700",
+        "name": "ZEE5",
+        "hashId": "797030683f505"
+      }
+    }
+  ]
 }
