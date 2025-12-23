@@ -1,51 +1,6 @@
 {
-  "status": "200",
-  "success": true,
-  "message": "Data fetched successfully",
-  "total": 3,
-  "updatedAt": "23/12/2025, 03:19:43 PM",
-  "data": [
-    {
-      "id": "139142",
-      "name": "129th Harris Shield Cricket Tournament",
-      "tounament": "129th Harris Shield Cricket Tournament",
-      "Portrait_Image": "https://images.fancode.com/aig/match/v1/139142_CASACARDS_PARTNER_2_3_700_1050.png",
-      "Landscape_Image": "https://images.fancode.com/aig/match/v1/139142_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "provider": "FanCode",
-      "language": [
-        "English"
-      ],
-      "isLive": true,
-      "metaDetailVerbiage": "English • Cricket • U",
-      "genre": "Cricket"
-    },
-    {
-      "id": "1540058321",
-      "name": "Adelaide Strikers vs Melbourne Stars",
-      "tounament": "Watch the live stream of the Big Bash League 2025/26 match between Adelaide Strikers and Melbourne Stars",
-      "Portrait_Image": "https://img.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/9717/1766400979717-h",
-      "Landscape_Image": "https://img.hotstar.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/9717/1766400979717-h",
-      "provider": "Hotstar",
-      "language": [
-        "English"
-      ],
-      "isLive": true,
-      "metaDetailVerbiage": "English • Sports",
-      "genre": "Sports"
-    },
-    {
-      "id": "138800",
-      "name": "Melbourne City VS Macarthur",
-      "tounament": "A League 2025-26",
-      "Portrait_Image": "https://images.fancode.com/aig/match/v1/138800_CASACARDS_PARTNER_2_3_700_1050.png",
-      "Landscape_Image": "https://images.fancode.com/aig/match/v1/138800_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "provider": "FanCode",
-      "language": [
-        "English"
-      ],
-      "isLive": true,
-      "metaDetailVerbiage": "English • Football • U",
-      "genre": "Football"
-    }
-  ]
+  "status": "500",
+  "success": false,
+  "message": "Failed to fetch data",
+  "error": "HTTP error! Status: 403"
 }
