@@ -1,5 +1,29 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 1,
+  "updatedAt": "26/12/2025, 04:28:12 AM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "1540056706",
+      "name": "4th Test: Australia vs England, Day 1",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "JioHotstar",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/d80a5b830fb9dbc40e2ea1facc3d68e0.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/9cf5c0c932535c48c721de8e2a47f901.jpg"
+      ],
+      "providerInfo": {
+        "id": "67977987ed126c0029b9f20c",
+        "name": "JioHotstar",
+        "hashId": "4025a7f67d456"
+      }
+    }
+  ]
 }
