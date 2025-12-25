@@ -1,6 +1,23 @@
 {
-  "status": "500",
-  "success": false,
-  "message": "Failed to fetch data",
-  "error": "HTTP error! Status: 403"
+  "status": "200",
+  "success": true,
+  "message": "Data fetched successfully",
+  "total": 1,
+  "updatedAt": "25/12/2025, 11:24:47 AM",
+  "data": [
+    {
+      "id": "139142",
+      "name": "129th Harris Shield Cricket Tournament",
+      "tounament": "129th Harris Shield Cricket Tournament",
+      "Portrait_Image": "https://images.fancode.com/aig/match/v1/139142_CASACARDS_PARTNER_2_3_700_1050.png",
+      "Landscape_Image": "https://images.fancode.com/aig/match/v1/139142_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "provider": "FanCode",
+      "language": [
+        "English"
+      ],
+      "isLive": true,
+      "metaDetailVerbiage": "English • Cricket • U",
+      "genre": "Cricket"
+    }
+  ]
 }
