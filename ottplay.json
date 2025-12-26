@@ -1,5 +1,33 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 1,
+  "updatedAt": "27/12/2025, 04:51:26 AM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "1090498558",
+      "name": "Central Hinds vs Wellington Blaze - 27 Dec 2025",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "SonyLIV",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/a8a2303805763a172a140cafd2a35393.jpg",
+        "https://images.ottplay.com/images/2b77fafabeb43b35caf9401e78bd8237.jpg",
+        "https://images.ottplay.com/images/bde5298416d25f4d6a4dbbbd53a9d633.jpg",
+        "https://images.ottplay.com/images/6b1fb34b4d66378d13b64844ec04847f.jpg",
+        "https://images.ottplay.com/images/a13b258e72ed2e81901832352842536d.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/dd5ecf4d1ca91e0bfe0e24233389e347.jpg"
+      ],
+      "providerInfo": {
+        "id": "5f456c2aff9ccd034434e6fd",
+        "name": "SonyLIV",
+        "hashId": "100dc02b90dfc"
+      }
+    }
+  ]
 }
