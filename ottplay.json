@@ -1,5 +1,33 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 1,
+  "updatedAt": "28/12/2025, 04:48:49 AM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "1090498559",
+      "name": "Otago Sparks vs Canterbury Magicians - 28 Dec 2025",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "SonyLIV",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/87df2e02636a9582f0bf3f47e0499412.jpg",
+        "https://images.ottplay.com/images/36717238e991e0cdfaeadbfe46cd0f2d.jpg",
+        "https://images.ottplay.com/images/cbd7514b949ea25c7faeecb89fe87d0a.jpg",
+        "https://images.ottplay.com/images/5b42be4c49185f99f0411c52a0a32c2a.jpg",
+        "https://images.ottplay.com/images/ae8346bf00b0649d8da4db4147bd4aa8.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/fa44adcdb91e5a5271e931ba19b448e1.jpg"
+      ],
+      "providerInfo": {
+        "id": "5f456c2aff9ccd034434e6fd",
+        "name": "SonyLIV",
+        "hashId": "100dc02b90dfc"
+      }
+    }
+  ]
 }
