@@ -1,11 +1,32 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 2,
-  "updatedAt": "28/12/2025, 08:51:30 AM",
+  "total": 3,
+  "updatedAt": "28/12/2025, 09:57:39 AM",
   "data": [
     {
       "id": 1,
+      "isLive": true,
+      "contentId": "0-1-6z5884825",
+      "name": "Kabaddi Champions League Auction",
+      "genre": "cricket",
+      "language": "hindi",
+      "provider": "ZEE5",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/39c77d8576c2a7f57e880971baa0b2f3.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/131e34c905b48f4501c065462bc08e78.jpg"
+      ],
+      "providerInfo": {
+        "id": "5f456c2aff9ccd034434e700",
+        "name": "ZEE5",
+        "hashId": "797030683f505"
+      }
+    },
+    {
+      "id": 2,
       "isLive": true,
       "contentId": "138733",
       "name": "OV vs CTB",
@@ -26,7 +47,7 @@
       }
     },
     {
-      "id": 2,
+      "id": 3,
       "isLive": true,
       "contentId": "1090498554",
       "name": "Otago Volts vs Canterbury Kings - 28 Dec 2025",
