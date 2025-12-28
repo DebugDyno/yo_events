@@ -1,5 +1,33 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 1,
+  "updatedAt": "29/12/2025, 04:53:21 AM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "1090498586",
+      "name": "Wellington Blaze vs Auckland Hearts - 29 Dec 2025",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "SonyLIV",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/d6090a6f1219ac9096bb56e940e74fdf.jpg",
+        "https://images.ottplay.com/images/20f08845866402553e39d26f70614cbb.jpg",
+        "https://images.ottplay.com/images/56bb2630877b143254ff762a03df240e.jpg",
+        "https://images.ottplay.com/images/a09674114453e83fd9561cb59b8ab27a.jpg",
+        "https://images.ottplay.com/images/bc08b0a7fd4262cf20d24aca1818d5a5.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/e6bd8d0bfa63cc831bf6665208bd39ff.jpg"
+      ],
+      "providerInfo": {
+        "id": "5f456c2aff9ccd034434e6fd",
+        "name": "SonyLIV",
+        "hashId": "100dc02b90dfc"
+      }
+    }
+  ]
 }
