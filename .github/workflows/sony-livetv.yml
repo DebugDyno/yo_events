@@ -1,0 +1,31 @@
+name: Update Sony LiveTV Data
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"   # runs every 12 hours (UTC)
+  workflow_dispatch:        # allow manual trigger
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        
+      - name: Fetch API data
+        run: |
+          curl -s "${{ secrets.SONY_LIVETV_API }}" | jq '.' > sony_livetv.json
+       
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add .
+          if ! git diff --staged --quiet; then
+            TZ=Asia/Kolkata
+            export TZ
+            git commit -m "Update Sony LiveTV data - $(date +"%d/%m/%Y, %I:%M %p IST")"
+            git push
+          else
+            echo "No changes to commit"
+          fi
