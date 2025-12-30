@@ -1,5 +1,33 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 1,
+  "updatedAt": "31/12/2025, 05:01:09 AM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "1090498555",
+      "name": "Northern Brave vs Wellington Blaze - 31 Dec 2025",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "SonyLIV",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/58e5503543e43b448c80bd87964a4519.jpg",
+        "https://images.ottplay.com/images/73b893b36665fa7922bf5663b7fcc1f8.jpg",
+        "https://images.ottplay.com/images/4e57addca18b77e1ff7188c923828442.jpg",
+        "https://images.ottplay.com/images/4865d15ad3c14656f23612100b2b0894.jpg",
+        "https://images.ottplay.com/images/9f5bc30e187f54e6d0acf10aebabc1f5.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/074a410ad9e643e94b8fe2e5a9d83606.jpg"
+      ],
+      "providerInfo": {
+        "id": "5f456c2aff9ccd034434e6fd",
+        "name": "SonyLIV",
+        "hashId": "100dc02b90dfc"
+      }
+    }
+  ]
 }
