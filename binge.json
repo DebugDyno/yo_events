@@ -1,23 +1,6 @@
 {
-  "status": "200",
-  "success": true,
-  "message": "Data fetched successfully",
-  "total": 1,
-  "updatedAt": "30/12/2025, 05:20:04 PM",
-  "data": [
-    {
-      "id": "1540058339",
-      "name": "Sydney Thunder vs Perth Scorchers",
-      "tounament": "Watch the live stream of the Big Bash League 2025/26 match between Sydney Thunder and Perth Scorchers",
-      "Portrait_Image": "https://img.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6825/1767013996825-h",
-      "Landscape_Image": "https://img.hotstar.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/6825/1767013996825-h",
-      "provider": "Hotstar",
-      "language": [
-        "English"
-      ],
-      "isLive": true,
-      "metaDetailVerbiage": "English • Sports",
-      "genre": "Sports"
-    }
-  ]
+  "status": "500",
+  "success": false,
+  "message": "Failed to fetch data",
+  "error": "HTTP error! Status: 403"
 }
