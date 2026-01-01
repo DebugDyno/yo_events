@@ -1,5 +1,54 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 2,
+  "updatedAt": "01/01/2026, 06:43:14 AM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "138769",
+      "name": "CM-W vs CH-W",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/f91d06ef632df2b0c82053908423dcad.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/597d6a47c250c57bf0e4ad44fa304a70.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "contentId": "1090498560",
+      "name": "Canterbury Magicians vs Central Hinds - 1 Jan 2026",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "SonyLIV",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/d2ae1852c225bdcaebb6b5416d82b7d2.jpg",
+        "https://images.ottplay.com/images/b45ad5624f286874ab614a2241f2e4dd.jpg",
+        "https://images.ottplay.com/images/9f5c11792f03d656f6efed0984bab1a5.jpg",
+        "https://images.ottplay.com/images/ae4be968832957fddb1c4cd168370dda.jpg",
+        "https://images.ottplay.com/images/a040992d27ac982f5824c102a6bda29a.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/84bf285c52874d41e000b708406dedd3.jpg"
+      ],
+      "providerInfo": {
+        "id": "5f456c2aff9ccd034434e6fd",
+        "name": "SonyLIV",
+        "hashId": "100dc02b90dfc"
+      }
+    }
+  ]
 }
