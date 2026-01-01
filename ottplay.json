@@ -1,8 +1,8 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 8,
-  "updatedAt": "01/01/2026, 10:22:05 PM",
+  "total": 7,
+  "updatedAt": "01/01/2026, 10:40:36 PM",
   "data": [
     {
       "id": 1,
@@ -30,6 +30,27 @@
     {
       "id": 2,
       "isLive": true,
+      "contentId": "1540059181",
+      "name": "Crystal Palace vs Fulham",
+      "genre": "football",
+      "language": "english",
+      "provider": "JioHotstar",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/5fd9a914a3402550e832a0cf6699308e.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/2dee6b151661fa17aeaf3bcf978726b0.jpg"
+      ],
+      "providerInfo": {
+        "id": "67977987ed126c0029b9f20c",
+        "name": "JioHotstar",
+        "hashId": "4025a7f67d456"
+      }
+    },
+    {
+      "id": 3,
+      "isLive": true,
       "contentId": "0-1-6z5853049",
       "name": "DC Vs ADKR - Eliminator",
       "genre": "cricket",
@@ -49,7 +70,7 @@
       }
     },
     {
-      "id": 3,
+      "id": 4,
       "isLive": true,
       "contentId": "1540059145",
       "name": "Liverpool vs Leeds United",
@@ -70,7 +91,7 @@
       }
     },
     {
-      "id": 4,
+      "id": 5,
       "isLive": true,
       "contentId": "139158",
       "name": "IAI vs RNC",
@@ -91,7 +112,7 @@
       }
     },
     {
-      "id": 5,
+      "id": 6,
       "isLive": true,
       "contentId": "135967",
       "name": "WYM vs CAR",
@@ -112,28 +133,7 @@
       }
     },
     {
-      "id": 6,
-      "isLive": true,
-      "contentId": "136994",
-      "name": "SOU vs MLW",
-      "genre": "football",
-      "language": "english",
-      "provider": "FanCode",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/backdrops/84c82bf5043e663663e55cc08926c1d3.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/2a2453badc9d5b348f11bac57f4bc7d4.jpg"
-      ],
-      "providerInfo": {
-        "id": "63ce216c483822001ca300a4",
-        "name": "FanCode",
-        "hashId": "c60fe425e3269"
-      }
-    },
-    {
-      "id": 7,
+      "id": 8,
       "isLive": true,
       "contentId": "1540058703",
       "name": "Joburg Super Kings vs Durban's Super Giants",
@@ -151,27 +151,6 @@
         "id": "67977987ed126c0029b9f20c",
         "name": "JioHotstar",
         "hashId": "4025a7f67d456"
-      }
-    },
-    {
-      "id": 8,
-      "isLive": true,
-      "contentId": "138925",
-      "name": "RAN vs RAW",
-      "genre": "cricket",
-      "language": "english",
-      "provider": "FanCode",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/backdrops/e0b39b24af642a4d93f0982794743f3f.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/2805059ea0c2cde921ded207f352b923.jpg"
-      ],
-      "providerInfo": {
-        "id": "63ce216c483822001ca300a4",
-        "name": "FanCode",
-        "hashId": "c60fe425e3269"
       }
     }
   ]
