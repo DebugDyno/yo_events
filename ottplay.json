@@ -1,5 +1,54 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 2,
+  "updatedAt": "02/01/2026, 05:03:01 AM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "138770",
+      "name": "AH-W vs WB-W",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/59fa6530440cefdc550adbfaf63a092f.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/df0315da4e44c47f91a81d7363b383e9.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "contentId": "1090498562",
+      "name": "Auckland Hearts vs Wellington Blaze - 2 Jan 2026",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "SonyLIV",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/38064b014dfffef29f4a2c8afdb6b439.jpg",
+        "https://images.ottplay.com/images/1f9373d7600e519c9f8d76a995cca1d5.jpg",
+        "https://images.ottplay.com/images/f5c6cc26d134de9eecf9232898efcbbf.jpg",
+        "https://images.ottplay.com/images/a0a221429b638fc1d6702cd4156d3e3f.jpg",
+        "https://images.ottplay.com/images/f4942f21cea55d4001b1bf8ee9dc05f2.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/4b6211f9215803cc0fae3006111c32c5.jpg"
+      ],
+      "providerInfo": {
+        "id": "5f456c2aff9ccd034434e6fd",
+        "name": "SonyLIV",
+        "hashId": "100dc02b90dfc"
+      }
+    }
+  ]
 }
