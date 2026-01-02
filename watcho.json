@@ -1,35 +1,26 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 3,
-  "updatedAt": "02/01/2026, 07:11:19 AM",
+  "total": 2,
+  "updatedAt": "02/01/2026, 08:50:11 AM",
   "data": [
     {
       "id": 1,
+      "isLive": true,
+      "contentId": "1090498575",
+      "name": "Sony Sports Ten 5",
+      "genre": "Cricket",
+      "provider": "Sony Liv",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/sony4/videoasset_images/manage_file/1000012742/1766777112102152_SuperSmash2526_mens_Auckland_Aces_vs_Wellington_Firebirds_26dec_landscape_thumb.jpg"
+    },
+    {
+      "id": 2,
       "isLive": true,
       "contentId": "1090498763",
       "name": "Sony Sports Ten 5",
       "genre": "Tennis",
       "provider": "Sony Liv",
       "image": "https://d229kpbsb5jevy.cloudfront.net/sony4/videoasset_images/manage_file/1000012824/1767158901179170_UC26_spain_vs_argentina_31dec_landscape_thumb.jpg"
-    },
-    {
-      "id": 2,
-      "isLive": true,
-      "contentId": "1090498562",
-      "name": "Sony Sports Ten 5",
-      "genre": "Cricket",
-      "provider": "Sony Liv",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/sony4/videoasset_images/manage_file/1000012742/1766776883972152_SuperSmash2526_womens_Auckland_Hearts_vs_Wellington_Blaze_26dec_landscape_thumb.jpg"
-    },
-    {
-      "id": 3,
-      "isLive": true,
-      "contentId": "138770",
-      "name": "Auckland Hearts VS Wellington Blaze",
-      "genre": "Sports",
-      "provider": "FanCode",
-      "image": "https://images.fancode.com/aig/match/v1/138770_CASACARDS_PARTNER_16_9_1920_1080.png"
     }
   ]
 }
