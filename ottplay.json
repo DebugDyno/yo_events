@@ -2,10 +2,31 @@
   "success": true,
   "message": "Live matches fetched successfully",
   "total": 6,
-  "updatedAt": "02/01/2026, 08:06:16 PM",
+  "updatedAt": "02/01/2026, 08:21:32 PM",
   "data": [
     {
       "id": 1,
+      "isLive": true,
+      "contentId": "1540058706",
+      "name": "Paarl Royals vs MI Cape Town",
+      "genre": "cricket",
+      "language": "hindi",
+      "provider": "JioHotstar",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/829a787f63a4d233952bf0d9db3bce7f.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/cc061473df8a26afaa6fa950c50f569d.jpg"
+      ],
+      "providerInfo": {
+        "id": "67977987ed126c0029b9f20c",
+        "name": "JioHotstar",
+        "hashId": "4025a7f67d456"
+      }
+    },
+    {
+      "id": 2,
       "isLive": true,
       "contentId": "0-1-6z5853069",
       "name": "MIE Vs ADKAR - Qualifier 2",
@@ -28,7 +49,7 @@
       }
     },
     {
-      "id": 2,
+      "id": 3,
       "isLive": true,
       "contentId": "0-1-6z5882427",
       "name": "Uttar Pradesh Kabaddi League Season 2",
@@ -77,7 +98,7 @@
       }
     },
     {
-      "id": 3,
+      "id": 4,
       "isLive": true,
       "contentId": "138655",
       "name": "MIE vs ADKR",
@@ -98,7 +119,7 @@
       }
     },
     {
-      "id": 4,
+      "id": 5,
       "isLive": true,
       "contentId": "0-1-6z5882427",
       "name": "Uttar Pradesh Kabaddi League Season 2",
@@ -125,7 +146,7 @@
       }
     },
     {
-      "id": 5,
+      "id": 6,
       "isLive": true,
       "contentId": "138927",
       "name": "SYT vs RAN",
@@ -143,31 +164,6 @@
         "id": "63ce216c483822001ca300a4",
         "name": "FanCode",
         "hashId": "c60fe425e3269"
-      }
-    },
-    {
-      "id": 7,
-      "isLive": true,
-      "contentId": "1090498763",
-      "name": "Greece vs Japan - 2 Jan 2026",
-      "genre": "tennis",
-      "language": "english",
-      "provider": "SonyLIV",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/images/9e3442e0c4187184f6f0220a964eb876.jpg",
-        "https://images.ottplay.com/images/bd430ca8c6f0b20df45c540a4ed9286e.jpg",
-        "https://images.ottplay.com/images/15939749715223e19fd64e6829290545.jpg",
-        "https://images.ottplay.com/images/dd6e0d8904717d907c45feb99aedf743.jpg",
-        "https://images.ottplay.com/images/e27a78b22feaf58bbd5adb9de0473ea4.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/1e4858ed7203f9dda0b3025aa98da265.jpg"
-      ],
-      "providerInfo": {
-        "id": "5f456c2aff9ccd034434e6fd",
-        "name": "SonyLIV",
-        "hashId": "100dc02b90dfc"
       }
     }
   ]
