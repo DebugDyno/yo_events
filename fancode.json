@@ -1,7 +1,60 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "total": 0,
-  "updatedAt": "04/01/2026, 04:30:02 AM",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 2,
+  "updatedAt": "04/01/2026, 04:57:05 AM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "name": "Match 13",
+      "tournament": "Women's National Cricket League, 2025-26",
+      "category": "All",
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 133962,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/Women's-National-Cricket-League_old_v1_1758034980139.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/Women's-National-Cricket-League_Sporty_v1_1758034980128.jpg",
+      "teams": [
+        {
+          "name": "Tasmania Women",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TAS@2x.png"
+        },
+        {
+          "name": "Queensland Fire",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-QUF@2x.png"
+        }
+      ],
+      "slug": "tasmania-women-vs-queensland-fire",
+      "tournamentSlug": "womens-national-cricket-league-2025-26",
+      "collectionSlug": "womens-national-cricket-league-2025-26"
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "name": "Match 13",
+      "tournament": "Women's National Cricket League, 2025-26",
+      "category": "Cricket",
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 133962,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/Women's-National-Cricket-League_old_v1_1758034980139.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/Women's-National-Cricket-League_Sporty_v1_1758034980128.jpg",
+      "teams": [
+        {
+          "name": "Tasmania Women",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TAS@2x.png"
+        },
+        {
+          "name": "Queensland Fire",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-QUF@2x.png"
+        }
+      ],
+      "slug": "tasmania-women-vs-queensland-fire",
+      "tournamentSlug": "womens-national-cricket-league-2025-26",
+      "collectionSlug": "womens-national-cricket-league-2025-26"
+    }
+  ]
 }
