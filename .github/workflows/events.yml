@@ -17,6 +17,7 @@ jobs:
           curl -s "${{ secrets.WATCHO_API_URL }}" | jq '.' > watcho.json
           curl -s "${{ secrets.OTTPLAY_API_URL }}" | jq '.' > ottplay.json
           curl -s "${{ secrets.BINGE_API_URL }}" | jq '.' > binge.json
+          curl -s "${{ secrets.FANCODE_API_URL }}" | jq '.' > fancode.json
           
       - name: Commit and push changes
         run: |
