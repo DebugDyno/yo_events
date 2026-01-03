@@ -1,6 +1,163 @@
 {
-  "success": false,
-  "message": "Failed to fetch data",
-  "data": [],
-  "error": "HTTP error! Status: 403"
+  "success": true,
+  "message": "Live matches fetched successfully",
+  "total": 7,
+  "updatedAt": "03/01/2026, 02:13:17 PM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "138817",
+      "name": "MLC vs SYD",
+      "genre": "football",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/1da4093a860bce2f9789c3e324fcb516.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/33a4dedb9a6b235b1c0464c5c347cf1e.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "contentId": "1540058923",
+      "name": "Sydney Thunder vs Hobart Hurricanes",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "JioHotstar",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/13ec522a312552c5cb1fc01469991b69.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/87e2570690e1e5d3c1f0d14ed7837456.jpg"
+      ],
+      "providerInfo": {
+        "id": "67977987ed126c0029b9f20c",
+        "name": "JioHotstar",
+        "hashId": "4025a7f67d456"
+      }
+    },
+    {
+      "id": 3,
+      "isLive": true,
+      "contentId": "1090498764",
+      "name": "Australia vs Norway - 3 Jan 2026",
+      "genre": "tennis",
+      "language": "english",
+      "provider": "SonyLIV",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/dd959f03d58ca3bc5f806e7852df9bf2.jpg",
+        "https://images.ottplay.com/images/64023f9b7f460ea96f13c5ad12ea410f.jpg",
+        "https://images.ottplay.com/images/11489501125cd579ab829c9a48d70bda.jpg",
+        "https://images.ottplay.com/images/35290f6d4741db7327cf6f7320566dbb.jpg",
+        "https://images.ottplay.com/images/f75bf1587d25379c0a4a87f90b00ca4b.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/d296024091ee95f87c596492386fb7de.jpg"
+      ],
+      "providerInfo": {
+        "id": "5f456c2aff9ccd034434e6fd",
+        "name": "SonyLIV",
+        "hashId": "100dc02b90dfc"
+      }
+    },
+    {
+      "id": 4,
+      "isLive": true,
+      "contentId": "0-1-6z5873755",
+      "name": "Northbengal United Fc Vs North 24 Parganas Fc",
+      "genre": "cricket",
+      "language": "bengali",
+      "provider": "ZEE5",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/c33133f883a7c0ac7730361defcdc462.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/d7b340594151aebff8c17a7c1b3b2509.jpg"
+      ],
+      "providerInfo": {
+        "id": "5f456c2aff9ccd034434e700",
+        "name": "ZEE5",
+        "hashId": "797030683f505"
+      }
+    },
+    {
+      "id": 5,
+      "isLive": true,
+      "contentId": "1540059094",
+      "name": "Baroda vs Vidarbha",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "JioHotstar",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/d139176c984bcd87df3b2dc088c574c4.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/b932ac06bd55d7a0008fdd82306a6945.jpg"
+      ],
+      "providerInfo": {
+        "id": "67977987ed126c0029b9f20c",
+        "name": "JioHotstar",
+        "hashId": "4025a7f67d456"
+      }
+    },
+    {
+      "id": 6,
+      "isLive": true,
+      "contentId": "1540059091",
+      "name": "Karnataka vs Tripura",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "JioHotstar",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/1f9152eb6c0b6daaaf33e5e72298c25d.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/6fe40182db7e79caa564f13d059a2a7f.jpg"
+      ],
+      "providerInfo": {
+        "id": "67977987ed126c0029b9f20c",
+        "name": "JioHotstar",
+        "hashId": "4025a7f67d456"
+      }
+    },
+    {
+      "id": 7,
+      "isLive": true,
+      "contentId": "1090498797",
+      "name": "France vs Switzerland - 3 Jan 2026",
+      "genre": "tennis",
+      "language": "english",
+      "provider": "SonyLIV",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/3b6f92d1c2f8b90c77dd9f342851d308.jpg",
+        "https://images.ottplay.com/images/07e66372cc0aefe3ee014190fbd75301.jpg",
+        "https://images.ottplay.com/images/17745b7a9e69ecc2c6d6155557c6702a.jpg",
+        "https://images.ottplay.com/images/631bbc7bf697baba6059ae9760ce2624.jpg",
+        "https://images.ottplay.com/images/15d5a064d46f864ca774bea92af5bab5.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/9c1f74f07ac596ff9224ce54c4583734.jpg"
+      ],
+      "providerInfo": {
+        "id": "5f456c2aff9ccd034434e6fd",
+        "name": "SonyLIV",
+        "hashId": "100dc02b90dfc"
+      }
+    }
+  ]
 }
