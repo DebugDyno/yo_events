@@ -1,6 +1,193 @@
 {
-  "success": false,
-  "message": "Failed to fetch data",
-  "data": [],
-  "error": "HTTP error! Status: 403"
+  "success": true,
+  "message": "Live matches fetched successfully",
+  "total": 8,
+  "updatedAt": "03/01/2026, 04:59:50 PM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "0-1-6z5882427",
+      "name": "Uttar Pradesh Kabaddi League Season 2",
+      "genre": "cricket",
+      "language": "hindi",
+      "provider": "ZEE5",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/91e493d3fa5718685d3464075af1d84f.jpg",
+        "https://images.ottplay.com/images/36baa4ca72a3d0b3f4c630a7905aa7d7.jpg",
+        "https://images.ottplay.com/images/9c195bcbdd0e1e07e8783ab36002eccb.jpg",
+        "https://images.ottplay.com/images/c62669d39b433c4107d904b128966cc6.jpg",
+        "https://images.ottplay.com/images/708bcb5bb7c9b95d6eb4d9d9b4a78d4c.jpg",
+        "https://images.ottplay.com/images/b7f38d91d000ca913f081ce987cb7e48.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/5eebcaa6177b501cbbf280b418d45c3e.jpg",
+        "https://images.ottplay.com/posters/1429ebd308e06f91fee2dd23645e70fc.jpg",
+        "https://images.ottplay.com/posters/23553c03b4ac238686e576d3f90a1153.jpg",
+        "https://images.ottplay.com/posters/d64a8c7fc0b8674c3b39807bb175529b.jpg",
+        "https://images.ottplay.com/posters/bd3fa83e166aff01cc04e56583ac90db.jpg"
+      ],
+      "providerInfo": {
+        "id": "5f456c2aff9ccd034434e700",
+        "name": "ZEE5",
+        "hashId": "797030683f505"
+      }
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "contentId": "1540059151",
+      "name": "Aston Villa vs Nottingham Forest",
+      "genre": "football",
+      "language": "english",
+      "provider": "JioHotstar",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/d7872ed5aec9bfc62100c914aec78897.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/cd12186da47485bc976169d4a10dd0b9.jpg"
+      ],
+      "providerInfo": {
+        "id": "67977987ed126c0029b9f20c",
+        "name": "JioHotstar",
+        "hashId": "4025a7f67d456"
+      }
+    },
+    {
+      "id": 3,
+      "isLive": true,
+      "contentId": "1540058709",
+      "name": "Joburg Super Kings vs Sunrisers Eastern Cape",
+      "genre": "cricket",
+      "language": "hindi",
+      "provider": "JioHotstar",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/f49a76fb8b3f7ff5917c1ae01cf8cbdc.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/9611c632043d87c181c28ff6a60ad6c5.jpg"
+      ],
+      "providerInfo": {
+        "id": "67977987ed126c0029b9f20c",
+        "name": "JioHotstar",
+        "hashId": "4025a7f67d456"
+      }
+    },
+    {
+      "id": 4,
+      "isLive": true,
+      "contentId": "139295",
+      "name": "OWR vs OWB",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/2ab95a87f2512ded7ceb7ed462f442f8.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/c52784bc2bb83bb5f5084a7d0474a149.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 5,
+      "isLive": true,
+      "contentId": "1090498797",
+      "name": "USA vs Argentina - 3 Jan 2026",
+      "genre": "tennis",
+      "language": "english",
+      "provider": "SonyLIV",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/0e4b86a7490c69e7ad100eef0dfd2444.jpg",
+        "https://images.ottplay.com/images/9544b0fb21cd7a6d92baa7b49eae84a1.jpg",
+        "https://images.ottplay.com/images/c6448d7f9a284039da866fcc9c7d5629.jpg",
+        "https://images.ottplay.com/images/a760a9cbd20afe2ff3b5b0f7ba46bed3.jpg",
+        "https://images.ottplay.com/images/783fa22e61b9f7985b9842614dc2b252.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/7ae66266ba60b551e1753e1ab81d88b1.jpg"
+      ],
+      "providerInfo": {
+        "id": "5f456c2aff9ccd034434e6fd",
+        "name": "SonyLIV",
+        "hashId": "100dc02b90dfc"
+      }
+    },
+    {
+      "id": 6,
+      "isLive": true,
+      "contentId": "1540058923",
+      "name": "Sydney Thunder vs Hobart Hurricanes",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "JioHotstar",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/13ec522a312552c5cb1fc01469991b69.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/87e2570690e1e5d3c1f0d14ed7837456.jpg"
+      ],
+      "providerInfo": {
+        "id": "67977987ed126c0029b9f20c",
+        "name": "JioHotstar",
+        "hashId": "4025a7f67d456"
+      }
+    },
+    {
+      "id": 7,
+      "isLive": true,
+      "contentId": "1090498764",
+      "name": "Australia vs Norway - 3 Jan 2026",
+      "genre": "tennis",
+      "language": "english",
+      "provider": "SonyLIV",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/dd959f03d58ca3bc5f806e7852df9bf2.jpg",
+        "https://images.ottplay.com/images/64023f9b7f460ea96f13c5ad12ea410f.jpg",
+        "https://images.ottplay.com/images/11489501125cd579ab829c9a48d70bda.jpg",
+        "https://images.ottplay.com/images/35290f6d4741db7327cf6f7320566dbb.jpg",
+        "https://images.ottplay.com/images/f75bf1587d25379c0a4a87f90b00ca4b.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/d296024091ee95f87c596492386fb7de.jpg"
+      ],
+      "providerInfo": {
+        "id": "5f456c2aff9ccd034434e6fd",
+        "name": "SonyLIV",
+        "hashId": "100dc02b90dfc"
+      }
+    },
+    {
+      "id": 8,
+      "isLive": true,
+      "contentId": "1540059091",
+      "name": "Karnataka vs Tripura",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "JioHotstar",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/1f9152eb6c0b6daaaf33e5e72298c25d.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/6fe40182db7e79caa564f13d059a2a7f.jpg"
+      ],
+      "providerInfo": {
+        "id": "67977987ed126c0029b9f20c",
+        "name": "JioHotstar",
+        "hashId": "4025a7f67d456"
+      }
+    }
+  ]
 }
