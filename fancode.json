@@ -1,11 +1,37 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 2,
-  "updatedAt": "04/01/2026, 05:29:43 AM",
+  "total": 4,
+  "updatedAt": "04/01/2026, 08:04:18 AM",
   "data": [
     {
       "id": 1,
+      "isLive": true,
+      "name": "Match 10",
+      "tournament": "Women's Super Smash, 2025-26",
+      "category": "All",
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 138772,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/138772_5801_NB-W_OS-W_fc-web_1766596522204.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/138772_5801_NB-W_OS-W_fc-app_1766596319029.jpg",
+      "teams": [
+        {
+          "name": "Northern Brave Women",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/NB-W-CR1@2x.png"
+        },
+        {
+          "name": "Otago Sparks",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-OSW@2x.png"
+        }
+      ],
+      "slug": "northern-brave-women-vs-otago-sparks",
+      "tournamentSlug": "womens-super-smash-2025-26",
+      "collectionSlug": "womens-super-smash-2025-26"
+    },
+    {
+      "id": 2,
       "isLive": true,
       "name": "Match 13",
       "tournament": "Women's National Cricket League, 2025-26",
@@ -31,7 +57,33 @@
       "collectionSlug": "womens-national-cricket-league-2025-26"
     },
     {
-      "id": 2,
+      "id": 3,
+      "isLive": true,
+      "name": "Match 10",
+      "tournament": "Women's Super Smash, 2025-26",
+      "category": "Cricket",
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 138772,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/138772_5801_NB-W_OS-W_fc-web_1766596522204.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/138772_5801_NB-W_OS-W_fc-app_1766596319029.jpg",
+      "teams": [
+        {
+          "name": "Northern Brave Women",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/NB-W-CR1@2x.png"
+        },
+        {
+          "name": "Otago Sparks",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-OSW@2x.png"
+        }
+      ],
+      "slug": "northern-brave-women-vs-otago-sparks",
+      "tournamentSlug": "womens-super-smash-2025-26",
+      "collectionSlug": "womens-super-smash-2025-26"
+    },
+    {
+      "id": 4,
       "isLive": true,
       "name": "Match 13",
       "tournament": "Women's National Cricket League, 2025-26",
