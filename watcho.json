@@ -1,11 +1,20 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 8,
-  "updatedAt": "04/01/2026, 07:31:30 PM",
+  "total": 7,
+  "updatedAt": "04/01/2026, 07:57:45 PM",
   "data": [
     {
       "id": 1,
+      "isLive": true,
+      "contentId": "1540059163",
+      "name": "Fulham vs Liverpool",
+      "genre": "Football",
+      "provider": "JioHotstar",
+      "image": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/5587/1767444955587-h"
+    },
+    {
+      "id": 2,
       "isLive": true,
       "contentId": "1540058715",
       "name": "MI Cape Town vs Paarl Royals",
@@ -14,22 +23,13 @@
       "image": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/6657/1767443516657-h"
     },
     {
-      "id": 2,
+      "id": 3,
       "isLive": true,
       "contentId": "1540059160",
       "name": "Leeds United vs Manchester United",
       "genre": "Football",
       "provider": "JioHotstar",
       "image": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/867/1767444410867-h"
-    },
-    {
-      "id": 3,
-      "isLive": true,
-      "contentId": "1540058929",
-      "name": "Perth Scorchers vs Adelaide Strikers",
-      "genre": "Cricket",
-      "provider": "JioHotstar",
-      "image": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/58/1767442840058-h"
     },
     {
       "id": 4,
@@ -60,15 +60,6 @@
     },
     {
       "id": 7,
-      "isLive": true,
-      "contentId": "136995",
-      "name": "Birmingham City F.C. VS Coventry City Football Club",
-      "genre": "Sports",
-      "provider": "FanCode",
-      "image": "https://images.fancode.com/aig/match/v1/136995_CASACARDS_PARTNER_16_9_1920_1080.png"
-    },
-    {
-      "id": 8,
       "isLive": true,
       "contentId": "131006",
       "name": "Sevilla FC VS Levante",
