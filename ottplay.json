@@ -1,5 +1,29 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 1,
+  "updatedAt": "05/01/2026, 04:21:26 AM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "1540056724",
+      "name": "5th Test: Australia vs England, Day 2",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "JioHotstar",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/4692ccbc61977d202e335464cb1af6c4.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/0cd37716ce1aa4a9bed205b3d93899f0.jpg"
+      ],
+      "providerInfo": {
+        "id": "67977987ed126c0029b9f20c",
+        "name": "JioHotstar",
+        "hashId": "4025a7f67d456"
+      }
+    }
+  ]
 }
