@@ -1,6 +1,50 @@
 {
-  "success": false,
-  "message": "Failed to fetch data",
-  "data": [],
-  "error": "HTTP error! Status: 403"
+  "success": true,
+  "message": "Live matches fetched successfully",
+  "total": 2,
+  "updatedAt": "05/01/2026, 03:24:42 AM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "138915",
+      "name": "COR vs CDZ",
+      "genre": "football",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/7ab402d2401e5cf15df667d22fc523aa.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/adc23a72b24b447e13e2b2373918dd22.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "contentId": "131001",
+      "name": "RS vs ATL",
+      "genre": "football",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/3bc92e8056d5a9165e89284180e00177.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/6c2b0dd3e64ed5b07983210b3e6825d3.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    }
+  ]
 }
