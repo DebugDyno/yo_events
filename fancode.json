@@ -1,8 +1,8 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 6,
-  "updatedAt": "05/01/2026, 12:28:56 AM",
+  "total": 8,
+  "updatedAt": "05/01/2026, 12:51:39 AM",
   "data": [
     {
       "id": 1,
@@ -85,6 +85,32 @@
     {
       "id": 4,
       "isLive": true,
+      "name": "Match 39",
+      "tournament": "Africa Cup of Nations 2025-26",
+      "category": "All",
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 138383,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/South-Africa-vs-Cameroon_fc-web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/South-Africa-vs-Cameroon_fc-app.jpg",
+      "teams": [
+        {
+          "name": "South Africa",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-RSA@2x.png"
+        },
+        {
+          "name": "Cameroon",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-CAME@2x.png"
+        }
+      ],
+      "slug": "south-africa-vs-cameroon",
+      "tournamentSlug": "africa-cup-of-nations-2025-26",
+      "collectionSlug": "africa-cup-of-nations-2025-26"
+    },
+    {
+      "id": 5,
+      "isLive": true,
       "name": "Match 173",
       "tournament": "LALIGA 2025-26",
       "category": "Football",
@@ -109,7 +135,7 @@
       "collectionSlug": "laliga-2025-26"
     },
     {
-      "id": 5,
+      "id": 6,
       "isLive": true,
       "name": "Match 175",
       "tournament": "LALIGA 2025-26",
@@ -135,7 +161,7 @@
       "collectionSlug": "laliga-2025-26"
     },
     {
-      "id": 6,
+      "id": 7,
       "isLive": true,
       "name": "Unknown Match",
       "tournament": "Roshn Saudi League 2025-2026",
@@ -159,6 +185,32 @@
       "slug": "damac-vs-al-hilal-sfc",
       "tournamentSlug": "roshn-saudi-league-2025-2026",
       "collectionSlug": "roshn-saudi-league-2025-2026"
+    },
+    {
+      "id": 8,
+      "isLive": true,
+      "name": "Match 39",
+      "tournament": "Africa Cup of Nations 2025-26",
+      "category": "Football",
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 138383,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/South-Africa-vs-Cameroon_fc-web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/South-Africa-vs-Cameroon_fc-app.jpg",
+      "teams": [
+        {
+          "name": "South Africa",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-RSA@2x.png"
+        },
+        {
+          "name": "Cameroon",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-CAME@2x.png"
+        }
+      ],
+      "slug": "south-africa-vs-cameroon",
+      "tournamentSlug": "africa-cup-of-nations-2025-26",
+      "collectionSlug": "africa-cup-of-nations-2025-26"
     }
   ]
 }
