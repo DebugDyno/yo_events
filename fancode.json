@@ -1,34 +1,34 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 4,
-  "updatedAt": "04/01/2026, 09:33:28 AM",
+  "total": 8,
+  "updatedAt": "04/01/2026, 10:24:18 AM",
   "data": [
     {
       "id": 1,
       "isLive": true,
       "name": "Match 10",
-      "tournament": "Women's Super Smash, 2025-26",
+      "tournament": "Super Smash, 2025-26",
       "category": "All",
       "status": "LIVE",
       "streamingStatus": "STARTED",
-      "matchId": 138772,
+      "matchId": 138740,
       "streamType": "PAID",
-      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/138772_5801_NB-W_OS-W_fc-web_1766596522204.jpg",
-      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/138772_5801_NB-W_OS-W_fc-app_1766596319029.jpg",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/138740_5800_ND_OV_fc-web_1766641250979.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/138740_5800_ND_OV_fc-app_1766641291638.jpg",
       "teams": [
         {
-          "name": "Northern Brave Women",
+          "name": "Northern Districts",
           "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/NB-W-CR1@2x.png"
         },
         {
-          "name": "Otago Sparks",
-          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-OSW@2x.png"
+          "name": "Otago Volts",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-VOLT@2x.png"
         }
       ],
-      "slug": "northern-brave-women-vs-otago-sparks",
-      "tournamentSlug": "womens-super-smash-2025-26",
-      "collectionSlug": "womens-super-smash-2025-26"
+      "slug": "northern-districts-vs-otago-volts",
+      "tournamentSlug": "super-smash-2025-26",
+      "collectionSlug": "super-smash-2025-26"
     },
     {
       "id": 2,
@@ -59,31 +59,83 @@
     {
       "id": 3,
       "isLive": true,
-      "name": "Match 10",
-      "tournament": "Women's Super Smash, 2025-26",
-      "category": "Cricket",
+      "name": "Show Court 1 - Day 1",
+      "tournament": "ATP 250 - Brisbane",
+      "category": "All",
       "status": "LIVE",
       "streamingStatus": "STARTED",
-      "matchId": 138772,
+      "matchId": 139185,
       "streamType": "PAID",
-      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/138772_5801_NB-W_OS-W_fc-web_1766596522204.jpg",
-      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/138772_5801_NB-W_OS-W_fc-app_1766596319029.jpg",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/ATP_Brisbane__FC-Web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/ATP_Brisbane_2026_Sporty_match-card_03.jpg",
       "teams": [
         {
-          "name": "Northern Brave Women",
-          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/NB-W-CR1@2x.png"
+          "name": "Show Court 1 - Day 1",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png"
         },
         {
-          "name": "Otago Sparks",
-          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-OSW@2x.png"
+          "name": "Show Court 1, Brisbane",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png"
         }
       ],
-      "slug": "northern-brave-women-vs-otago-sparks",
-      "tournamentSlug": "womens-super-smash-2025-26",
-      "collectionSlug": "womens-super-smash-2025-26"
+      "slug": "show-court-1-day-1",
+      "tournamentSlug": "atp-250-brisbane",
+      "collectionSlug": "atp-250-brisbane"
     },
     {
       "id": 4,
+      "isLive": true,
+      "name": "Pat Rafter Arena - Day 1",
+      "tournament": "ATP 250 - Brisbane",
+      "category": "All",
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 139184,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/ATP_Brisbane__FC-Web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/ATP_Brisbane_2026_Sporty_match-card_03.jpg",
+      "teams": [
+        {
+          "name": "Pat Rafter Arena - Day 1",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png"
+        },
+        {
+          "name": "Rafter Arena, Brisbane",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "pat-rafter-arena-day-1",
+      "tournamentSlug": "atp-250-brisbane",
+      "collectionSlug": "atp-250-brisbane"
+    },
+    {
+      "id": 5,
+      "isLive": true,
+      "name": "Match 10",
+      "tournament": "Super Smash, 2025-26",
+      "category": "Cricket",
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 138740,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/138740_5800_ND_OV_fc-web_1766641250979.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/138740_5800_ND_OV_fc-app_1766641291638.jpg",
+      "teams": [
+        {
+          "name": "Northern Districts",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/NB-W-CR1@2x.png"
+        },
+        {
+          "name": "Otago Volts",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-VOLT@2x.png"
+        }
+      ],
+      "slug": "northern-districts-vs-otago-volts",
+      "tournamentSlug": "super-smash-2025-26",
+      "collectionSlug": "super-smash-2025-26"
+    },
+    {
+      "id": 6,
       "isLive": true,
       "name": "Match 13",
       "tournament": "Women's National Cricket League, 2025-26",
@@ -107,6 +159,58 @@
       "slug": "tasmania-women-vs-queensland-fire",
       "tournamentSlug": "womens-national-cricket-league-2025-26",
       "collectionSlug": "womens-national-cricket-league-2025-26"
+    },
+    {
+      "id": 7,
+      "isLive": true,
+      "name": "Show Court 1 - Day 1",
+      "tournament": "ATP 250 - Brisbane",
+      "category": "Tennis",
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 139185,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/ATP_Brisbane__FC-Web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/ATP_Brisbane_2026_Sporty_match-card_03.jpg",
+      "teams": [
+        {
+          "name": "Show Court 1 - Day 1",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png"
+        },
+        {
+          "name": "Show Court 1, Brisbane",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "show-court-1-day-1",
+      "tournamentSlug": "atp-250-brisbane",
+      "collectionSlug": "atp-250-brisbane"
+    },
+    {
+      "id": 8,
+      "isLive": true,
+      "name": "Pat Rafter Arena - Day 1",
+      "tournament": "ATP 250 - Brisbane",
+      "category": "Tennis",
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 139184,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/ATP_Brisbane__FC-Web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/ATP_Brisbane_2026_Sporty_match-card_03.jpg",
+      "teams": [
+        {
+          "name": "Pat Rafter Arena - Day 1",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png"
+        },
+        {
+          "name": "Rafter Arena, Brisbane",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "pat-rafter-arena-day-1",
+      "tournamentSlug": "atp-250-brisbane",
+      "collectionSlug": "atp-250-brisbane"
     }
   ]
 }
