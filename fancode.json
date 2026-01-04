@@ -1,7 +1,60 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "total": 0,
-  "updatedAt": "04/01/2026, 05:05:53 PM",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 2,
+  "updatedAt": "04/01/2026, 05:15:13 PM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "name": "Match 78",
+      "tournament": "EFL Championship 2025-26",
+      "category": "All",
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 136995,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/136995_5489_BIR_CVC_fc-web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/136995_5489_BIR_CVC_fc-app.jpg",
+      "teams": [
+        {
+          "name": "Birmingham City F.C.",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-BIRM@2x.png"
+        },
+        {
+          "name": "Coventry City Football Club",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-COVT@2x.png"
+        }
+      ],
+      "slug": "birmingham-city-f-c-vs-coventry-city-football-club",
+      "tournamentSlug": "efl-championship-2025-26",
+      "collectionSlug": "efl-championship-2025-26"
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "name": "Match 78",
+      "tournament": "EFL Championship 2025-26",
+      "category": "Football",
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 136995,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/136995_5489_BIR_CVC_fc-web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/136995_5489_BIR_CVC_fc-app.jpg",
+      "teams": [
+        {
+          "name": "Birmingham City F.C.",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-BIRM@2x.png"
+        },
+        {
+          "name": "Coventry City Football Club",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-COVT@2x.png"
+        }
+      ],
+      "slug": "birmingham-city-f-c-vs-coventry-city-football-club",
+      "tournamentSlug": "efl-championship-2025-26",
+      "collectionSlug": "efl-championship-2025-26"
+    }
+  ]
 }
