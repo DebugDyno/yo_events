@@ -1,11 +1,37 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 4,
-  "updatedAt": "06/01/2026, 04:54:08 AM",
+  "total": 6,
+  "updatedAt": "06/01/2026, 05:09:58 AM",
   "data": [
     {
       "id": 1,
+      "isLive": true,
+      "name": "Match 11",
+      "tournament": "Super Smash, 2025-26",
+      "category": "All",
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 138741,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/138741_5800_AA_OV_fc-web_1766641250967.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/138741_5800_AA_OV_fc-app_1766641291508.jpg",
+      "teams": [
+        {
+          "name": "Auckland Aces",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ACE@2x.png"
+        },
+        {
+          "name": "Otago Volts",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-VOLT@2x.png"
+        }
+      ],
+      "slug": "auckland-aces-vs-otago-volts",
+      "tournamentSlug": "super-smash-2025-26",
+      "collectionSlug": "super-smash-2025-26"
+    },
+    {
+      "id": 2,
       "isLive": true,
       "name": "Match 14",
       "tournament": "Women's National Cricket League, 2025-26",
@@ -31,7 +57,7 @@
       "collectionSlug": "womens-national-cricket-league-2025-26"
     },
     {
-      "id": 2,
+      "id": 3,
       "isLive": true,
       "name": "Match 15",
       "tournament": "Women's National Cricket League, 2025-26",
@@ -57,7 +83,33 @@
       "collectionSlug": "womens-national-cricket-league-2025-26"
     },
     {
-      "id": 3,
+      "id": 4,
+      "isLive": true,
+      "name": "Match 11",
+      "tournament": "Super Smash, 2025-26",
+      "category": "Cricket",
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 138741,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/138741_5800_AA_OV_fc-web_1766641250967.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/138741_5800_AA_OV_fc-app_1766641291508.jpg",
+      "teams": [
+        {
+          "name": "Auckland Aces",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ACE@2x.png"
+        },
+        {
+          "name": "Otago Volts",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-VOLT@2x.png"
+        }
+      ],
+      "slug": "auckland-aces-vs-otago-volts",
+      "tournamentSlug": "super-smash-2025-26",
+      "collectionSlug": "super-smash-2025-26"
+    },
+    {
+      "id": 5,
       "isLive": true,
       "name": "Match 14",
       "tournament": "Women's National Cricket League, 2025-26",
@@ -83,7 +135,7 @@
       "collectionSlug": "womens-national-cricket-league-2025-26"
     },
     {
-      "id": 4,
+      "id": 6,
       "isLive": true,
       "name": "Match 15",
       "tournament": "Women's National Cricket League, 2025-26",
