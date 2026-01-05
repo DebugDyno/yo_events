@@ -1,7 +1,60 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "total": 0,
-  "updatedAt": "06/01/2026, 12:25:59 AM",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 2,
+  "updatedAt": "06/01/2026, 12:49:39 AM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "name": "Match 41",
+      "tournament": "Africa Cup of Nations 2025-26",
+      "category": "All",
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 138386,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/Nigeria-vs-Mozambique_fc-web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/Nigeria-vs-Mozambique_fc-app.jpg",
+      "teams": [
+        {
+          "name": "Nigeria",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-NIGE@2x.png"
+        },
+        {
+          "name": "Mozambique",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MZM@2x.png"
+        }
+      ],
+      "slug": "nigeria-vs-mozambique",
+      "tournamentSlug": "africa-cup-of-nations-2025-26",
+      "collectionSlug": "africa-cup-of-nations-2025-26"
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "name": "Match 41",
+      "tournament": "Africa Cup of Nations 2025-26",
+      "category": "Football",
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 138386,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/Nigeria-vs-Mozambique_fc-web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/Nigeria-vs-Mozambique_fc-app.jpg",
+      "teams": [
+        {
+          "name": "Nigeria",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-NIGE@2x.png"
+        },
+        {
+          "name": "Mozambique",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MZM@2x.png"
+        }
+      ],
+      "slug": "nigeria-vs-mozambique",
+      "tournamentSlug": "africa-cup-of-nations-2025-26",
+      "collectionSlug": "africa-cup-of-nations-2025-26"
+    }
+  ]
 }
