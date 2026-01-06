@@ -1,8 +1,8 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 1,
-  "updatedAt": "06/01/2026, 09:29:33 PM",
+  "total": 3,
+  "updatedAt": "06/01/2026, 10:09:41 PM",
   "data": [
     {
       "id": 1,
@@ -12,6 +12,24 @@
       "genre": "Cricket",
       "provider": "JioHotstar",
       "image": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/1871/1767614551871-h"
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "contentId": "139252",
+      "name": "Saudi Arabia U23 VS Kyrgyz Republic U23",
+      "genre": "Sports",
+      "provider": "FanCode",
+      "image": "https://images.fancode.com/aig/match/v1/139252_CASACARDS_PARTNER_16_9_1920_1080.png"
+    },
+    {
+      "id": 3,
+      "isLive": true,
+      "contentId": "138385",
+      "name": "Algeria VS DR Congo",
+      "genre": "Sports",
+      "provider": "FanCode",
+      "image": "https://images.fancode.com/aig/match/v1/138385_CASACARDS_PARTNER_16_9_1920_1080.png"
     }
   ]
 }
