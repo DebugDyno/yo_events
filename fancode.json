@@ -1,11 +1,37 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 2,
-  "updatedAt": "07/01/2026, 04:50:09 AM",
+  "total": 4,
+  "updatedAt": "07/01/2026, 05:07:26 AM",
   "data": [
     {
       "id": 1,
+      "isLive": true,
+      "name": "Match 12",
+      "tournament": "Women's Super Smash, 2025-26",
+      "category": "All",
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 138774,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/138774_5801_WB-W_CH-W_fc-web_1766596522150.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/138774_5801_WB-W_CH-W_fc-app_1766596319020.jpg",
+      "teams": [
+        {
+          "name": "Wellington Blaze",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WBLW@2x.png"
+        },
+        {
+          "name": "Central Hinds",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CHIW@2x.png"
+        }
+      ],
+      "slug": "wellington-blaze-vs-central-hinds",
+      "tournamentSlug": "womens-super-smash-2025-26",
+      "collectionSlug": "womens-super-smash-2025-26"
+    },
+    {
+      "id": 2,
       "isLive": true,
       "name": "The Bay vs Atlanta",
       "tournament": "TGL Season 2",
@@ -31,7 +57,33 @@
       "collectionSlug": "tgl-season-2"
     },
     {
-      "id": 2,
+      "id": 3,
+      "isLive": true,
+      "name": "Match 12",
+      "tournament": "Women's Super Smash, 2025-26",
+      "category": "Cricket",
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 138774,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/138774_5801_WB-W_CH-W_fc-web_1766596522150.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/138774_5801_WB-W_CH-W_fc-app_1766596319020.jpg",
+      "teams": [
+        {
+          "name": "Wellington Blaze",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WBLW@2x.png"
+        },
+        {
+          "name": "Central Hinds",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CHIW@2x.png"
+        }
+      ],
+      "slug": "wellington-blaze-vs-central-hinds",
+      "tournamentSlug": "womens-super-smash-2025-26",
+      "collectionSlug": "womens-super-smash-2025-26"
+    },
+    {
+      "id": 4,
       "isLive": true,
       "name": "The Bay vs Atlanta",
       "tournament": "TGL Season 2",
