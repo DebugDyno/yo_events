@@ -1,8 +1,8 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 6,
-  "updatedAt": "06/01/2026, 05:28:37 AM",
+  "total": 8,
+  "updatedAt": "06/01/2026, 07:39:11 AM",
   "data": [
     {
       "id": 1,
@@ -85,6 +85,32 @@
     {
       "id": 4,
       "isLive": true,
+      "name": "Show Court 1 - Day 3",
+      "tournament": "ATP 250 - Brisbane",
+      "category": "All",
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 139189,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/ATP_Brisbane__FC-Web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/ATP_Brisbane_2026_Sporty_match-card_03.jpg",
+      "teams": [
+        {
+          "name": "Show Court 1 - Day 3",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png"
+        },
+        {
+          "name": "Show Court 1, Brisbane",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "show-court-1-day-3",
+      "tournamentSlug": "atp-250-brisbane",
+      "collectionSlug": "atp-250-brisbane"
+    },
+    {
+      "id": 5,
+      "isLive": true,
       "name": "Match 11",
       "tournament": "Super Smash, 2025-26",
       "category": "Cricket",
@@ -109,7 +135,7 @@
       "collectionSlug": "super-smash-2025-26"
     },
     {
-      "id": 5,
+      "id": 6,
       "isLive": true,
       "name": "Match 14",
       "tournament": "Women's National Cricket League, 2025-26",
@@ -135,7 +161,7 @@
       "collectionSlug": "womens-national-cricket-league-2025-26"
     },
     {
-      "id": 6,
+      "id": 7,
       "isLive": true,
       "name": "Match 15",
       "tournament": "Women's National Cricket League, 2025-26",
@@ -159,6 +185,32 @@
       "slug": "tasmania-women-vs-queensland-fire",
       "tournamentSlug": "womens-national-cricket-league-2025-26",
       "collectionSlug": "womens-national-cricket-league-2025-26"
+    },
+    {
+      "id": 8,
+      "isLive": true,
+      "name": "Show Court 1 - Day 3",
+      "tournament": "ATP 250 - Brisbane",
+      "category": "Tennis",
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 139189,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/ATP_Brisbane__FC-Web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/ATP_Brisbane_2026_Sporty_match-card_03.jpg",
+      "teams": [
+        {
+          "name": "Show Court 1 - Day 3",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png"
+        },
+        {
+          "name": "Show Court 1, Brisbane",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "show-court-1-day-3",
+      "tournamentSlug": "atp-250-brisbane",
+      "collectionSlug": "atp-250-brisbane"
     }
   ]
 }
