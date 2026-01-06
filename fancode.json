@@ -1,7 +1,60 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "total": 0,
-  "updatedAt": "07/01/2026, 03:03:47 AM",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 2,
+  "updatedAt": "07/01/2026, 03:18:04 AM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "name": "The Bay vs Atlanta",
+      "tournament": "TGL Season 2",
+      "category": "All",
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 139165,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/TGL_Mini-Match-Card-(1080x810).png",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/TGL_Old-Sporty-(1080x1440).png",
+      "teams": [
+        {
+          "name": "The Bay vs Atlanta",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-TGL@2x.png"
+        },
+        {
+          "name": "Florida",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "the-bay-vs-atlanta",
+      "tournamentSlug": "tgl-season-2",
+      "collectionSlug": "tgl-season-2"
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "name": "The Bay vs Atlanta",
+      "tournament": "TGL Season 2",
+      "category": "Golf",
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 139165,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/TGL_Mini-Match-Card-(1080x810).png",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/TGL_Old-Sporty-(1080x1440).png",
+      "teams": [
+        {
+          "name": "The Bay vs Atlanta",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-TGL@2x.png"
+        },
+        {
+          "name": "Florida",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "the-bay-vs-atlanta",
+      "tournamentSlug": "tgl-season-2",
+      "collectionSlug": "tgl-season-2"
+    }
+  ]
 }
