@@ -1,7 +1,112 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "total": 0,
-  "updatedAt": "06/01/2026, 09:02:20 PM",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 4,
+  "updatedAt": "06/01/2026, 09:19:35 PM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "name": "Match 42",
+      "tournament": "Africa Cup of Nations 2025-26",
+      "category": "All",
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 138385,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/Algeria-vs-DR-Congo_fc-web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/Algeria-vs-DR-Congo_fc-app.jpg",
+      "teams": [
+        {
+          "name": "Algeria",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ALGE@2x.png"
+        },
+        {
+          "name": "DR Congo",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/CNG-FT1@2x.png"
+        }
+      ],
+      "slug": "algeria-vs-dr-congo",
+      "tournamentSlug": "africa-cup-of-nations-2025-26",
+      "collectionSlug": "africa-cup-of-nations-2025-26"
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "name": "Match 2",
+      "tournament": "AFC U23 Asian Cup, 2026",
+      "category": "All",
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 139252,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/139252_5822_SU-U23_KYG-U23_fc-web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/139252_5822_SU-U23_KYG-U23_fc-app.jpg",
+      "teams": [
+        {
+          "name": "Saudi Arabia U23",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/SAU-FT1@2x.png"
+        },
+        {
+          "name": "Kyrgyz Republic U23",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/KYG-FT1@2x.png"
+        }
+      ],
+      "slug": "saudi-arabia-u23-vs-kyrgyz-republic-u23",
+      "tournamentSlug": "afc-u23-asian-cup-2026",
+      "collectionSlug": "afc-u23-asian-cup-2026"
+    },
+    {
+      "id": 3,
+      "isLive": true,
+      "name": "Match 42",
+      "tournament": "Africa Cup of Nations 2025-26",
+      "category": "Football",
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 138385,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/Algeria-vs-DR-Congo_fc-web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/Algeria-vs-DR-Congo_fc-app.jpg",
+      "teams": [
+        {
+          "name": "Algeria",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ALGE@2x.png"
+        },
+        {
+          "name": "DR Congo",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/CNG-FT1@2x.png"
+        }
+      ],
+      "slug": "algeria-vs-dr-congo",
+      "tournamentSlug": "africa-cup-of-nations-2025-26",
+      "collectionSlug": "africa-cup-of-nations-2025-26"
+    },
+    {
+      "id": 4,
+      "isLive": true,
+      "name": "Match 2",
+      "tournament": "AFC U23 Asian Cup, 2026",
+      "category": "Football",
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 139252,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/139252_5822_SU-U23_KYG-U23_fc-web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/139252_5822_SU-U23_KYG-U23_fc-app.jpg",
+      "teams": [
+        {
+          "name": "Saudi Arabia U23",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/SAU-FT1@2x.png"
+        },
+        {
+          "name": "Kyrgyz Republic U23",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/KYG-FT1@2x.png"
+        }
+      ],
+      "slug": "saudi-arabia-u23-vs-kyrgyz-republic-u23",
+      "tournamentSlug": "afc-u23-asian-cup-2026",
+      "collectionSlug": "afc-u23-asian-cup-2026"
+    }
+  ]
 }
