@@ -1,8 +1,8 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 2,
-  "updatedAt": "07/01/2026, 12:10:18 AM",
+  "total": 4,
+  "updatedAt": "07/01/2026, 12:27:16 AM",
   "data": [
     {
       "id": 1,
@@ -33,6 +33,32 @@
     {
       "id": 2,
       "isLive": true,
+      "name": "Match 43",
+      "tournament": "Africa Cup of Nations 2025-26",
+      "category": "All",
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 138382,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/Ivory-Coast-vs-Burkina-Faso_fc-web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/Ivory-Coast-vs-Burkina-Faso_fc-app.jpg",
+      "teams": [
+        {
+          "name": "Ivory Coast",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-IVR@2x.png"
+        },
+        {
+          "name": "Burkina Faso",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-BURK@2x.png"
+        }
+      ],
+      "slug": "ivory-coast-vs-burkina-faso",
+      "tournamentSlug": "africa-cup-of-nations-2025-26",
+      "collectionSlug": "africa-cup-of-nations-2025-26"
+    },
+    {
+      "id": 3,
+      "isLive": true,
       "name": "Match 16",
       "tournament": "Copa del Rey, 2025-26",
       "category": "Football",
@@ -55,6 +81,32 @@
       "slug": "granada-vs-rayo-vallecano",
       "tournamentSlug": "copa-del-rey-2025-26",
       "collectionSlug": "copa-del-rey-2025-26"
+    },
+    {
+      "id": 4,
+      "isLive": true,
+      "name": "Match 43",
+      "tournament": "Africa Cup of Nations 2025-26",
+      "category": "Football",
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 138382,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/Ivory-Coast-vs-Burkina-Faso_fc-web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/Ivory-Coast-vs-Burkina-Faso_fc-app.jpg",
+      "teams": [
+        {
+          "name": "Ivory Coast",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-IVR@2x.png"
+        },
+        {
+          "name": "Burkina Faso",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-BURK@2x.png"
+        }
+      ],
+      "slug": "ivory-coast-vs-burkina-faso",
+      "tournamentSlug": "africa-cup-of-nations-2025-26",
+      "collectionSlug": "africa-cup-of-nations-2025-26"
     }
   ]
 }
