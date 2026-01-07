@@ -1,11 +1,36 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 10,
-  "updatedAt": "07/01/2026, 02:29:55 PM",
+  "total": 8,
+  "updatedAt": "07/01/2026, 03:06:23 PM",
   "data": [
     {
       "id": 1,
+      "isLive": true,
+      "contentId": "1090499000",
+      "name": "Switzerland vs Argentina - Quarter-final - 7 Jan 2026",
+      "genre": "tennis",
+      "language": "english",
+      "provider": "SonyLIV",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/22f5006f4324071781fa11edcf1abc0a.jpg",
+        "https://images.ottplay.com/images/4282bcef7f477b377a99a629454bc0e1.jpg",
+        "https://images.ottplay.com/images/7e9d21808b14f369f63c01a9585310eb.jpg",
+        "https://images.ottplay.com/images/348fb26f5a79f4e0ae31f072cf7ee390.jpg",
+        "https://images.ottplay.com/images/28e875b297a96f3a6ae8be7aad882871.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/c953ae54973f06831066ef088a7a3ac4.jpg"
+      ],
+      "providerInfo": {
+        "id": "5f456c2aff9ccd034434e6fd",
+        "name": "SonyLIV",
+        "hashId": "100dc02b90dfc"
+      }
+    },
+    {
+      "id": 2,
       "isLive": true,
       "contentId": "1540059424",
       "name": "R Panda/S Panda vs Tan/Thinaah: R32",
@@ -26,7 +51,7 @@
       }
     },
     {
-      "id": 2,
+      "id": 3,
       "isLive": true,
       "contentId": "1540058938",
       "name": "Perth Scorchers vs Melbourne Renegades",
@@ -39,29 +64,6 @@
       ],
       "posters": [
         "https://images.ottplay.com/posters/b7504a1d843bd9cfc0c68f8d3fc11517.jpg"
-      ],
-      "providerInfo": {
-        "id": "67977987ed126c0029b9f20c",
-        "name": "JioHotstar",
-        "hashId": "4025a7f67d456"
-      }
-    },
-    {
-      "id": 3,
-      "isLive": true,
-      "contentId": "1540059427",
-      "name": "Rankireddy/Shetty vs Lee/Yang: R32",
-      "genre": "badminton",
-      "language": "english",
-      "provider": "JioHotstar",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/images/106ed59d0c36b5ec1f87146b0514c2ce.jpg",
-        "https://images.ottplay.com/images/bef3c32966923b3888e5b0fa80d6f3b2.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/d51a7e872353697f6c03f53e10a5b52b.jpg",
-        "https://images.ottplay.com/posters/aa6104405b5548ccd6774eb13313670b.jpg"
       ],
       "providerInfo": {
         "id": "67977987ed126c0029b9f20c",
@@ -114,37 +116,6 @@
     {
       "id": 6,
       "isLive": true,
-      "contentId": "1090499000",
-      "name": "USA vs Greece - Quarter-final - 7 Jan 2026",
-      "genre": "tennis",
-      "language": "english",
-      "provider": "SonyLIV",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/images/22f5006f4324071781fa11edcf1abc0a.jpg",
-        "https://images.ottplay.com/images/4282bcef7f477b377a99a629454bc0e1.jpg",
-        "https://images.ottplay.com/images/7e9d21808b14f369f63c01a9585310eb.jpg",
-        "https://images.ottplay.com/images/348fb26f5a79f4e0ae31f072cf7ee390.jpg",
-        "https://images.ottplay.com/images/28e875b297a96f3a6ae8be7aad882871.jpg",
-        "https://images.ottplay.com/images/9936c43eaf3242f20538af3a8e0744be.jpg",
-        "https://images.ottplay.com/images/413f196ab10acaa15c954b76369c4c7d.jpg",
-        "https://images.ottplay.com/images/5b2a3a4fbbc415498964cb836fb2dd3d.jpg",
-        "https://images.ottplay.com/images/538969021da73dc115d8c4baefcd0435.jpg",
-        "https://images.ottplay.com/images/4f09279bdabf98fd1a1e30fb49c2b7b8.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/c953ae54973f06831066ef088a7a3ac4.jpg",
-        "https://images.ottplay.com/posters/d91ce791435551a11625a7de2a28e4f0.jpg"
-      ],
-      "providerInfo": {
-        "id": "5f456c2aff9ccd034434e6fd",
-        "name": "SonyLIV",
-        "hashId": "100dc02b90dfc"
-      }
-    },
-    {
-      "id": 7,
-      "isLive": true,
       "contentId": "1540059424",
       "name": "PV Sindhu vs Sung Shuo Yun: R32",
       "genre": "badminton",
@@ -164,7 +135,7 @@
       }
     },
     {
-      "id": 8,
+      "id": 7,
       "isLive": true,
       "contentId": "139285",
       "name": "ATP vs LOC",
@@ -211,7 +182,7 @@
       }
     },
     {
-      "id": 9,
+      "id": 8,
       "isLive": true,
       "contentId": "1540059424",
       "name": "BWF Malaysia Open: Round of 32, Court 1",
@@ -220,33 +191,12 @@
       "provider": "JioHotstar",
       "content_type": "sport",
       "image": [
+        "https://images.ottplay.com/images/1f5d1a881a74d24efb3593755d111522.jpg",
         "https://images.ottplay.com/images/83159dd92bff9d84936651f8497dff8a.jpg"
       ],
       "posters": [
-        "https://images.ottplay.com/posters/1eba2badf9d9c57f71931b4662057a49.jpg"
-      ],
-      "providerInfo": {
-        "id": "67977987ed126c0029b9f20c",
-        "name": "JioHotstar",
-        "hashId": "4025a7f67d456"
-      }
-    },
-    {
-      "id": 10,
-      "isLive": true,
-      "contentId": "1540059427",
-      "name": "BWF Malaysia Open: Round of 32, Court 2",
-      "genre": "badminton",
-      "language": "english",
-      "provider": "JioHotstar",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/images/bce9bda962893944452b3ff3cd7756d9.jpg",
-        "https://images.ottplay.com/images/244ec7a25cb73af1f9f07701377184a7.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/d51a7e872353697f6c03f53e10a5b52b.jpg",
-        "https://images.ottplay.com/posters/7f66d0a17ad7025d5d4ef76da78c3084.jpg"
+        "https://images.ottplay.com/posters/1eba2badf9d9c57f71931b4662057a49.jpg",
+        "https://images.ottplay.com/posters/ff865d3387ce3f2cf606a5d0ea1db083.jpg"
       ],
       "providerInfo": {
         "id": "67977987ed126c0029b9f20c",
