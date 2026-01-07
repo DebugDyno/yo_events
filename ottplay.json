@@ -1,11 +1,74 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 7,
-  "updatedAt": "07/01/2026, 04:55:14 PM",
+  "total": 6,
+  "updatedAt": "07/01/2026, 05:10:17 PM",
   "data": [
     {
       "id": 1,
+      "isLive": true,
+      "contentId": "139253",
+      "name": "JP-U23 vs SYR-U23",
+      "genre": "football",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/44d13e339a4e9a97d2ab3cbe6a9d37ca.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/c55423fea0a52f275efbf69150e164d0.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "contentId": "139254",
+      "name": "KR-U23 vs IRN-U23",
+      "genre": "football",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/b9814ae84c835c1613121334fc632234.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/ab038db0c69906392bf4a06c1ca493d7.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 3,
+      "isLive": true,
+      "contentId": "138941",
+      "name": "CTR vs SYT",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/98e25385e95cacd5fa1fe24763353f8e.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/1f6b7f074136b4670052bfb45dfb7c9a.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 4,
       "isLive": true,
       "contentId": "1090499000",
       "name": "Switzerland vs Argentina - Quarter-final - 7 Jan 2026",
@@ -30,28 +93,7 @@
       }
     },
     {
-      "id": 2,
-      "isLive": true,
-      "contentId": "1540059424",
-      "name": "R Panda/S Panda vs Tan/Thinaah: R32",
-      "genre": "badminton",
-      "language": "english",
-      "provider": "JioHotstar",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/images/6e8db81ebe041ceaaea7da07a6e4bc37.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/ff865d3387ce3f2cf606a5d0ea1db083.jpg"
-      ],
-      "providerInfo": {
-        "id": "67977987ed126c0029b9f20c",
-        "name": "JioHotstar",
-        "hashId": "4025a7f67d456"
-      }
-    },
-    {
-      "id": 3,
+      "id": 5,
       "isLive": true,
       "contentId": "1540058938",
       "name": "Perth Scorchers vs Melbourne Renegades",
@@ -64,48 +106,6 @@
       ],
       "posters": [
         "https://images.ottplay.com/posters/b7504a1d843bd9cfc0c68f8d3fc11517.jpg"
-      ],
-      "providerInfo": {
-        "id": "67977987ed126c0029b9f20c",
-        "name": "JioHotstar",
-        "hashId": "4025a7f67d456"
-      }
-    },
-    {
-      "id": 4,
-      "isLive": true,
-      "contentId": "1540059424",
-      "name": "Jolly/Pullela vs Kusuma/Puspitasari: R32",
-      "genre": "badminton",
-      "language": "english",
-      "provider": "JioHotstar",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/images/1e7f35582e02c957701d11a6a44e3d3f.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/5565b4b354b972657a7fb446e18d9c20.jpg"
-      ],
-      "providerInfo": {
-        "id": "67977987ed126c0029b9f20c",
-        "name": "JioHotstar",
-        "hashId": "4025a7f67d456"
-      }
-    },
-    {
-      "id": 5,
-      "isLive": true,
-      "contentId": "1540059424",
-      "name": "PV Sindhu vs Sung Shuo Yun: R32",
-      "genre": "badminton",
-      "language": "english",
-      "provider": "JioHotstar",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/images/1727c64cd70fc217db2c482827b9df0a.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/aaba05851a87267adb4861e968b0ccad.jpg"
       ],
       "providerInfo": {
         "id": "67977987ed126c0029b9f20c",
@@ -140,8 +140,8 @@
       ],
       "posters": [
         "https://images.ottplay.com/posters/46b08c494257ffbb0c5bc93a95046b7f.jpg",
-        "https://images.ottplay.com/posters/b9d20222c2036fd1feb1989621be6246.jpg",
         "https://images.ottplay.com/posters/3c282a34f2c1f4c8c8df383e65e11548.jpg",
+        "https://images.ottplay.com/posters/b9d20222c2036fd1feb1989621be6246.jpg",
         "https://images.ottplay.com/posters/ece05160057d78defe53dd3220b97b3a.jpg",
         "https://images.ottplay.com/posters/3ce46832a7b54ae5bc3634599f717439.jpg",
         "https://images.ottplay.com/posters/2fa99af90c980ce4edc9c160a31ac474.jpg",
@@ -158,29 +158,6 @@
         "id": "63ce216c483822001ca300a4",
         "name": "FanCode",
         "hashId": "c60fe425e3269"
-      }
-    },
-    {
-      "id": 7,
-      "isLive": true,
-      "contentId": "1540059424",
-      "name": "BWF Malaysia Open: Round of 32, Court 1",
-      "genre": "badminton",
-      "language": "english",
-      "provider": "JioHotstar",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/images/1f5d1a881a74d24efb3593755d111522.jpg",
-        "https://images.ottplay.com/images/83159dd92bff9d84936651f8497dff8a.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/1eba2badf9d9c57f71931b4662057a49.jpg",
-        "https://images.ottplay.com/posters/ff865d3387ce3f2cf606a5d0ea1db083.jpg"
-      ],
-      "providerInfo": {
-        "id": "67977987ed126c0029b9f20c",
-        "name": "JioHotstar",
-        "hashId": "4025a7f67d456"
       }
     }
   ]
