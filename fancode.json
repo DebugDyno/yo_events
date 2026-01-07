@@ -1,8 +1,8 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 4,
-  "updatedAt": "07/01/2026, 05:26:42 AM",
+  "total": 6,
+  "updatedAt": "07/01/2026, 07:19:03 AM",
   "data": [
     {
       "id": 1,
@@ -59,6 +59,32 @@
     {
       "id": 3,
       "isLive": true,
+      "name": "Show Court 1 - Day 4",
+      "tournament": "ATP 250 - Brisbane",
+      "category": "All",
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 139191,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/ATP_Brisbane__FC-Web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/ATP_Brisbane_2026_Sporty_match-card_03.jpg",
+      "teams": [
+        {
+          "name": "Show Court 1 - Day 4",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png"
+        },
+        {
+          "name": "Show Court 1, Brisbane",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "show-court-1-day-4",
+      "tournamentSlug": "atp-250-brisbane",
+      "collectionSlug": "atp-250-brisbane"
+    },
+    {
+      "id": 4,
+      "isLive": true,
       "name": "Match 12",
       "tournament": "Women's Super Smash, 2025-26",
       "category": "Cricket",
@@ -83,7 +109,7 @@
       "collectionSlug": "womens-super-smash-2025-26"
     },
     {
-      "id": 4,
+      "id": 5,
       "isLive": true,
       "name": "The Bay vs Atlanta",
       "tournament": "TGL Season 2",
@@ -107,6 +133,32 @@
       "slug": "the-bay-vs-atlanta",
       "tournamentSlug": "tgl-season-2",
       "collectionSlug": "tgl-season-2"
+    },
+    {
+      "id": 6,
+      "isLive": true,
+      "name": "Show Court 1 - Day 4",
+      "tournament": "ATP 250 - Brisbane",
+      "category": "Tennis",
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 139191,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/ATP_Brisbane__FC-Web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/ATP_Brisbane_2026_Sporty_match-card_03.jpg",
+      "teams": [
+        {
+          "name": "Show Court 1 - Day 4",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png"
+        },
+        {
+          "name": "Show Court 1, Brisbane",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "show-court-1-day-4",
+      "tournamentSlug": "atp-250-brisbane",
+      "collectionSlug": "atp-250-brisbane"
     }
   ]
 }
