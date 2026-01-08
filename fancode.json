@@ -1,7 +1,60 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "total": 0,
-  "updatedAt": "09/01/2026, 05:01:08 AM",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 2,
+  "updatedAt": "09/01/2026, 05:14:12 AM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "name": "Match 14",
+      "tournament": "Women's Super Smash, 2025-26",
+      "category": "All",
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 138776,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/138776_5801_WB-W_OS-W_fc-web_1766596522100.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/138776_5801_WB-W_OS-W_fc-app_1766596319120.jpg",
+      "teams": [
+        {
+          "name": "Wellington Blaze",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WBLW@2x.png"
+        },
+        {
+          "name": "Otago Sparks",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-OSW@2x.png"
+        }
+      ],
+      "slug": "wellington-blaze-vs-otago-sparks",
+      "tournamentSlug": "womens-super-smash-2025-26",
+      "collectionSlug": "womens-super-smash-2025-26"
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "name": "Match 14",
+      "tournament": "Women's Super Smash, 2025-26",
+      "category": "Cricket",
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 138776,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/138776_5801_WB-W_OS-W_fc-web_1766596522100.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/138776_5801_WB-W_OS-W_fc-app_1766596319120.jpg",
+      "teams": [
+        {
+          "name": "Wellington Blaze",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WBLW@2x.png"
+        },
+        {
+          "name": "Otago Sparks",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-OSW@2x.png"
+        }
+      ],
+      "slug": "wellington-blaze-vs-otago-sparks",
+      "tournamentSlug": "womens-super-smash-2025-26",
+      "collectionSlug": "womens-super-smash-2025-26"
+    }
+  ]
 }
