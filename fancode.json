@@ -1,118 +1,40 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 6,
-  "updatedAt": "08/01/2026, 09:24:31 PM",
+  "total": 2,
+  "updatedAt": "08/01/2026, 09:53:13 PM",
   "data": [
     {
       "id": 1,
       "isLive": true,
-      "name": "Match 28",
-      "tournament": "Bangladesh Premier League, 2025-26",
+      "name": "Unknown Match",
+      "tournament": "Roshn Saudi League 2025-2026",
       "category": "All",
       "status": "LIVE",
       "streamingStatus": "STARTED",
-      "matchId": 138943,
+      "matchId": 139201,
       "streamType": "PAID",
-      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/138943_5808_DC_SYL_fc-web_1766733054878.jpg",
-      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/138943_5808_DC_SYL_fc-App_1767706252158.jpg",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/Al-Hilal-SFC-vs-Al-Hazem_fc-web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/Al-Hilal-SFC-vs-Al-Hazem-FC_fc-app.jpg",
       "teams": [
         {
-          "name": "Dhaka Capitals",
-          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DHC@2x.png"
+          "name": "Al Hilal SFC",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-AH@2x.png"
         },
         {
-          "name": "Sylhet Titans",
-          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SYT@2x.png"
+          "name": "Al-Hazem FC",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-HAZ@2x.png"
         }
       ],
-      "slug": "dhaka-capitals-vs-sylhet-titans",
-      "tournamentSlug": "bangladesh-premier-league-2025-26",
-      "collectionSlug": "bangladesh-premier-league-2025-26"
+      "slug": "al-hilal-sfc-vs-al-hazem-fc",
+      "tournamentSlug": "roshn-saudi-league-2025-2026",
+      "collectionSlug": "roshn-saudi-league-2025-2026"
     },
     {
       "id": 2,
       "isLive": true,
       "name": "Unknown Match",
       "tournament": "Roshn Saudi League 2025-2026",
-      "category": "All",
-      "status": "LIVE",
-      "streamingStatus": "STARTED",
-      "matchId": 139201,
-      "streamType": "PAID",
-      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/Al-Hilal-SFC-vs-Al-Hazem_fc-web.jpg",
-      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/Al-Hilal-SFC-vs-Al-Hazem-FC_fc-app.jpg",
-      "teams": [
-        {
-          "name": "Al Hilal SFC",
-          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-AH@2x.png"
-        },
-        {
-          "name": "Al-Hazem FC",
-          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-HAZ@2x.png"
-        }
-      ],
-      "slug": "al-hilal-sfc-vs-al-hazem-fc",
-      "tournamentSlug": "roshn-saudi-league-2025-2026",
-      "collectionSlug": "roshn-saudi-league-2025-2026"
-    },
-    {
-      "id": 3,
-      "isLive": true,
-      "name": "Match 8",
-      "tournament": "AFC U23 Asian Cup, 2026",
-      "category": "All",
-      "status": "LIVE",
-      "streamingStatus": "STARTED",
-      "matchId": 139258,
-      "streamType": "PAID",
-      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/139258_5822_IRQ-U23_CHN-U23_fc-web.jpg",
-      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/139258_5822_IRQ-U23_CHN-U23_fc-app.jpg",
-      "teams": [
-        {
-          "name": "Iraq U23",
-          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/IRQ-FT1@2x.png"
-        },
-        {
-          "name": "China PR U23",
-          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/CHN-FT1@2x.png"
-        }
-      ],
-      "slug": "iraq-u23-vs-china-pr-u23",
-      "tournamentSlug": "afc-u23-asian-cup-2026",
-      "collectionSlug": "afc-u23-asian-cup-2026"
-    },
-    {
-      "id": 4,
-      "isLive": true,
-      "name": "Match 28",
-      "tournament": "Bangladesh Premier League, 2025-26",
-      "category": "Cricket",
-      "status": "LIVE",
-      "streamingStatus": "STARTED",
-      "matchId": 138943,
-      "streamType": "PAID",
-      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/138943_5808_DC_SYL_fc-web_1766733054878.jpg",
-      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/138943_5808_DC_SYL_fc-App_1767706252158.jpg",
-      "teams": [
-        {
-          "name": "Dhaka Capitals",
-          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DHC@2x.png"
-        },
-        {
-          "name": "Sylhet Titans",
-          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SYT@2x.png"
-        }
-      ],
-      "slug": "dhaka-capitals-vs-sylhet-titans",
-      "tournamentSlug": "bangladesh-premier-league-2025-26",
-      "collectionSlug": "bangladesh-premier-league-2025-26"
-    },
-    {
-      "id": 5,
-      "isLive": true,
-      "name": "Unknown Match",
-      "tournament": "Roshn Saudi League 2025-2026",
       "category": "Football",
       "status": "LIVE",
       "streamingStatus": "STARTED",
@@ -133,32 +55,6 @@
       "slug": "al-hilal-sfc-vs-al-hazem-fc",
       "tournamentSlug": "roshn-saudi-league-2025-2026",
       "collectionSlug": "roshn-saudi-league-2025-2026"
-    },
-    {
-      "id": 6,
-      "isLive": true,
-      "name": "Match 8",
-      "tournament": "AFC U23 Asian Cup, 2026",
-      "category": "Football",
-      "status": "LIVE",
-      "streamingStatus": "STARTED",
-      "matchId": 139258,
-      "streamType": "PAID",
-      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/139258_5822_IRQ-U23_CHN-U23_fc-web.jpg",
-      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/139258_5822_IRQ-U23_CHN-U23_fc-app.jpg",
-      "teams": [
-        {
-          "name": "Iraq U23",
-          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/IRQ-FT1@2x.png"
-        },
-        {
-          "name": "China PR U23",
-          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/CHN-FT1@2x.png"
-        }
-      ],
-      "slug": "iraq-u23-vs-china-pr-u23",
-      "tournamentSlug": "afc-u23-asian-cup-2026",
-      "collectionSlug": "afc-u23-asian-cup-2026"
     }
   ]
 }
