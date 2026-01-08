@@ -2,36 +2,10 @@
   "success": true,
   "message": "Live matches fetched successfully",
   "total": 6,
-  "updatedAt": "08/01/2026, 09:36:15 AM",
+  "updatedAt": "08/01/2026, 10:19:28 AM",
   "data": [
     {
       "id": 1,
-      "isLive": true,
-      "name": "Match 13",
-      "tournament": "Super Smash, 2025-26",
-      "category": "All",
-      "status": "LIVE",
-      "streamingStatus": "STARTED",
-      "matchId": 138743,
-      "streamType": "PAID",
-      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/138743_5800_ND_CTB_fc-web_1766641251036.jpg",
-      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/138743_5800_ND_CTB_FC-App_1767783650583.jpg",
-      "teams": [
-        {
-          "name": "Northern Districts",
-          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/NB-W-CR1@2x.png"
-        },
-        {
-          "name": "Canterbury",
-          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KING@2x.png"
-        }
-      ],
-      "slug": "northern-districts-vs-canterbury",
-      "tournamentSlug": "super-smash-2025-26",
-      "collectionSlug": "super-smash-2025-26"
-    },
-    {
-      "id": 2,
       "isLive": true,
       "name": "Match 16",
       "tournament": "Women's National Cricket League, 2025-26",
@@ -57,7 +31,7 @@
       "collectionSlug": "womens-national-cricket-league-2025-26"
     },
     {
-      "id": 3,
+      "id": 2,
       "isLive": true,
       "name": "Show Court 1 - Day 5",
       "tournament": "ATP 250 - Brisbane",
@@ -83,33 +57,33 @@
       "collectionSlug": "atp-250-brisbane"
     },
     {
-      "id": 4,
+      "id": 3,
       "isLive": true,
-      "name": "Match 13",
-      "tournament": "Super Smash, 2025-26",
-      "category": "Cricket",
+      "name": "Pat Rafter Arena - Day 5",
+      "tournament": "ATP 250 - Brisbane",
+      "category": "All",
       "status": "LIVE",
       "streamingStatus": "STARTED",
-      "matchId": 138743,
+      "matchId": 139192,
       "streamType": "PAID",
-      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/138743_5800_ND_CTB_fc-web_1766641251036.jpg",
-      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/138743_5800_ND_CTB_FC-App_1767783650583.jpg",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/ATP_Brisbane__FC-Web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/ATP_Brisbane_2026_Sporty_match-card_03.jpg",
       "teams": [
         {
-          "name": "Northern Districts",
-          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/NB-W-CR1@2x.png"
+          "name": "Pat Rafter Arena - Day 5",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png"
         },
         {
-          "name": "Canterbury",
-          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KING@2x.png"
+          "name": "Rafter Arena, Brisbane",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png"
         }
       ],
-      "slug": "northern-districts-vs-canterbury",
-      "tournamentSlug": "super-smash-2025-26",
-      "collectionSlug": "super-smash-2025-26"
+      "slug": "pat-rafter-arena-day-5",
+      "tournamentSlug": "atp-250-brisbane",
+      "collectionSlug": "atp-250-brisbane"
     },
     {
-      "id": 5,
+      "id": 4,
       "isLive": true,
       "name": "Match 16",
       "tournament": "Women's National Cricket League, 2025-26",
@@ -135,7 +109,7 @@
       "collectionSlug": "womens-national-cricket-league-2025-26"
     },
     {
-      "id": 6,
+      "id": 5,
       "isLive": true,
       "name": "Show Court 1 - Day 5",
       "tournament": "ATP 250 - Brisbane",
@@ -157,6 +131,32 @@
         }
       ],
       "slug": "show-court-1-day-5",
+      "tournamentSlug": "atp-250-brisbane",
+      "collectionSlug": "atp-250-brisbane"
+    },
+    {
+      "id": 6,
+      "isLive": true,
+      "name": "Pat Rafter Arena - Day 5",
+      "tournament": "ATP 250 - Brisbane",
+      "category": "Tennis",
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 139192,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/ATP_Brisbane__FC-Web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/ATP_Brisbane_2026_Sporty_match-card_03.jpg",
+      "teams": [
+        {
+          "name": "Pat Rafter Arena - Day 5",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png"
+        },
+        {
+          "name": "Rafter Arena, Brisbane",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "pat-rafter-arena-day-5",
       "tournamentSlug": "atp-250-brisbane",
       "collectionSlug": "atp-250-brisbane"
     }
