@@ -1,11 +1,37 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 6,
-  "updatedAt": "08/01/2026, 10:19:28 AM",
+  "total": 10,
+  "updatedAt": "08/01/2026, 10:43:54 AM",
   "data": [
     {
       "id": 1,
+      "isLive": true,
+      "name": "Match 13",
+      "tournament": "Women's Super Smash, 2025-26",
+      "category": "All",
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 138775,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/138775_5801_NB-W_CM-W_fc-web_1766596522081.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/138775_5801_NB-W_CM-W_fc-app_1766596319143.jpg",
+      "teams": [
+        {
+          "name": "Northern Brave Women",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/NB-W-CR1@2x.png"
+        },
+        {
+          "name": "Canterbury Magicians",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MAGW@2x.png"
+        }
+      ],
+      "slug": "northern-brave-women-vs-canterbury-magicians",
+      "tournamentSlug": "womens-super-smash-2025-26",
+      "collectionSlug": "womens-super-smash-2025-26"
+    },
+    {
+      "id": 2,
       "isLive": true,
       "name": "Match 16",
       "tournament": "Women's National Cricket League, 2025-26",
@@ -31,7 +57,7 @@
       "collectionSlug": "womens-national-cricket-league-2025-26"
     },
     {
-      "id": 2,
+      "id": 3,
       "isLive": true,
       "name": "Show Court 1 - Day 5",
       "tournament": "ATP 250 - Brisbane",
@@ -57,7 +83,7 @@
       "collectionSlug": "atp-250-brisbane"
     },
     {
-      "id": 3,
+      "id": 4,
       "isLive": true,
       "name": "Pat Rafter Arena - Day 5",
       "tournament": "ATP 250 - Brisbane",
@@ -83,7 +109,59 @@
       "collectionSlug": "atp-250-brisbane"
     },
     {
-      "id": 4,
+      "id": 5,
+      "isLive": true,
+      "name": "Center Court - Day 4",
+      "tournament": "ATP 250 - Hong Kong",
+      "category": "All",
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 139207,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Hong-Kong_2026_Web_1080_x_810.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Hong-Kong_2026_Sporty_match-card_03.jpg",
+      "teams": [
+        {
+          "name": "Center Court - Day 4",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png"
+        },
+        {
+          "name": "Hong Kong",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "center-court-day-4",
+      "tournamentSlug": "atp-250-hong-kong",
+      "collectionSlug": "atp-250-hong-kong"
+    },
+    {
+      "id": 6,
+      "isLive": true,
+      "name": "Match 13",
+      "tournament": "Women's Super Smash, 2025-26",
+      "category": "Cricket",
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 138775,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/138775_5801_NB-W_CM-W_fc-web_1766596522081.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/138775_5801_NB-W_CM-W_fc-app_1766596319143.jpg",
+      "teams": [
+        {
+          "name": "Northern Brave Women",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/NB-W-CR1@2x.png"
+        },
+        {
+          "name": "Canterbury Magicians",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MAGW@2x.png"
+        }
+      ],
+      "slug": "northern-brave-women-vs-canterbury-magicians",
+      "tournamentSlug": "womens-super-smash-2025-26",
+      "collectionSlug": "womens-super-smash-2025-26"
+    },
+    {
+      "id": 7,
       "isLive": true,
       "name": "Match 16",
       "tournament": "Women's National Cricket League, 2025-26",
@@ -109,7 +187,7 @@
       "collectionSlug": "womens-national-cricket-league-2025-26"
     },
     {
-      "id": 5,
+      "id": 8,
       "isLive": true,
       "name": "Show Court 1 - Day 5",
       "tournament": "ATP 250 - Brisbane",
@@ -135,7 +213,7 @@
       "collectionSlug": "atp-250-brisbane"
     },
     {
-      "id": 6,
+      "id": 9,
       "isLive": true,
       "name": "Pat Rafter Arena - Day 5",
       "tournament": "ATP 250 - Brisbane",
@@ -159,6 +237,32 @@
       "slug": "pat-rafter-arena-day-5",
       "tournamentSlug": "atp-250-brisbane",
       "collectionSlug": "atp-250-brisbane"
+    },
+    {
+      "id": 10,
+      "isLive": true,
+      "name": "Center Court - Day 4",
+      "tournament": "ATP 250 - Hong Kong",
+      "category": "Tennis",
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 139207,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Hong-Kong_2026_Web_1080_x_810.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Hong-Kong_2026_Sporty_match-card_03.jpg",
+      "teams": [
+        {
+          "name": "Center Court - Day 4",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png"
+        },
+        {
+          "name": "Hong Kong",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "center-court-day-4",
+      "tournamentSlug": "atp-250-hong-kong",
+      "collectionSlug": "atp-250-hong-kong"
     }
   ]
 }
