@@ -1,8 +1,8 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 2,
-  "updatedAt": "09/01/2026, 12:28:17 AM",
+  "total": 4,
+  "updatedAt": "09/01/2026, 12:54:12 AM",
   "data": [
     {
       "id": 1,
@@ -33,6 +33,32 @@
     {
       "id": 2,
       "isLive": true,
+      "name": "Semi-Final 2",
+      "tournament": "SuperCopa 2026",
+      "category": "All",
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 138958,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/Atletico-de-Madrid-vs-Real-Madrid_fc-web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/Atletico-de-Madrid-vs-Real-Madrid_fc-app.jpg",
+      "teams": [
+        {
+          "name": "Atletico de Madrid",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ATLH@2x.png"
+        },
+        {
+          "name": "Real Madrid",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/RM-FT2@2x.png"
+        }
+      ],
+      "slug": "atletico-de-madrid-vs-real-madrid",
+      "tournamentSlug": "supercopa-2026",
+      "collectionSlug": "supercopa-2026"
+    },
+    {
+      "id": 3,
+      "isLive": true,
       "name": "Unknown Match",
       "tournament": "Roshn Saudi League 2025-2026",
       "category": "Football",
@@ -55,6 +81,32 @@
       "slug": "al-nassr-fc-vs-al-qadsiah-fc",
       "tournamentSlug": "roshn-saudi-league-2025-2026",
       "collectionSlug": "roshn-saudi-league-2025-2026"
+    },
+    {
+      "id": 4,
+      "isLive": true,
+      "name": "Semi-Final 2",
+      "tournament": "SuperCopa 2026",
+      "category": "Football",
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 138958,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/Atletico-de-Madrid-vs-Real-Madrid_fc-web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/Atletico-de-Madrid-vs-Real-Madrid_fc-app.jpg",
+      "teams": [
+        {
+          "name": "Atletico de Madrid",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ATLH@2x.png"
+        },
+        {
+          "name": "Real Madrid",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/RM-FT2@2x.png"
+        }
+      ],
+      "slug": "atletico-de-madrid-vs-real-madrid",
+      "tournamentSlug": "supercopa-2026",
+      "collectionSlug": "supercopa-2026"
     }
   ]
 }
