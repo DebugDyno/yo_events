@@ -1,7 +1,60 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "total": 0,
-  "updatedAt": "08/01/2026, 10:52:11 PM",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 2,
+  "updatedAt": "08/01/2026, 11:18:08 PM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "name": "Unknown Match",
+      "tournament": "Roshn Saudi League 2025-2026",
+      "category": "All",
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 139202,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/Al-Nassr-FC-vs-Al-Qadsiah-FC_fc-web_1767365352741.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/Al-Nassr-FC-vs-Al-Qadsiah-FC_fc-app.jpg",
+      "teams": [
+        {
+          "name": "Al-Nassr FC",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ANF@2x.png"
+        },
+        {
+          "name": "Al-Qadsiah FC",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-QAD@2x.png"
+        }
+      ],
+      "slug": "al-nassr-fc-vs-al-qadsiah-fc",
+      "tournamentSlug": "roshn-saudi-league-2025-2026",
+      "collectionSlug": "roshn-saudi-league-2025-2026"
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "name": "Unknown Match",
+      "tournament": "Roshn Saudi League 2025-2026",
+      "category": "Football",
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 139202,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/Al-Nassr-FC-vs-Al-Qadsiah-FC_fc-web_1767365352741.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/Al-Nassr-FC-vs-Al-Qadsiah-FC_fc-app.jpg",
+      "teams": [
+        {
+          "name": "Al-Nassr FC",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ANF@2x.png"
+        },
+        {
+          "name": "Al-Qadsiah FC",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-QAD@2x.png"
+        }
+      ],
+      "slug": "al-nassr-fc-vs-al-qadsiah-fc",
+      "tournamentSlug": "roshn-saudi-league-2025-2026",
+      "collectionSlug": "roshn-saudi-league-2025-2026"
+    }
+  ]
 }
