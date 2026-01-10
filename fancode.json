@@ -1,8 +1,8 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 6,
-  "updatedAt": "10/01/2026, 11:57:21 AM",
+  "total": 8,
+  "updatedAt": "10/01/2026, 12:22:34 PM",
   "data": [
     {
       "id": 1,
@@ -85,6 +85,32 @@
     {
       "id": 4,
       "isLive": true,
+      "name": "Alcaraz vs Sinner",
+      "tournament": "Hyundai Card Super Match",
+      "category": "All",
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 139368,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/Super_Match_2026_FC-Web_1767801213296.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/Super_Match_2026_FC-App_1767801213256.jpg",
+      "teams": [
+        {
+          "name": "Alcaraz vs Sinner",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-HCSM@2x.png"
+        },
+        {
+          "name": "INSPIRE Arena, Incheon, South Korea",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "alcaraz-vs-sinner",
+      "tournamentSlug": "hyundai-card-super-match",
+      "collectionSlug": "hyundai-card-super-match"
+    },
+    {
+      "id": 5,
+      "isLive": true,
       "name": "Match 15",
       "tournament": "Super Smash, 2025-26",
       "category": "Cricket",
@@ -109,7 +135,7 @@
       "collectionSlug": "super-smash-2025-26"
     },
     {
-      "id": 5,
+      "id": 6,
       "isLive": true,
       "name": "Match 28",
       "tournament": "A League 2025-26",
@@ -135,7 +161,7 @@
       "collectionSlug": "a-league-2025-26"
     },
     {
-      "id": 6,
+      "id": 7,
       "isLive": true,
       "name": "Pat Rafter Arena - Day 7",
       "tournament": "ATP 250 - Brisbane",
@@ -159,6 +185,32 @@
       "slug": "pat-rafter-arena-day-7",
       "tournamentSlug": "atp-250-brisbane",
       "collectionSlug": "atp-250-brisbane"
+    },
+    {
+      "id": 8,
+      "isLive": true,
+      "name": "Alcaraz vs Sinner",
+      "tournament": "Hyundai Card Super Match",
+      "category": "Tennis",
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 139368,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/Super_Match_2026_FC-Web_1767801213296.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/Super_Match_2026_FC-App_1767801213256.jpg",
+      "teams": [
+        {
+          "name": "Alcaraz vs Sinner",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-HCSM@2x.png"
+        },
+        {
+          "name": "INSPIRE Arena, Incheon, South Korea",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "alcaraz-vs-sinner",
+      "tournamentSlug": "hyundai-card-super-match",
+      "collectionSlug": "hyundai-card-super-match"
     }
   ]
 }
