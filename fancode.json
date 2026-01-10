@@ -1,7 +1,60 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "total": 0,
-  "updatedAt": "10/01/2026, 05:26:00 AM",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 2,
+  "updatedAt": "10/01/2026, 07:09:11 AM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "name": "Match 15",
+      "tournament": "Women's Super Smash, 2025-26",
+      "category": "All",
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 138777,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/138777_5801_CM-W_AH-W_fc-web_1766596522070.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/138777_5801_CM-W_AH-W_fc-app_1766596319069.jpg",
+      "teams": [
+        {
+          "name": "Canterbury Magicians",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MAGW@2x.png"
+        },
+        {
+          "name": "Auckland Hearts",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AUHW@2x.png"
+        }
+      ],
+      "slug": "canterbury-magicians-vs-auckland-hearts",
+      "tournamentSlug": "womens-super-smash-2025-26",
+      "collectionSlug": "womens-super-smash-2025-26"
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "name": "Match 15",
+      "tournament": "Women's Super Smash, 2025-26",
+      "category": "Cricket",
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 138777,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/138777_5801_CM-W_AH-W_fc-web_1766596522070.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/138777_5801_CM-W_AH-W_fc-app_1766596319069.jpg",
+      "teams": [
+        {
+          "name": "Canterbury Magicians",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MAGW@2x.png"
+        },
+        {
+          "name": "Auckland Hearts",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AUHW@2x.png"
+        }
+      ],
+      "slug": "canterbury-magicians-vs-auckland-hearts",
+      "tournamentSlug": "womens-super-smash-2025-26",
+      "collectionSlug": "womens-super-smash-2025-26"
+    }
+  ]
 }
