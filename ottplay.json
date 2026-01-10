@@ -1,11 +1,53 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 9,
-  "updatedAt": "10/01/2026, 01:42:49 PM",
+  "total": 7,
+  "updatedAt": "10/01/2026, 02:12:02 PM",
   "data": [
     {
       "id": 1,
+      "isLive": true,
+      "contentId": "1540059598",
+      "name": "UP Warriorz vs Gujarat Giants",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "JioHotstar",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/0323d99d6aa3d790db08efb95f5bfd01.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/bcce72689d33d5ff50a1729d89f16ad3.jpg"
+      ],
+      "providerInfo": {
+        "id": "67977987ed126c0029b9f20c",
+        "name": "JioHotstar",
+        "hashId": "4025a7f67d456"
+      }
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "contentId": "138821",
+      "name": "MAC vs SYD",
+      "genre": "football",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/13bdc26600bcd38bcefe2a4de6729dbe.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/5c4341a2c1f773de6c0ffad261d8847e.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 3,
       "isLive": true,
       "contentId": "1540058950",
       "name": "Melbourne Renegades vs Melbourne Stars",
@@ -26,7 +68,7 @@
       }
     },
     {
-      "id": 2,
+      "id": 4,
       "isLive": true,
       "contentId": "139368",
       "name": "HCSM vs LOC",
@@ -47,95 +89,7 @@
       }
     },
     {
-      "id": 3,
-      "isLive": true,
-      "contentId": "138820",
-      "name": "MLV vs SYW",
-      "genre": "football",
-      "language": "english",
-      "provider": "FanCode",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/backdrops/25458390e87da6e76c5c3d8fcae16e7d.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/5e98e81d4d92b48592d2938ad62acab0.jpg"
-      ],
-      "providerInfo": {
-        "id": "63ce216c483822001ca300a4",
-        "name": "FanCode",
-        "hashId": "c60fe425e3269"
-      }
-    },
-    {
-      "id": 4,
-      "isLive": true,
-      "contentId": "138745",
-      "name": "CTB vs AA",
-      "genre": "cricket",
-      "language": "english",
-      "provider": "FanCode",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/backdrops/51747893cc2747c6453d3a5d550246f5.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/c077d634b7f20e3ed1bb9f902a7bfa1f.jpg"
-      ],
-      "providerInfo": {
-        "id": "63ce216c483822001ca300a4",
-        "name": "FanCode",
-        "hashId": "c60fe425e3269"
-      }
-    },
-    {
       "id": 5,
-      "isLive": true,
-      "contentId": "1540058947",
-      "name": "Brisbane Heat vs Sydney Thunder",
-      "genre": "cricket",
-      "language": "english",
-      "provider": "JioHotstar",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/images/155bf8805fec6ec39c2dcac05dec46ca.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/0482201d7d6d65cbf457de0bd8b5e733.jpg"
-      ],
-      "providerInfo": {
-        "id": "67977987ed126c0029b9f20c",
-        "name": "JioHotstar",
-        "hashId": "4025a7f67d456"
-      }
-    },
-    {
-      "id": 6,
-      "isLive": true,
-      "contentId": "1090498877",
-      "name": "Canterbury Kings vs Auckland Aces - 10 Jan 2026",
-      "genre": "cricket",
-      "language": "english",
-      "provider": "SonyLIV",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/images/55502cb268aa061618842526358ac61b.jpg",
-        "https://images.ottplay.com/images/0cd82d2f8e10268cad653605212e99f3.jpg",
-        "https://images.ottplay.com/images/2dbe7f687da05a52ba230301bbf48081.jpg",
-        "https://images.ottplay.com/images/ea5be381469a835526413bab8b7a9ecd.jpg",
-        "https://images.ottplay.com/images/db8f6cc62de975a86fd63c7b4a502358.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/f36e8ccd93bbfb4516a3bff037471965.jpg"
-      ],
-      "providerInfo": {
-        "id": "5f456c2aff9ccd034434e6fd",
-        "name": "SonyLIV",
-        "hashId": "100dc02b90dfc"
-      }
-    },
-    {
-      "id": 7,
       "isLive": true,
       "contentId": "139209",
       "name": "ATP vs LOC",
@@ -202,7 +156,7 @@
       }
     },
     {
-      "id": 8,
+      "id": 6,
       "isLive": true,
       "contentId": "1540059436",
       "name": "PV Sindhu vs Wang Zhi Yi",
@@ -226,7 +180,7 @@
       }
     },
     {
-      "id": 9,
+      "id": 7,
       "isLive": true,
       "contentId": "1090499151",
       "name": "Switzerland vs Belgium - Semi-final - 10 Jan 2026",

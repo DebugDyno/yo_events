@@ -1,11 +1,20 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 10,
-  "updatedAt": "10/01/2026, 01:42:48 PM",
+  "total": 8,
+  "updatedAt": "10/01/2026, 02:12:01 PM",
   "data": [
     {
       "id": 1,
+      "isLive": true,
+      "contentId": "1540059598",
+      "name": "UP Warriorz vs Gujarat Giants",
+      "genre": "Cricket",
+      "provider": "JioHotstar",
+      "image": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2041/1768021822041-h"
+    },
+    {
+      "id": 2,
       "isLive": true,
       "contentId": "1540058950",
       "name": "Melbourne Renegades vs Melbourne Stars",
@@ -14,25 +23,7 @@
       "image": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/890/1767961290890-h"
     },
     {
-      "id": 2,
-      "isLive": true,
-      "contentId": "1540058947",
-      "name": "Brisbane Heat vs Sydney Thunder",
-      "genre": "Cricket",
-      "provider": "JioHotstar",
-      "image": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/5770/1767968775770-h"
-    },
-    {
       "id": 3,
-      "isLive": true,
-      "contentId": "1090498877",
-      "name": "Sony Sports Ten 5",
-      "genre": "Cricket",
-      "provider": "Sony Liv",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/sony4/videoasset_images/manage_file/1000012842/1767168385338275_SuperSmash2526_mens_Canterbury-Kings-vs-Auckland-Aces_31dec_landscape_thumb.jpg"
-    },
-    {
-      "id": 4,
       "isLive": true,
       "contentId": "1540059436",
       "name": "BWF Malaysia Open: Semi-finals",
@@ -41,7 +32,7 @@
       "image": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/1734/1768014061734-h"
     },
     {
-      "id": 5,
+      "id": 4,
       "isLive": true,
       "contentId": "1090499151",
       "name": "Sony Sports Ten 5",
@@ -50,7 +41,7 @@
       "image": "https://d229kpbsb5jevy.cloudfront.net/sony4/videoasset_images/manage_file/1000013177/1767966837383634_UC26_SF_USA_vs_Poland_9jan_landscape_thumb.jpg"
     },
     {
-      "id": 6,
+      "id": 5,
       "isLive": true,
       "contentId": "139368",
       "name": "Hyundai Card Super Match",
@@ -59,7 +50,7 @@
       "image": "https://images.fancode.com/aig/match/v1/139368_CASACARDS_PARTNER_16_9_1920_1080.png"
     },
     {
-      "id": 7,
+      "id": 6,
       "isLive": true,
       "contentId": "139209",
       "name": "ATP 250 - Hong Kong",
@@ -68,7 +59,7 @@
       "image": "https://images.fancode.com/aig/match/v1/139209_CASACARDS_PARTNER_16_9_1920_1080.png"
     },
     {
-      "id": 8,
+      "id": 7,
       "isLive": true,
       "contentId": "139196",
       "name": "ATP 250 - Brisbane",
@@ -77,22 +68,13 @@
       "image": "https://images.fancode.com/aig/match/v1/139196_CASACARDS_PARTNER_16_9_1920_1080.png"
     },
     {
-      "id": 9,
+      "id": 8,
       "isLive": true,
-      "contentId": "138820",
-      "name": "Melbourne Victory VS Western Sydney Wanderers",
+      "contentId": "138821",
+      "name": "Macarthur VS Sydney FC",
       "genre": "Sports",
       "provider": "FanCode",
-      "image": "https://images.fancode.com/aig/match/v1/138820_CASACARDS_PARTNER_16_9_1920_1080.png"
-    },
-    {
-      "id": 10,
-      "isLive": true,
-      "contentId": "138745",
-      "name": "Canterbury VS Auckland Aces",
-      "genre": "Sports",
-      "provider": "FanCode",
-      "image": "https://images.fancode.com/aig/match/v1/138745_CASACARDS_PARTNER_16_9_1920_1080.png"
+      "image": "https://images.fancode.com/aig/match/v1/138821_CASACARDS_PARTNER_16_9_1920_1080.png"
     }
   ]
 }
