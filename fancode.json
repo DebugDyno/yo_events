@@ -1,8 +1,8 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 6,
-  "updatedAt": "10/01/2026, 09:55:41 PM",
+  "total": 8,
+  "updatedAt": "10/01/2026, 10:17:06 PM",
   "data": [
     {
       "id": 1,
@@ -66,8 +66,8 @@
       "streamingStatus": "STARTED",
       "matchId": 138389,
       "streamType": "PAID",
-      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-      "portraitImage": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_Football.jpg",
+      "landscapeImage": "https://images.fancode.com/aig/match/v1/138389_CASACARDS_APP.png",
+      "portraitImage": "https://images.fancode.com/aig/match/v1/138389_CASACARDS_SPORTY_APP.png",
       "teams": [
         {
           "name": "Algeria",
@@ -84,6 +84,32 @@
     },
     {
       "id": 4,
+      "isLive": true,
+      "name": "Match 14",
+      "tournament": "AFC U23 Asian Cup, 2026",
+      "category": "All",
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 139264,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/139264_5822_SYR-U23_QAT-U23_fc-web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/139264_5822_SYR-U23_QAT-U23_fc-app.jpg",
+      "teams": [
+        {
+          "name": "Syria U23",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/SYR-FT1@2x.png"
+        },
+        {
+          "name": "Qatar U23",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/QAT-FT1@2x.png"
+        }
+      ],
+      "slug": "syria-u23-vs-qatar-u23",
+      "tournamentSlug": "afc-u23-asian-cup-2026",
+      "collectionSlug": "afc-u23-asian-cup-2026"
+    },
+    {
+      "id": 5,
       "isLive": true,
       "name": "Unknown Match",
       "tournament": "Oman Super League T20, 2026",
@@ -109,7 +135,7 @@
       "collectionSlug": "oman-super-league-t20-2026"
     },
     {
-      "id": 5,
+      "id": 6,
       "isLive": true,
       "name": "Match 190",
       "tournament": "LALIGA 2025-26",
@@ -135,7 +161,7 @@
       "collectionSlug": "laliga-2025-26"
     },
     {
-      "id": 6,
+      "id": 7,
       "isLive": true,
       "name": "Match 47",
       "tournament": "Africa Cup of Nations 2025-26",
@@ -144,8 +170,8 @@
       "streamingStatus": "STARTED",
       "matchId": 138389,
       "streamType": "PAID",
-      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-      "portraitImage": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_Football.jpg",
+      "landscapeImage": "https://images.fancode.com/aig/match/v1/138389_CASACARDS_APP.png",
+      "portraitImage": "https://images.fancode.com/aig/match/v1/138389_CASACARDS_SPORTY_APP.png",
       "teams": [
         {
           "name": "Algeria",
@@ -159,6 +185,32 @@
       "slug": "algeria-vs-nigeria",
       "tournamentSlug": "africa-cup-of-nations-2025-26",
       "collectionSlug": "africa-cup-of-nations-2025-26"
+    },
+    {
+      "id": 8,
+      "isLive": true,
+      "name": "Match 14",
+      "tournament": "AFC U23 Asian Cup, 2026",
+      "category": "Football",
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 139264,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/139264_5822_SYR-U23_QAT-U23_fc-web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/139264_5822_SYR-U23_QAT-U23_fc-app.jpg",
+      "teams": [
+        {
+          "name": "Syria U23",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/SYR-FT1@2x.png"
+        },
+        {
+          "name": "Qatar U23",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/QAT-FT1@2x.png"
+        }
+      ],
+      "slug": "syria-u23-vs-qatar-u23",
+      "tournamentSlug": "afc-u23-asian-cup-2026",
+      "collectionSlug": "afc-u23-asian-cup-2026"
     }
   ]
 }
