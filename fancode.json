@@ -2,36 +2,10 @@
   "success": true,
   "message": "Live matches fetched successfully",
   "total": 6,
-  "updatedAt": "11/01/2026, 11:47:12 AM",
+  "updatedAt": "11/01/2026, 12:20:04 PM",
   "data": [
     {
       "id": 1,
-      "isLive": true,
-      "name": "Match 16",
-      "tournament": "Super Smash, 2025-26",
-      "category": "All",
-      "status": "LIVE",
-      "streamingStatus": "STARTED",
-      "matchId": 138746,
-      "streamType": "PAID",
-      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/138746_5800_WF_ND_fc-web_1766641251667.jpg",
-      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/138746_5800_WF_ND_FC-App.jpg",
-      "teams": [
-        {
-          "name": "Wellington Firebirds",
-          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-FIRE@2x.png"
-        },
-        {
-          "name": "Northern Districts",
-          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/NB-W-CR1@2x.png"
-        }
-      ],
-      "slug": "wellington-firebirds-vs-northern-districts",
-      "tournamentSlug": "super-smash-2025-26",
-      "collectionSlug": "super-smash-2025-26"
-    },
-    {
-      "id": 2,
       "isLive": true,
       "name": "Match 23",
       "tournament": "Bangladesh Premier League, 2025-26",
@@ -57,7 +31,7 @@
       "collectionSlug": "bangladesh-premier-league-2025-26"
     },
     {
-      "id": 3,
+      "id": 2,
       "isLive": true,
       "name": "Match 32",
       "tournament": "A League 2025-26",
@@ -83,33 +57,33 @@
       "collectionSlug": "a-league-2025-26"
     },
     {
-      "id": 4,
+      "id": 3,
       "isLive": true,
-      "name": "Match 16",
-      "tournament": "Super Smash, 2025-26",
-      "category": "Cricket",
+      "name": "Pat Rafter Arena - Day 8",
+      "tournament": "ATP 250 - Brisbane",
+      "category": "All",
       "status": "LIVE",
       "streamingStatus": "STARTED",
-      "matchId": 138746,
+      "matchId": 139197,
       "streamType": "PAID",
-      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/138746_5800_WF_ND_fc-web_1766641251667.jpg",
-      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/138746_5800_WF_ND_FC-App.jpg",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/ATP_Brisbane__FC-Web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/ATP_Brisbane_2026_Sporty_match-card_03.jpg",
       "teams": [
         {
-          "name": "Wellington Firebirds",
-          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-FIRE@2x.png"
+          "name": "Pat Rafter Arena - Day 8",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png"
         },
         {
-          "name": "Northern Districts",
-          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/NB-W-CR1@2x.png"
+          "name": "Rafter Arena, Brisbane",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png"
         }
       ],
-      "slug": "wellington-firebirds-vs-northern-districts",
-      "tournamentSlug": "super-smash-2025-26",
-      "collectionSlug": "super-smash-2025-26"
+      "slug": "pat-rafter-arena-day-8",
+      "tournamentSlug": "atp-250-brisbane",
+      "collectionSlug": "atp-250-brisbane"
     },
     {
-      "id": 5,
+      "id": 4,
       "isLive": true,
       "name": "Match 23",
       "tournament": "Bangladesh Premier League, 2025-26",
@@ -135,7 +109,7 @@
       "collectionSlug": "bangladesh-premier-league-2025-26"
     },
     {
-      "id": 6,
+      "id": 5,
       "isLive": true,
       "name": "Match 32",
       "tournament": "A League 2025-26",
@@ -159,6 +133,32 @@
       "slug": "melbourne-city-vs-newcastle-jets",
       "tournamentSlug": "a-league-2025-26",
       "collectionSlug": "a-league-2025-26"
+    },
+    {
+      "id": 6,
+      "isLive": true,
+      "name": "Pat Rafter Arena - Day 8",
+      "tournament": "ATP 250 - Brisbane",
+      "category": "Tennis",
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 139197,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/ATP_Brisbane__FC-Web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/ATP_Brisbane_2026_Sporty_match-card_03.jpg",
+      "teams": [
+        {
+          "name": "Pat Rafter Arena - Day 8",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png"
+        },
+        {
+          "name": "Rafter Arena, Brisbane",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "pat-rafter-arena-day-8",
+      "tournamentSlug": "atp-250-brisbane",
+      "collectionSlug": "atp-250-brisbane"
     }
   ]
 }
