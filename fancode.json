@@ -1,7 +1,60 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "total": 0,
-  "updatedAt": "12/01/2026, 12:22:17 AM",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 2,
+  "updatedAt": "12/01/2026, 12:37:57 AM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "name": "Final",
+      "tournament": "SuperCopa 2026",
+      "category": "All",
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 138959,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/SuperCopa-ELCLaSICO_fc-web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/SuperCopa-ELCLaSICO_fc-app.jpg",
+      "teams": [
+        {
+          "name": "FC Barcelona",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/BAR-FT2@2x.png"
+        },
+        {
+          "name": "Real Madrid",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/RM-FT2@2x.png"
+        }
+      ],
+      "slug": "fc-barcelona-vs-real-madrid",
+      "tournamentSlug": "supercopa-2026",
+      "collectionSlug": "supercopa-2026"
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "name": "Final",
+      "tournament": "SuperCopa 2026",
+      "category": "Football",
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 138959,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/SuperCopa-ELCLaSICO_fc-web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/SuperCopa-ELCLaSICO_fc-app.jpg",
+      "teams": [
+        {
+          "name": "FC Barcelona",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/BAR-FT2@2x.png"
+        },
+        {
+          "name": "Real Madrid",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/RM-FT2@2x.png"
+        }
+      ],
+      "slug": "fc-barcelona-vs-real-madrid",
+      "tournamentSlug": "supercopa-2026",
+      "collectionSlug": "supercopa-2026"
+    }
+  ]
 }
