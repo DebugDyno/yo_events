@@ -1,7 +1,60 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "total": 0,
-  "updatedAt": "12/01/2026, 03:40:06 AM",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 2,
+  "updatedAt": "12/01/2026, 04:04:18 AM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "name": "ATP 250 - ASB Classic",
+      "tournament": "ATP 250 - Auckland Open",
+      "category": "All",
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 139536,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/ASB_Classic_fc-web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/ASB_Classic_fc-app.jpg",
+      "teams": [
+        {
+          "name": "ATP 250 - ASB Classic",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png"
+        },
+        {
+          "name": "Auckland",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "atp-250-asb-classic",
+      "tournamentSlug": "atp-250-auckland-open",
+      "collectionSlug": "atp-250-auckland-open"
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "name": "ATP 250 - ASB Classic",
+      "tournament": "ATP 250 - Auckland Open",
+      "category": "Tennis",
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 139536,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/ASB_Classic_fc-web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/ASB_Classic_fc-app.jpg",
+      "teams": [
+        {
+          "name": "ATP 250 - ASB Classic",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png"
+        },
+        {
+          "name": "Auckland",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "atp-250-asb-classic",
+      "tournamentSlug": "atp-250-auckland-open",
+      "collectionSlug": "atp-250-auckland-open"
+    }
+  ]
 }
