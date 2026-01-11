@@ -1,50 +1,6 @@
 {
-  "success": true,
-  "message": "Live matches fetched successfully",
-  "total": 2,
-  "updatedAt": "12/01/2026, 12:37:56 AM",
-  "data": [
-    {
-      "id": 3,
-      "isLive": true,
-      "contentId": "138959",
-      "name": "BAR vs RM",
-      "genre": "football",
-      "language": "english",
-      "provider": "FanCode",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/backdrops/983329417c5d9207ad4205a5de99ea0a.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/cd318103106bae05431f0df2788cfaaf.jpg"
-      ],
-      "providerInfo": {
-        "id": "63ce216c483822001ca300a4",
-        "name": "FanCode",
-        "hashId": "c60fe425e3269"
-      }
-    },
-    {
-      "id": 4,
-      "isLive": true,
-      "contentId": "1540060260",
-      "name": "Buffalo Bills @ Jacksonville Jaguars",
-      "genre": "american football",
-      "language": "english",
-      "provider": "JioHotstar",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/images/1fa271ba6c42299e33786be86eccfdd9.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/9ac6f4cd12f9e318313a3599e75815fd.jpg"
-      ],
-      "providerInfo": {
-        "id": "67977987ed126c0029b9f20c",
-        "name": "JioHotstar",
-        "hashId": "4025a7f67d456"
-      }
-    }
-  ]
+  "success": false,
+  "message": "Failed to fetch data",
+  "data": [],
+  "error": "HTTP error! Status: 403"
 }
