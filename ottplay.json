@@ -1,8 +1,8 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 6,
-  "updatedAt": "12/01/2026, 04:22:22 PM",
+  "total": 5,
+  "updatedAt": "12/01/2026, 04:41:38 PM",
   "data": [
     {
       "id": 1,
@@ -49,6 +49,27 @@
     {
       "id": 3,
       "isLive": true,
+      "contentId": "139576",
+      "name": "ODT vs IAI",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/634a954111a463df750a14c8be4f6b67.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/5e645ed4964f3d99fde1c276e923b5bc.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 4,
+      "isLive": true,
       "contentId": "1540058959",
       "name": "Sydney Thunder vs Melbourne Renegades",
       "genre": "cricket",
@@ -68,52 +89,7 @@
       }
     },
     {
-      "id": 6,
-      "isLive": true,
-      "contentId": "138932",
-      "name": "SYT vs RAN",
-      "genre": "cricket",
-      "language": "english",
-      "provider": "FanCode",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/backdrops/cricket.jpg",
-        "https://images.ottplay.com/backdrops/73606bac0ae800c823bc0a3c1c8a9275.jpg",
-        "https://images.ottplay.com/backdrops/7983e2722cee195cc78e0278537ebfaa.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/2fc4b94365dd59a515f0eb4ec424fb92.jpg",
-        "https://images.ottplay.com/posters/05f435b217f2485fb4394a7f9283e3a6.jpg"
-      ],
-      "providerInfo": {
-        "id": "63ce216c483822001ca300a4",
-        "name": "FanCode",
-        "hashId": "c60fe425e3269"
-      }
-    },
-    {
       "id": 7,
-      "isLive": true,
-      "contentId": "139666",
-      "name": "VNS vs DSM",
-      "genre": "cricket",
-      "language": "english",
-      "provider": "FanCode",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/backdrops/78ab16eb5361a0cacae47a8619d5a152.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/738d41882b3bb5cea18fdd589c352109.jpg"
-      ],
-      "providerInfo": {
-        "id": "63ce216c483822001ca300a4",
-        "name": "FanCode",
-        "hashId": "c60fe425e3269"
-      }
-    },
-    {
-      "id": 8,
       "isLive": true,
       "contentId": "139533",
       "name": "ATP vs LOC",
