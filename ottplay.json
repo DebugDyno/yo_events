@@ -1,11 +1,34 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 5,
-  "updatedAt": "12/01/2026, 08:59:41 PM",
+  "total": 4,
+  "updatedAt": "12/01/2026, 09:22:02 PM",
   "data": [
     {
       "id": 1,
+      "isLive": true,
+      "contentId": "1540059607",
+      "name": "Royal Challengers Bengaluru vs UP Warriorz",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "JioHotstar",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/media/gallery/1920x1080carousellive-1768231923.jpg",
+        "https://images.ottplay.com/images/c5c83cf462f00b60ad30b6ee0e1d0aa8.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/a24e30fc5fd3ea850e7aca8e78020483.jpg",
+        "https://images.ottplay.com/images/media/gallery/750x1125posterlive-1768231924.jpg"
+      ],
+      "providerInfo": {
+        "id": "67977987ed126c0029b9f20c",
+        "name": "JioHotstar",
+        "hashId": "4025a7f67d456"
+      }
+    },
+    {
+      "id": 2,
       "isLive": true,
       "contentId": "139577",
       "name": "YSG vs MAT",
@@ -26,7 +49,7 @@
       }
     },
     {
-      "id": 2,
+      "id": 3,
       "isLive": true,
       "contentId": "1540058742",
       "name": "Pretoria Capitals vs MI Cape Town",
@@ -47,7 +70,7 @@
       }
     },
     {
-      "id": 3,
+      "id": 4,
       "isLive": true,
       "contentId": "1540059524",
       "name": "Majhi Mumbai vs Delhi Superheros",
@@ -65,48 +88,6 @@
         "id": "67977987ed126c0029b9f20c",
         "name": "JioHotstar",
         "hashId": "4025a7f67d456"
-      }
-    },
-    {
-      "id": 4,
-      "isLive": true,
-      "contentId": "1540059607",
-      "name": "Royal Challengers Bengaluru vs UP Warriorz",
-      "genre": "cricket",
-      "language": "english",
-      "provider": "JioHotstar",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/images/c5c83cf462f00b60ad30b6ee0e1d0aa8.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/a24e30fc5fd3ea850e7aca8e78020483.jpg"
-      ],
-      "providerInfo": {
-        "id": "67977987ed126c0029b9f20c",
-        "name": "JioHotstar",
-        "hashId": "4025a7f67d456"
-      }
-    },
-    {
-      "id": 5,
-      "isLive": true,
-      "contentId": "138933",
-      "name": "RAW vs DC",
-      "genre": "cricket",
-      "language": "english",
-      "provider": "FanCode",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/backdrops/1a257b9b841987a8ab5ce88e189f591b.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/375bcb96fd42c640189fe54fce244b4c.jpg"
-      ],
-      "providerInfo": {
-        "id": "63ce216c483822001ca300a4",
-        "name": "FanCode",
-        "hashId": "c60fe425e3269"
       }
     }
   ]
