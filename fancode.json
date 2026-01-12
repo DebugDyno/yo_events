@@ -1,7 +1,60 @@
 {
-  "success": false,
-  "message": "Failed to fetch data from FanCode",
-  "updatedAt": "13/01/2026, 02:04:22 AM",
-  "error": "Invalid response structure from FanCode API",
-  "data": []
+  "success": true,
+  "message": "Live matches fetched successfully",
+  "total": 2,
+  "updatedAt": "13/01/2026, 02:21:15 AM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "name": "Match 187",
+      "tournament": "LALIGA 2025-26",
+      "category": "All",
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 131013,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/131019_5427_GIR_OSN_fc-Web_1768202652350.png",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/131019_5427_GIR_OSN_fc-App_1768202651543.png",
+      "teams": [
+        {
+          "name": "Sevilla FC",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SVI@2x.png"
+        },
+        {
+          "name": "RC Celta",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-CEV@2x.png"
+        }
+      ],
+      "slug": "sevilla-fc-vs-rc-celta",
+      "tournamentSlug": "laliga-2025-26",
+      "collectionSlug": "laliga-2025-26"
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "name": "Match 187",
+      "tournament": "LALIGA 2025-26",
+      "category": "Football",
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 131013,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/131019_5427_GIR_OSN_fc-Web_1768202652350.png",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/131019_5427_GIR_OSN_fc-App_1768202651543.png",
+      "teams": [
+        {
+          "name": "Sevilla FC",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SVI@2x.png"
+        },
+        {
+          "name": "RC Celta",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-CEV@2x.png"
+        }
+      ],
+      "slug": "sevilla-fc-vs-rc-celta",
+      "tournamentSlug": "laliga-2025-26",
+      "collectionSlug": "laliga-2025-26"
+    }
+  ]
 }
