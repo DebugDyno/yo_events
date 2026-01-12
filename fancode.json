@@ -1,34 +1,34 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 8,
-  "updatedAt": "12/01/2026, 11:30:39 AM",
+  "total": 10,
+  "updatedAt": "12/01/2026, 12:21:29 PM",
   "data": [
     {
       "id": 1,
       "isLive": true,
       "name": "Match 17",
-      "tournament": "Super Smash, 2025-26",
+      "tournament": "Bangladesh Premier League, 2025-26",
       "category": "All",
       "status": "LIVE",
       "streamingStatus": "STARTED",
-      "matchId": 138747,
+      "matchId": 138932,
       "streamType": "PAID",
-      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/138747_5800_OV_AA_fc-web_1766641251086.jpg",
-      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/138747_5800_OV_AA_FC-App.jpg",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/138932_5808_SYL_RAN_fc-web_1766733054172.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/138932_5808_SYL_RAN_fc-App_1767706252268.jpg",
       "teams": [
         {
-          "name": "Otago Volts",
-          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-VOLT@2x.png"
+          "name": "Sylhet Titans",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SYT@2x.png"
         },
         {
-          "name": "Auckland Aces",
-          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ACE@2x.png"
+          "name": "Rangpur Riders",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RANG@2x.png"
         }
       ],
-      "slug": "otago-volts-vs-auckland-aces",
-      "tournamentSlug": "super-smash-2025-26",
-      "collectionSlug": "super-smash-2025-26"
+      "slug": "sylhet-titans-vs-rangpur-riders",
+      "tournamentSlug": "bangladesh-premier-league-2025-26",
+      "collectionSlug": "bangladesh-premier-league-2025-26"
     },
     {
       "id": 2,
@@ -111,31 +111,57 @@
     {
       "id": 5,
       "isLive": true,
-      "name": "Match 17",
-      "tournament": "Super Smash, 2025-26",
-      "category": "Cricket",
+      "name": "Show Court 1 - Day 1",
+      "tournament": "ATP 250 - Adelaide International",
+      "category": "All",
       "status": "LIVE",
       "streamingStatus": "STARTED",
-      "matchId": 138747,
+      "matchId": 139533,
       "streamType": "PAID",
-      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/138747_5800_OV_AA_fc-web_1766641251086.jpg",
-      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/138747_5800_OV_AA_FC-App.jpg",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1767942977104.png",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/Old-Sporty-(1080x1440)-(1)_1767942976312.png",
       "teams": [
         {
-          "name": "Otago Volts",
-          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-VOLT@2x.png"
+          "name": "Show Court 1 - Day 1",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png"
         },
         {
-          "name": "Auckland Aces",
-          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ACE@2x.png"
+          "name": "Adelaide",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png"
         }
       ],
-      "slug": "otago-volts-vs-auckland-aces",
-      "tournamentSlug": "super-smash-2025-26",
-      "collectionSlug": "super-smash-2025-26"
+      "slug": "show-court-1-day-1",
+      "tournamentSlug": "atp-250-adelaide-international",
+      "collectionSlug": "atp-250-adelaide-international"
     },
     {
       "id": 6,
+      "isLive": true,
+      "name": "Match 17",
+      "tournament": "Bangladesh Premier League, 2025-26",
+      "category": "Cricket",
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 138932,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/138932_5808_SYL_RAN_fc-web_1766733054172.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/138932_5808_SYL_RAN_fc-App_1767706252268.jpg",
+      "teams": [
+        {
+          "name": "Sylhet Titans",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SYT@2x.png"
+        },
+        {
+          "name": "Rangpur Riders",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RANG@2x.png"
+        }
+      ],
+      "slug": "sylhet-titans-vs-rangpur-riders",
+      "tournamentSlug": "bangladesh-premier-league-2025-26",
+      "collectionSlug": "bangladesh-premier-league-2025-26"
+    },
+    {
+      "id": 7,
       "isLive": true,
       "name": "Unknown Match",
       "tournament": "Giles Shield 2026",
@@ -161,7 +187,7 @@
       "collectionSlug": "giles-shield-2026"
     },
     {
-      "id": 7,
+      "id": 8,
       "isLive": true,
       "name": "ATP 250 - ASB Classic",
       "tournament": "ATP 250 - Auckland Open",
@@ -187,7 +213,7 @@
       "collectionSlug": "atp-250-auckland-open"
     },
     {
-      "id": 8,
+      "id": 9,
       "isLive": true,
       "name": "Centre Court - Day 1",
       "tournament": "ATP 250 - Adelaide International",
@@ -209,6 +235,32 @@
         }
       ],
       "slug": "centre-court-day-1",
+      "tournamentSlug": "atp-250-adelaide-international",
+      "collectionSlug": "atp-250-adelaide-international"
+    },
+    {
+      "id": 10,
+      "isLive": true,
+      "name": "Show Court 1 - Day 1",
+      "tournament": "ATP 250 - Adelaide International",
+      "category": "Tennis",
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 139533,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1767942977104.png",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/Old-Sporty-(1080x1440)-(1)_1767942976312.png",
+      "teams": [
+        {
+          "name": "Show Court 1 - Day 1",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png"
+        },
+        {
+          "name": "Adelaide",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "show-court-1-day-1",
       "tournamentSlug": "atp-250-adelaide-international",
       "collectionSlug": "atp-250-adelaide-international"
     }
