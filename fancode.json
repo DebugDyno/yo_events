@@ -1,11 +1,37 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 2,
-  "updatedAt": "13/01/2026, 05:26:31 AM",
+  "total": 6,
+  "updatedAt": "13/01/2026, 07:14:50 AM",
   "data": [
     {
       "id": 1,
+      "isLive": true,
+      "name": "Match 18",
+      "tournament": "Women's Super Smash, 2025-26",
+      "category": "All",
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 138780,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/138780_5801_CH-W_NB-W_fc-web_1766596522104.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/138780_5801_CH-W_NB-W_fc-app_1766596319024.jpg",
+      "teams": [
+        {
+          "name": "Central Hinds",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CHIW@2x.png"
+        },
+        {
+          "name": "Northern Brave Women",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/NB-W-CR1@2x.png"
+        }
+      ],
+      "slug": "central-hinds-vs-northern-brave-women",
+      "tournamentSlug": "womens-super-smash-2025-26",
+      "collectionSlug": "womens-super-smash-2025-26"
+    },
+    {
+      "id": 2,
       "isLive": true,
       "name": "ATP 250 - ASB Classic",
       "tournament": "ATP 250 - Auckland Open",
@@ -31,7 +57,59 @@
       "collectionSlug": "atp-250-auckland-open"
     },
     {
-      "id": 2,
+      "id": 3,
+      "isLive": true,
+      "name": "Centre Court - Day 2",
+      "tournament": "ATP 250 - Adelaide International",
+      "category": "All",
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 139534,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1767942977104.png",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/Old-Sporty-(1080x1440)-(1)_1767942976312.png",
+      "teams": [
+        {
+          "name": "Centre Court - Day 2",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png"
+        },
+        {
+          "name": "Adelaide",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "centre-court-day-2",
+      "tournamentSlug": "atp-250-adelaide-international",
+      "collectionSlug": "atp-250-adelaide-international"
+    },
+    {
+      "id": 4,
+      "isLive": true,
+      "name": "Match 18",
+      "tournament": "Women's Super Smash, 2025-26",
+      "category": "Cricket",
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 138780,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/138780_5801_CH-W_NB-W_fc-web_1766596522104.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/138780_5801_CH-W_NB-W_fc-app_1766596319024.jpg",
+      "teams": [
+        {
+          "name": "Central Hinds",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CHIW@2x.png"
+        },
+        {
+          "name": "Northern Brave Women",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/NB-W-CR1@2x.png"
+        }
+      ],
+      "slug": "central-hinds-vs-northern-brave-women",
+      "tournamentSlug": "womens-super-smash-2025-26",
+      "collectionSlug": "womens-super-smash-2025-26"
+    },
+    {
+      "id": 5,
       "isLive": true,
       "name": "ATP 250 - ASB Classic",
       "tournament": "ATP 250 - Auckland Open",
@@ -55,6 +133,32 @@
       "slug": "atp-250-asb-classic",
       "tournamentSlug": "atp-250-auckland-open",
       "collectionSlug": "atp-250-auckland-open"
+    },
+    {
+      "id": 6,
+      "isLive": true,
+      "name": "Centre Court - Day 2",
+      "tournament": "ATP 250 - Adelaide International",
+      "category": "Tennis",
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 139534,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1767942977104.png",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/Old-Sporty-(1080x1440)-(1)_1767942976312.png",
+      "teams": [
+        {
+          "name": "Centre Court - Day 2",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png"
+        },
+        {
+          "name": "Adelaide",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "centre-court-day-2",
+      "tournamentSlug": "atp-250-adelaide-international",
+      "collectionSlug": "atp-250-adelaide-international"
     }
   ]
 }
