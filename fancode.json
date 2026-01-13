@@ -1,8 +1,8 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 6,
-  "updatedAt": "14/01/2026, 05:03:27 AM",
+  "total": 8,
+  "updatedAt": "14/01/2026, 05:16:24 AM",
   "data": [
     {
       "id": 1,
@@ -85,6 +85,32 @@
     {
       "id": 4,
       "isLive": true,
+      "name": "Jupiter vs New York",
+      "tournament": "TGL Season 2",
+      "category": "All",
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 139166,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/TGL_Mini-Match-Card-(1080x810).png",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/TGL_Old-Sporty-(1080x1440).png",
+      "teams": [
+        {
+          "name": "Jupiter vs New York",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-TGL@2x.png"
+        },
+        {
+          "name": "Florida",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "jupiter-vs-new-york",
+      "tournamentSlug": "tgl-season-2",
+      "collectionSlug": "tgl-season-2"
+    },
+    {
+      "id": 5,
+      "isLive": true,
       "name": "Match 19",
       "tournament": "Super Smash, 2025-26",
       "category": "Cricket",
@@ -109,7 +135,7 @@
       "collectionSlug": "super-smash-2025-26"
     },
     {
-      "id": 5,
+      "id": 6,
       "isLive": true,
       "name": "Match 3",
       "tournament": "CWI T20 Blaze 2026",
@@ -135,7 +161,7 @@
       "collectionSlug": "cwi-t20-blaze-2026"
     },
     {
-      "id": 6,
+      "id": 7,
       "isLive": true,
       "name": "ATP 250 - ASB Classic",
       "tournament": "ATP 250 - Auckland Open",
@@ -159,6 +185,32 @@
       "slug": "atp-250-asb-classic",
       "tournamentSlug": "atp-250-auckland-open",
       "collectionSlug": "atp-250-auckland-open"
+    },
+    {
+      "id": 8,
+      "isLive": true,
+      "name": "Jupiter vs New York",
+      "tournament": "TGL Season 2",
+      "category": "Golf",
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 139166,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/TGL_Mini-Match-Card-(1080x810).png",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/TGL_Old-Sporty-(1080x1440).png",
+      "teams": [
+        {
+          "name": "Jupiter vs New York",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-TGL@2x.png"
+        },
+        {
+          "name": "Florida",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "jupiter-vs-new-york",
+      "tournamentSlug": "tgl-season-2",
+      "collectionSlug": "tgl-season-2"
     }
   ]
 }
