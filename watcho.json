@@ -1,26 +1,26 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 10,
-  "updatedAt": "13/01/2026, 01:26:47 PM",
+  "total": 9,
+  "updatedAt": "13/01/2026, 02:03:08 PM",
   "data": [
     {
       "id": 1,
+      "isLive": true,
+      "contentId": "1540058962",
+      "name": "Melbourne Stars vs Adelaide Strikers",
+      "genre": "Cricket",
+      "provider": "JioHotstar",
+      "image": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/1835/1768228311835-h"
+    },
+    {
+      "id": 2,
       "isLive": true,
       "contentId": "1090499498",
       "name": "Sony Sports Ten 5",
       "genre": "Tennis",
       "provider": "Sony Liv",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/sony4/videoasset_images/manage_file/1000013313/1768285059261802_AO26_Rybakina_vs_Paolini_rev_landscape_thumb.jpg"
-    },
-    {
-      "id": 2,
-      "isLive": true,
-      "contentId": "1090498893",
-      "name": "Sony Sports Ten 5",
-      "genre": "Cricket",
-      "provider": "Sony Liv",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/sony4/videoasset_images/manage_file/1000012853/1767248542948898_SuperSmash2526_mens_Central-Stags-vs-Northern-Brave_1jan_landscape_thumb.jpg"
+      "image": "https://d229kpbsb5jevy.cloudfront.net/sony4/videoasset_images/manage_file/1000013308/1768241336769463_AO26_Zverev_vs_Musetti_12jan_landscape_thumb.jpg"
     },
     {
       "id": 3,
@@ -84,15 +84,6 @@
       "genre": "Sports",
       "provider": "FanCode",
       "image": "https://images.fancode.com/aig/match/v1/139534_CASACARDS_PARTNER_16_9_1920_1080.png"
-    },
-    {
-      "id": 10,
-      "isLive": true,
-      "contentId": "138748",
-      "name": "Central Stags VS Northern Districts",
-      "genre": "Sports",
-      "provider": "FanCode",
-      "image": "https://images.fancode.com/aig/match/v1/138748_CASACARDS_PARTNER_16_9_1920_1080.png"
     }
   ]
 }
