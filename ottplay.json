@@ -1,6 +1,159 @@
 {
-  "success": false,
-  "message": "Failed to fetch data",
-  "data": [],
-  "error": "HTTP error! Status: 403"
+  "success": true,
+  "message": "Live matches fetched successfully",
+  "total": 7,
+  "updatedAt": "13/01/2026, 11:25:39 PM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "139358",
+      "name": "DAM vs ITT",
+      "genre": "football",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/309b5cbf6016d08f929af46c73cd736e.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/01cc7dc2aa4c0f47e45e7ee2512a16cb.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "contentId": "1090499481",
+      "name": "VfB Stuttgart vs Eintracht Frankfurt - MD 17 - 13 Jan 2026",
+      "genre": "football",
+      "language": "english",
+      "provider": "SonyLIV",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/4919c87a3fd104fa32322c72d0c5984a.jpg",
+        "https://images.ottplay.com/images/72d083cfaca863fb8369647432782d88.jpg",
+        "https://images.ottplay.com/images/65af4fb65f399c17604ef7dda3ff7c23.jpg",
+        "https://images.ottplay.com/images/09a8b8c277f35881e88026ced1febbb9.jpg",
+        "https://images.ottplay.com/images/e65e8c086164b38d1ce1e7ee64d8a148.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/edfb5589351096e2d54770f4c1f10d82.jpg"
+      ],
+      "providerInfo": {
+        "id": "5f456c2aff9ccd034434e6fd",
+        "name": "SonyLIV",
+        "hashId": "100dc02b90dfc"
+      }
+    },
+    {
+      "id": 3,
+      "isLive": true,
+      "contentId": "139271",
+      "name": "JP-U23 vs QAT-U23",
+      "genre": "football",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/ce6a5b763b5cc7507204192853f6c7d2.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/c6f0bb4b89eb0e6a3801f9280c2de4fd.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 4,
+      "isLive": true,
+      "contentId": "139272",
+      "name": "UAE-U23 vs SYR-U23",
+      "genre": "football",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/fe42e10960a3778aacd711f14e367170.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/f173a4547f14dc8fa6ea5e521192540b.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 5,
+      "isLive": true,
+      "contentId": "139579",
+      "name": "IAI vs MAT",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/4e938b47e9ce19f1a5237afb8245a86a.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/2fc30a803b8666bd6a8d476796a140d5.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 6,
+      "isLive": true,
+      "contentId": "1540058745",
+      "name": "Paarl Royals vs Durban's Super Giants",
+      "genre": "cricket",
+      "language": "hindi",
+      "provider": "JioHotstar",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/c0625857294202c7d202579377e9131c.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/049792a9c99ad6564d4015ef3939b980.jpg"
+      ],
+      "providerInfo": {
+        "id": "67977987ed126c0029b9f20c",
+        "name": "JioHotstar",
+        "hashId": "4025a7f67d456"
+      }
+    },
+    {
+      "id": 7,
+      "isLive": true,
+      "contentId": "1540059610",
+      "name": "Mumbai Indians vs Gujarat Giants",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "JioHotstar",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/ef07403b6c017e4f956e2fbc6ddf49db.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/27518c371ffc5ea699bd3e34ec6726a5.jpg"
+      ],
+      "providerInfo": {
+        "id": "67977987ed126c0029b9f20c",
+        "name": "JioHotstar",
+        "hashId": "4025a7f67d456"
+      }
+    }
+  ]
 }
