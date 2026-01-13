@@ -1,11 +1,32 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 5,
-  "updatedAt": "13/01/2026, 06:54:53 PM",
+  "total": 3,
+  "updatedAt": "13/01/2026, 07:26:35 PM",
   "data": [
     {
       "id": 1,
+      "isLive": true,
+      "contentId": "1540059527",
+      "name": "Bengaluru Strikers vs Delhi Superheros",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "JioHotstar",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/1c29445d8a84137f7d5134c06e92ad52.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/d83e734189fb38eff6c17f06beac722e.jpg"
+      ],
+      "providerInfo": {
+        "id": "67977987ed126c0029b9f20c",
+        "name": "JioHotstar",
+        "hashId": "4025a7f67d456"
+      }
+    },
+    {
+      "id": 2,
       "isLive": true,
       "contentId": "139745",
       "name": "WWI-W vs GY-W",
@@ -26,7 +47,7 @@
       }
     },
     {
-      "id": 2,
+      "id": 3,
       "isLive": true,
       "contentId": "1540059610",
       "name": "Mumbai Indians vs Gujarat Giants",
@@ -44,69 +65,6 @@
         "id": "67977987ed126c0029b9f20c",
         "name": "JioHotstar",
         "hashId": "4025a7f67d456"
-      }
-    },
-    {
-      "id": 3,
-      "isLive": true,
-      "contentId": "139269",
-      "name": "UZB-U23 vs KR-U23",
-      "genre": "football",
-      "language": "english",
-      "provider": "FanCode",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/backdrops/efed1f8bf9c5f6a6cc14f534a6677109.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/877bf0c3060660f9c9f5e31e12e87faf.jpg"
-      ],
-      "providerInfo": {
-        "id": "63ce216c483822001ca300a4",
-        "name": "FanCode",
-        "hashId": "c60fe425e3269"
-      }
-    },
-    {
-      "id": 4,
-      "isLive": true,
-      "contentId": "139270",
-      "name": "IRN-U23 vs LEB-U23",
-      "genre": "football",
-      "language": "english",
-      "provider": "FanCode",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/backdrops/a7f71959d1cd3dfd5270835c57c29938.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/7c27a3825dd62a7088e5af84241129cf.jpg"
-      ],
-      "providerInfo": {
-        "id": "63ce216c483822001ca300a4",
-        "name": "FanCode",
-        "hashId": "c60fe425e3269"
-      }
-    },
-    {
-      "id": 5,
-      "isLive": true,
-      "contentId": "139578",
-      "name": "ODT vs RNC",
-      "genre": "cricket",
-      "language": "english",
-      "provider": "FanCode",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/backdrops/507bdd30978eceb02fd914245875ab4b.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/4d647870b595d32a4f6843c5ae3341f8.jpg"
-      ],
-      "providerInfo": {
-        "id": "63ce216c483822001ca300a4",
-        "name": "FanCode",
-        "hashId": "c60fe425e3269"
       }
     }
   ]
