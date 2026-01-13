@@ -1,63 +1,11 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 8,
-  "updatedAt": "14/01/2026, 03:25:30 AM",
+  "total": 6,
+  "updatedAt": "14/01/2026, 03:49:55 AM",
   "data": [
     {
       "id": 1,
-      "isLive": true,
-      "name": "Match 2",
-      "tournament": "CWI T20 Blaze 2026",
-      "category": "All",
-      "status": "LIVE",
-      "streamingStatus": "STARTED",
-      "matchId": 139746,
-      "streamType": "PAID",
-      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/CWI-Women's-T20-Blaze_fc-web.jpg",
-      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/CWI-Women's-T20-Blaze_fc-app.jpg",
-      "teams": [
-        {
-          "name": "Jamaica Women",
-          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JAM@2x.png"
-        },
-        {
-          "name": "Leeward Islands Women",
-          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LWI@2x.png"
-        }
-      ],
-      "slug": "jamaica-women-vs-leeward-islands-women",
-      "tournamentSlug": "cwi-t20-blaze-2026",
-      "collectionSlug": "cwi-t20-blaze-2026"
-    },
-    {
-      "id": 2,
-      "isLive": true,
-      "name": "Semi-Final Leg 1",
-      "tournament": "Carabao Cup 2025-2026",
-      "category": "All",
-      "status": "LIVE",
-      "streamingStatus": "STARTED",
-      "matchId": 139211,
-      "streamType": "PAID",
-      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/01_Newcastle-United-vs-Manchester-City_1768301098208.png",
-      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/01_Newcastle-United-vs-Manchester-City_1768301115924.png",
-      "teams": [
-        {
-          "name": "Newcastle United",
-          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-NEW@2x.png"
-        },
-        {
-          "name": "Manchester City",
-          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MANC@2x.png"
-        }
-      ],
-      "slug": "newcastle-united-vs-manchester-city",
-      "tournamentSlug": "carabao-cup-2025-2026",
-      "collectionSlug": "carabao-cup-2025-2026"
-    },
-    {
-      "id": 3,
       "isLive": true,
       "name": "Match 18",
       "tournament": "Copa del Rey, 2025-26",
@@ -83,7 +31,7 @@
       "collectionSlug": "copa-del-rey-2025-26"
     },
     {
-      "id": 4,
+      "id": 2,
       "isLive": true,
       "name": "Match 19",
       "tournament": "Copa del Rey, 2025-26",
@@ -105,90 +53,64 @@
         }
       ],
       "slug": "real-sociedad-vs-ca-osasuna",
+      "tournamentSlug": "copa-del-rey-2025-26",
+      "collectionSlug": "copa-del-rey-2025-26"
+    },
+    {
+      "id": 3,
+      "isLive": true,
+      "name": "ATP 250 - ASB Classic",
+      "tournament": "ATP 250 - Auckland Open",
+      "category": "All",
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 139538,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/ASB_Classic_fc-web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/ASB_Classic_fc-app.jpg",
+      "teams": [
+        {
+          "name": "ATP 250 - ASB Classic",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png"
+        },
+        {
+          "name": "Auckland",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "atp-250-asb-classic",
+      "tournamentSlug": "atp-250-auckland-open",
+      "collectionSlug": "atp-250-auckland-open"
+    },
+    {
+      "id": 4,
+      "isLive": true,
+      "name": "Match 18",
+      "tournament": "Copa del Rey, 2025-26",
+      "category": "Football",
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 139670,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/139670_5806_CL_ATH_FC-Web_1768310393642.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/139670_5806_CL_ATH_FC-App_1768310393638.jpg",
+      "teams": [
+        {
+          "name": "Cultural Leonesa",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-CL@2x.png"
+        },
+        {
+          "name": "Athletic Club",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ATH@2x.png"
+        }
+      ],
+      "slug": "cultural-leonesa-vs-athletic-club",
       "tournamentSlug": "copa-del-rey-2025-26",
       "collectionSlug": "copa-del-rey-2025-26"
     },
     {
       "id": 5,
       "isLive": true,
-      "name": "Match 2",
-      "tournament": "CWI T20 Blaze 2026",
-      "category": "Cricket",
-      "status": "LIVE",
-      "streamingStatus": "STARTED",
-      "matchId": 139746,
-      "streamType": "PAID",
-      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/CWI-Women's-T20-Blaze_fc-web.jpg",
-      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/CWI-Women's-T20-Blaze_fc-app.jpg",
-      "teams": [
-        {
-          "name": "Jamaica Women",
-          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JAM@2x.png"
-        },
-        {
-          "name": "Leeward Islands Women",
-          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LWI@2x.png"
-        }
-      ],
-      "slug": "jamaica-women-vs-leeward-islands-women",
-      "tournamentSlug": "cwi-t20-blaze-2026",
-      "collectionSlug": "cwi-t20-blaze-2026"
-    },
-    {
-      "id": 6,
-      "isLive": true,
-      "name": "Semi-Final Leg 1",
-      "tournament": "Carabao Cup 2025-2026",
-      "category": "Football",
-      "status": "LIVE",
-      "streamingStatus": "STARTED",
-      "matchId": 139211,
-      "streamType": "PAID",
-      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/01_Newcastle-United-vs-Manchester-City_1768301098208.png",
-      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/01_Newcastle-United-vs-Manchester-City_1768301115924.png",
-      "teams": [
-        {
-          "name": "Newcastle United",
-          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-NEW@2x.png"
-        },
-        {
-          "name": "Manchester City",
-          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MANC@2x.png"
-        }
-      ],
-      "slug": "newcastle-united-vs-manchester-city",
-      "tournamentSlug": "carabao-cup-2025-2026",
-      "collectionSlug": "carabao-cup-2025-2026"
-    },
-    {
-      "id": 7,
-      "isLive": true,
-      "name": "Match 18",
-      "tournament": "Copa del Rey, 2025-26",
-      "category": "Football",
-      "status": "LIVE",
-      "streamingStatus": "STARTED",
-      "matchId": 139670,
-      "streamType": "PAID",
-      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/139670_5806_CL_ATH_FC-Web_1768310393642.jpg",
-      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/139670_5806_CL_ATH_FC-App_1768310393638.jpg",
-      "teams": [
-        {
-          "name": "Cultural Leonesa",
-          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-CL@2x.png"
-        },
-        {
-          "name": "Athletic Club",
-          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ATH@2x.png"
-        }
-      ],
-      "slug": "cultural-leonesa-vs-athletic-club",
-      "tournamentSlug": "copa-del-rey-2025-26",
-      "collectionSlug": "copa-del-rey-2025-26"
-    },
-    {
-      "id": 8,
-      "isLive": true,
       "name": "Match 19",
       "tournament": "Copa del Rey, 2025-26",
       "category": "Football",
@@ -211,6 +133,32 @@
       "slug": "real-sociedad-vs-ca-osasuna",
       "tournamentSlug": "copa-del-rey-2025-26",
       "collectionSlug": "copa-del-rey-2025-26"
+    },
+    {
+      "id": 6,
+      "isLive": true,
+      "name": "ATP 250 - ASB Classic",
+      "tournament": "ATP 250 - Auckland Open",
+      "category": "Tennis",
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 139538,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/ASB_Classic_fc-web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/ASB_Classic_fc-app.jpg",
+      "teams": [
+        {
+          "name": "ATP 250 - ASB Classic",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png"
+        },
+        {
+          "name": "Auckland",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "atp-250-asb-classic",
+      "tournamentSlug": "atp-250-auckland-open",
+      "collectionSlug": "atp-250-auckland-open"
     }
   ]
 }
