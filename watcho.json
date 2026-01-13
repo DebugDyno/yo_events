@@ -1,11 +1,20 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 5,
-  "updatedAt": "13/01/2026, 07:26:34 PM",
+  "total": 3,
+  "updatedAt": "13/01/2026, 07:56:31 PM",
   "data": [
     {
       "id": 1,
+      "isLive": true,
+      "contentId": "1540059527",
+      "name": "Bengaluru Strikers vs Delhi Superheros",
+      "genre": "Cricket",
+      "provider": "JioHotstar",
+      "image": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/8981/1768294188981-h"
+    },
+    {
+      "id": 2,
       "isLive": true,
       "contentId": "1540059610",
       "name": "Mumbai Indians vs Gujarat Giants",
@@ -14,40 +23,13 @@
       "image": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/4365/1768229524365-h"
     },
     {
-      "id": 2,
+      "id": 3,
       "isLive": true,
       "contentId": "139745",
       "name": "Windward Islands Women VS Guyana Women",
       "genre": "Sports",
       "provider": "FanCode",
       "image": "https://images.fancode.com/aig/match/v1/139745_CASACARDS_PARTNER_16_9_1920_1080.png"
-    },
-    {
-      "id": 3,
-      "isLive": true,
-      "contentId": "139578",
-      "name": "Oman Development Team VS Renaissance Challengers",
-      "genre": "Sports",
-      "provider": "FanCode",
-      "image": "https://images.fancode.com/aig/match/v1/139578_CASACARDS_PARTNER_16_9_1920_1080.png"
-    },
-    {
-      "id": 4,
-      "isLive": true,
-      "contentId": "139270",
-      "name": "IR Iran U23 VS Lebanon U23",
-      "genre": "Sports",
-      "provider": "FanCode",
-      "image": "https://images.fancode.com/aig/match/v1/139270_CASACARDS_PARTNER_16_9_1920_1080.png"
-    },
-    {
-      "id": 5,
-      "isLive": true,
-      "contentId": "139269",
-      "name": "Uzbekistan U23 VS Korea Republic U23",
-      "genre": "Sports",
-      "provider": "FanCode",
-      "image": "https://images.fancode.com/aig/match/v1/139269_CASACARDS_PARTNER_16_9_1920_1080.png"
     }
   ]
 }
