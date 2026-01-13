@@ -1,11 +1,37 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 8,
-  "updatedAt": "13/01/2026, 09:42:17 AM",
+  "total": 12,
+  "updatedAt": "13/01/2026, 10:23:14 AM",
   "data": [
     {
       "id": 1,
+      "isLive": true,
+      "name": "Match 18",
+      "tournament": "Super Smash, 2025-26",
+      "category": "All",
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 138748,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/138748_5800_CS_ND_fc-web_1766641250992.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/138748_5800_CS_ND_FC-App.jpg",
+      "teams": [
+        {
+          "name": "Central Stags",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CSGT@2x.png"
+        },
+        {
+          "name": "Northern Districts",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/NB-W-CR1@2x.png"
+        }
+      ],
+      "slug": "central-stags-vs-northern-districts",
+      "tournamentSlug": "super-smash-2025-26",
+      "collectionSlug": "super-smash-2025-26"
+    },
+    {
+      "id": 2,
       "isLive": true,
       "name": "Unknown Match",
       "tournament": "Giles Shield 2026",
@@ -31,7 +57,33 @@
       "collectionSlug": "giles-shield-2026"
     },
     {
-      "id": 2,
+      "id": 3,
+      "isLive": true,
+      "name": "Unknown Match",
+      "tournament": "Giles Shield 2026",
+      "category": "All",
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 139667,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/Giles_Shield_FC-Web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/Giles_Shield_FC-App.jpg",
+      "teams": [
+        {
+          "name": "Swami Vivekanand",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR1@2x.png"
+        },
+        {
+          "name": "Rizvi",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR2@2x.png"
+        }
+      ],
+      "slug": "swami-vivekanand-vs-rizvi",
+      "tournamentSlug": "giles-shield-2026",
+      "collectionSlug": "giles-shield-2026"
+    },
+    {
+      "id": 4,
       "isLive": true,
       "name": "ATP 250 - ASB Classic",
       "tournament": "ATP 250 - Auckland Open",
@@ -57,7 +109,7 @@
       "collectionSlug": "atp-250-auckland-open"
     },
     {
-      "id": 3,
+      "id": 5,
       "isLive": true,
       "name": "Show Court 1 - Day 2",
       "tournament": "ATP 250 - Adelaide International",
@@ -83,7 +135,7 @@
       "collectionSlug": "atp-250-adelaide-international"
     },
     {
-      "id": 4,
+      "id": 6,
       "isLive": true,
       "name": "Centre Court - Day 2",
       "tournament": "ATP 250 - Adelaide International",
@@ -109,7 +161,33 @@
       "collectionSlug": "atp-250-adelaide-international"
     },
     {
-      "id": 5,
+      "id": 7,
+      "isLive": true,
+      "name": "Match 18",
+      "tournament": "Super Smash, 2025-26",
+      "category": "Cricket",
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 138748,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/138748_5800_CS_ND_fc-web_1766641250992.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/138748_5800_CS_ND_FC-App.jpg",
+      "teams": [
+        {
+          "name": "Central Stags",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CSGT@2x.png"
+        },
+        {
+          "name": "Northern Districts",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/NB-W-CR1@2x.png"
+        }
+      ],
+      "slug": "central-stags-vs-northern-districts",
+      "tournamentSlug": "super-smash-2025-26",
+      "collectionSlug": "super-smash-2025-26"
+    },
+    {
+      "id": 8,
       "isLive": true,
       "name": "Unknown Match",
       "tournament": "Giles Shield 2026",
@@ -135,7 +213,33 @@
       "collectionSlug": "giles-shield-2026"
     },
     {
-      "id": 6,
+      "id": 9,
+      "isLive": true,
+      "name": "Unknown Match",
+      "tournament": "Giles Shield 2026",
+      "category": "Cricket",
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 139667,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/Giles_Shield_FC-Web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/Giles_Shield_FC-App.jpg",
+      "teams": [
+        {
+          "name": "Swami Vivekanand",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR1@2x.png"
+        },
+        {
+          "name": "Rizvi",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR2@2x.png"
+        }
+      ],
+      "slug": "swami-vivekanand-vs-rizvi",
+      "tournamentSlug": "giles-shield-2026",
+      "collectionSlug": "giles-shield-2026"
+    },
+    {
+      "id": 10,
       "isLive": true,
       "name": "ATP 250 - ASB Classic",
       "tournament": "ATP 250 - Auckland Open",
@@ -161,7 +265,7 @@
       "collectionSlug": "atp-250-auckland-open"
     },
     {
-      "id": 7,
+      "id": 11,
       "isLive": true,
       "name": "Show Court 1 - Day 2",
       "tournament": "ATP 250 - Adelaide International",
@@ -187,7 +291,7 @@
       "collectionSlug": "atp-250-adelaide-international"
     },
     {
-      "id": 8,
+      "id": 12,
       "isLive": true,
       "name": "Centre Court - Day 2",
       "tournament": "ATP 250 - Adelaide International",
