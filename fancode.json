@@ -1,7 +1,268 @@
 {
-  "success": false,
-  "message": "Failed to fetch data from FanCode",
-  "updatedAt": "14/01/2026, 05:25:17 AM",
-  "error": "Invalid response structure from FanCode API",
-  "data": []
+  "success": true,
+  "message": "Live matches fetched successfully",
+  "total": 10,
+  "updatedAt": "14/01/2026, 07:09:26 AM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "name": "Match 19",
+      "tournament": "Super Smash, 2025-26",
+      "category": "All",
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 138749,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/138749_5800_AA_CTB_fc-web_1766641251656.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/138749_5800_AA_CTB_FC-App.jpg",
+      "teams": [
+        {
+          "name": "Auckland Aces",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ACE@2x.png"
+        },
+        {
+          "name": "Canterbury",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KING@2x.png"
+        }
+      ],
+      "slug": "auckland-aces-vs-canterbury",
+      "tournamentSlug": "super-smash-2025-26",
+      "collectionSlug": "super-smash-2025-26"
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "name": "Match 3",
+      "tournament": "CWI T20 Blaze 2026",
+      "category": "All",
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 139747,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/CWI-Women's-T20-Blaze_fc-web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/CWI-Women's-T20-Blaze_fc-app.jpg",
+      "teams": [
+        {
+          "name": "Trinidad and Tobago Women",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TNRF@2x.png"
+        },
+        {
+          "name": "Barbados Women",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BARR@2x.png"
+        }
+      ],
+      "slug": "trinidad-and-tobago-women-vs-barbados-women",
+      "tournamentSlug": "cwi-t20-blaze-2026",
+      "collectionSlug": "cwi-t20-blaze-2026"
+    },
+    {
+      "id": 3,
+      "isLive": true,
+      "name": "ATP 250 - ASB Classic",
+      "tournament": "ATP 250 - Auckland Open",
+      "category": "All",
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 139538,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/ASB_Classic_fc-web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/ASB_Classic_fc-app.jpg",
+      "teams": [
+        {
+          "name": "ATP 250 - ASB Classic",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png"
+        },
+        {
+          "name": "Auckland",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "atp-250-asb-classic",
+      "tournamentSlug": "atp-250-auckland-open",
+      "collectionSlug": "atp-250-auckland-open"
+    },
+    {
+      "id": 4,
+      "isLive": true,
+      "name": "Jupiter vs New York",
+      "tournament": "TGL Season 2",
+      "category": "All",
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 139166,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/TGL_Mini-Match-Card-(1080x810).png",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/TGL_Old-Sporty-(1080x1440).png",
+      "teams": [
+        {
+          "name": "Jupiter vs New York",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-TGL@2x.png"
+        },
+        {
+          "name": "Florida",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "jupiter-vs-new-york",
+      "tournamentSlug": "tgl-season-2",
+      "collectionSlug": "tgl-season-2"
+    },
+    {
+      "id": 5,
+      "isLive": true,
+      "name": "Show Court 1 - Day 3",
+      "tournament": "ATP 250 - Adelaide International",
+      "category": "All",
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 139565,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1767943452407.png",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/Old-Sporty-(1080x1440)-(1)_1767943452385.png",
+      "teams": [
+        {
+          "name": "Show Court 1 - Day 3",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png"
+        },
+        {
+          "name": "Adelaide",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "show-court-1-day-3",
+      "tournamentSlug": "atp-250-adelaide-international",
+      "collectionSlug": "atp-250-adelaide-international"
+    },
+    {
+      "id": 6,
+      "isLive": true,
+      "name": "Match 19",
+      "tournament": "Super Smash, 2025-26",
+      "category": "Cricket",
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 138749,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/138749_5800_AA_CTB_fc-web_1766641251656.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/138749_5800_AA_CTB_FC-App.jpg",
+      "teams": [
+        {
+          "name": "Auckland Aces",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ACE@2x.png"
+        },
+        {
+          "name": "Canterbury",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KING@2x.png"
+        }
+      ],
+      "slug": "auckland-aces-vs-canterbury",
+      "tournamentSlug": "super-smash-2025-26",
+      "collectionSlug": "super-smash-2025-26"
+    },
+    {
+      "id": 7,
+      "isLive": true,
+      "name": "Match 3",
+      "tournament": "CWI T20 Blaze 2026",
+      "category": "Cricket",
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 139747,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/CWI-Women's-T20-Blaze_fc-web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/CWI-Women's-T20-Blaze_fc-app.jpg",
+      "teams": [
+        {
+          "name": "Trinidad and Tobago Women",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TNRF@2x.png"
+        },
+        {
+          "name": "Barbados Women",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BARR@2x.png"
+        }
+      ],
+      "slug": "trinidad-and-tobago-women-vs-barbados-women",
+      "tournamentSlug": "cwi-t20-blaze-2026",
+      "collectionSlug": "cwi-t20-blaze-2026"
+    },
+    {
+      "id": 8,
+      "isLive": true,
+      "name": "ATP 250 - ASB Classic",
+      "tournament": "ATP 250 - Auckland Open",
+      "category": "Tennis",
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 139538,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/ASB_Classic_fc-web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/ASB_Classic_fc-app.jpg",
+      "teams": [
+        {
+          "name": "ATP 250 - ASB Classic",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png"
+        },
+        {
+          "name": "Auckland",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "atp-250-asb-classic",
+      "tournamentSlug": "atp-250-auckland-open",
+      "collectionSlug": "atp-250-auckland-open"
+    },
+    {
+      "id": 9,
+      "isLive": true,
+      "name": "Show Court 1 - Day 3",
+      "tournament": "ATP 250 - Adelaide International",
+      "category": "Tennis",
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 139565,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1767943452407.png",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/Old-Sporty-(1080x1440)-(1)_1767943452385.png",
+      "teams": [
+        {
+          "name": "Show Court 1 - Day 3",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png"
+        },
+        {
+          "name": "Adelaide",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "show-court-1-day-3",
+      "tournamentSlug": "atp-250-adelaide-international",
+      "collectionSlug": "atp-250-adelaide-international"
+    },
+    {
+      "id": 10,
+      "isLive": true,
+      "name": "Jupiter vs New York",
+      "tournament": "TGL Season 2",
+      "category": "Golf",
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 139166,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/TGL_Mini-Match-Card-(1080x810).png",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/TGL_Old-Sporty-(1080x1440).png",
+      "teams": [
+        {
+          "name": "Jupiter vs New York",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-TGL@2x.png"
+        },
+        {
+          "name": "Florida",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "jupiter-vs-new-york",
+      "tournamentSlug": "tgl-season-2",
+      "collectionSlug": "tgl-season-2"
+    }
+  ]
 }
