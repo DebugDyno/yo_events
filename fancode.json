@@ -1,11 +1,37 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 2,
-  "updatedAt": "15/01/2026, 04:47:03 AM",
+  "total": 4,
+  "updatedAt": "15/01/2026, 05:01:14 AM",
   "data": [
     {
       "id": 1,
+      "isLive": true,
+      "name": "Match 20",
+      "tournament": "Women's Super Smash, 2025-26",
+      "category": "All",
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 138782,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/138782_5801_OS-W_WB-W_fc-web_1766596522256.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/138782_5801_OS-W_WB-W_fc-app_1766596319011.jpg",
+      "teams": [
+        {
+          "name": "Otago Sparks",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-OSW@2x.png"
+        },
+        {
+          "name": "Wellington Blaze",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WBLW@2x.png"
+        }
+      ],
+      "slug": "otago-sparks-vs-wellington-blaze",
+      "tournamentSlug": "womens-super-smash-2025-26",
+      "collectionSlug": "womens-super-smash-2025-26"
+    },
+    {
+      "id": 2,
       "isLive": true,
       "name": "ATP 250 - ASB Classic",
       "tournament": "ATP 250 - Auckland Open",
@@ -31,7 +57,33 @@
       "collectionSlug": "atp-250-auckland-open"
     },
     {
-      "id": 2,
+      "id": 3,
+      "isLive": true,
+      "name": "Match 20",
+      "tournament": "Women's Super Smash, 2025-26",
+      "category": "Cricket",
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 138782,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/138782_5801_OS-W_WB-W_fc-web_1766596522256.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/138782_5801_OS-W_WB-W_fc-app_1766596319011.jpg",
+      "teams": [
+        {
+          "name": "Otago Sparks",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-OSW@2x.png"
+        },
+        {
+          "name": "Wellington Blaze",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WBLW@2x.png"
+        }
+      ],
+      "slug": "otago-sparks-vs-wellington-blaze",
+      "tournamentSlug": "womens-super-smash-2025-26",
+      "collectionSlug": "womens-super-smash-2025-26"
+    },
+    {
+      "id": 4,
       "isLive": true,
       "name": "ATP 250 - ASB Classic",
       "tournament": "ATP 250 - Auckland Open",
