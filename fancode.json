@@ -1,7 +1,60 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "total": 0,
-  "updatedAt": "14/01/2026, 10:20:39 PM",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 2,
+  "updatedAt": "14/01/2026, 10:46:49 PM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "name": "Match 48 - Semifinal",
+      "tournament": "Africa Cup of Nations 2025-26",
+      "category": "All",
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 138391,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/Senegal-vs-Egypt_fc-web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/Senegal-vs-Egypt_fc-app.jpg",
+      "teams": [
+        {
+          "name": "Senegal",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SENEG@2x.png"
+        },
+        {
+          "name": "Egypt",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-EGYP@2x.png"
+        }
+      ],
+      "slug": "senegal-vs-egypt",
+      "tournamentSlug": "africa-cup-of-nations-2025-26",
+      "collectionSlug": "africa-cup-of-nations-2025-26"
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "name": "Match 48 - Semifinal",
+      "tournament": "Africa Cup of Nations 2025-26",
+      "category": "Football",
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 138391,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/Senegal-vs-Egypt_fc-web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/Senegal-vs-Egypt_fc-app.jpg",
+      "teams": [
+        {
+          "name": "Senegal",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SENEG@2x.png"
+        },
+        {
+          "name": "Egypt",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-EGYP@2x.png"
+        }
+      ],
+      "slug": "senegal-vs-egypt",
+      "tournamentSlug": "africa-cup-of-nations-2025-26",
+      "collectionSlug": "africa-cup-of-nations-2025-26"
+    }
+  ]
 }
