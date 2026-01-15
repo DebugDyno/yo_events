@@ -2,36 +2,10 @@
   "success": true,
   "message": "Live matches fetched successfully",
   "total": 4,
-  "updatedAt": "15/01/2026, 06:37:11 AM",
+  "updatedAt": "15/01/2026, 08:35:05 AM",
   "data": [
     {
       "id": 1,
-      "isLive": true,
-      "name": "Match 20",
-      "tournament": "Women's Super Smash, 2025-26",
-      "category": "All",
-      "status": "LIVE",
-      "streamingStatus": "STARTED",
-      "matchId": 138782,
-      "streamType": "PAID",
-      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/138782_5801_OS-W_WB-W_fc-web_1766596522256.jpg",
-      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/138782_5801_OS-W_WB-W_fc-app_1766596319011.jpg",
-      "teams": [
-        {
-          "name": "Otago Sparks",
-          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-OSW@2x.png"
-        },
-        {
-          "name": "Wellington Blaze",
-          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WBLW@2x.png"
-        }
-      ],
-      "slug": "otago-sparks-vs-wellington-blaze",
-      "tournamentSlug": "womens-super-smash-2025-26",
-      "collectionSlug": "womens-super-smash-2025-26"
-    },
-    {
-      "id": 2,
       "isLive": true,
       "name": "ATP 250 - ASB Classic",
       "tournament": "ATP 250 - Auckland Open",
@@ -57,33 +31,33 @@
       "collectionSlug": "atp-250-auckland-open"
     },
     {
-      "id": 3,
+      "id": 2,
       "isLive": true,
-      "name": "Match 20",
-      "tournament": "Women's Super Smash, 2025-26",
-      "category": "Cricket",
+      "name": "Show Court 1 - Day 4",
+      "tournament": "ATP 250 - Adelaide International",
+      "category": "All",
       "status": "LIVE",
       "streamingStatus": "STARTED",
-      "matchId": 138782,
+      "matchId": 139567,
       "streamType": "PAID",
-      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/138782_5801_OS-W_WB-W_fc-web_1766596522256.jpg",
-      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/138782_5801_OS-W_WB-W_fc-app_1766596319011.jpg",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1767943452407.png",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/Old-Sporty-(1080x1440)-(1)_1767943452385.png",
       "teams": [
         {
-          "name": "Otago Sparks",
-          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-OSW@2x.png"
+          "name": "Show Court 1 - Day 4",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png"
         },
         {
-          "name": "Wellington Blaze",
-          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WBLW@2x.png"
+          "name": "Adelaide",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png"
         }
       ],
-      "slug": "otago-sparks-vs-wellington-blaze",
-      "tournamentSlug": "womens-super-smash-2025-26",
-      "collectionSlug": "womens-super-smash-2025-26"
+      "slug": "show-court-1-day-4",
+      "tournamentSlug": "atp-250-adelaide-international",
+      "collectionSlug": "atp-250-adelaide-international"
     },
     {
-      "id": 4,
+      "id": 3,
       "isLive": true,
       "name": "ATP 250 - ASB Classic",
       "tournament": "ATP 250 - Auckland Open",
@@ -107,6 +81,32 @@
       "slug": "atp-250-asb-classic",
       "tournamentSlug": "atp-250-auckland-open",
       "collectionSlug": "atp-250-auckland-open"
+    },
+    {
+      "id": 4,
+      "isLive": true,
+      "name": "Show Court 1 - Day 4",
+      "tournament": "ATP 250 - Adelaide International",
+      "category": "Tennis",
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 139567,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1767943452407.png",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/Old-Sporty-(1080x1440)-(1)_1767943452385.png",
+      "teams": [
+        {
+          "name": "Show Court 1 - Day 4",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png"
+        },
+        {
+          "name": "Adelaide",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "show-court-1-day-4",
+      "tournamentSlug": "atp-250-adelaide-international",
+      "collectionSlug": "atp-250-adelaide-international"
     }
   ]
 }
