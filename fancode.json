@@ -1,8 +1,8 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 2,
-  "updatedAt": "15/01/2026, 10:11:19 PM",
+  "total": 4,
+  "updatedAt": "15/01/2026, 10:47:56 PM",
   "data": [
     {
       "id": 1,
@@ -33,6 +33,32 @@
     {
       "id": 2,
       "isLive": true,
+      "name": "Featured Group - Day 1",
+      "tournament": "Sony Open in Hawaii 2026",
+      "category": "All",
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 139776,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/Sony-Open-In-Hawaii-web_opt2.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/Sony_Open_Old_Sporty_opt2.jpg",
+      "teams": [
+        {
+          "name": "Featured Group - Day 1",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png"
+        },
+        {
+          "name": "Hawaii",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "featured-group-day-1",
+      "tournamentSlug": "sony-open-in-hawaii-2026",
+      "collectionSlug": "sony-open-in-hawaii-2026"
+    },
+    {
+      "id": 3,
+      "isLive": true,
       "name": "Match 10",
       "tournament": "Oman Super League T20, 2026",
       "category": "Cricket",
@@ -55,6 +81,32 @@
       "slug": "renaissance-challengers-vs-ias-invincibles",
       "tournamentSlug": "oman-super-league-t20-2026",
       "collectionSlug": "oman-super-league-t20-2026"
+    },
+    {
+      "id": 4,
+      "isLive": true,
+      "name": "Featured Group - Day 1",
+      "tournament": "Sony Open in Hawaii 2026",
+      "category": "Golf",
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 139776,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/Sony-Open-In-Hawaii-web_opt2.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/Sony_Open_Old_Sporty_opt2.jpg",
+      "teams": [
+        {
+          "name": "Featured Group - Day 1",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png"
+        },
+        {
+          "name": "Hawaii",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "featured-group-day-1",
+      "tournamentSlug": "sony-open-in-hawaii-2026",
+      "collectionSlug": "sony-open-in-hawaii-2026"
     }
   ]
 }
