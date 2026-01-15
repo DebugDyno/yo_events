@@ -1,11 +1,37 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 2,
-  "updatedAt": "16/01/2026, 12:29:38 AM",
+  "total": 4,
+  "updatedAt": "16/01/2026, 01:01:57 AM",
   "data": [
     {
       "id": 1,
+      "isLive": true,
+      "name": "Match 5",
+      "tournament": "CWI T20 Blaze 2026",
+      "category": "All",
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 139749,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/CWI-Women's-T20-Blaze_fc-web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/CWI-Women's-T20-Blaze_fc-app.jpg",
+      "teams": [
+        {
+          "name": "Windward Islands Women",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WNII@2x.png"
+        },
+        {
+          "name": "Trinidad and Tobago Women",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TNRF@2x.png"
+        }
+      ],
+      "slug": "windward-islands-women-vs-trinidad-and-tobago-women",
+      "tournamentSlug": "cwi-t20-blaze-2026",
+      "collectionSlug": "cwi-t20-blaze-2026"
+    },
+    {
+      "id": 2,
       "isLive": true,
       "name": "Featured Group - Day 1",
       "tournament": "Sony Open in Hawaii 2026",
@@ -31,7 +57,33 @@
       "collectionSlug": "sony-open-in-hawaii-2026"
     },
     {
-      "id": 2,
+      "id": 3,
+      "isLive": true,
+      "name": "Match 5",
+      "tournament": "CWI T20 Blaze 2026",
+      "category": "Cricket",
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 139749,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/CWI-Women's-T20-Blaze_fc-web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/CWI-Women's-T20-Blaze_fc-app.jpg",
+      "teams": [
+        {
+          "name": "Windward Islands Women",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WNII@2x.png"
+        },
+        {
+          "name": "Trinidad and Tobago Women",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TNRF@2x.png"
+        }
+      ],
+      "slug": "windward-islands-women-vs-trinidad-and-tobago-women",
+      "tournamentSlug": "cwi-t20-blaze-2026",
+      "collectionSlug": "cwi-t20-blaze-2026"
+    },
+    {
+      "id": 4,
       "isLive": true,
       "name": "Featured Group - Day 1",
       "tournament": "Sony Open in Hawaii 2026",
