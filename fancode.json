@@ -1,11 +1,63 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 6,
-  "updatedAt": "16/01/2026, 05:27:27 AM",
+  "total": 10,
+  "updatedAt": "16/01/2026, 07:29:34 AM",
   "data": [
     {
       "id": 1,
+      "isLive": true,
+      "name": "Match 21",
+      "tournament": "Women's Super Smash, 2025-26",
+      "category": "All",
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 138783,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/138783_5801_CH-W_AH-W_fc-web_1766596522088.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/138783_5801_CH-W_AH-W_fc-app_1766596319137.jpg",
+      "teams": [
+        {
+          "name": "Central Hinds",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CHIW@2x.png"
+        },
+        {
+          "name": "Auckland Hearts",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AUHW@2x.png"
+        }
+      ],
+      "slug": "central-hinds-vs-auckland-hearts",
+      "tournamentSlug": "womens-super-smash-2025-26",
+      "collectionSlug": "womens-super-smash-2025-26"
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "name": "Match 6",
+      "tournament": "CWI T20 Blaze 2026",
+      "category": "All",
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 139750,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/CWI-Women's-T20-Blaze_fc-web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/CWI-Women's-T20-Blaze_fc-app.jpg",
+      "teams": [
+        {
+          "name": "Guyana Women",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GUYY@2x.png"
+        },
+        {
+          "name": "Leeward Islands Women",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LWI@2x.png"
+        }
+      ],
+      "slug": "guyana-women-vs-leeward-islands-women",
+      "tournamentSlug": "cwi-t20-blaze-2026",
+      "collectionSlug": "cwi-t20-blaze-2026"
+    },
+    {
+      "id": 3,
       "isLive": true,
       "name": "Featured Group - Day 1",
       "tournament": "Sony Open in Hawaii 2026",
@@ -31,7 +83,7 @@
       "collectionSlug": "sony-open-in-hawaii-2026"
     },
     {
-      "id": 2,
+      "id": 4,
       "isLive": true,
       "name": "ATP 250 - ASB Classic",
       "tournament": "ATP 250 - Auckland Open",
@@ -57,7 +109,7 @@
       "collectionSlug": "atp-250-auckland-open"
     },
     {
-      "id": 3,
+      "id": 5,
       "isLive": true,
       "name": "World Feed - Day 1",
       "tournament": "Sony Open in Hawaii 2026",
@@ -83,7 +135,59 @@
       "collectionSlug": "sony-open-in-hawaii-2026"
     },
     {
-      "id": 4,
+      "id": 6,
+      "isLive": true,
+      "name": "Match 21",
+      "tournament": "Women's Super Smash, 2025-26",
+      "category": "Cricket",
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 138783,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/138783_5801_CH-W_AH-W_fc-web_1766596522088.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/138783_5801_CH-W_AH-W_fc-app_1766596319137.jpg",
+      "teams": [
+        {
+          "name": "Central Hinds",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CHIW@2x.png"
+        },
+        {
+          "name": "Auckland Hearts",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AUHW@2x.png"
+        }
+      ],
+      "slug": "central-hinds-vs-auckland-hearts",
+      "tournamentSlug": "womens-super-smash-2025-26",
+      "collectionSlug": "womens-super-smash-2025-26"
+    },
+    {
+      "id": 7,
+      "isLive": true,
+      "name": "Match 6",
+      "tournament": "CWI T20 Blaze 2026",
+      "category": "Cricket",
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 139750,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/CWI-Women's-T20-Blaze_fc-web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/CWI-Women's-T20-Blaze_fc-app.jpg",
+      "teams": [
+        {
+          "name": "Guyana Women",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GUYY@2x.png"
+        },
+        {
+          "name": "Leeward Islands Women",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LWI@2x.png"
+        }
+      ],
+      "slug": "guyana-women-vs-leeward-islands-women",
+      "tournamentSlug": "cwi-t20-blaze-2026",
+      "collectionSlug": "cwi-t20-blaze-2026"
+    },
+    {
+      "id": 8,
       "isLive": true,
       "name": "Featured Group - Day 1",
       "tournament": "Sony Open in Hawaii 2026",
@@ -109,7 +213,7 @@
       "collectionSlug": "sony-open-in-hawaii-2026"
     },
     {
-      "id": 5,
+      "id": 9,
       "isLive": true,
       "name": "World Feed - Day 1",
       "tournament": "Sony Open in Hawaii 2026",
@@ -135,7 +239,7 @@
       "collectionSlug": "sony-open-in-hawaii-2026"
     },
     {
-      "id": 6,
+      "id": 10,
       "isLive": true,
       "name": "ATP 250 - ASB Classic",
       "tournament": "ATP 250 - Auckland Open",
