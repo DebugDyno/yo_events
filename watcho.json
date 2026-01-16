@@ -1,26 +1,26 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 6,
-  "updatedAt": "17/01/2026, 12:03:15 AM",
+  "total": 5,
+  "updatedAt": "17/01/2026, 12:28:02 AM",
   "data": [
     {
       "id": 1,
+      "isLive": true,
+      "contentId": "1090499625",
+      "name": "Sony Sports Ten 2",
+      "genre": "Football",
+      "provider": "Sony Liv",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/sony4/videoasset_images/manage_file/1000013455/1768495550897550_bliga26_MD18_Werder_Bremen_vs_Eintracht_Frankfurt_15jan_landscape_thumb.jpg"
+    },
+    {
+      "id": 2,
       "isLive": true,
       "contentId": "1540058754",
       "name": "MI Cape Town vs Sunrisers Eastern Cape",
       "genre": "Cricket",
       "provider": "JioHotstar",
       "image": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/8362/1768482558362-h"
-    },
-    {
-      "id": 2,
-      "isLive": true,
-      "contentId": "1540060735",
-      "name": "Telugu Warriors vs Bhojpuri Dabanggs",
-      "genre": "Cricket",
-      "provider": "JioHotstar",
-      "image": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/6247/1768509126247-h"
     },
     {
       "id": 3,
@@ -48,15 +48,6 @@
       "genre": "Sports",
       "provider": "FanCode",
       "image": "https://images.fancode.com/aig/match/v1/139360_CASACARDS_PARTNER_16_9_1920_1080.png"
-    },
-    {
-      "id": 6,
-      "isLive": true,
-      "contentId": "139276",
-      "name": "Vietnam U23 VS United Arab Emirates U23",
-      "genre": "Sports",
-      "provider": "FanCode",
-      "image": "https://images.fancode.com/aig/match/v1/139276_CASACARDS_PARTNER_16_9_1920_1080.png"
     }
   ]
 }
