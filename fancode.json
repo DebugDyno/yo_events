@@ -1,8 +1,8 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 4,
-  "updatedAt": "17/01/2026, 01:14:18 AM",
+  "total": 6,
+  "updatedAt": "17/01/2026, 01:23:51 AM",
   "data": [
     {
       "id": 1,
@@ -33,6 +33,32 @@
     {
       "id": 2,
       "isLive": true,
+      "name": "Match 1",
+      "tournament": "Scottish Cup 2025-26",
+      "category": "All",
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 139784,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/Scottish_Cup_2026_FC-Web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/Scottish_Cup_2026_FC-App.jpg",
+      "teams": [
+        {
+          "name": "Rangers",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-RNG@2x.png"
+        },
+        {
+          "name": "Annan Athletic",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-AAT@2x.png"
+        }
+      ],
+      "slug": "rangers-vs-annan-athletic",
+      "tournamentSlug": "scottish-cup-2025-26",
+      "collectionSlug": "scottish-cup-2025-26"
+    },
+    {
+      "id": 3,
+      "isLive": true,
       "name": "Featured Group - Day 2",
       "tournament": "Sony Open in Hawaii 2026",
       "category": "All",
@@ -57,7 +83,7 @@
       "collectionSlug": "sony-open-in-hawaii-2026"
     },
     {
-      "id": 3,
+      "id": 4,
       "isLive": true,
       "name": "Unknown Match",
       "tournament": "LALIGA Hypermotion 2025-26",
@@ -83,7 +109,33 @@
       "collectionSlug": "laliga-hypermotion-2025-26"
     },
     {
-      "id": 4,
+      "id": 5,
+      "isLive": true,
+      "name": "Match 1",
+      "tournament": "Scottish Cup 2025-26",
+      "category": "Football",
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 139784,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/Scottish_Cup_2026_FC-Web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/Scottish_Cup_2026_FC-App.jpg",
+      "teams": [
+        {
+          "name": "Rangers",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-RNG@2x.png"
+        },
+        {
+          "name": "Annan Athletic",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-AAT@2x.png"
+        }
+      ],
+      "slug": "rangers-vs-annan-athletic",
+      "tournamentSlug": "scottish-cup-2025-26",
+      "collectionSlug": "scottish-cup-2025-26"
+    },
+    {
+      "id": 6,
       "isLive": true,
       "name": "Featured Group - Day 2",
       "tournament": "Sony Open in Hawaii 2026",
