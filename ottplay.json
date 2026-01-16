@@ -1,6 +1,271 @@
 {
-  "success": false,
-  "message": "Failed to fetch data",
-  "data": [],
-  "error": "HTTP error! Status: 403"
+  "success": true,
+  "message": "Live matches fetched successfully",
+  "total": 12,
+  "updatedAt": "16/01/2026, 09:25:45 PM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "139276",
+      "name": "VIE-U23 vs UAE-U23",
+      "genre": "football",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/c63ccbf84a9fda974071eb5150cdc10d.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/d3d9d7141bbc59a7b30ed71829d4cafd.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "contentId": "1090499729",
+      "name": "Punjab Royals vs Haryana Thunders - 16 Jan 2026",
+      "genre": "wrestling",
+      "language": "hindi",
+      "provider": "SonyLIV",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/13831d360806188f899fbd42318aa94c.jpg",
+        "https://images.ottplay.com/images/dd3fb8774fb52c7cce838170e3465581.jpg",
+        "https://images.ottplay.com/images/d5e4027961db8f93583113f764a637eb.jpg",
+        "https://images.ottplay.com/images/a597130f5ff7c2f38ba94d0a57617474.jpg",
+        "https://images.ottplay.com/images/b924f35d01d8ce5ff56bd8370f75d458.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/307cb05f69859781a4510783d66ad5ba.jpg"
+      ],
+      "providerInfo": {
+        "id": "5f456c2aff9ccd034434e6fd",
+        "name": "SonyLIV",
+        "hashId": "100dc02b90dfc"
+      }
+    },
+    {
+      "id": 3,
+      "isLive": true,
+      "contentId": "1090499624",
+      "name": "Punjab Royals vs Haryana Thunders - 16 Jan 2026",
+      "genre": "wrestling",
+      "language": "english",
+      "provider": "SonyLIV",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/2e13b6091d178406b61517a9ea084163.jpg",
+        "https://images.ottplay.com/images/dd3fb8774fb52c7cce838170e3465581.jpg",
+        "https://images.ottplay.com/images/d615734565465019225dfaf700bbc4a6.jpg",
+        "https://images.ottplay.com/images/13fdb2f0a7a9a1bc91fe6dfa45e95557.jpg",
+        "https://images.ottplay.com/images/33484b84c1aa7f9cb2055815e0c6a647.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/c4a1edff3eb786f60a49b8c69c1993f2.jpg"
+      ],
+      "providerInfo": {
+        "id": "5f456c2aff9ccd034434e6fd",
+        "name": "SonyLIV",
+        "hashId": "100dc02b90dfc"
+      }
+    },
+    {
+      "id": 4,
+      "isLive": true,
+      "contentId": "1540058754",
+      "name": "MI Cape Town vs Sunrisers Eastern Cape",
+      "genre": "cricket",
+      "language": "hindi",
+      "provider": "JioHotstar",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/ac287704460e5c179b4c072ededdb878.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/81157bd19353407258c4e2b2b3cfb974.jpg"
+      ],
+      "providerInfo": {
+        "id": "67977987ed126c0029b9f20c",
+        "name": "JioHotstar",
+        "hashId": "4025a7f67d456"
+      }
+    },
+    {
+      "id": 5,
+      "isLive": true,
+      "contentId": "139582",
+      "name": "YSG vs ODT",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/798e54855c45d8c7c056674f61399ad8.jpg",
+        "https://images.ottplay.com/backdrops/f1df4dfa5795d20ce4c77be5e7a6896a.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/3729289aabb031aab6113a73ad8b13dd.jpg",
+        "https://images.ottplay.com/posters/7bdc5a52ea45cece0ac79d973d093435.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 6,
+      "isLive": true,
+      "contentId": "1540060140",
+      "name": "Majhi Mumbai vs Ahmedabad Lions",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "JioHotstar",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/4e4b721f1092634e425a03013dbb0d5d.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/d48a8a3c8086878f43973fd166ec9fa2.jpg"
+      ],
+      "providerInfo": {
+        "id": "67977987ed126c0029b9f20c",
+        "name": "JioHotstar",
+        "hashId": "4025a7f67d456"
+      }
+    },
+    {
+      "id": 7,
+      "isLive": true,
+      "contentId": "1540059734",
+      "name": "Royal Challengers Bengaluru vs Gujarat Giants",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "JioHotstar",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/57aa3cd7e5218b68885e838acee4bdfe.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/c888cf48713cd7a41846e9f5c0d4960e.jpg",
+        "https://images.ottplay.com/images/poster-1768571781.jpg"
+      ],
+      "providerInfo": {
+        "id": "67977987ed126c0029b9f20c",
+        "name": "JioHotstar",
+        "hashId": "4025a7f67d456"
+      }
+    },
+    {
+      "id": 8,
+      "isLive": true,
+      "contentId": "1540060735",
+      "name": "Telugu Warriors vs Bhojpuri Dabanggs",
+      "genre": "cricket",
+      "language": "hindi",
+      "provider": "JioHotstar",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/abff927c0f9b6021a446cef7ea9527ca.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/79643f3eadc93b0aca42b2b2673ba43c.jpg"
+      ],
+      "providerInfo": {
+        "id": "67977987ed126c0029b9f20c",
+        "name": "JioHotstar",
+        "hashId": "4025a7f67d456"
+      }
+    },
+    {
+      "id": 9,
+      "isLive": true,
+      "contentId": "138935",
+      "name": "RAW vs SYT",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/70abf6f55e090c515aa46063b6039cd8.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/55b7852299afcc5491900f81a5ed262a.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 10,
+      "isLive": true,
+      "contentId": "1540060716",
+      "name": "ONE Friday Fights 138",
+      "genre": "mixed martial arts",
+      "language": "english",
+      "provider": "JioHotstar",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/78ff2b29b7a075da648a534136204569.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/026fcb7240b1678cf2c32048a940dde5.jpg"
+      ],
+      "providerInfo": {
+        "id": "67977987ed126c0029b9f20c",
+        "name": "JioHotstar",
+        "hashId": "4025a7f67d456"
+      }
+    },
+    {
+      "id": 11,
+      "isLive": true,
+      "contentId": "1540054903",
+      "name": "International Skating Union: Sheffield, Day 3",
+      "genre": "skating",
+      "language": "english",
+      "provider": "JioHotstar",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/00d8a8c61f866f256630557683307aa4.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/fd81f1610a53a7f2089ec256b558e13a.jpg"
+      ],
+      "providerInfo": {
+        "id": "67977987ed126c0029b9f20c",
+        "name": "JioHotstar",
+        "hashId": "4025a7f67d456"
+      }
+    },
+    {
+      "id": 13,
+      "isLive": true,
+      "contentId": "620235",
+      "name": "ONE: Mark of Greatness",
+      "genre": "mixed martial arts",
+      "language": "english",
+      "provider": "JioHotstar",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/a2c8829f8ad44be094e72af5c8ae360d.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/48641de74214ff2c2eafed0c49cb7b8e.jpg"
+      ],
+      "providerInfo": {
+        "id": "67977987ed126c0029b9f20c",
+        "name": "JioHotstar",
+        "hashId": "4025a7f67d456"
+      }
+    }
+  ]
 }
