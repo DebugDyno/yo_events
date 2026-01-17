@@ -1,8 +1,8 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 8,
-  "updatedAt": "17/01/2026, 09:24:35 PM",
+  "total": 10,
+  "updatedAt": "17/01/2026, 09:48:15 PM",
   "data": [
     {
       "id": 1,
@@ -85,6 +85,32 @@
     {
       "id": 4,
       "isLive": true,
+      "name": "Match 50 - Third place",
+      "tournament": "Africa Cup of Nations 2025-26",
+      "category": "All",
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 138393,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/Egypt-VS-Image-Nigeria_fc-web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/Egypt-VS-Image-Nigeria_fc-app.jpg",
+      "teams": [
+        {
+          "name": "Egypt",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-EGYP@2x.png"
+        },
+        {
+          "name": "Nigeria",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-NIGE@2x.png"
+        }
+      ],
+      "slug": "egypt-vs-nigeria",
+      "tournamentSlug": "africa-cup-of-nations-2025-26",
+      "collectionSlug": "africa-cup-of-nations-2025-26"
+    },
+    {
+      "id": 5,
+      "isLive": true,
       "name": "Match 28",
       "tournament": "AFC U23 Asian Cup, 2026",
       "category": "All",
@@ -109,7 +135,7 @@
       "collectionSlug": "afc-u23-asian-cup-2026"
     },
     {
-      "id": 5,
+      "id": 6,
       "isLive": true,
       "name": "Match 7",
       "tournament": "CWI T20 Blaze 2026",
@@ -135,7 +161,7 @@
       "collectionSlug": "cwi-t20-blaze-2026"
     },
     {
-      "id": 6,
+      "id": 7,
       "isLive": true,
       "name": "Match 87",
       "tournament": "EFL Championship 2025-26",
@@ -161,7 +187,7 @@
       "collectionSlug": "efl-championship-2025-26"
     },
     {
-      "id": 7,
+      "id": 8,
       "isLive": true,
       "name": "Match 197",
       "tournament": "LALIGA 2025-26",
@@ -187,7 +213,33 @@
       "collectionSlug": "laliga-2025-26"
     },
     {
-      "id": 8,
+      "id": 9,
+      "isLive": true,
+      "name": "Match 50 - Third place",
+      "tournament": "Africa Cup of Nations 2025-26",
+      "category": "Football",
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 138393,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/Egypt-VS-Image-Nigeria_fc-web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/Egypt-VS-Image-Nigeria_fc-app.jpg",
+      "teams": [
+        {
+          "name": "Egypt",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-EGYP@2x.png"
+        },
+        {
+          "name": "Nigeria",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-NIGE@2x.png"
+        }
+      ],
+      "slug": "egypt-vs-nigeria",
+      "tournamentSlug": "africa-cup-of-nations-2025-26",
+      "collectionSlug": "africa-cup-of-nations-2025-26"
+    },
+    {
+      "id": 10,
       "isLive": true,
       "name": "Match 28",
       "tournament": "AFC U23 Asian Cup, 2026",
