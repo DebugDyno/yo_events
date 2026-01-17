@@ -1,11 +1,37 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 2,
-  "updatedAt": "17/01/2026, 10:49:52 AM",
+  "total": 4,
+  "updatedAt": "17/01/2026, 11:10:15 AM",
   "data": [
     {
       "id": 1,
+      "isLive": true,
+      "name": "Match 36",
+      "tournament": "A League 2025-26",
+      "category": "All",
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 139386,
+      "streamType": "NONE",
+      "landscapeImage": "https://images.fancode.com/aig/match/v1/139386_CASACARDS_APP.png",
+      "portraitImage": "https://images.fancode.com/aig/match/v1/139386_CASACARDS_SPORTY_APP.png",
+      "teams": [
+        {
+          "name": "Western Sydney Wanderers",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SYWA@2x.png"
+        },
+        {
+          "name": "Newcastle Jets",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-NJA@2x.png"
+        }
+      ],
+      "slug": "western-sydney-wanderers-vs-newcastle-jets",
+      "tournamentSlug": "a-league-2025-26",
+      "collectionSlug": "a-league-2025-26"
+    },
+    {
+      "id": 2,
       "isLive": true,
       "name": "Centre Court - Day 6",
       "tournament": "ATP 250 - Adelaide International",
@@ -31,7 +57,33 @@
       "collectionSlug": "atp-250-adelaide-international"
     },
     {
-      "id": 2,
+      "id": 3,
+      "isLive": true,
+      "name": "Match 36",
+      "tournament": "A League 2025-26",
+      "category": "Football",
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 139386,
+      "streamType": "NONE",
+      "landscapeImage": "https://images.fancode.com/aig/match/v1/139386_CASACARDS_APP.png",
+      "portraitImage": "https://images.fancode.com/aig/match/v1/139386_CASACARDS_SPORTY_APP.png",
+      "teams": [
+        {
+          "name": "Western Sydney Wanderers",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SYWA@2x.png"
+        },
+        {
+          "name": "Newcastle Jets",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-NJA@2x.png"
+        }
+      ],
+      "slug": "western-sydney-wanderers-vs-newcastle-jets",
+      "tournamentSlug": "a-league-2025-26",
+      "collectionSlug": "a-league-2025-26"
+    },
+    {
+      "id": 4,
       "isLive": true,
       "name": "Centre Court - Day 6",
       "tournament": "ATP 250 - Adelaide International",
