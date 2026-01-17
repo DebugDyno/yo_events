@@ -1,8 +1,8 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 8,
-  "updatedAt": "17/01/2026, 06:38:29 PM",
+  "total": 10,
+  "updatedAt": "17/01/2026, 07:08:29 PM",
   "data": [
     {
       "id": 1,
@@ -33,6 +33,32 @@
     {
       "id": 2,
       "isLive": true,
+      "name": "Match 7",
+      "tournament": "CWI T20 Blaze 2026",
+      "category": "All",
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 139751,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/CWI-Women's-T20-Blaze_fc-web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/CWI-Women's-T20-Blaze_fc-app.jpg",
+      "teams": [
+        {
+          "name": "Leeward Islands Women",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LWI@2x.png"
+        },
+        {
+          "name": "Trinidad and Tobago Women",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TNRF@2x.png"
+        }
+      ],
+      "slug": "leeward-islands-women-vs-trinidad-and-tobago-women",
+      "tournamentSlug": "cwi-t20-blaze-2026",
+      "collectionSlug": "cwi-t20-blaze-2026"
+    },
+    {
+      "id": 3,
+      "isLive": true,
       "name": "Match 85",
       "tournament": "EFL Championship 2025-26",
       "category": "All",
@@ -57,7 +83,7 @@
       "collectionSlug": "efl-championship-2025-26"
     },
     {
-      "id": 3,
+      "id": 4,
       "isLive": true,
       "name": "Match 195",
       "tournament": "LALIGA 2025-26",
@@ -83,7 +109,7 @@
       "collectionSlug": "laliga-2025-26"
     },
     {
-      "id": 4,
+      "id": 5,
       "isLive": true,
       "name": "Match 27",
       "tournament": "AFC U23 Asian Cup, 2026",
@@ -109,7 +135,7 @@
       "collectionSlug": "afc-u23-asian-cup-2026"
     },
     {
-      "id": 5,
+      "id": 6,
       "isLive": true,
       "name": "Match 14",
       "tournament": "Bangladesh Premier League, 2025-26",
@@ -135,7 +161,33 @@
       "collectionSlug": "bangladesh-premier-league-2025-26"
     },
     {
-      "id": 6,
+      "id": 7,
+      "isLive": true,
+      "name": "Match 7",
+      "tournament": "CWI T20 Blaze 2026",
+      "category": "Cricket",
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 139751,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/CWI-Women's-T20-Blaze_fc-web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/CWI-Women's-T20-Blaze_fc-app.jpg",
+      "teams": [
+        {
+          "name": "Leeward Islands Women",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LWI@2x.png"
+        },
+        {
+          "name": "Trinidad and Tobago Women",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TNRF@2x.png"
+        }
+      ],
+      "slug": "leeward-islands-women-vs-trinidad-and-tobago-women",
+      "tournamentSlug": "cwi-t20-blaze-2026",
+      "collectionSlug": "cwi-t20-blaze-2026"
+    },
+    {
+      "id": 8,
       "isLive": true,
       "name": "Match 85",
       "tournament": "EFL Championship 2025-26",
@@ -161,7 +213,7 @@
       "collectionSlug": "efl-championship-2025-26"
     },
     {
-      "id": 7,
+      "id": 9,
       "isLive": true,
       "name": "Match 195",
       "tournament": "LALIGA 2025-26",
@@ -187,7 +239,7 @@
       "collectionSlug": "laliga-2025-26"
     },
     {
-      "id": 8,
+      "id": 10,
       "isLive": true,
       "name": "Match 27",
       "tournament": "AFC U23 Asian Cup, 2026",
