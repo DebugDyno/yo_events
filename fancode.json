@@ -1,8 +1,8 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 4,
-  "updatedAt": "17/01/2026, 06:03:00 PM",
+  "total": 8,
+  "updatedAt": "17/01/2026, 06:38:29 PM",
   "data": [
     {
       "id": 1,
@@ -33,6 +33,58 @@
     {
       "id": 2,
       "isLive": true,
+      "name": "Match 85",
+      "tournament": "EFL Championship 2025-26",
+      "category": "All",
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 139914,
+      "streamType": "PAID",
+      "landscapeImage": "https://images.fancode.com/aig/match/v1/139914_CASACARDS_APP.png",
+      "portraitImage": "https://images.fancode.com/aig/match/v1/139914_CASACARDS_SPORTY_APP.png",
+      "teams": [
+        {
+          "name": "Coventry City Football Club",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-COVT@2x.png"
+        },
+        {
+          "name": "Leicester City F.C.",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-LEICS@2x.png"
+        }
+      ],
+      "slug": "coventry-city-football-club-vs-leicester-city-f-c",
+      "tournamentSlug": "efl-championship-2025-26",
+      "collectionSlug": "efl-championship-2025-26"
+    },
+    {
+      "id": 3,
+      "isLive": true,
+      "name": "Match 195",
+      "tournament": "LALIGA 2025-26",
+      "category": "All",
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 131025,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/131025_5427_RM_LE_fc-Web.png",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/131025_5427_RM_LE_fc-App.png",
+      "teams": [
+        {
+          "name": "Real Madrid",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-RMA@2x.png"
+        },
+        {
+          "name": "Levante",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-LET@2x.png"
+        }
+      ],
+      "slug": "real-madrid-vs-levante",
+      "tournamentSlug": "laliga-2025-26",
+      "collectionSlug": "laliga-2025-26"
+    },
+    {
+      "id": 4,
+      "isLive": true,
       "name": "Match 27",
       "tournament": "AFC U23 Asian Cup, 2026",
       "category": "All",
@@ -57,7 +109,7 @@
       "collectionSlug": "afc-u23-asian-cup-2026"
     },
     {
-      "id": 3,
+      "id": 5,
       "isLive": true,
       "name": "Match 14",
       "tournament": "Bangladesh Premier League, 2025-26",
@@ -83,7 +135,59 @@
       "collectionSlug": "bangladesh-premier-league-2025-26"
     },
     {
-      "id": 4,
+      "id": 6,
+      "isLive": true,
+      "name": "Match 85",
+      "tournament": "EFL Championship 2025-26",
+      "category": "Football",
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 139914,
+      "streamType": "PAID",
+      "landscapeImage": "https://images.fancode.com/aig/match/v1/139914_CASACARDS_APP.png",
+      "portraitImage": "https://images.fancode.com/aig/match/v1/139914_CASACARDS_SPORTY_APP.png",
+      "teams": [
+        {
+          "name": "Coventry City Football Club",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-COVT@2x.png"
+        },
+        {
+          "name": "Leicester City F.C.",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-LEICS@2x.png"
+        }
+      ],
+      "slug": "coventry-city-football-club-vs-leicester-city-f-c",
+      "tournamentSlug": "efl-championship-2025-26",
+      "collectionSlug": "efl-championship-2025-26"
+    },
+    {
+      "id": 7,
+      "isLive": true,
+      "name": "Match 195",
+      "tournament": "LALIGA 2025-26",
+      "category": "Football",
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 131025,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/131025_5427_RM_LE_fc-Web.png",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/131025_5427_RM_LE_fc-App.png",
+      "teams": [
+        {
+          "name": "Real Madrid",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-RMA@2x.png"
+        },
+        {
+          "name": "Levante",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-LET@2x.png"
+        }
+      ],
+      "slug": "real-madrid-vs-levante",
+      "tournamentSlug": "laliga-2025-26",
+      "collectionSlug": "laliga-2025-26"
+    },
+    {
+      "id": 8,
       "isLive": true,
       "name": "Match 27",
       "tournament": "AFC U23 Asian Cup, 2026",
