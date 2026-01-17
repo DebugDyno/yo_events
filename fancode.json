@@ -1,7 +1,60 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "total": 0,
-  "updatedAt": "17/01/2026, 09:28:49 AM",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 2,
+  "updatedAt": "17/01/2026, 10:06:55 AM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "name": "Centre Court - Day 6",
+      "tournament": "ATP 250 - Adelaide International",
+      "category": "All",
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 139569,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1767943452407.png",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/Old-Sporty-(1080x1440)-(1)_1767943452385.png",
+      "teams": [
+        {
+          "name": "Centre Court - Day 6",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png"
+        },
+        {
+          "name": "Adelaide",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "centre-court-day-6",
+      "tournamentSlug": "atp-250-adelaide-international",
+      "collectionSlug": "atp-250-adelaide-international"
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "name": "Centre Court - Day 6",
+      "tournament": "ATP 250 - Adelaide International",
+      "category": "Tennis",
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 139569,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1767943452407.png",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/Old-Sporty-(1080x1440)-(1)_1767943452385.png",
+      "teams": [
+        {
+          "name": "Centre Court - Day 6",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png"
+        },
+        {
+          "name": "Adelaide",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "centre-court-day-6",
+      "tournamentSlug": "atp-250-adelaide-international",
+      "collectionSlug": "atp-250-adelaide-international"
+    }
+  ]
 }
