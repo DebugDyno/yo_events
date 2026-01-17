@@ -1,11 +1,63 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 2,
-  "updatedAt": "18/01/2026, 04:52:05 AM",
+  "total": 6,
+  "updatedAt": "18/01/2026, 05:07:10 AM",
   "data": [
     {
       "id": 1,
+      "isLive": true,
+      "name": "Match 22",
+      "tournament": "Women's Super Smash, 2025-26",
+      "category": "All",
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 138784,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/138784_5801_OS-W_NB-W_fc-web_1766596522109.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/138784_5801_OS-W_NB-W_fc-app_1766596319053.jpg",
+      "teams": [
+        {
+          "name": "Otago Sparks",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-OSW@2x.png"
+        },
+        {
+          "name": "Northern Brave Women",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/NB-W-CR1@2x.png"
+        }
+      ],
+      "slug": "otago-sparks-vs-northern-brave-women",
+      "tournamentSlug": "womens-super-smash-2025-26",
+      "collectionSlug": "womens-super-smash-2025-26"
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "name": "Match 9",
+      "tournament": "CWI T20 Blaze 2026",
+      "category": "All",
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 139753,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/CWI-Women's-T20-Blaze_fc-web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/CWI-Women's-T20-Blaze_fc-app.jpg",
+      "teams": [
+        {
+          "name": "Jamaica Women",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JAM@2x.png"
+        },
+        {
+          "name": "Guyana Women",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GUYY@2x.png"
+        }
+      ],
+      "slug": "jamaica-women-vs-guyana-women",
+      "tournamentSlug": "cwi-t20-blaze-2026",
+      "collectionSlug": "cwi-t20-blaze-2026"
+    },
+    {
+      "id": 3,
       "isLive": true,
       "name": "Featured Group - Day 3",
       "tournament": "Sony Open in Hawaii 2026",
@@ -31,7 +83,59 @@
       "collectionSlug": "sony-open-in-hawaii-2026"
     },
     {
-      "id": 2,
+      "id": 4,
+      "isLive": true,
+      "name": "Match 22",
+      "tournament": "Women's Super Smash, 2025-26",
+      "category": "Cricket",
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 138784,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/138784_5801_OS-W_NB-W_fc-web_1766596522109.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/138784_5801_OS-W_NB-W_fc-app_1766596319053.jpg",
+      "teams": [
+        {
+          "name": "Otago Sparks",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-OSW@2x.png"
+        },
+        {
+          "name": "Northern Brave Women",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/NB-W-CR1@2x.png"
+        }
+      ],
+      "slug": "otago-sparks-vs-northern-brave-women",
+      "tournamentSlug": "womens-super-smash-2025-26",
+      "collectionSlug": "womens-super-smash-2025-26"
+    },
+    {
+      "id": 5,
+      "isLive": true,
+      "name": "Match 9",
+      "tournament": "CWI T20 Blaze 2026",
+      "category": "Cricket",
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 139753,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/CWI-Women's-T20-Blaze_fc-web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/CWI-Women's-T20-Blaze_fc-app.jpg",
+      "teams": [
+        {
+          "name": "Jamaica Women",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JAM@2x.png"
+        },
+        {
+          "name": "Guyana Women",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GUYY@2x.png"
+        }
+      ],
+      "slug": "jamaica-women-vs-guyana-women",
+      "tournamentSlug": "cwi-t20-blaze-2026",
+      "collectionSlug": "cwi-t20-blaze-2026"
+    },
+    {
+      "id": 6,
       "isLive": true,
       "name": "Featured Group - Day 3",
       "tournament": "Sony Open in Hawaii 2026",
