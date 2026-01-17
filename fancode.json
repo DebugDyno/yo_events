@@ -1,8 +1,8 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 4,
-  "updatedAt": "17/01/2026, 11:44:15 AM",
+  "total": 6,
+  "updatedAt": "17/01/2026, 12:17:48 PM",
   "data": [
     {
       "id": 1,
@@ -13,7 +13,7 @@
       "status": "LIVE",
       "streamingStatus": "STARTED",
       "matchId": 139386,
-      "streamType": "NONE",
+      "streamType": "PAID",
       "landscapeImage": "https://images.fancode.com/aig/match/v1/139386_CASACARDS_APP.png",
       "portraitImage": "https://images.fancode.com/aig/match/v1/139386_CASACARDS_SPORTY_APP.png",
       "teams": [
@@ -32,6 +32,32 @@
     },
     {
       "id": 2,
+      "isLive": true,
+      "name": "Match 37",
+      "tournament": "A League 2025-26",
+      "category": "All",
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 139387,
+      "streamType": "PAID",
+      "landscapeImage": "https://images.fancode.com/aig/match/v1/139387_CASACARDS_APP.png",
+      "portraitImage": "https://images.fancode.com/aig/match/v1/139387_CASACARDS_SPORTY_APP.png",
+      "teams": [
+        {
+          "name": "Central Coast Mariners",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-CENTA@2x.png"
+        },
+        {
+          "name": "Macarthur",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MACA@2x.png"
+        }
+      ],
+      "slug": "central-coast-mariners-vs-macarthur",
+      "tournamentSlug": "a-league-2025-26",
+      "collectionSlug": "a-league-2025-26"
+    },
+    {
+      "id": 3,
       "isLive": true,
       "name": "Centre Court - Day 6",
       "tournament": "ATP 250 - Adelaide International",
@@ -57,7 +83,7 @@
       "collectionSlug": "atp-250-adelaide-international"
     },
     {
-      "id": 3,
+      "id": 4,
       "isLive": true,
       "name": "Match 36",
       "tournament": "A League 2025-26",
@@ -65,7 +91,7 @@
       "status": "LIVE",
       "streamingStatus": "STARTED",
       "matchId": 139386,
-      "streamType": "NONE",
+      "streamType": "PAID",
       "landscapeImage": "https://images.fancode.com/aig/match/v1/139386_CASACARDS_APP.png",
       "portraitImage": "https://images.fancode.com/aig/match/v1/139386_CASACARDS_SPORTY_APP.png",
       "teams": [
@@ -83,7 +109,33 @@
       "collectionSlug": "a-league-2025-26"
     },
     {
-      "id": 4,
+      "id": 5,
+      "isLive": true,
+      "name": "Match 37",
+      "tournament": "A League 2025-26",
+      "category": "Football",
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 139387,
+      "streamType": "PAID",
+      "landscapeImage": "https://images.fancode.com/aig/match/v1/139387_CASACARDS_APP.png",
+      "portraitImage": "https://images.fancode.com/aig/match/v1/139387_CASACARDS_SPORTY_APP.png",
+      "teams": [
+        {
+          "name": "Central Coast Mariners",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-CENTA@2x.png"
+        },
+        {
+          "name": "Macarthur",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MACA@2x.png"
+        }
+      ],
+      "slug": "central-coast-mariners-vs-macarthur",
+      "tournamentSlug": "a-league-2025-26",
+      "collectionSlug": "a-league-2025-26"
+    },
+    {
+      "id": 6,
       "isLive": true,
       "name": "Centre Court - Day 6",
       "tournament": "ATP 250 - Adelaide International",
