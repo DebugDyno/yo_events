@@ -1,7 +1,37 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "total": 0,
-  "updatedAt": "18/01/2026, 05:20:40 PM",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 1,
+  "updatedAt": "18/01/2026, 05:29:46 PM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "name": "Match 22",
+      "tournament": "Bangladesh Premier League, 2025-26",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 138937,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/138937_5808_CCH_DC_fc-web_1766733054338.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/138937_5808_CCH_DC_fc-App_1767706252958.jpg",
+      "teams": [
+        {
+          "name": "Chattogram Royals",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CTR@2x.png"
+        },
+        {
+          "name": "Dhaka Capitals",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DHC@2x.png"
+        }
+      ],
+      "slug": "chattogram-royals-vs-dhaka-capitals",
+      "tournamentSlug": "bangladesh-premier-league-2025-26",
+      "collectionSlug": "bangladesh-premier-league-2025-26"
+    }
+  ]
 }
