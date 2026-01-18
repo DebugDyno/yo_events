@@ -1,8 +1,8 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 5,
-  "updatedAt": "19/01/2026, 12:41:34 AM",
+  "total": 6,
+  "updatedAt": "19/01/2026, 12:58:31 AM",
   "data": [
     {
       "id": 1,
@@ -94,6 +94,35 @@
     {
       "id": 4,
       "isLive": true,
+      "name": "Match 196",
+      "tournament": "LALIGA 2025-26",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 131024,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/131024_5427_RS_BAR_fc-Web.png",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/131024_5427_RS_BAR_fc-App.png",
+      "teams": [
+        {
+          "name": "Real Sociedad",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-RSO@2x.png"
+        },
+        {
+          "name": "FC Barcelona",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/BAR-FT2@2x.png"
+        }
+      ],
+      "slug": "real-sociedad-vs-fc-barcelona",
+      "tournamentSlug": "laliga-2025-26",
+      "collectionSlug": "laliga-2025-26"
+    },
+    {
+      "id": 5,
+      "isLive": true,
       "name": "Match 3",
       "tournament": "Scottish Cup 2025-26",
       "category": "All",
@@ -121,7 +150,7 @@
       "collectionSlug": "scottish-cup-2025-26"
     },
     {
-      "id": 5,
+      "id": 6,
       "isLive": true,
       "name": "Featured Group - Day 4",
       "tournament": "Sony Open in Hawaii 2026",
