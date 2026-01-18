@@ -1,8 +1,8 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 1,
-  "updatedAt": "18/01/2026, 09:59:09 PM",
+  "total": 2,
+  "updatedAt": "18/01/2026, 10:19:09 PM",
   "data": [
     {
       "id": 1,
@@ -32,6 +32,35 @@
       "slug": "atletico-de-madrid-vs-deportivo-alaves",
       "tournamentSlug": "laliga-2025-26",
       "collectionSlug": "laliga-2025-26"
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "name": "Featured Group - Day 4",
+      "tournament": "Sony Open in Hawaii 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 139782,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/Sony-Open-In-Hawaii-web_opt2.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/Sony_Open_Old_Sporty_opt2.jpg",
+      "teams": [
+        {
+          "name": "Featured Group - Day 4",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png"
+        },
+        {
+          "name": "Hawaii",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "featured-group-day-4",
+      "tournamentSlug": "sony-open-in-hawaii-2026",
+      "collectionSlug": "sony-open-in-hawaii-2026"
     }
   ]
 }
