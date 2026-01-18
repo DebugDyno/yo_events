@@ -1,8 +1,8 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 1,
-  "updatedAt": "18/01/2026, 05:29:46 PM",
+  "total": 2,
+  "updatedAt": "18/01/2026, 06:25:58 PM",
   "data": [
     {
       "id": 1,
@@ -32,6 +32,35 @@
       "slug": "chattogram-royals-vs-dhaka-capitals",
       "tournamentSlug": "bangladesh-premier-league-2025-26",
       "collectionSlug": "bangladesh-premier-league-2025-26"
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "name": "Match 200",
+      "tournament": "LALIGA 2025-26",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 131020,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/131020_5427_GEF_VAL_fc-Web.png",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/131020_5427_GEF_VAL_fc-App.png",
+      "teams": [
+        {
+          "name": "Getafe CF",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-GEF@2x.png"
+        },
+        {
+          "name": "Valencia CF",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-VAL@2x.png"
+        }
+      ],
+      "slug": "getafe-cf-vs-valencia-cf",
+      "tournamentSlug": "laliga-2025-26",
+      "collectionSlug": "laliga-2025-26"
     }
   ]
 }
