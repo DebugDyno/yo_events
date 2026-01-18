@@ -1,11 +1,20 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 19,
-  "updatedAt": "18/01/2026, 12:05:33 PM",
+  "total": 18,
+  "updatedAt": "18/01/2026, 12:26:31 PM",
   "data": [
     {
       "id": 1,
+      "isLive": true,
+      "contentId": "1540059586",
+      "name": "India vs New Zealand: 3rd ODI",
+      "genre": "Cricket",
+      "provider": "JioHotstar",
+      "image": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/5663/1768690475663-h"
+    },
+    {
+      "id": 2,
       "isLive": true,
       "contentId": "1540061002",
       "name": "Gujarat vs Madhya Pradesh: Day 2",
@@ -14,7 +23,7 @@
       "image": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/5779/1768659165779-h"
     },
     {
-      "id": 2,
+      "id": 3,
       "isLive": true,
       "contentId": "1090499842",
       "name": "Sony Sports Ten 5",
@@ -23,7 +32,7 @@
       "image": "https://d229kpbsb5jevy.cloudfront.net/sony4/videoasset_images/manage_file/1000012935/1767438730675690_SuperSmash2526_mens_Otago-Volts-vs-Northern-Brave_1jan_landscape_thumb_re1.jpg"
     },
     {
-      "id": 3,
+      "id": 4,
       "isLive": true,
       "contentId": "1090498790",
       "name": "Sony Sports Ten 5",
@@ -32,22 +41,13 @@
       "image": "https://d229kpbsb5jevy.cloudfront.net/sony4/videoasset_images/manage_file/1000013517/1768636905506986_AO26_Court13_r1_landscape_thumb.jpg"
     },
     {
-      "id": 4,
+      "id": 5,
       "isLive": true,
       "contentId": "1090498786",
       "name": "Sony Sports Ten 5",
       "genre": "Tennis",
       "provider": "Sony Liv",
       "image": "https://d229kpbsb5jevy.cloudfront.net/sony4/videoasset_images/manage_file/1000013517/1768636965091986_AO26_Court7_r1_landscape_thumb.jpg"
-    },
-    {
-      "id": 5,
-      "isLive": true,
-      "contentId": "1090498787",
-      "name": "Sony Sports Ten 5",
-      "genre": "Tennis",
-      "provider": "Sony Liv",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/sony4/videoasset_images/manage_file/1000013517/1768636947181986_AO26_Court8_r1_landscape_thumb.jpg"
     },
     {
       "id": 6,
@@ -159,15 +159,6 @@
     },
     {
       "id": 18,
-      "isLive": true,
-      "contentId": "139219",
-      "name": "USA Women VS Bangladesh Women",
-      "genre": "Sports",
-      "provider": "FanCode",
-      "image": "https://images.fancode.com/aig/match/v1/139219_CASACARDS_PARTNER_16_9_1920_1080.png"
-    },
-    {
-      "id": 19,
       "isLive": true,
       "contentId": "138752",
       "name": "Otago Volts VS Northern Districts",
