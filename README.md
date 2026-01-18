@@ -20,6 +20,7 @@ Yo Events is designed to provide API data for live matches and events sourced fr
 - OTTPlay
 - Watcho
 - Binge
+- Fancode
 
 ### Contribution 🤝
 Feel free to contribute by adding new providers or improving the API features.
