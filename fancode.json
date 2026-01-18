@@ -1,8 +1,8 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 4,
-  "updatedAt": "19/01/2026, 12:04:51 AM",
+  "total": 5,
+  "updatedAt": "19/01/2026, 12:25:08 AM",
   "data": [
     {
       "id": 1,
@@ -65,6 +65,35 @@
     {
       "id": 3,
       "isLive": true,
+      "name": "Final",
+      "tournament": "Africa Cup of Nations 2025-26",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 138394,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/Senegal-vs-Morocco_fc-web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/Senegal-vs-Morocco_fc-app.jpg",
+      "teams": [
+        {
+          "name": "Senegal",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SENEG@2x.png"
+        },
+        {
+          "name": "Morocco",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MOC@2x.png"
+        }
+      ],
+      "slug": "senegal-vs-morocco",
+      "tournamentSlug": "africa-cup-of-nations-2025-26",
+      "collectionSlug": "africa-cup-of-nations-2025-26"
+    },
+    {
+      "id": 4,
+      "isLive": true,
       "name": "Match 3",
       "tournament": "Scottish Cup 2025-26",
       "category": "All",
@@ -92,7 +121,7 @@
       "collectionSlug": "scottish-cup-2025-26"
     },
     {
-      "id": 4,
+      "id": 5,
       "isLive": true,
       "name": "Featured Group - Day 4",
       "tournament": "Sony Open in Hawaii 2026",
