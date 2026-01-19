@@ -1,7 +1,66 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "total": 0,
-  "updatedAt": "20/01/2026, 03:53:10 AM",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 2,
+  "updatedAt": "20/01/2026, 04:13:20 AM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "name": "Match 20",
+      "tournament": "Women's National Cricket League, 2025-26",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 133969,
+      "streamType": "PAID",
+      "landscapeImage": " https://www.fancode.com/skillup-uploads/cms-media/Women's-National-Cricket-League_old_v3_1758034980120.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/Women's-National-Cricket-League_Sporty_v3_1758034980235.jpg",
+      "teams": [
+        {
+          "name": "ACT Meteors",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ACTM@2x.png"
+        },
+        {
+          "name": "New South Wales Breakers",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NSW@2x.png"
+        }
+      ],
+      "slug": "act-meteors-vs-new-south-wales-breakers",
+      "tournamentSlug": "womens-national-cricket-league-2025-26",
+      "collectionSlug": "womens-national-cricket-league-2025-26"
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "name": "Match 12",
+      "tournament": "CWI T20 Blaze 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 139756,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/CWI-Women's-T20-Blaze_fc-web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/CWI-Women's-T20-Blaze_fc-app.jpg",
+      "teams": [
+        {
+          "name": "Jamaica Women",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JAM@2x.png"
+        },
+        {
+          "name": "Windward Islands Women",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WNII@2x.png"
+        }
+      ],
+      "slug": "jamaica-women-vs-windward-islands-women",
+      "tournamentSlug": "cwi-t20-blaze-2026",
+      "collectionSlug": "cwi-t20-blaze-2026"
+    }
+  ]
 }
