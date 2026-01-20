@@ -1,11 +1,40 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 5,
-  "updatedAt": "20/01/2026, 10:10:05 AM",
+  "total": 6,
+  "updatedAt": "20/01/2026, 10:35:34 AM",
   "data": [
     {
       "id": 1,
+      "isLive": true,
+      "name": "Match 24",
+      "tournament": "Super Smash, 2025-26",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 138754,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/138754_5800_ND_CS_fc-web_1766641250985.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/138754_5800_ND_CS_FC-App.jpg",
+      "teams": [
+        {
+          "name": "Northern Districts",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/NB-W-CR1@2x.png"
+        },
+        {
+          "name": "Central Stags",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CSGT@2x.png"
+        }
+      ],
+      "slug": "northern-districts-vs-central-stags",
+      "tournamentSlug": "super-smash-2025-26",
+      "collectionSlug": "super-smash-2025-26"
+    },
+    {
+      "id": 2,
       "isLive": true,
       "name": "Match 20",
       "tournament": "Women's National Cricket League, 2025-26",
@@ -34,7 +63,7 @@
       "collectionSlug": "womens-national-cricket-league-2025-26"
     },
     {
-      "id": 2,
+      "id": 3,
       "isLive": true,
       "name": "Match 19",
       "tournament": "Women's National Cricket League, 2025-26",
@@ -63,7 +92,7 @@
       "collectionSlug": "womens-national-cricket-league-2025-26"
     },
     {
-      "id": 3,
+      "id": 4,
       "isLive": true,
       "name": "Match 6",
       "tournament": "ICC Women's T20 World Cup Global Qualifier, 2026",
@@ -92,7 +121,7 @@
       "collectionSlug": "icc-womens-t20-world-cup-global-qualifier-2026"
     },
     {
-      "id": 4,
+      "id": 5,
       "isLive": true,
       "name": "Match 5",
       "tournament": "ICC Women's T20 World Cup Global Qualifier, 2026",
@@ -121,7 +150,7 @@
       "collectionSlug": "icc-womens-t20-world-cup-global-qualifier-2026"
     },
     {
-      "id": 5,
+      "id": 6,
       "isLive": true,
       "name": "Unknown Match",
       "tournament": "Giles Shield 2026",
