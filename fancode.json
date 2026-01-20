@@ -1,11 +1,40 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 1,
-  "updatedAt": "20/01/2026, 05:17:18 PM",
+  "total": 2,
+  "updatedAt": "20/01/2026, 05:27:48 PM",
   "data": [
     {
       "id": 1,
+      "isLive": true,
+      "name": "Qualifier 1",
+      "tournament": "Bangladesh Premier League, 2025-26",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 138947,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/138944_5808_DBR_CCH_fc-web_1766733054162.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/138944_5808_DBR_CCH_fc-App_1767706252198.jpg",
+      "teams": [
+        {
+          "name": "Rajshahi Warriors",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RAW@2x.png"
+        },
+        {
+          "name": "Chattogram Royals",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CTR@2x.png"
+        }
+      ],
+      "slug": "rajshahi-warriors-vs-chattogram-royals",
+      "tournamentSlug": "bangladesh-premier-league-2025-26",
+      "collectionSlug": "bangladesh-premier-league-2025-26"
+    },
+    {
+      "id": 2,
       "isLive": true,
       "name": "Match 29",
       "tournament": "AFC U23 Asian Cup, 2026",
