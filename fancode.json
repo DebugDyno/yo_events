@@ -1,7 +1,37 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "total": 0,
-  "updatedAt": "21/01/2026, 01:27:41 AM",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 1,
+  "updatedAt": "21/01/2026, 02:12:38 AM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "name": "Match 91",
+      "tournament": "EFL Championship 2025-26",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 139917,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/139917_5489_WRX_LEI_FC-Web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/139917_5489_WRX_LEI_FC-App.jpg",
+      "teams": [
+        {
+          "name": "Wrexham A.F.C.",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-WRX@2x.png"
+        },
+        {
+          "name": "Leicester City F.C.",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-LEICS@2x.png"
+        }
+      ],
+      "slug": "wrexham-a-f-c-vs-leicester-city-f-c",
+      "tournamentSlug": "efl-championship-2025-26",
+      "collectionSlug": "efl-championship-2025-26"
+    }
+  ]
 }
