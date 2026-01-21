@@ -1,11 +1,40 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 1,
-  "updatedAt": "21/01/2026, 05:28:41 AM",
+  "total": 2,
+  "updatedAt": "21/01/2026, 07:51:15 AM",
   "data": [
     {
       "id": 1,
+      "isLive": true,
+      "name": "Match 25",
+      "tournament": "Women's Super Smash, 2025-26",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 138787,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/138787_5801_CM-W_OS-W_fc-web_1766596522283.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/138787_5801_CM-W_OS-W_fc-app_1766596319002.jpg",
+      "teams": [
+        {
+          "name": "Canterbury Magicians",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MAGW@2x.png"
+        },
+        {
+          "name": "Otago Sparks",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-OSW@2x.png"
+        }
+      ],
+      "slug": "canterbury-magicians-vs-otago-sparks",
+      "tournamentSlug": "womens-super-smash-2025-26",
+      "collectionSlug": "womens-super-smash-2025-26"
+    },
+    {
+      "id": 2,
       "isLive": true,
       "name": "Jupiter vs Los Angeles",
       "tournament": "TGL Season 2",
