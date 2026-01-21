@@ -1,6 +1,321 @@
 {
-  "success": false,
-  "message": "Failed to fetch data",
-  "data": [],
-  "error": "HTTP error! Status: 403"
+  "success": true,
+  "message": "Live matches fetched successfully",
+  "total": 13,
+  "updatedAt": "22/01/2026, 03:03:49 AM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "139340",
+      "name": "STK vs MIDD",
+      "genre": "football",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/0a9604e07e59c77551846e6e57c72cc4.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/e2cd073987372c42697215784f5789cd.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "contentId": "1090500156",
+      "name": "Marseille vs Liverpool - MD 7 - 22 Jan 2026",
+      "genre": "football",
+      "language": "telugu",
+      "provider": "SonyLIV",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/72889d0696f944be4e2333316842521a.jpg",
+        "https://images.ottplay.com/images/3de019e39937c77476ec775f42758087.jpg",
+        "https://images.ottplay.com/images/740094db1c2304f0ec2a12151ca7e527.jpg",
+        "https://images.ottplay.com/images/32215bdb03914d49e3479c142be0b65b.jpg",
+        "https://images.ottplay.com/images/727ddac997835ba8e5376516f2783e9f.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/c2ac7a134105568cd59a0ea6dda9fcb3.jpg"
+      ],
+      "providerInfo": {
+        "id": "5f456c2aff9ccd034434e6fd",
+        "name": "SonyLIV",
+        "hashId": "100dc02b90dfc"
+      }
+    },
+    {
+      "id": 3,
+      "isLive": true,
+      "contentId": "1090500155",
+      "name": "Marseille vs Liverpool - MD 7 - 22 Jan 2026",
+      "genre": "football",
+      "language": "hindi",
+      "provider": "SonyLIV",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/d208fe89739d63fcc93a0440343bbbff.jpg",
+        "https://images.ottplay.com/images/3de019e39937c77476ec775f42758087.jpg",
+        "https://images.ottplay.com/images/98b171961fcaa52b1039081f2c4fa4ce.jpg",
+        "https://images.ottplay.com/images/2b751e362fbc5dc4b93dd93ef199c210.jpg",
+        "https://images.ottplay.com/images/1f6f390856656c94836116fd605ec975.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/ef42378858c1f1d72b43fccf4ff7b77d.jpg"
+      ],
+      "providerInfo": {
+        "id": "5f456c2aff9ccd034434e6fd",
+        "name": "SonyLIV",
+        "hashId": "100dc02b90dfc"
+      }
+    },
+    {
+      "id": 4,
+      "isLive": true,
+      "contentId": "1090500154",
+      "name": "Marseille vs Liverpool - MD 7 - 22 Jan 2026",
+      "genre": "football",
+      "language": "tamil",
+      "provider": "SonyLIV",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/10e7a5397623bcbd81d4e45fafcd39f0.jpg",
+        "https://images.ottplay.com/images/3de019e39937c77476ec775f42758087.jpg",
+        "https://images.ottplay.com/images/c6eaaab77f96700301a07a99c4e7c901.jpg",
+        "https://images.ottplay.com/images/f071f71a78d6c134f51f6d2930a7e892.jpg",
+        "https://images.ottplay.com/images/56504d82ab1966fb5a68ad4a9fee1b94.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/f5dd723ef940bf0af892e72aee1473bc.jpg"
+      ],
+      "providerInfo": {
+        "id": "5f456c2aff9ccd034434e6fd",
+        "name": "SonyLIV",
+        "hashId": "100dc02b90dfc"
+      }
+    },
+    {
+      "id": 5,
+      "isLive": true,
+      "contentId": "1090499773",
+      "name": "Slavia Prague vs Barcelona - MD 7 - 22 Jan 2026",
+      "genre": "football",
+      "language": "english",
+      "provider": "SonyLIV",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/b904cf7b2cd81bd3af98cd085a2c6f17.jpg",
+        "https://images.ottplay.com/images/5563cdb4b15cdf7479cac61a2b321a31.jpg",
+        "https://images.ottplay.com/images/d398bc0a60e769bb824c85141c653f8d.jpg",
+        "https://images.ottplay.com/images/ccc10abac6b0d2e48670a4e767be19d3.jpg",
+        "https://images.ottplay.com/images/37a8759e9b91141fdc9c961d57de3fac.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/493f142d7574b652ff88dfaf12024ef7.jpg"
+      ],
+      "providerInfo": {
+        "id": "5f456c2aff9ccd034434e6fd",
+        "name": "SonyLIV",
+        "hashId": "100dc02b90dfc"
+      }
+    },
+    {
+      "id": 6,
+      "isLive": true,
+      "contentId": "1090499772",
+      "name": "Newcastle vs PSV - MD 7 - 22 Jan 2026",
+      "genre": "football",
+      "language": "english",
+      "provider": "SonyLIV",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/9a56feaf23fde3cfb7798b1e4ad5bfc2.jpg",
+        "https://images.ottplay.com/images/ccb61fc53a1975e62f55475c7272b200.jpg",
+        "https://images.ottplay.com/images/3ae2952ef8e0971a0955e34fe8cfa530.jpg",
+        "https://images.ottplay.com/images/098603352ac4a944a5f4caedf6e82f67.jpg",
+        "https://images.ottplay.com/images/3ab9be77ce612b31cb3a5ae9d428ea0d.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/bdc507341980dd2cc575f54d15e761f8.jpg"
+      ],
+      "providerInfo": {
+        "id": "5f456c2aff9ccd034434e6fd",
+        "name": "SonyLIV",
+        "hashId": "100dc02b90dfc"
+      }
+    },
+    {
+      "id": 7,
+      "isLive": true,
+      "contentId": "1090499771",
+      "name": "Chelsea vs Pafos - MD 7 - 22 Jan 2026",
+      "genre": "football",
+      "language": "english",
+      "provider": "SonyLIV",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/b8a4d6471b028c1e9204d3333c028c92.jpg",
+        "https://images.ottplay.com/images/2c12ad9acab413de3a2af1abfa3a9f57.jpg",
+        "https://images.ottplay.com/images/ee3991c9802cca3a230876c693f59d8e.jpg",
+        "https://images.ottplay.com/images/3d51e5deae89a2bf571dee201b8ffd58.jpg",
+        "https://images.ottplay.com/images/2aa28e7268ceb7ee26becc0553f03b3a.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/31fb74b96302c457da123ac99c360f4f.jpg"
+      ],
+      "providerInfo": {
+        "id": "5f456c2aff9ccd034434e6fd",
+        "name": "SonyLIV",
+        "hashId": "100dc02b90dfc"
+      }
+    },
+    {
+      "id": 8,
+      "isLive": true,
+      "contentId": "1090499762",
+      "name": "Bayern Munich vs Union SG - MD 7 - 22 Jan 2026",
+      "genre": "football",
+      "language": "english",
+      "provider": "SonyLIV",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/460e822cacf9e7da2fd6ab1b710ae5b4.jpg",
+        "https://images.ottplay.com/images/de54e39f25e8449bd06bf4a917632ba3.jpg",
+        "https://images.ottplay.com/images/5e3fdcc2312bfdd0db18e9f214e63d7a.jpg",
+        "https://images.ottplay.com/images/9c0d30d01401e422abaaa4621bc22cb7.jpg",
+        "https://images.ottplay.com/images/e3e69168383a763ff6cf74e632bf58b6.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/983ed24c8348b54959df005309d59f83.jpg"
+      ],
+      "providerInfo": {
+        "id": "5f456c2aff9ccd034434e6fd",
+        "name": "SonyLIV",
+        "hashId": "100dc02b90dfc"
+      }
+    },
+    {
+      "id": 9,
+      "isLive": true,
+      "contentId": "1090499753",
+      "name": "Atalanta vs Athletic Club - MD 7 - 22 Jan 2026",
+      "genre": "football",
+      "language": "english",
+      "provider": "SonyLIV",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/3721b972b0af953c7d0c55dab2f9f0ad.jpg",
+        "https://images.ottplay.com/images/74914a6ea196a655895d6dab7513cd8c.jpg",
+        "https://images.ottplay.com/images/15f73ecc6e228cd98e6183601aff7bba.jpg",
+        "https://images.ottplay.com/images/09a56c2c9a49b5a07c59bf1703e786a9.jpg",
+        "https://images.ottplay.com/images/01700287ae9a89338560503b9f24e086.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/4962689729097e567993a42394d01f0f.jpg"
+      ],
+      "providerInfo": {
+        "id": "5f456c2aff9ccd034434e6fd",
+        "name": "SonyLIV",
+        "hashId": "100dc02b90dfc"
+      }
+    },
+    {
+      "id": 10,
+      "isLive": true,
+      "contentId": "1090499611",
+      "name": "Juventus vs Benfica - MD 7 - 22 Jan 2026",
+      "genre": "football",
+      "language": "english",
+      "provider": "SonyLIV",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/dd9ea82c1094c2c13c8f6d97f30e6787.jpg",
+        "https://images.ottplay.com/images/112078e49a9e2f41ba68acc8861e11e8.jpg",
+        "https://images.ottplay.com/images/368b3c2e24313abe18043fee5abb61a1.jpg",
+        "https://images.ottplay.com/images/bfc1a953e77cc9e46806f6ac66f70146.jpg",
+        "https://images.ottplay.com/images/7c099bc3ce895a25b25540eacedd5e82.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/c36fad7cda948ab19fb753109c9b590c.jpg"
+      ],
+      "providerInfo": {
+        "id": "5f456c2aff9ccd034434e6fd",
+        "name": "SonyLIV",
+        "hashId": "100dc02b90dfc"
+      }
+    },
+    {
+      "id": 11,
+      "isLive": true,
+      "contentId": "1090499607",
+      "name": "Marseille vs Liverpool - MD 7 - 22 Jan 2026",
+      "genre": "football",
+      "language": "english",
+      "provider": "SonyLIV",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/e0cb32641fa17981570b86be7e781036.jpg",
+        "https://images.ottplay.com/images/3de019e39937c77476ec775f42758087.jpg",
+        "https://images.ottplay.com/images/0bf4de35515e7a33aa3aca9b0b7118f5.jpg",
+        "https://images.ottplay.com/images/a59f06a36392189daebce2ab4fdcc170.jpg",
+        "https://images.ottplay.com/images/bace21fb6369131a5d1b6561fcd27373.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/8135b64fe9ce610de19aa87b74c364a2.jpg"
+      ],
+      "providerInfo": {
+        "id": "5f456c2aff9ccd034434e6fd",
+        "name": "SonyLIV",
+        "hashId": "100dc02b90dfc"
+      }
+    },
+    {
+      "id": 12,
+      "isLive": true,
+      "contentId": "139758",
+      "name": "GY-W vs BAR-W",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/6650e773d262dd26373a20eaa486e508.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/0f8b7671e27b186debb94259a66f0507.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 13,
+      "isLive": true,
+      "contentId": "620235",
+      "name": "ONE: Mark of Greatness",
+      "genre": "mixed martial arts",
+      "language": "english",
+      "provider": "JioHotstar",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/a2c8829f8ad44be094e72af5c8ae360d.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/48641de74214ff2c2eafed0c49cb7b8e.jpg"
+      ],
+      "providerInfo": {
+        "id": "67977987ed126c0029b9f20c",
+        "name": "JioHotstar",
+        "hashId": "4025a7f67d456"
+      }
+    }
+  ]
 }
