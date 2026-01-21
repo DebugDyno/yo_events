@@ -1,8 +1,8 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 1,
-  "updatedAt": "22/01/2026, 01:27:28 AM",
+  "total": 2,
+  "updatedAt": "22/01/2026, 02:04:19 AM",
   "data": [
     {
       "id": 1,
@@ -32,6 +32,35 @@
       "slug": "guyana-women-vs-barbados-women",
       "tournamentSlug": "cwi-t20-blaze-2026",
       "collectionSlug": "cwi-t20-blaze-2026"
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "name": "Match 92",
+      "tournament": "EFL Championship 2025-26",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 139340,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/139340_5489_STK_MIDD_FC-Web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/139340_5489_STK_MIDD_FC-App.jpg",
+      "teams": [
+        {
+          "name": "Stoke City F.C.",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-STOKC@2x.png"
+        },
+        {
+          "name": "Middlesbrough F.C.",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MIDDB@2x.png"
+        }
+      ],
+      "slug": "stoke-city-f-c-vs-middlesbrough-f-c",
+      "tournamentSlug": "efl-championship-2025-26",
+      "collectionSlug": "efl-championship-2025-26"
     }
   ]
 }
