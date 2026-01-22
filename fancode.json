@@ -2,39 +2,10 @@
   "success": true,
   "message": "Live matches fetched successfully",
   "total": 4,
-  "updatedAt": "22/01/2026, 10:06:12 PM",
+  "updatedAt": "22/01/2026, 10:32:49 PM",
   "data": [
     {
       "id": 1,
-      "isLive": true,
-      "name": "1st ODI",
-      "tournament": "England tour of Sri Lanka, 2026",
-      "category": "All",
-      "categories": [
-        "All"
-      ],
-      "status": "LIVE",
-      "streamingStatus": "STARTED",
-      "matchId": 139289,
-      "streamType": "PAID",
-      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(3).png",
-      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/Old-Sporty-(1080x1440)-(3).png",
-      "teams": [
-        {
-          "name": "Sri Lanka",
-          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRL@2x.png"
-        },
-        {
-          "name": "England",
-          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ENG@2x.png"
-        }
-      ],
-      "slug": "sri-lanka-vs-england",
-      "tournamentSlug": "england-tour-of-sri-lanka-2026",
-      "collectionSlug": "england-tour-of-sri-lanka-2026"
-    },
-    {
-      "id": 2,
       "isLive": true,
       "name": "3rd T20I",
       "tournament": "Afghanistan vs West Indies 2026",
@@ -63,7 +34,7 @@
       "collectionSlug": "afghanistan-vs-west-indies-2026"
     },
     {
-      "id": 3,
+      "id": 2,
       "isLive": true,
       "name": "Featured Group - Day 1",
       "tournament": "The American Express 2026",
@@ -92,7 +63,7 @@
       "collectionSlug": "the-american-express-2026"
     },
     {
-      "id": 4,
+      "id": 3,
       "isLive": true,
       "name": "Main Feed - Day 1",
       "tournament": "The American Express 2026",
@@ -117,6 +88,35 @@
         }
       ],
       "slug": "main-feed-day-1",
+      "tournamentSlug": "the-american-express-2026",
+      "collectionSlug": "the-american-express-2026"
+    },
+    {
+      "id": 4,
+      "isLive": true,
+      "name": "Featured Holes - Day 1",
+      "tournament": "The American Express 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 139992,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/The-American-Express-2026_FC-Web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/The-American-Express-2026_FC-App.jpg",
+      "teams": [
+        {
+          "name": "Featured Holes - Day 1",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png"
+        },
+        {
+          "name": "LA Quinta, CA, USA",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "featured-holes-day-1",
       "tournamentSlug": "the-american-express-2026",
       "collectionSlug": "the-american-express-2026"
     }
