@@ -1,8 +1,8 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 1,
-  "updatedAt": "22/01/2026, 07:25:07 PM",
+  "total": 2,
+  "updatedAt": "22/01/2026, 07:56:48 PM",
   "data": [
     {
       "id": 1,
@@ -32,6 +32,35 @@
       "slug": "sri-lanka-vs-england",
       "tournamentSlug": "england-tour-of-sri-lanka-2026",
       "collectionSlug": "england-tour-of-sri-lanka-2026"
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "name": "3rd T20I",
+      "tournament": "Afghanistan vs West Indies 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 139300,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/AFG-vs-WI_web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/AFG-vs-WI_Old_Sporty.jpg",
+      "teams": [
+        {
+          "name": "Afghanistan",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AFG@2x.png"
+        },
+        {
+          "name": "West Indies",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png"
+        }
+      ],
+      "slug": "afghanistan-vs-west-indies",
+      "tournamentSlug": "afghanistan-vs-west-indies-2026",
+      "collectionSlug": "afghanistan-vs-west-indies-2026"
     }
   ]
 }
