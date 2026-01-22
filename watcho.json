@@ -1,11 +1,20 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 20,
-  "updatedAt": "22/01/2026, 04:42:33 PM",
+  "total": 19,
+  "updatedAt": "22/01/2026, 05:05:51 PM",
   "data": [
     {
       "id": 1,
+      "isLive": true,
+      "contentId": "1540060164",
+      "name": "Delhi Superheros vs Ahmedabad Lions",
+      "genre": "Cricket",
+      "provider": "JioHotstar",
+      "image": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/6819/1768994166819-h"
+    },
+    {
+      "id": 2,
       "isLive": true,
       "contentId": "1090500625",
       "name": "Sony Sports Ten 5",
@@ -14,7 +23,7 @@
       "image": "https://d229kpbsb5jevy.cloudfront.net/sony4/videoasset_images/manage_file/1000013948/1769072708455506_SLvsENG26_1odi_landscape_thumb.jpg"
     },
     {
-      "id": 2,
+      "id": 3,
       "isLive": true,
       "contentId": "1540060575",
       "name": "Zimbabwe vs Pakistan",
@@ -23,7 +32,7 @@
       "image": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/1643/1769000851643-h"
     },
     {
-      "id": 3,
+      "id": 4,
       "isLive": true,
       "contentId": "1540060950",
       "name": "West Indies vs South Africa",
@@ -32,7 +41,7 @@
       "image": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/5772/1769017855772-h"
     },
     {
-      "id": 4,
+      "id": 5,
       "isLive": true,
       "contentId": "1540060947",
       "name": "Ireland vs Japan",
@@ -41,7 +50,7 @@
       "image": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7080/1769002797080-h"
     },
     {
-      "id": 5,
+      "id": 6,
       "isLive": true,
       "contentId": "1090500641",
       "name": "LIV",
@@ -50,22 +59,13 @@
       "image": "https://d229kpbsb5jevy.cloudfront.net/sony4/videoasset_images/manage_file/1000013861/1768988638982461_DPworldtour_HeroDubaiDesertClassic_day1_21jan_landscape_thumb.jpg"
     },
     {
-      "id": 6,
+      "id": 7,
       "isLive": true,
       "contentId": "1540054912",
       "name": "International Skating Union: Beijing, Day 1",
       "genre": "SKATING",
       "provider": "JioHotstar",
       "image": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/906/1769055540906-h"
-    },
-    {
-      "id": 7,
-      "isLive": true,
-      "contentId": "1540055165",
-      "name": "Pondicherry vs Jammu and Kashmir: Day 1",
-      "genre": "Cricket",
-      "provider": "JioHotstar",
-      "image": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2984/1769018632984-h"
     },
     {
       "id": 8,
@@ -174,15 +174,6 @@
       "genre": "Tennis",
       "provider": "Sony Liv",
       "image": "https://d229kpbsb5jevy.cloudfront.net/sony4/videoasset_images/manage_file/1000013783/1768924835852400_AO26_stream1_R2_hindi_landscape_thumb.jpg"
-    },
-    {
-      "id": 20,
-      "isLive": true,
-      "contentId": "139668",
-      "name": "Dyandeep Seva Mandal VS Swami Vivekanand",
-      "genre": "Sports",
-      "provider": "FanCode",
-      "image": "https://images.fancode.com/aig/match/v1/139668_CASACARDS_PARTNER_16_9_1920_1080.png"
     }
   ]
 }
