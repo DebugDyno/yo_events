@@ -1,11 +1,40 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 5,
-  "updatedAt": "24/01/2026, 04:28:01 AM",
+  "total": 6,
+  "updatedAt": "24/01/2026, 04:56:36 AM",
   "data": [
     {
       "id": 1,
+      "isLive": true,
+      "name": "Match 18",
+      "tournament": "CWI T20 Blaze 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 139762,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/CWI-Women's-T20-Blaze_fc-web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/CWI-Women's-T20-Blaze_fc-app.jpg",
+      "teams": [
+        {
+          "name": "Leeward Islands Women",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LWI@2x.png"
+        },
+        {
+          "name": "Barbados Women",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BARR@2x.png"
+        }
+      ],
+      "slug": "leeward-islands-women-vs-barbados-women",
+      "tournamentSlug": "cwi-t20-blaze-2026",
+      "collectionSlug": "cwi-t20-blaze-2026"
+    },
+    {
+      "id": 2,
       "isLive": true,
       "name": "Main Feed - Day 2",
       "tournament": "The American Express 2026",
@@ -34,7 +63,7 @@
       "collectionSlug": "the-american-express-2026"
     },
     {
-      "id": 2,
+      "id": 3,
       "isLive": true,
       "name": "Marquee Group - Day 2",
       "tournament": "The American Express 2026",
@@ -63,7 +92,7 @@
       "collectionSlug": "the-american-express-2026"
     },
     {
-      "id": 3,
+      "id": 4,
       "isLive": true,
       "name": "Featured Holes - Day 2",
       "tournament": "The American Express 2026",
@@ -92,7 +121,7 @@
       "collectionSlug": "the-american-express-2026"
     },
     {
-      "id": 4,
+      "id": 5,
       "isLive": true,
       "name": "Featured Groups - Day 2",
       "tournament": "The American Express 2026",
@@ -121,7 +150,7 @@
       "collectionSlug": "the-american-express-2026"
     },
     {
-      "id": 5,
+      "id": 6,
       "isLive": true,
       "name": "World Feed - Day 2",
       "tournament": "The American Express 2026",
