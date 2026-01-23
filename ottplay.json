@@ -1,6 +1,539 @@
 {
-  "success": false,
-  "message": "Failed to fetch data",
-  "data": [],
-  "error": "HTTP error! Status: 403"
+  "success": true,
+  "message": "Live matches fetched successfully",
+  "total": 23,
+  "updatedAt": "23/01/2026, 02:18:55 PM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "139390",
+      "name": "NJ vs WEL",
+      "genre": "football",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/fe3114c2687e82047209f5e160bfa43f.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/47d8de6bcd83a90471f063ddc42f7c98.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "contentId": "1090498780",
+      "name": "Alexander Zverev vs Cameron Norrie - Men's Singles - 23 Jan 2026",
+      "genre": "tennis",
+      "language": "english",
+      "provider": "SonyLIV",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/c68708b50e4f2769891b388d4b44143e.jpg",
+        "https://images.ottplay.com/images/c825a71eee89bfe262c699d96659fd5a.jpg",
+        "https://images.ottplay.com/images/eaf2eaa1174702bd98d90a285d9b3d3c.jpg",
+        "https://images.ottplay.com/images/02822e1ecdab21b516f1caa4aa22ac32.jpg",
+        "https://images.ottplay.com/images/e7db824cd2bf4feb8f795fde686774d0.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/1a1f814070b2f84569f8e74bbf958d95.jpg"
+      ],
+      "providerInfo": {
+        "id": "5f456c2aff9ccd034434e6fd",
+        "name": "SonyLIV",
+        "hashId": "100dc02b90dfc"
+      }
+    },
+    {
+      "id": 3,
+      "isLive": true,
+      "contentId": "1090499148",
+      "name": "Tiafoe vs De Minaur - Round 3 - 23 Jan 2026",
+      "genre": "tennis",
+      "language": "english",
+      "provider": "SonyLIV",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/a3cc7266973862d771390d84c39573b8.jpg",
+        "https://images.ottplay.com/images/896fed8beadce6368279d1f013fba64e.jpg",
+        "https://images.ottplay.com/images/234aba33bede48929755fdc3ec67076b.jpg",
+        "https://images.ottplay.com/images/15650ae42d91cc7fb99e29593c0da7f2.jpg",
+        "https://images.ottplay.com/images/d1cc2dd2871b9ba41f76db3ea140678c.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/62f625a5955c24298d8da61992d74c7c.jpg"
+      ],
+      "providerInfo": {
+        "id": "5f456c2aff9ccd034434e6fd",
+        "name": "SonyLIV",
+        "hashId": "100dc02b90dfc"
+      }
+    },
+    {
+      "id": 4,
+      "isLive": true,
+      "contentId": "1090498779",
+      "name": "Elina Svitolina vs Diana Shnaider - Women's Singles - 23 Jan 2026",
+      "genre": "tennis",
+      "language": "english",
+      "provider": "SonyLIV",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/5537841c9defd62782ceb738a4c70f2f.jpg",
+        "https://images.ottplay.com/images/41186881fcecf3094cdfdae839d8d97b.jpg",
+        "https://images.ottplay.com/images/61c810bd91005f2fbd45e13abae9b29f.jpg",
+        "https://images.ottplay.com/images/66dc51a86005c45dbdd2f572bb827ccc.jpg",
+        "https://images.ottplay.com/images/f5b99fb78d23758b4dae11c8d78dde35.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/33d0c3fcb317b6131be299e0b96110d0.jpg"
+      ],
+      "providerInfo": {
+        "id": "5f456c2aff9ccd034434e6fd",
+        "name": "SonyLIV",
+        "hashId": "100dc02b90dfc"
+      }
+    },
+    {
+      "id": 5,
+      "isLive": true,
+      "contentId": "1090498778",
+      "name": "Frances Tiafoe vs Alex de Minaur - Men's Singles - 23 Jan 2026",
+      "genre": "tennis",
+      "language": "english",
+      "provider": "SonyLIV",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/af63307af5667f4c0874909c86a333aa.jpg",
+        "https://images.ottplay.com/images/1ccc373184bd5227891ebab400663c25.jpg",
+        "https://images.ottplay.com/images/dee9b9064e9c6115f60f55554cf28c11.jpg",
+        "https://images.ottplay.com/images/edecd245afeae54683ffcfb54d2f0705.jpg",
+        "https://images.ottplay.com/images/cd56f490082f868601e269a01139a33a.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/c044952c4bc77f52be2dae3185df98d2.jpg"
+      ],
+      "providerInfo": {
+        "id": "5f456c2aff9ccd034434e6fd",
+        "name": "SonyLIV",
+        "hashId": "100dc02b90dfc"
+      }
+    },
+    {
+      "id": 6,
+      "isLive": true,
+      "contentId": "1540060287",
+      "name": "Challenger: Sydney Sixers vs Hobart Hurricanes",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "JioHotstar",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/9dfae3b19d6761e585b420251b656bb8.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/51f9831c1f7373dbb20ade1ed0130623.jpg"
+      ],
+      "providerInfo": {
+        "id": "67977987ed126c0029b9f20c",
+        "name": "JioHotstar",
+        "hashId": "4025a7f67d456"
+      }
+    },
+    {
+      "id": 7,
+      "isLive": true,
+      "contentId": "1540061196",
+      "name": "Pune Grand Tour: Stage 4",
+      "genre": "cycling",
+      "language": "english",
+      "provider": "JioHotstar",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/460113bb9ba4bf399ad2bee54c9d58fe.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/efedb26190f3da993bcad5f94e2c0137.jpg"
+      ],
+      "providerInfo": {
+        "id": "67977987ed126c0029b9f20c",
+        "name": "JioHotstar",
+        "hashId": "4025a7f67d456"
+      }
+    },
+    {
+      "id": 8,
+      "isLive": true,
+      "contentId": "1090500980",
+      "name": "Hero Dubai Desert Classic Day 2 - 23 Jan 2026",
+      "genre": "golf",
+      "language": "english",
+      "provider": "SonyLIV",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/294ce7f4bbf20fe022e9ae464898626d.jpg",
+        "https://images.ottplay.com/images/b97c5bdf1621ba3e1a580d2a9f669de8.jpg",
+        "https://images.ottplay.com/images/1740d9c548ea1052761721783df332fe.jpg",
+        "https://images.ottplay.com/images/b27cc14a09460839f8c7ac35186e7f6f.jpg",
+        "https://images.ottplay.com/images/c2b09eb632df1468290b0441937eec8d.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/babf502c67e125aa6421a1bb91eeb3dd.jpg"
+      ],
+      "providerInfo": {
+        "id": "5f456c2aff9ccd034434e6fd",
+        "name": "SonyLIV",
+        "hashId": "100dc02b90dfc"
+      }
+    },
+    {
+      "id": 9,
+      "isLive": true,
+      "contentId": "1090498781",
+      "name": "Francisco Cerundolo vs Andrey Rublev - Men's Singles - 23 Jan 2026",
+      "genre": "tennis",
+      "language": "english",
+      "provider": "SonyLIV",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/c96e8629d8b251a81dc1cfb94bd5bf6d.jpg",
+        "https://images.ottplay.com/images/1edb0815c771d12d93ef856cd69d3729.jpg",
+        "https://images.ottplay.com/images/1cfbfbda425190998070502eb02cb495.jpg",
+        "https://images.ottplay.com/images/e84630851d4ff0d9aa4cf759b965ad24.jpg",
+        "https://images.ottplay.com/images/c7a51db760b28d1f157ce59637049260.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/7b0af07c79b6808a4b8239dd82e0be19.jpg"
+      ],
+      "providerInfo": {
+        "id": "5f456c2aff9ccd034434e6fd",
+        "name": "SonyLIV",
+        "hashId": "100dc02b90dfc"
+      }
+    },
+    {
+      "id": 10,
+      "isLive": true,
+      "contentId": "1540060578",
+      "name": "Bangladesh vs USA",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "JioHotstar",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/49363c61443ef1ec8d0709a83c6ef7bc.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/e6a1189fb65b0368d2c05eddc6c12ef8.jpg"
+      ],
+      "providerInfo": {
+        "id": "67977987ed126c0029b9f20c",
+        "name": "JioHotstar",
+        "hashId": "4025a7f67d456"
+      }
+    },
+    {
+      "id": 11,
+      "isLive": true,
+      "contentId": "1540060953",
+      "name": "Sri Lanka vs Australia",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "JioHotstar",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/5ebea6c23bf619e5d6154d0313197a4e.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/9c21a231e480464e85914631d5990233.jpg"
+      ],
+      "providerInfo": {
+        "id": "67977987ed126c0029b9f20c",
+        "name": "JioHotstar",
+        "hashId": "4025a7f67d456"
+      }
+    },
+    {
+      "id": 12,
+      "isLive": true,
+      "contentId": "1090498783",
+      "name": "ANZ Arena - 23 Jan 2026",
+      "genre": "tennis",
+      "language": "english",
+      "provider": "SonyLIV",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/1339315681ba78d3929489d304b7bcb2.jpg",
+        "https://images.ottplay.com/images/720e3c9cac985584c44603cf84b0fdfa.jpg",
+        "https://images.ottplay.com/images/448ff968d746ad35e22e065fe83b9726.jpg",
+        "https://images.ottplay.com/images/4d5d9b6e6e51807592c4f5277522043d.jpg",
+        "https://images.ottplay.com/images/52e589000530ffa388a3d6313479fc06.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/d1ff39b9b4a2ceb79a1fe7993a209159.jpg"
+      ],
+      "providerInfo": {
+        "id": "5f456c2aff9ccd034434e6fd",
+        "name": "SonyLIV",
+        "hashId": "100dc02b90dfc"
+      }
+    },
+    {
+      "id": 13,
+      "isLive": true,
+      "contentId": "1540060331",
+      "name": "BWF Indonesia Masters 2026: QFs",
+      "genre": "badminton",
+      "language": "english",
+      "provider": "JioHotstar",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/ad0f0ec7da1a2f9ba53de539b4a315f9.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/abbbc88d8eb79c0b78f37a330e101bd5.jpg"
+      ],
+      "providerInfo": {
+        "id": "67977987ed126c0029b9f20c",
+        "name": "JioHotstar",
+        "hashId": "4025a7f67d456"
+      }
+    },
+    {
+      "id": 15,
+      "isLive": true,
+      "contentId": "1540054915",
+      "name": "International Skating Union: Beijing, Day 2",
+      "genre": "skating",
+      "language": "english",
+      "provider": "JioHotstar",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/30b25aef24835f29b0630bf8806c7a54.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/123d1c7e7dcb64f92d44635ed9f5c411.jpg"
+      ],
+      "providerInfo": {
+        "id": "67977987ed126c0029b9f20c",
+        "name": "JioHotstar",
+        "hashId": "4025a7f67d456"
+      }
+    },
+    {
+      "id": 16,
+      "isLive": true,
+      "contentId": "1540055171",
+      "name": "Uttar Pradesh vs Jharkhand: Day 2",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "JioHotstar",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/adfec696068f4b849651101a1adc69e4.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/b1d01f4ccfdad7d2f98edfddb1b7dcc3.jpg"
+      ],
+      "providerInfo": {
+        "id": "67977987ed126c0029b9f20c",
+        "name": "JioHotstar",
+        "hashId": "4025a7f67d456"
+      }
+    },
+    {
+      "id": 17,
+      "isLive": true,
+      "contentId": "1540055177",
+      "name": "Gujarat vs Railways: Day 2",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "JioHotstar",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/5f69e202734ac7c598ecd6e2f6e81b33.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/af4863d348fe606c3c5fa7e72a10acda.jpg"
+      ],
+      "providerInfo": {
+        "id": "67977987ed126c0029b9f20c",
+        "name": "JioHotstar",
+        "hashId": "4025a7f67d456"
+      }
+    },
+    {
+      "id": 18,
+      "isLive": true,
+      "contentId": "1540055174",
+      "name": "Pondicherry vs Jammu and Kashmir: Day 2",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "JioHotstar",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/4bbcb0efe1ca60018496836ee66098b2.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/f7bb6cd4c41def054215dd8ee6ad9653.jpg"
+      ],
+      "providerInfo": {
+        "id": "67977987ed126c0029b9f20c",
+        "name": "JioHotstar",
+        "hashId": "4025a7f67d456"
+      }
+    },
+    {
+      "id": 19,
+      "isLive": true,
+      "contentId": "1090498774",
+      "name": "Stream 3 - 23 Jan 2026",
+      "genre": "tennis",
+      "language": "english",
+      "provider": "SonyLIV",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/32b4dfb1e5e506317b37d9c03c69df5a.jpg",
+        "https://images.ottplay.com/images/bed1dd979b27e9587581a46055a9996b.jpg",
+        "https://images.ottplay.com/images/dbf0a272e708aff75976be9b5392b166.jpg",
+        "https://images.ottplay.com/images/0686b8f52694daaf2101805fde45f807.jpg",
+        "https://images.ottplay.com/images/32156ef72759dcc5a11eb980fbdd2b1a.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/a7dbdf14b6a61cc37ea4a5c2927946be.jpg"
+      ],
+      "providerInfo": {
+        "id": "5f456c2aff9ccd034434e6fd",
+        "name": "SonyLIV",
+        "hashId": "100dc02b90dfc"
+      }
+    },
+    {
+      "id": 20,
+      "isLive": true,
+      "contentId": "1090498777",
+      "name": "Stream 1 - 23 Jan 2026",
+      "genre": "tennis",
+      "language": "telugu",
+      "provider": "SonyLIV",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/d0315d9ac73136a47aae54bd4dbddfb0.jpg",
+        "https://images.ottplay.com/images/228dfddb4c4832f35eae4456b9e724ea.jpg",
+        "https://images.ottplay.com/images/edc6b40153c91f4c0b3d259ebf4eace7.jpg",
+        "https://images.ottplay.com/images/704bbb78dae06560eb6d507d7afe8cce.jpg",
+        "https://images.ottplay.com/images/64ae3a04204bc2377ff21993cee4fcfd.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/af931ca5c3e21bf979403343bf08de66.jpg"
+      ],
+      "providerInfo": {
+        "id": "5f456c2aff9ccd034434e6fd",
+        "name": "SonyLIV",
+        "hashId": "100dc02b90dfc"
+      }
+    },
+    {
+      "id": 21,
+      "isLive": true,
+      "contentId": "1090498776",
+      "name": "Stream 1 - 23 Jan 2026",
+      "genre": "tennis",
+      "language": "tamil",
+      "provider": "SonyLIV",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/b904ad1accdd3d6f0eedbceb6c6482d2.jpg",
+        "https://images.ottplay.com/images/228dfddb4c4832f35eae4456b9e724ea.jpg",
+        "https://images.ottplay.com/images/536bcbbd99381175fe03c3978f92e059.jpg",
+        "https://images.ottplay.com/images/c4bc164a13ead7bbf7946119d3bf2da0.jpg",
+        "https://images.ottplay.com/images/7e6959662fb77fda87d1143844e9634c.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/ddf926a994c647bcf553f98f58f05919.jpg"
+      ],
+      "providerInfo": {
+        "id": "5f456c2aff9ccd034434e6fd",
+        "name": "SonyLIV",
+        "hashId": "100dc02b90dfc"
+      }
+    },
+    {
+      "id": 22,
+      "isLive": true,
+      "contentId": "1090498775",
+      "name": "Stream 1 - 23 Jan 2026",
+      "genre": "tennis",
+      "language": "hindi",
+      "provider": "SonyLIV",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/f58db8a6d7146471953a076fe9d4e39f.jpg",
+        "https://images.ottplay.com/images/228dfddb4c4832f35eae4456b9e724ea.jpg",
+        "https://images.ottplay.com/images/0f7e7d912afbca1058743a11ababf89e.jpg",
+        "https://images.ottplay.com/images/6a259259afd4b9ab65480b9f8db3afda.jpg",
+        "https://images.ottplay.com/images/35dcbfbfbfa63664ecabc6267bf63355.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/8212b947d90f56d52c9b01afd428427f.jpg"
+      ],
+      "providerInfo": {
+        "id": "5f456c2aff9ccd034434e6fd",
+        "name": "SonyLIV",
+        "hashId": "100dc02b90dfc"
+      }
+    },
+    {
+      "id": 23,
+      "isLive": true,
+      "contentId": "1090498773",
+      "name": "Stream 2 - 23 Jan 2026",
+      "genre": "tennis",
+      "language": "english",
+      "provider": "SonyLIV",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/619558c59b99bdf31d755d8a561a80bb.jpg",
+        "https://images.ottplay.com/images/0fd36d79b40f19610779183ce2671ba4.jpg",
+        "https://images.ottplay.com/images/4221e152cfc26425470a9fad965580c1.jpg",
+        "https://images.ottplay.com/images/6f4c004323fd586c7c1a3ebc287ec0d7.jpg",
+        "https://images.ottplay.com/images/a93d9db725e3dd8a2dbad98af0457f59.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/ba1af0ed8bfed97cf6f067e00db51ea4.jpg"
+      ],
+      "providerInfo": {
+        "id": "5f456c2aff9ccd034434e6fd",
+        "name": "SonyLIV",
+        "hashId": "100dc02b90dfc"
+      }
+    },
+    {
+      "id": 24,
+      "isLive": true,
+      "contentId": "620235",
+      "name": "ONE: Mark of Greatness",
+      "genre": "mixed martial arts",
+      "language": "english",
+      "provider": "JioHotstar",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/a2c8829f8ad44be094e72af5c8ae360d.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/48641de74214ff2c2eafed0c49cb7b8e.jpg"
+      ],
+      "providerInfo": {
+        "id": "67977987ed126c0029b9f20c",
+        "name": "JioHotstar",
+        "hashId": "4025a7f67d456"
+      }
+    }
+  ]
 }
