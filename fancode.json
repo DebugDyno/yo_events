@@ -1,7 +1,37 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "total": 0,
-  "updatedAt": "23/01/2026, 04:24:53 PM",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 1,
+  "updatedAt": "23/01/2026, 04:47:50 PM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "name": "Final",
+      "tournament": "Bangladesh Premier League, 2025-26",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 138949,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/138929_5808_CCH_DBR_fc-web_1766733054169.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/138929_5808_CCH_DBR_fc-App_1767706252201.jpg",
+      "teams": [
+        {
+          "name": "Chattogram Royals",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CTR@2x.png"
+        },
+        {
+          "name": "Rajshahi Warriors",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RAW@2x.png"
+        }
+      ],
+      "slug": "chattogram-royals-vs-rajshahi-warriors",
+      "tournamentSlug": "bangladesh-premier-league-2025-26",
+      "collectionSlug": "bangladesh-premier-league-2025-26"
+    }
+  ]
 }
