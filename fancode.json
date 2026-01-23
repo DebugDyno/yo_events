@@ -2,39 +2,10 @@
   "success": true,
   "message": "Live matches fetched successfully",
   "total": 2,
-  "updatedAt": "23/01/2026, 09:24:40 PM",
+  "updatedAt": "23/01/2026, 09:54:22 PM",
   "data": [
     {
       "id": 1,
-      "isLive": true,
-      "name": "Final",
-      "tournament": "Bangladesh Premier League, 2025-26",
-      "category": "All",
-      "categories": [
-        "All"
-      ],
-      "status": "LIVE",
-      "streamingStatus": "STARTED",
-      "matchId": 138949,
-      "streamType": "PAID",
-      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/138929_5808_CCH_DBR_fc-web_1766733054169.jpg",
-      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/138929_5808_CCH_DBR_fc-App_1767706252201.jpg",
-      "teams": [
-        {
-          "name": "Chattogram Royals",
-          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CTR@2x.png"
-        },
-        {
-          "name": "Rajshahi Warriors",
-          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RAW@2x.png"
-        }
-      ],
-      "slug": "chattogram-royals-vs-rajshahi-warriors",
-      "tournamentSlug": "bangladesh-premier-league-2025-26",
-      "collectionSlug": "bangladesh-premier-league-2025-26"
-    },
-    {
-      "id": 2,
       "isLive": true,
       "name": "Match 31 - Third Place",
       "tournament": "AFC U23 Asian Cup, 2026",
@@ -61,6 +32,35 @@
       "slug": "vietnam-u23-vs-korea-republic-u23",
       "tournamentSlug": "afc-u23-asian-cup-2026",
       "collectionSlug": "afc-u23-asian-cup-2026"
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "name": "Main Feed - Day 2",
+      "tournament": "The American Express 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 139994,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/The-American-Express-2026_FC-Web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/The-American-Express-2026_FC-App.jpg",
+      "teams": [
+        {
+          "name": "Main Feed - Day 2",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png"
+        },
+        {
+          "name": "LA Quinta, CA, USA",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "main-feed-day-2",
+      "tournamentSlug": "the-american-express-2026",
+      "collectionSlug": "the-american-express-2026"
     }
   ]
 }
