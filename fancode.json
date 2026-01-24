@@ -1,8 +1,8 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 2,
-  "updatedAt": "24/01/2026, 01:51:33 PM",
+  "total": 3,
+  "updatedAt": "24/01/2026, 02:15:27 PM",
   "data": [
     {
       "id": 1,
@@ -61,6 +61,35 @@
       "slug": "nepal-women-vs-zimbabwe-women",
       "tournamentSlug": "icc-womens-t20-world-cup-global-qualifier-2026",
       "collectionSlug": "icc-womens-t20-world-cup-global-qualifier-2026"
+    },
+    {
+      "id": 3,
+      "isLive": true,
+      "name": "Match 44",
+      "tournament": "A League 2025-26",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 139393,
+      "streamType": "PAID",
+      "landscapeImage": "https://images.fancode.com/aig/match/v1/139393_CASACARDS_APP.png",
+      "portraitImage": "https://images.fancode.com/aig/match/v1/139393_CASACARDS_SPORTY_APP.png",
+      "teams": [
+        {
+          "name": "Macarthur",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MACA@2x.png"
+        },
+        {
+          "name": "Melbourne City",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MLCA@2x.png"
+        }
+      ],
+      "slug": "macarthur-vs-melbourne-city",
+      "tournamentSlug": "a-league-2025-26",
+      "collectionSlug": "a-league-2025-26"
     }
   ]
 }
