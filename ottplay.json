@@ -1,8 +1,8 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 23,
-  "updatedAt": "24/01/2026, 08:21:38 PM",
+  "total": 18,
+  "updatedAt": "24/01/2026, 08:38:50 PM",
   "data": [
     {
       "id": 1,
@@ -80,6 +80,29 @@
     {
       "id": 4,
       "isLive": true,
+      "contentId": "1540059895",
+      "name": "Manchester City vs Wolves",
+      "genre": "football",
+      "language": "english",
+      "provider": "JioHotstar",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/backdrop-1769266164.jpg",
+        "https://images.ottplay.com/images/ee8ae7831571a58c5b04574572811244.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/46df81bfa08b88e11c113f5e7bd6a004.jpg",
+        "https://images.ottplay.com/images/poster-1769266137.jpg"
+      ],
+      "providerInfo": {
+        "id": "67977987ed126c0029b9f20c",
+        "name": "JioHotstar",
+        "hashId": "4025a7f67d456"
+      }
+    },
+    {
+      "id": 5,
+      "isLive": true,
       "contentId": "139343",
       "name": "HUL vs SWA",
       "genre": "football",
@@ -99,7 +122,7 @@
       }
     },
     {
-      "id": 5,
+      "id": 6,
       "isLive": true,
       "contentId": "139282",
       "name": "CHN-U23 vs JP-U23",
@@ -120,7 +143,7 @@
       }
     },
     {
-      "id": 6,
+      "id": 7,
       "isLive": true,
       "contentId": "131031",
       "name": "VAL vs ESL",
@@ -141,7 +164,7 @@
       }
     },
     {
-      "id": 7,
+      "id": 8,
       "isLive": true,
       "contentId": "1540059931",
       "name": "Fulham vs Brighton",
@@ -162,7 +185,7 @@
       }
     },
     {
-      "id": 8,
+      "id": 9,
       "isLive": true,
       "contentId": "1540059934",
       "name": "Burnley vs Tottenham Hotspur",
@@ -175,29 +198,6 @@
       ],
       "posters": [
         "https://images.ottplay.com/posters/4ba768103afdded961698e8b3b754c8a.jpg"
-      ],
-      "providerInfo": {
-        "id": "67977987ed126c0029b9f20c",
-        "name": "JioHotstar",
-        "hashId": "4025a7f67d456"
-      }
-    },
-    {
-      "id": 9,
-      "isLive": true,
-      "contentId": "1540059895",
-      "name": "Manchester City vs Wolves",
-      "genre": "football",
-      "language": "english",
-      "provider": "JioHotstar",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/images/backdrop-1769266164.jpg",
-        "https://images.ottplay.com/images/ee8ae7831571a58c5b04574572811244.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/46df81bfa08b88e11c113f5e7bd6a004.jpg",
-        "https://images.ottplay.com/images/poster-1769266137.jpg"
       ],
       "providerInfo": {
         "id": "67977987ed126c0029b9f20c",
@@ -354,37 +354,6 @@
     {
       "id": 16,
       "isLive": true,
-      "contentId": "1090499148",
-      "name": "Stream 1 - 24 Jan 2026",
-      "genre": "tennis",
-      "language": "english",
-      "provider": "SonyLIV",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/images/f639ab9c500f2bc7398be0485c24b4e8.jpg",
-        "https://images.ottplay.com/images/d3c16161ca127d71bbbd208290a962a0.jpg",
-        "https://images.ottplay.com/images/abb5f79a05f7c53a6f8595371468189e.jpg",
-        "https://images.ottplay.com/images/e324d085927939ca12bdae59f18bc9d0.jpg",
-        "https://images.ottplay.com/images/4443c7e536ab1265a221a10da354a023.jpg",
-        "https://images.ottplay.com/images/521bd97f863432c7f748c7a508cdefaa.jpg",
-        "https://images.ottplay.com/images/b6760056b0f1cc22697785faa787156d.jpg",
-        "https://images.ottplay.com/images/6ee6e7fc3636d9ea244dca3dd67dd958.jpg",
-        "https://images.ottplay.com/images/a507bdf0f44b1f10ca6cd9e50403856e.jpg",
-        "https://images.ottplay.com/images/f319e1ff1fe14fc2a97d5f496a834bd0.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/2e3f4fc61bb54a93e26cfb4ceb0f09c1.jpg",
-        "https://images.ottplay.com/posters/873accf453519409cb5d03828649c38d.jpg"
-      ],
-      "providerInfo": {
-        "id": "5f456c2aff9ccd034434e6fd",
-        "name": "SonyLIV",
-        "hashId": "100dc02b90dfc"
-      }
-    },
-    {
-      "id": 17,
-      "isLive": true,
       "contentId": "1540060759",
       "name": "VELS Chennai Kings vs Kerala Strikers",
       "genre": "cricket",
@@ -404,7 +373,7 @@
       }
     },
     {
-      "id": 18,
+      "id": 17,
       "isLive": true,
       "contentId": "131033",
       "name": "RVL vs OSN",
@@ -425,105 +394,7 @@
       }
     },
     {
-      "id": 19,
-      "isLive": true,
-      "contentId": "1540059892",
-      "name": "West Ham vs Sunderland",
-      "genre": "football",
-      "language": "english",
-      "provider": "JioHotstar",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/images/ff9ca95dd1b975d40116901fb2f51ec8.jpg",
-        "https://images.ottplay.com/images/39f2b5c1ccb26bdf02814440c544cd89.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/0873384b48e1113f5f554832c94bee7c.jpg",
-        "https://images.ottplay.com/posters/a5800fd2cd555077c8f28994eee06935.jpg"
-      ],
-      "providerInfo": {
-        "id": "67977987ed126c0029b9f20c",
-        "name": "JioHotstar",
-        "hashId": "4025a7f67d456"
-      }
-    },
-    {
-      "id": 20,
-      "isLive": true,
-      "contentId": "1090498777",
-      "name": "Stream 1 - 24 Jan 2026",
-      "genre": "tennis",
-      "language": "telugu",
-      "provider": "SonyLIV",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/images/9606c7c5e0a4107e40106665bf5b4be6.jpg",
-        "https://images.ottplay.com/images/b6760056b0f1cc22697785faa787156d.jpg",
-        "https://images.ottplay.com/images/2926a7aba4923c22c889cc27dfa755b5.jpg",
-        "https://images.ottplay.com/images/c9f2d1780e2c9ae8c7ea1621273c0593.jpg",
-        "https://images.ottplay.com/images/ea21798f8d2841216d0116a7de517c19.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/95ff65578fa95aac2dc85356fbbe9a7d.jpg"
-      ],
-      "providerInfo": {
-        "id": "5f456c2aff9ccd034434e6fd",
-        "name": "SonyLIV",
-        "hashId": "100dc02b90dfc"
-      }
-    },
-    {
-      "id": 21,
-      "isLive": true,
-      "contentId": "1090498776",
-      "name": "Stream 1 - 24 Jan 2026",
-      "genre": "tennis",
-      "language": "tamil",
-      "provider": "SonyLIV",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/images/da3439b190124fc65faadfb97a8d9f94.jpg",
-        "https://images.ottplay.com/images/b6760056b0f1cc22697785faa787156d.jpg",
-        "https://images.ottplay.com/images/278e6fd0aa2978eaaa992c5f2cd72522.jpg",
-        "https://images.ottplay.com/images/1d6b341b7a1bd47168235089f90dff33.jpg",
-        "https://images.ottplay.com/images/20f701b95e2ed9bf1a46f9bae9de28ca.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/4bd93fee27ecd930ca85a3e0c3137551.jpg"
-      ],
-      "providerInfo": {
-        "id": "5f456c2aff9ccd034434e6fd",
-        "name": "SonyLIV",
-        "hashId": "100dc02b90dfc"
-      }
-    },
-    {
-      "id": 22,
-      "isLive": true,
-      "contentId": "1090498775",
-      "name": "Stream 1 - 24 Jan 2026",
-      "genre": "tennis",
-      "language": "hindi",
-      "provider": "SonyLIV",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/images/505659ae55766827fb9608e94c6a3504.jpg",
-        "https://images.ottplay.com/images/b6760056b0f1cc22697785faa787156d.jpg",
-        "https://images.ottplay.com/images/cdbf87c0de60127d795589d6b6828796.jpg",
-        "https://images.ottplay.com/images/7c70f68880f28a42ba6b858c7075d28b.jpg",
-        "https://images.ottplay.com/images/13fb411fa02195f458ec5d70fa0b9d50.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/3ada684a9ac3b82ece2bf86dafc539b4.jpg"
-      ],
-      "providerInfo": {
-        "id": "5f456c2aff9ccd034434e6fd",
-        "name": "SonyLIV",
-        "hashId": "100dc02b90dfc"
-      }
-    },
-    {
-      "id": 23,
+      "id": 18,
       "isLive": true,
       "contentId": "620235",
       "name": "ONE: Mark of Greatness",
