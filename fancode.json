@@ -1,8 +1,8 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 1,
-  "updatedAt": "24/01/2026, 05:25:56 PM",
+  "total": 2,
+  "updatedAt": "24/01/2026, 06:09:08 PM",
   "data": [
     {
       "id": 1,
@@ -32,6 +32,35 @@
       "slug": "sri-lanka-vs-england",
       "tournamentSlug": "england-tour-of-sri-lanka-2026",
       "collectionSlug": "england-tour-of-sri-lanka-2026"
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "name": "Match 94",
+      "tournament": "EFL Championship 2025-26",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 139342,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/139342_5489_MLW_CHL_FC-Web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/139342_5489_MLW_CHL_FC-App.jpg",
+      "teams": [
+        {
+          "name": "Millwall F.C.",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MILW@2x.png"
+        },
+        {
+          "name": "Charlton Athletic F.C",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-CHL@2x.png"
+        }
+      ],
+      "slug": "millwall-f-c-vs-charlton-athletic-f-c",
+      "tournamentSlug": "efl-championship-2025-26",
+      "collectionSlug": "efl-championship-2025-26"
     }
   ]
 }
