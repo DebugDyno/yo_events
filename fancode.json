@@ -1,7 +1,66 @@
 {
-  "success": false,
-  "message": "Failed to fetch data from FanCode",
-  "updatedAt": "24/01/2026, 08:09:08 PM",
-  "error": "Invalid response structure from FanCode API",
-  "data": []
+  "success": true,
+  "message": "Live matches fetched successfully",
+  "total": 2,
+  "updatedAt": "24/01/2026, 08:21:40 PM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "name": "2nd ODI",
+      "tournament": "England tour of Sri Lanka, 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 139290,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(3).png",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/Old-Sporty-(1080x1440)-(3).png",
+      "teams": [
+        {
+          "name": "Sri Lanka",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRL@2x.png"
+        },
+        {
+          "name": "England",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ENG@2x.png"
+        }
+      ],
+      "slug": "sri-lanka-vs-england",
+      "tournamentSlug": "england-tour-of-sri-lanka-2026",
+      "collectionSlug": "england-tour-of-sri-lanka-2026"
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "name": "Match 207",
+      "tournament": "LALIGA 2025-26",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 131033,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/131033_5427_RVL_OSN_fc-Web.png",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/131033_5427_RVL_OSN_fc-App.png",
+      "teams": [
+        {
+          "name": "Rayo Vallecano",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-RAV@2x.png"
+        },
+        {
+          "name": "CA Osasuna",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-OSN@2x.png"
+        }
+      ],
+      "slug": "rayo-vallecano-vs-ca-osasuna",
+      "tournamentSlug": "laliga-2025-26",
+      "collectionSlug": "laliga-2025-26"
+    }
+  ]
 }
