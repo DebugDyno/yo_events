@@ -1,7 +1,211 @@
 {
-  "success": false,
-  "message": "Failed to fetch data from FanCode",
-  "updatedAt": "24/01/2026, 11:07:51 PM",
-  "error": "Invalid response structure from FanCode API",
-  "data": []
+  "success": true,
+  "message": "Live matches fetched successfully",
+  "total": 7,
+  "updatedAt": "24/01/2026, 11:18:33 PM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "name": "Match 202",
+      "tournament": "LALIGA 2025-26",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 131038,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/131038_5427_SEV_ATH_fc-Web.png",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/131038_5427_SEV_ATH_fc-App.png",
+      "teams": [
+        {
+          "name": "Sevilla FC",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SVI@2x.png"
+        },
+        {
+          "name": "Athletic Club",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ATH@2x.png"
+        }
+      ],
+      "slug": "sevilla-fc-vs-athletic-club",
+      "tournamentSlug": "laliga-2025-26",
+      "collectionSlug": "laliga-2025-26"
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "name": "Match 51",
+      "tournament": "Roshn Saudi League 2025-2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 139827,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/139827_5655_NEOM_AAS_Fc-Web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/139827_5655_NEOM_AAS_Fc-App.jpg",
+      "teams": [
+        {
+          "name": "Neom SC",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-NEO@2x.png"
+        },
+        {
+          "name": "Al-Ahli Saudi FC",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-AAS@2x.png"
+        }
+      ],
+      "slug": "neom-sc-vs-al-ahli-saudi-fc",
+      "tournamentSlug": "roshn-saudi-league-2025-2026",
+      "collectionSlug": "roshn-saudi-league-2025-2026"
+    },
+    {
+      "id": 3,
+      "isLive": true,
+      "name": "Final",
+      "tournament": "AFC U23 Asian Cup, 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 139282,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/ChinaPRU23_vs_JapanU23_fc-web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/ChinaPRU23_vs_JapanU23_fc-app.jpg",
+      "teams": [
+        {
+          "name": "China PR U23",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/CHN-FT1@2x.png"
+        },
+        {
+          "name": "Japan U23",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/JPN-FT1@2x.png"
+        }
+      ],
+      "slug": "china-pr-u23-vs-japan-u23",
+      "tournamentSlug": "afc-u23-asian-cup-2026",
+      "collectionSlug": "afc-u23-asian-cup-2026"
+    },
+    {
+      "id": 4,
+      "isLive": true,
+      "name": "Main Feed - Day 3",
+      "tournament": "The American Express 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 139998,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/The-American-Express-2026_FC-Web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/The-American-Express-2026_FC-App.jpg",
+      "teams": [
+        {
+          "name": "Main Feed - Day 3",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png"
+        },
+        {
+          "name": "LA Quinta, CA, USA",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "main-feed-day-3",
+      "tournamentSlug": "the-american-express-2026",
+      "collectionSlug": "the-american-express-2026"
+    },
+    {
+      "id": 5,
+      "isLive": true,
+      "name": "Featured Groups - Day 3",
+      "tournament": "The American Express 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 140001,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/The-American-Express-2026_FC-Web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/The-American-Express-2026_FC-App.jpg",
+      "teams": [
+        {
+          "name": "Featured Groups - Day 3",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png"
+        },
+        {
+          "name": "LA Quinta, CA, USA",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "featured-groups-day-3",
+      "tournamentSlug": "the-american-express-2026",
+      "collectionSlug": "the-american-express-2026"
+    },
+    {
+      "id": 6,
+      "isLive": true,
+      "name": "Featured Holes - Day 3",
+      "tournament": "The American Express 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 140000,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/The-American-Express-2026_FC-Web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/The-American-Express-2026_FC-App.jpg",
+      "teams": [
+        {
+          "name": "Featured Holes - Day 3",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png"
+        },
+        {
+          "name": "LA Quinta, CA, USA",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "featured-holes-day-3",
+      "tournamentSlug": "the-american-express-2026",
+      "collectionSlug": "the-american-express-2026"
+    },
+    {
+      "id": 7,
+      "isLive": true,
+      "name": "Marquee Group - Day 3",
+      "tournament": "The American Express 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 139999,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/The-American-Express-2026_FC-Web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/The-American-Express-2026_FC-App.jpg",
+      "teams": [
+        {
+          "name": "Marquee Group - Day 3",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png"
+        },
+        {
+          "name": "LA Quinta, CA, USA",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "marquee-group-day-3",
+      "tournamentSlug": "the-american-express-2026",
+      "collectionSlug": "the-american-express-2026"
+    }
+  ]
 }
