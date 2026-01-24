@@ -2,39 +2,10 @@
   "success": true,
   "message": "Live matches fetched successfully",
   "total": 4,
-  "updatedAt": "24/01/2026, 09:25:17 PM",
+  "updatedAt": "24/01/2026, 09:51:26 PM",
   "data": [
     {
       "id": 1,
-      "isLive": true,
-      "name": "2nd ODI",
-      "tournament": "England tour of Sri Lanka, 2026",
-      "category": "All",
-      "categories": [
-        "All"
-      ],
-      "status": "LIVE",
-      "streamingStatus": "STARTED",
-      "matchId": 139290,
-      "streamType": "PAID",
-      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(3).png",
-      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/Old-Sporty-(1080x1440)-(3).png",
-      "teams": [
-        {
-          "name": "Sri Lanka",
-          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRL@2x.png"
-        },
-        {
-          "name": "England",
-          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ENG@2x.png"
-        }
-      ],
-      "slug": "sri-lanka-vs-england",
-      "tournamentSlug": "england-tour-of-sri-lanka-2026",
-      "collectionSlug": "england-tour-of-sri-lanka-2026"
-    },
-    {
-      "id": 2,
       "isLive": true,
       "name": "Match 95",
       "tournament": "EFL Championship 2025-26",
@@ -63,7 +34,7 @@
       "collectionSlug": "efl-championship-2025-26"
     },
     {
-      "id": 3,
+      "id": 2,
       "isLive": true,
       "name": "Match 209",
       "tournament": "LALIGA 2025-26",
@@ -92,7 +63,7 @@
       "collectionSlug": "laliga-2025-26"
     },
     {
-      "id": 4,
+      "id": 3,
       "isLive": true,
       "name": "Final",
       "tournament": "AFC U23 Asian Cup, 2026",
@@ -119,6 +90,35 @@
       "slug": "china-pr-u23-vs-japan-u23",
       "tournamentSlug": "afc-u23-asian-cup-2026",
       "collectionSlug": "afc-u23-asian-cup-2026"
+    },
+    {
+      "id": 4,
+      "isLive": true,
+      "name": "Main Feed - Day 3",
+      "tournament": "The American Express 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 139998,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/The-American-Express-2026_FC-Web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/The-American-Express-2026_FC-App.jpg",
+      "teams": [
+        {
+          "name": "Main Feed - Day 3",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png"
+        },
+        {
+          "name": "LA Quinta, CA, USA",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "main-feed-day-3",
+      "tournamentSlug": "the-american-express-2026",
+      "collectionSlug": "the-american-express-2026"
     }
   ]
 }
