@@ -1,69 +1,11 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 4,
-  "updatedAt": "24/01/2026, 10:27:23 PM",
+  "total": 5,
+  "updatedAt": "24/01/2026, 10:50:23 PM",
   "data": [
     {
       "id": 1,
-      "isLive": true,
-      "name": "Match 95",
-      "tournament": "EFL Championship 2025-26",
-      "category": "All",
-      "categories": [
-        "All"
-      ],
-      "status": "LIVE",
-      "streamingStatus": "STARTED",
-      "matchId": 139343,
-      "streamType": "PAID",
-      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/139343_5489_HUL_SWA_FC-Web.jpg",
-      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/139343_5489_HUL_SWA_FC-App.jpg",
-      "teams": [
-        {
-          "name": "Hull City",
-          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-HLC@2x.png"
-        },
-        {
-          "name": "Swansea City A.F.C.",
-          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SWN@2x.png"
-        }
-      ],
-      "slug": "hull-city-vs-swansea-city-a-f-c",
-      "tournamentSlug": "efl-championship-2025-26",
-      "collectionSlug": "efl-championship-2025-26"
-    },
-    {
-      "id": 2,
-      "isLive": true,
-      "name": "Match 209",
-      "tournament": "LALIGA 2025-26",
-      "category": "All",
-      "categories": [
-        "All"
-      ],
-      "status": "LIVE",
-      "streamingStatus": "STARTED",
-      "matchId": 131031,
-      "streamType": "PAID",
-      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/131031_5427_VAL_ESL_fc-Web.png",
-      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/131031_5427_VAL_ESL_fc-App.png",
-      "teams": [
-        {
-          "name": "Valencia CF",
-          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-VAL@2x.png"
-        },
-        {
-          "name": "RCD Espanyol",
-          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ESL@2x.png"
-        }
-      ],
-      "slug": "valencia-cf-vs-rcd-espanyol",
-      "tournamentSlug": "laliga-2025-26",
-      "collectionSlug": "laliga-2025-26"
-    },
-    {
-      "id": 3,
       "isLive": true,
       "name": "Final",
       "tournament": "AFC U23 Asian Cup, 2026",
@@ -92,7 +34,7 @@
       "collectionSlug": "afc-u23-asian-cup-2026"
     },
     {
-      "id": 4,
+      "id": 2,
       "isLive": true,
       "name": "Main Feed - Day 3",
       "tournament": "The American Express 2026",
@@ -117,6 +59,93 @@
         }
       ],
       "slug": "main-feed-day-3",
+      "tournamentSlug": "the-american-express-2026",
+      "collectionSlug": "the-american-express-2026"
+    },
+    {
+      "id": 3,
+      "isLive": true,
+      "name": "Featured Groups - Day 3",
+      "tournament": "The American Express 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 140001,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/The-American-Express-2026_FC-Web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/The-American-Express-2026_FC-App.jpg",
+      "teams": [
+        {
+          "name": "Featured Groups - Day 3",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png"
+        },
+        {
+          "name": "LA Quinta, CA, USA",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "featured-groups-day-3",
+      "tournamentSlug": "the-american-express-2026",
+      "collectionSlug": "the-american-express-2026"
+    },
+    {
+      "id": 4,
+      "isLive": true,
+      "name": "Featured Holes - Day 3",
+      "tournament": "The American Express 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 140000,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/The-American-Express-2026_FC-Web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/The-American-Express-2026_FC-App.jpg",
+      "teams": [
+        {
+          "name": "Featured Holes - Day 3",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png"
+        },
+        {
+          "name": "LA Quinta, CA, USA",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "featured-holes-day-3",
+      "tournamentSlug": "the-american-express-2026",
+      "collectionSlug": "the-american-express-2026"
+    },
+    {
+      "id": 5,
+      "isLive": true,
+      "name": "Marquee Group - Day 3",
+      "tournament": "The American Express 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 139999,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/The-American-Express-2026_FC-Web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/The-American-Express-2026_FC-App.jpg",
+      "teams": [
+        {
+          "name": "Marquee Group - Day 3",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png"
+        },
+        {
+          "name": "LA Quinta, CA, USA",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "marquee-group-day-3",
       "tournamentSlug": "the-american-express-2026",
       "collectionSlug": "the-american-express-2026"
     }
