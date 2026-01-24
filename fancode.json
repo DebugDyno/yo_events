@@ -1,8 +1,8 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 4,
-  "updatedAt": "24/01/2026, 11:00:05 AM",
+  "total": 5,
+  "updatedAt": "24/01/2026, 11:16:42 AM",
   "data": [
     {
       "id": 1,
@@ -117,6 +117,35 @@
         }
       ],
       "slug": "auckland-vs-central-coast-mariners",
+      "tournamentSlug": "a-league-2025-26",
+      "collectionSlug": "a-league-2025-26"
+    },
+    {
+      "id": 5,
+      "isLive": true,
+      "name": "Match 43",
+      "tournament": "A League 2025-26",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 139392,
+      "streamType": "PAID",
+      "landscapeImage": "https://images.fancode.com/aig/match/v1/139392_CASACARDS_APP.png",
+      "portraitImage": "https://images.fancode.com/aig/match/v1/139392_CASACARDS_SPORTY_APP.png",
+      "teams": [
+        {
+          "name": "Brisbane Roar",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-BRBI@2x.png"
+        },
+        {
+          "name": "Adelaide United",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ADLA@2x.png"
+        }
+      ],
+      "slug": "brisbane-roar-vs-adelaide-united",
       "tournamentSlug": "a-league-2025-26",
       "collectionSlug": "a-league-2025-26"
     }
