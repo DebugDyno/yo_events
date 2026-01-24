@@ -1,11 +1,40 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 4,
-  "updatedAt": "25/01/2026, 04:54:06 AM",
+  "total": 5,
+  "updatedAt": "25/01/2026, 05:08:42 AM",
   "data": [
     {
       "id": 1,
+      "isLive": true,
+      "name": "Match 29",
+      "tournament": "Women's Super Smash, 2025-26",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 138791,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/138791_5801_CM-W_NB-W_fc-web_1766596522069.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/138791_5801_CM-W_NB-W_fc-app_1766596319050.jpg",
+      "teams": [
+        {
+          "name": "Canterbury Magicians",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MAGW@2x.png"
+        },
+        {
+          "name": "Northern Brave Women",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/NB-W-CR1@2x.png"
+        }
+      ],
+      "slug": "canterbury-magicians-vs-northern-brave-women",
+      "tournamentSlug": "womens-super-smash-2025-26",
+      "collectionSlug": "womens-super-smash-2025-26"
+    },
+    {
+      "id": 2,
       "isLive": true,
       "name": "Featured Groups - Day 3",
       "tournament": "The American Express 2026",
@@ -34,7 +63,7 @@
       "collectionSlug": "the-american-express-2026"
     },
     {
-      "id": 2,
+      "id": 3,
       "isLive": true,
       "name": "Featured Holes - Day 3",
       "tournament": "The American Express 2026",
@@ -63,7 +92,7 @@
       "collectionSlug": "the-american-express-2026"
     },
     {
-      "id": 3,
+      "id": 4,
       "isLive": true,
       "name": "Marquee Group - Day 3",
       "tournament": "The American Express 2026",
@@ -92,7 +121,7 @@
       "collectionSlug": "the-american-express-2026"
     },
     {
-      "id": 4,
+      "id": 5,
       "isLive": true,
       "name": "World Feed - Day 3",
       "tournament": "The American Express 2026",
