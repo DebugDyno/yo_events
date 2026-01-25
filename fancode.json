@@ -1,7 +1,37 @@
 {
-  "success": false,
-  "message": "Failed to fetch data from FanCode",
-  "updatedAt": "25/01/2026, 07:24:19 PM",
-  "error": "Invalid response structure from FanCode API",
-  "data": []
+  "success": true,
+  "message": "Live matches fetched successfully",
+  "total": 1,
+  "updatedAt": "25/01/2026, 07:44:21 PM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "name": "Match 204",
+      "tournament": "LALIGA 2025-26",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 131036,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/131036_5427_ATL_MRC_fc-Web.png",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/131036_5427_ATL_MRC_fc-App.png",
+      "teams": [
+        {
+          "name": "Atletico de Madrid",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ATLH@2x.png"
+        },
+        {
+          "name": "RCD Mallorca",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MRC@2x.png"
+        }
+      ],
+      "slug": "atletico-de-madrid-vs-rcd-mallorca",
+      "tournamentSlug": "laliga-2025-26",
+      "collectionSlug": "laliga-2025-26"
+    }
+  ]
 }
