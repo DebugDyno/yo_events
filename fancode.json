@@ -2,39 +2,10 @@
   "success": true,
   "message": "Live matches fetched successfully",
   "total": 4,
-  "updatedAt": "25/01/2026, 10:28:09 PM",
+  "updatedAt": "25/01/2026, 10:52:20 PM",
   "data": [
     {
       "id": 1,
-      "isLive": true,
-      "name": "Match 203",
-      "tournament": "LALIGA 2025-26",
-      "category": "All",
-      "categories": [
-        "All"
-      ],
-      "status": "LIVE",
-      "streamingStatus": "STARTED",
-      "matchId": 131037,
-      "streamType": "PAID",
-      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/131037_5427_BAR_RO_fc-Web.png",
-      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/131037_5427_BAR_RO_fc-App.png",
-      "teams": [
-        {
-          "name": "FC Barcelona",
-          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/BAR-FT2@2x.png"
-        },
-        {
-          "name": "Real Oviedo",
-          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-RO@2x.png"
-        }
-      ],
-      "slug": "fc-barcelona-vs-real-oviedo",
-      "tournamentSlug": "laliga-2025-26",
-      "collectionSlug": "laliga-2025-26"
-    },
-    {
-      "id": 2,
       "isLive": true,
       "name": "Main Feed - Day 4",
       "tournament": "The American Express 2026",
@@ -63,7 +34,7 @@
       "collectionSlug": "the-american-express-2026"
     },
     {
-      "id": 3,
+      "id": 2,
       "isLive": true,
       "name": "Featured Group - Day 4",
       "tournament": "The American Express 2026",
@@ -92,7 +63,7 @@
       "collectionSlug": "the-american-express-2026"
     },
     {
-      "id": 4,
+      "id": 3,
       "isLive": true,
       "name": "Featured Holes - Day 4",
       "tournament": "The American Express 2026",
@@ -117,6 +88,35 @@
         }
       ],
       "slug": "featured-holes-day-4",
+      "tournamentSlug": "the-american-express-2026",
+      "collectionSlug": "the-american-express-2026"
+    },
+    {
+      "id": 4,
+      "isLive": true,
+      "name": "Marquee Group - Day 4",
+      "tournament": "The American Express 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 140003,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/The-American-Express-2026_FC-Web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/The-American-Express-2026_FC-App.jpg",
+      "teams": [
+        {
+          "name": "Marquee Group - Day 4",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png"
+        },
+        {
+          "name": "LA Quinta, CA, USA",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "marquee-group-day-4",
       "tournamentSlug": "the-american-express-2026",
       "collectionSlug": "the-american-express-2026"
     }
