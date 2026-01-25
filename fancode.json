@@ -1,37 +1,7 @@
 {
-  "success": true,
-  "message": "Live matches fetched successfully",
-  "total": 1,
-  "updatedAt": "25/01/2026, 09:33:47 AM",
-  "data": [
-    {
-      "id": 1,
-      "isLive": true,
-      "name": "Match 29",
-      "tournament": "Super Smash, 2025-26",
-      "category": "All",
-      "categories": [
-        "All"
-      ],
-      "status": "LIVE",
-      "streamingStatus": "STARTED",
-      "matchId": 138759,
-      "streamType": "PAID",
-      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/138759_5800_CTB_ND_fc-web_1766641251700.jpg",
-      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/138759_5800_CTB_ND_FC-App.jpg",
-      "teams": [
-        {
-          "name": "Canterbury",
-          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KING@2x.png"
-        },
-        {
-          "name": "Northern Districts",
-          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/NB-W-CR1@2x.png"
-        }
-      ],
-      "slug": "canterbury-vs-northern-districts",
-      "tournamentSlug": "super-smash-2025-26",
-      "collectionSlug": "super-smash-2025-26"
-    }
-  ]
+  "success": false,
+  "message": "Failed to fetch data from FanCode",
+  "updatedAt": "25/01/2026, 10:27:02 AM",
+  "error": "Invalid response structure from FanCode API",
+  "data": []
 }
