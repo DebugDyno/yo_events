@@ -1,7 +1,37 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "total": 0,
-  "updatedAt": "25/01/2026, 08:29:23 PM",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 1,
+  "updatedAt": "25/01/2026, 08:59:01 PM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "name": "Match 203",
+      "tournament": "LALIGA 2025-26",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 131037,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/131037_5427_BAR_RO_fc-Web.png",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/131037_5427_BAR_RO_fc-App.png",
+      "teams": [
+        {
+          "name": "FC Barcelona",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/BAR-FT2@2x.png"
+        },
+        {
+          "name": "Real Oviedo",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-RO@2x.png"
+        }
+      ],
+      "slug": "fc-barcelona-vs-real-oviedo",
+      "tournamentSlug": "laliga-2025-26",
+      "collectionSlug": "laliga-2025-26"
+    }
+  ]
 }
