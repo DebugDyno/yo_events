@@ -1,7 +1,37 @@
 {
-  "success": false,
-  "message": "Failed to fetch data from FanCode",
-  "updatedAt": "25/01/2026, 01:03:21 PM",
-  "error": "Invalid response structure from FanCode API",
-  "data": []
+  "success": true,
+  "message": "Live matches fetched successfully",
+  "total": 1,
+  "updatedAt": "25/01/2026, 01:16:06 PM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "name": "Match 45",
+      "tournament": "A League 2025-26",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 139394,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/139394_5802_SYW_PG_FC-Web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/139394_5802_SYW_PG_FC-App.jpg",
+      "teams": [
+        {
+          "name": "Western Sydney Wanderers",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SYWA@2x.png"
+        },
+        {
+          "name": "Perth Glory",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-PERTHGA@2x.png"
+        }
+      ],
+      "slug": "western-sydney-wanderers-vs-perth-glory",
+      "tournamentSlug": "a-league-2025-26",
+      "collectionSlug": "a-league-2025-26"
+    }
+  ]
 }
