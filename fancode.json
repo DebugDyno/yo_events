@@ -1,7 +1,95 @@
 {
-  "success": false,
-  "message": "Failed to fetch data from FanCode",
-  "updatedAt": "26/01/2026, 07:18:50 AM",
-  "error": "Invalid response structure from FanCode API",
-  "data": []
+  "success": true,
+  "message": "Live matches fetched successfully",
+  "total": 3,
+  "updatedAt": "26/01/2026, 09:15:58 AM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "name": "Match 30",
+      "tournament": "Super Smash, 2025-26",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 138760,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/138760_5800_AA_CS_fc-web_1766641251083.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/138760_5800_AA_CS_FC-App.jpg",
+      "teams": [
+        {
+          "name": "Auckland Aces",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ACE@2x.png"
+        },
+        {
+          "name": "Central Stags",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CSGT@2x.png"
+        }
+      ],
+      "slug": "auckland-aces-vs-central-stags",
+      "tournamentSlug": "super-smash-2025-26",
+      "collectionSlug": "super-smash-2025-26"
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "name": "Match 18",
+      "tournament": "ICC Women's T20 World Cup Global Qualifier, 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 139235,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/17_USA-Women-vs-Papua-New-Guinea-Women_1768653874875.png",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/17_USA-Women-vs-Papua-New-Guinea-Women.png",
+      "teams": [
+        {
+          "name": "USA Women",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-USA@2x.png"
+        },
+        {
+          "name": "Papua New Guinea Women",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PNG@2x.png"
+        }
+      ],
+      "slug": "usa-women-vs-papua-new-guinea-women",
+      "tournamentSlug": "icc-womens-t20-world-cup-global-qualifier-2026",
+      "collectionSlug": "icc-womens-t20-world-cup-global-qualifier-2026"
+    },
+    {
+      "id": 3,
+      "isLive": true,
+      "name": "Match 17",
+      "tournament": "ICC Women's T20 World Cup Global Qualifier, 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 139234,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/18_Nepal-Women-vs-Scotland-Women_1768653937569.png",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/18_Nepal-Women-vs-Scotland-Women.png",
+      "teams": [
+        {
+          "name": "Nepal Women",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NEP@2x.png"
+        },
+        {
+          "name": "Scotland Women",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SCO@2x.png"
+        }
+      ],
+      "slug": "nepal-women-vs-scotland-women",
+      "tournamentSlug": "icc-womens-t20-world-cup-global-qualifier-2026",
+      "collectionSlug": "icc-womens-t20-world-cup-global-qualifier-2026"
+    }
+  ]
 }
