@@ -1,66 +1,7 @@
 {
-  "success": true,
-  "message": "Live matches fetched successfully",
-  "total": 2,
-  "updatedAt": "26/01/2026, 05:25:40 AM",
-  "data": [
-    {
-      "id": 1,
-      "isLive": true,
-      "name": "Match 30",
-      "tournament": "Women's Super Smash, 2025-26",
-      "category": "All",
-      "categories": [
-        "All"
-      ],
-      "status": "LIVE",
-      "streamingStatus": "STARTED",
-      "matchId": 138792,
-      "streamType": "PAID",
-      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/138792_5801_AH-W_CH-W_fc-web_1766596522097.jpg",
-      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/138792_5801_AH-W_CH-W_fc-app_1766596319071.jpg",
-      "teams": [
-        {
-          "name": "Auckland Hearts",
-          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AUHW@2x.png"
-        },
-        {
-          "name": "Central Hinds",
-          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CHIW@2x.png"
-        }
-      ],
-      "slug": "auckland-hearts-vs-central-hinds",
-      "tournamentSlug": "womens-super-smash-2025-26",
-      "collectionSlug": "womens-super-smash-2025-26"
-    },
-    {
-      "id": 2,
-      "isLive": true,
-      "name": "World Feed - Day 4",
-      "tournament": "The American Express 2026",
-      "category": "All",
-      "categories": [
-        "All"
-      ],
-      "status": "LIVE",
-      "streamingStatus": "STARTED",
-      "matchId": 139921,
-      "streamType": "PAID",
-      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/The-American-Express-2026_FC-Web.jpg",
-      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/The-American-Express-2026_FC-App.jpg",
-      "teams": [
-        {
-          "name": "World Feed - Day 4",
-          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png"
-        },
-        {
-          "name": "LA Quinta, CA, USA",
-          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png"
-        }
-      ],
-      "slug": "world-feed-day-4",
-      "tournamentSlug": "the-american-express-2026",
-      "collectionSlug": "the-american-express-2026"
-    }
-  ]
+  "success": false,
+  "message": "Failed to fetch data from FanCode",
+  "updatedAt": "26/01/2026, 07:18:50 AM",
+  "error": "Invalid response structure from FanCode API",
+  "data": []
 }
