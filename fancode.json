@@ -1,11 +1,40 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 1,
-  "updatedAt": "26/01/2026, 11:12:10 PM",
+  "total": 2,
+  "updatedAt": "26/01/2026, 11:28:23 PM",
   "data": [
     {
       "id": 1,
+      "isLive": true,
+      "name": "Match 4",
+      "tournament": "Emirates D10, 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 139586,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/Emirates_web_1769270071345.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/Emirates_Old_Sporty.jpg",
+      "teams": [
+        {
+          "name": "Emirates Blues",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BLUE@2x.png"
+        },
+        {
+          "name": "Ajman",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AJMN@2x.png"
+        }
+      ],
+      "slug": "emirates-blues-vs-ajman",
+      "tournamentSlug": "emirates-d10-2026",
+      "collectionSlug": "emirates-d10-2026"
+    },
+    {
+      "id": 2,
       "isLive": true,
       "name": "Match 53",
       "tournament": "Roshn Saudi League 2025-2026",
