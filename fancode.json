@@ -1,7 +1,37 @@
 {
-  "success": false,
-  "message": "Failed to fetch data from FanCode",
-  "updatedAt": "26/01/2026, 04:31:16 PM",
-  "error": "Invalid response structure from FanCode API",
-  "data": []
+  "success": true,
+  "message": "Live matches fetched successfully",
+  "total": 1,
+  "updatedAt": "26/01/2026, 04:59:40 PM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "name": "Match 1",
+      "tournament": "Emirates D10, 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 139583,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/Emirates_web_1769270071345.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/Emirates_Old_Sporty.jpg",
+      "teams": [
+        {
+          "name": "Fujairah",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-FUJA@2x.png"
+        },
+        {
+          "name": "Dubai",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-EMDB@2x.png"
+        }
+      ],
+      "slug": "fujairah-vs-dubai",
+      "tournamentSlug": "emirates-d10-2026",
+      "collectionSlug": "emirates-d10-2026"
+    }
+  ]
 }
