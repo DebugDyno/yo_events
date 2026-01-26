@@ -1,7 +1,66 @@
 {
-  "success": false,
-  "message": "Failed to fetch data from FanCode",
-  "updatedAt": "26/01/2026, 11:50:42 AM",
-  "error": "Invalid response structure from FanCode API",
-  "data": []
+  "success": true,
+  "message": "Live matches fetched successfully",
+  "total": 2,
+  "updatedAt": "26/01/2026, 12:27:51 PM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "name": "Match 30",
+      "tournament": "Super Smash, 2025-26",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 138760,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/138760_5800_AA_CS_fc-web_1766641251083.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/138760_5800_AA_CS_FC-App.jpg",
+      "teams": [
+        {
+          "name": "Auckland Aces",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ACE@2x.png"
+        },
+        {
+          "name": "Central Stags",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CSGT@2x.png"
+        }
+      ],
+      "slug": "auckland-aces-vs-central-stags",
+      "tournamentSlug": "super-smash-2025-26",
+      "collectionSlug": "super-smash-2025-26"
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "name": "Match 46",
+      "tournament": "A League 2025-26",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 139395,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/139395_5802_MLV_SYD_FC-Web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/139395_5802_MLV_SYD_FC-App.jpg",
+      "teams": [
+        {
+          "name": "Melbourne Victory",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MLVA@2x.png"
+        },
+        {
+          "name": "Sydney FC",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SYDA@2x.png"
+        }
+      ],
+      "slug": "melbourne-victory-vs-sydney-fc",
+      "tournamentSlug": "a-league-2025-26",
+      "collectionSlug": "a-league-2025-26"
+    }
+  ]
 }
