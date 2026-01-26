@@ -1,7 +1,66 @@
 {
-  "success": false,
-  "message": "Failed to fetch data from FanCode",
-  "updatedAt": "26/01/2026, 09:28:28 PM",
-  "error": "Invalid response structure from FanCode API",
-  "data": []
+  "success": true,
+  "message": "Live matches fetched successfully",
+  "total": 2,
+  "updatedAt": "26/01/2026, 10:10:05 PM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "name": "Match 1",
+      "tournament": "World Legends Pro T20 League, 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 140073,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/140073_5928_DW_DR_FC-Web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/140073_5928_DW_DR_FC-App_1769432808759.jpg",
+      "teams": [
+        {
+          "name": "Delhi Warriors",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DWR@2x.png"
+        },
+        {
+          "name": "Dubai Royals",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DR@2x.png"
+        }
+      ],
+      "slug": "delhi-warriors-vs-dubai-royals",
+      "tournamentSlug": "world-legends-pro-t20-league-2026",
+      "collectionSlug": "world-legends-pro-t20-league-2026"
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "name": "Match 3",
+      "tournament": "Emirates D10, 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 139585,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/Emirates_web_1769270071345.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/Emirates_Old_Sporty.jpg",
+      "teams": [
+        {
+          "name": "Dubai",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-EMDB@2x.png"
+        },
+        {
+          "name": "Emirates Red",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-EMRD@2x.png"
+        }
+      ],
+      "slug": "dubai-vs-emirates-red",
+      "tournamentSlug": "emirates-d10-2026",
+      "collectionSlug": "emirates-d10-2026"
+    }
+  ]
 }
