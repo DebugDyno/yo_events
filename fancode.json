@@ -1,7 +1,37 @@
 {
-  "success": false,
-  "message": "Failed to fetch data from FanCode",
-  "updatedAt": "28/01/2026, 05:09:35 AM",
-  "error": "Invalid response structure from FanCode API",
-  "data": []
+  "success": true,
+  "message": "Live matches fetched successfully",
+  "total": 1,
+  "updatedAt": "28/01/2026, 05:23:00 AM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "name": "Match 23",
+      "tournament": "Women's National Cricket League, 2025-26",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 133972,
+      "streamType": "PAID",
+      "landscapeImage": " https://www.fancode.com/skillup-uploads/cms-media/Women's-National-Cricket-League_old_v3_1758034980120.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/Women's-National-Cricket-League_Sporty_v3_1758034980235.jpg",
+      "teams": [
+        {
+          "name": "Tasmania Women",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TAS@2x.png"
+        },
+        {
+          "name": "Western Australia Women",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WAU@2x.png"
+        }
+      ],
+      "slug": "tasmania-women-vs-western-australia-women",
+      "tournamentSlug": "womens-national-cricket-league-2025-26",
+      "collectionSlug": "womens-national-cricket-league-2025-26"
+    }
+  ]
 }
