@@ -1,7 +1,95 @@
 {
-  "success": false,
-  "message": "Failed to fetch data from FanCode",
-  "updatedAt": "27/01/2026, 02:22:39 PM",
-  "error": "Invalid response structure from FanCode API",
-  "data": []
+  "success": true,
+  "message": "Live matches fetched successfully",
+  "total": 3,
+  "updatedAt": "27/01/2026, 02:53:12 PM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "name": "3rd ODI",
+      "tournament": "England tour of Sri Lanka, 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 139291,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(3).png",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/Old-Sporty-(1080x1440)-(3).png",
+      "teams": [
+        {
+          "name": "Sri Lanka",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRL@2x.png"
+        },
+        {
+          "name": "England",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ENG@2x.png"
+        }
+      ],
+      "slug": "sri-lanka-vs-england",
+      "tournamentSlug": "england-tour-of-sri-lanka-2026",
+      "collectionSlug": "england-tour-of-sri-lanka-2026"
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "name": "Match 2",
+      "tournament": "World Legends Pro T20 League, 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 140074,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/140081_5928_GT_PPT_FC-Web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/140081_5928_GT_PPT_FC-App_1769432808772.jpg",
+      "teams": [
+        {
+          "name": "Pune Panthers",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PPT@2x.png"
+        },
+        {
+          "name": "Gurugram Thunders",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GTH@2x.png"
+        }
+      ],
+      "slug": "pune-panthers-vs-gurugram-thunders",
+      "tournamentSlug": "world-legends-pro-t20-league-2026",
+      "collectionSlug": "world-legends-pro-t20-league-2026"
+    },
+    {
+      "id": 3,
+      "isLive": true,
+      "name": "Match 2",
+      "tournament": "AFC Futsal Asian Cup, 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 139882,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1769333142206.png",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/Old-Sporty-(1080x1440)-(2)_1769333142199.png",
+      "teams": [
+        {
+          "name": "Iraq",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/fs-flags/FC-IRQ@2x.png"
+        },
+        {
+          "name": "Kyrgyz Republic",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/fs-flags/FC-KYG@2x.png"
+        }
+      ],
+      "slug": "iraq-vs-kyrgyz-republic",
+      "tournamentSlug": "afc-futsal-asian-cup-2026",
+      "collectionSlug": "afc-futsal-asian-cup-2026"
+    }
+  ]
 }
