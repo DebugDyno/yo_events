@@ -1,7 +1,37 @@
 {
-  "success": false,
-  "message": "Failed to fetch data from FanCode",
-  "updatedAt": "28/01/2026, 01:26:28 AM",
-  "error": "Invalid response structure from FanCode API",
-  "data": []
+  "success": true,
+  "message": "Live matches fetched successfully",
+  "total": 1,
+  "updatedAt": "28/01/2026, 01:54:01 AM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "name": "Match 16",
+      "tournament": "League One 2025-26",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 140015,
+      "streamType": "AUTH",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810).png",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/Old-Sporty-(1080x1440).png",
+      "teams": [
+        {
+          "name": "Doncaster Rovers F.C.",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-DRO@2x.png"
+        },
+        {
+          "name": "Leyton Orient",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-LEN@2x.png"
+        }
+      ],
+      "slug": "doncaster-rovers-f-c-vs-leyton-orient",
+      "tournamentSlug": "league-one-2025-26",
+      "collectionSlug": "league-one-2025-26"
+    }
+  ]
 }
