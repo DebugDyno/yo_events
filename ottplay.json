@@ -1,11 +1,36 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 8,
-  "updatedAt": "28/01/2026, 12:46:14 AM",
+  "total": 5,
+  "updatedAt": "28/01/2026, 01:12:50 AM",
   "data": [
     {
       "id": 1,
+      "isLive": true,
+      "contentId": "1540061396",
+      "name": "South Africa vs West Indies: 1st T20I",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "JioHotstar",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/media/gallery/1920x1080carousellive-1769542059.jpg",
+        "https://images.ottplay.com/images/90cbb6f918b2ad694683aa475c6827c1.jpg",
+        "https://images.ottplay.com/images/7b89fb290b515b9919a88e7beff50c38.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/4fce6f65de4f575174d52c162acf8e56.jpg",
+        "https://images.ottplay.com/images/media/gallery/750x1125posterlive-1769542060.jpg",
+        "https://images.ottplay.com/posters/f2c1819b5b61b40bb9ff7e8bcff27c15.jpg"
+      ],
+      "providerInfo": {
+        "id": "67977987ed126c0029b9f20c",
+        "name": "JioHotstar",
+        "hashId": "4025a7f67d456"
+      }
+    },
+    {
+      "id": 2,
       "isLive": true,
       "contentId": "1090501687",
       "name": "St. Pauli vs RB Leipzig - MD 16 - 28 Jan 2026",
@@ -30,7 +55,7 @@
       }
     },
     {
-      "id": 2,
+      "id": 3,
       "isLive": true,
       "contentId": "1090499170",
       "name": "Werder Bremen vs Hoffenheim - MD 16 - 28 Jan 2026",
@@ -55,51 +80,7 @@
       }
     },
     {
-      "id": 3,
-      "isLive": true,
-      "contentId": "139590",
-      "name": "AJM vs EMR",
-      "genre": "cricket",
-      "language": "english",
-      "provider": "FanCode",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/backdrops/0ee72189f37fbc6bec87f700bf44517d.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/36347972a85250e4f298b058c3e0e179.jpg"
-      ],
-      "providerInfo": {
-        "id": "63ce216c483822001ca300a4",
-        "name": "FanCode",
-        "hashId": "c60fe425e3269"
-      }
-    },
-    {
       "id": 4,
-      "isLive": true,
-      "contentId": "1540061396",
-      "name": "South Africa vs West Indies: 1st T20I",
-      "genre": "cricket",
-      "language": "english",
-      "provider": "JioHotstar",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/images/90cbb6f918b2ad694683aa475c6827c1.jpg",
-        "https://images.ottplay.com/images/7b89fb290b515b9919a88e7beff50c38.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/4fce6f65de4f575174d52c162acf8e56.jpg",
-        "https://images.ottplay.com/posters/f2c1819b5b61b40bb9ff7e8bcff27c15.jpg"
-      ],
-      "providerInfo": {
-        "id": "67977987ed126c0029b9f20c",
-        "name": "JioHotstar",
-        "hashId": "4025a7f67d456"
-      }
-    },
-    {
-      "id": 5,
       "isLive": true,
       "contentId": "139763",
       "name": "TT-W vs WWI-W",
@@ -120,49 +101,7 @@
       }
     },
     {
-      "id": 6,
-      "isLive": true,
-      "contentId": "139765",
-      "name": "GY-W vs JAM-W",
-      "genre": "cricket",
-      "language": "english",
-      "provider": "FanCode",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/backdrops/f9597a37e2463daa9d6135aa3dee6b63.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/677f4c30359d8dbbfb60a2367ff1df88.jpg"
-      ],
-      "providerInfo": {
-        "id": "63ce216c483822001ca300a4",
-        "name": "FanCode",
-        "hashId": "c60fe425e3269"
-      }
-    },
-    {
-      "id": 7,
-      "isLive": true,
-      "contentId": "139764",
-      "name": "BAR-W vs LWI-W",
-      "genre": "cricket",
-      "language": "english",
-      "provider": "FanCode",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/backdrops/2b6eb3a0c3421c7ed7719add8b237953.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/13c6a36ce6bbcb82b744a9c644a33002.jpg"
-      ],
-      "providerInfo": {
-        "id": "63ce216c483822001ca300a4",
-        "name": "FanCode",
-        "hashId": "c60fe425e3269"
-      }
-    },
-    {
-      "id": 8,
+      "id": 5,
       "isLive": true,
       "contentId": "620235",
       "name": "ONE: Mark of Greatness",
