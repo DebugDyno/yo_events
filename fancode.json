@@ -1,7 +1,95 @@
 {
-  "success": false,
-  "message": "Failed to fetch data from FanCode",
-  "updatedAt": "28/01/2026, 10:11:28 PM",
-  "error": "Invalid response structure from FanCode API",
-  "data": []
+  "success": true,
+  "message": "Live matches fetched successfully",
+  "total": 3,
+  "updatedAt": "28/01/2026, 10:49:01 PM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "name": "Match 5",
+      "tournament": "World Legends Pro T20 League, 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 140077,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/140077_5928_DW_GT_FC-Web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/140077_5928_DW_GT_FC-App_1769432808760.jpg",
+      "teams": [
+        {
+          "name": "Delhi Warriors",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DWR@2x.png"
+        },
+        {
+          "name": "Pune Panthers",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PPT@2x.png"
+        }
+      ],
+      "slug": "delhi-warriors-vs-pune-panthers",
+      "tournamentSlug": "world-legends-pro-t20-league-2026",
+      "collectionSlug": "world-legends-pro-t20-league-2026"
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "name": "Match 54",
+      "tournament": "Roshn Saudi League 2025-2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 139830,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/139830_5655_AAS_ETT_FC-Web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/139830_5655_AAS_ETT_FC-App.jpg",
+      "teams": [
+        {
+          "name": "Al-Ahli Saudi FC",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-AAS@2x.png"
+        },
+        {
+          "name": "Al-Ettifaq",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ETT@2x.png"
+        }
+      ],
+      "slug": "al-ahli-saudi-fc-vs-al-ettifaq",
+      "tournamentSlug": "roshn-saudi-league-2025-2026",
+      "collectionSlug": "roshn-saudi-league-2025-2026"
+    },
+    {
+      "id": 3,
+      "isLive": true,
+      "name": "Day 1 - Centre Court",
+      "tournament": "Hexagon Cup 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 140162,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1769529100515.png",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/Old-Sporty-(1080x1440)-(1)_1769529100506.png",
+      "teams": [
+        {
+          "name": "Day 1 - Centre Court",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/le-flags/FC-HC@2x.png"
+        },
+        {
+          "name": "Madrid, Spain",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/le-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "day-1-centre-court",
+      "tournamentSlug": "hexagon-cup-2026",
+      "collectionSlug": "hexagon-cup-2026"
+    }
+  ]
 }
