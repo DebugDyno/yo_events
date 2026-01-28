@@ -1,7 +1,153 @@
 {
-  "success": false,
-  "message": "Failed to fetch data from FanCode",
-  "updatedAt": "28/01/2026, 05:17:26 PM",
-  "error": "Invalid response structure from FanCode API",
-  "data": []
+  "success": true,
+  "message": "Live matches fetched successfully",
+  "total": 5,
+  "updatedAt": "28/01/2026, 05:27:38 PM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "name": "Match 4",
+      "tournament": "World Legends Pro T20 League, 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 140076,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/140076_5928_DR_RLS_FC-Web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/140076_5928_DR_RLS_FC-App_1769432808823.jpg",
+      "teams": [
+        {
+          "name": "Dubai Royals",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DR@2x.png"
+        },
+        {
+          "name": "Gurugram Thunders",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GTH@2x.png"
+        }
+      ],
+      "slug": "dubai-royals-vs-gurugram-thunders",
+      "tournamentSlug": "world-legends-pro-t20-league-2026",
+      "collectionSlug": "world-legends-pro-t20-league-2026"
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "name": "Match 9",
+      "tournament": "Emirates D10, 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 139591,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/Emirates_web_1769270071345.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/Emirates_Old_Sporty.jpg",
+      "teams": [
+        {
+          "name": "Sharjah",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SHRJ@2x.png"
+        },
+        {
+          "name": "Dubai",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-EMDB@2x.png"
+        }
+      ],
+      "slug": "sharjah-vs-dubai",
+      "tournamentSlug": "emirates-d10-2026",
+      "collectionSlug": "emirates-d10-2026"
+    },
+    {
+      "id": 3,
+      "isLive": true,
+      "name": "Match 7",
+      "tournament": "AFC Futsal Asian Cup, 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 139887,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1769333142206.png",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/Old-Sporty-(1080x1440)-(2)_1769333142199.png",
+      "teams": [
+        {
+          "name": "IR Iran",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/fs-flags/FC-IRN@2x.png"
+        },
+        {
+          "name": "Malaysia",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/fs-flags/FC-MAL@2x.png"
+        }
+      ],
+      "slug": "ir-iran-vs-malaysia",
+      "tournamentSlug": "afc-futsal-asian-cup-2026",
+      "collectionSlug": "afc-futsal-asian-cup-2026"
+    },
+    {
+      "id": 4,
+      "isLive": true,
+      "name": "Day 1 - Centre Court",
+      "tournament": "Hexagon Cup 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 140162,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1769529100515.png",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/Old-Sporty-(1080x1440)-(1)_1769529100506.png",
+      "teams": [
+        {
+          "name": "Day 1 - Centre Court",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/le-flags/FC-HC@2x.png"
+        },
+        {
+          "name": "Madrid, Spain",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/le-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "day-1-centre-court",
+      "tournamentSlug": "hexagon-cup-2026",
+      "collectionSlug": "hexagon-cup-2026"
+    },
+    {
+      "id": 5,
+      "isLive": true,
+      "name": "Match 8",
+      "tournament": "AFC Futsal Asian Cup, 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 139888,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1769333142206.png",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/Old-Sporty-(1080x1440)-(2)_1769333142199.png",
+      "teams": [
+        {
+          "name": "Uzbekistan",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/fs-flags/FC-UZB@2x.png"
+        },
+        {
+          "name": "Tajikistan",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/fs-flags/FC-TAJ@2x.png"
+        }
+      ],
+      "slug": "uzbekistan-vs-tajikistan",
+      "tournamentSlug": "afc-futsal-asian-cup-2026",
+      "collectionSlug": "afc-futsal-asian-cup-2026"
+    }
+  ]
 }
