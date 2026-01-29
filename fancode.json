@@ -1,7 +1,153 @@
 {
-  "success": false,
-  "message": "Failed to fetch data from FanCode",
-  "updatedAt": "30/01/2026, 02:29:05 AM",
-  "error": "Invalid response structure from FanCode API",
-  "data": []
+  "success": true,
+  "message": "Live matches fetched successfully",
+  "total": 5,
+  "updatedAt": "30/01/2026, 03:05:05 AM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "name": "Main Feed - Day 1",
+      "tournament": "Farmers Insurance Open 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 140021,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/farmers-insurance-open-2026-old-match-card-.png",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/farmers-insurance-open-2026-sporty-match-card-old.png",
+      "teams": [
+        {
+          "name": "Main Feed - Day 1",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png"
+        },
+        {
+          "name": "Torrey Pines Golf Course ",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "main-feed-day-1",
+      "tournamentSlug": "farmers-insurance-open-2026",
+      "collectionSlug": "farmers-insurance-open-2026"
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "name": "Featured Holes - Day 1",
+      "tournament": "Farmers Insurance Open 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 140024,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/farmers-insurance-open-2026-old-match-card-.png",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/farmers-insurance-open-2026-sporty-match-card-old.png",
+      "teams": [
+        {
+          "name": "Featured Holes - Day 1",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png"
+        },
+        {
+          "name": "Torrey Pines Golf Course",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "featured-holes-day-1",
+      "tournamentSlug": "farmers-insurance-open-2026",
+      "collectionSlug": "farmers-insurance-open-2026"
+    },
+    {
+      "id": 3,
+      "isLive": true,
+      "name": "Featured Groups - Day 1",
+      "tournament": "Farmers Insurance Open 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 140023,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/farmers-insurance-open-2026-old-match-card-.png",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/farmers-insurance-open-2026-sporty-match-card-old.png",
+      "teams": [
+        {
+          "name": "Featured Groups - Day 1",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png"
+        },
+        {
+          "name": "Torrey Pines Golf Course",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "featured-groups-day-1",
+      "tournamentSlug": "farmers-insurance-open-2026",
+      "collectionSlug": "farmers-insurance-open-2026"
+    },
+    {
+      "id": 4,
+      "isLive": true,
+      "name": "Marquee Group - Day 1",
+      "tournament": "Farmers Insurance Open 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 140022,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/farmers-insurance-open-2026-old-match-card-.png",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/farmers-insurance-open-2026-sporty-match-card-old.png",
+      "teams": [
+        {
+          "name": "Marquee Group - Day 1",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png"
+        },
+        {
+          "name": "Torrey Pines Golf Course ",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "marquee-group-day-1",
+      "tournamentSlug": "farmers-insurance-open-2026",
+      "collectionSlug": "farmers-insurance-open-2026"
+    },
+    {
+      "id": 5,
+      "isLive": true,
+      "name": "World Feed - Day 1",
+      "tournament": "Farmers Insurance Open 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 140020,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/farmers-insurance-open-2026-old-match-card-_1769182129290.png",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/farmers-insurance-open-2026-old-match-card-_1769182129290.png",
+      "teams": [
+        {
+          "name": "World Feed - Day 1",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png"
+        },
+        {
+          "name": "Torrey Pines Golf Course",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "world-feed-day-1",
+      "tournamentSlug": "farmers-insurance-open-2026",
+      "collectionSlug": "farmers-insurance-open-2026"
+    }
+  ]
 }
