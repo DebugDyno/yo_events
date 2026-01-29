@@ -1,40 +1,11 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 8,
-  "updatedAt": "29/01/2026, 10:38:12 PM",
+  "total": 10,
+  "updatedAt": "29/01/2026, 11:21:24 PM",
   "data": [
     {
       "id": 1,
-      "isLive": true,
-      "name": "Match 7",
-      "tournament": "World Legends Pro T20 League, 2026",
-      "category": "All",
-      "categories": [
-        "All"
-      ],
-      "status": "LIVE",
-      "streamingStatus": "STARTED",
-      "matchId": 140079,
-      "streamType": "PAID",
-      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/140079_5928_GT_MTY_FC-Web_1769653415526.jpg",
-      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/140079_5928_GT_MTY_FC-App_1769653414759.jpg",
-      "teams": [
-        {
-          "name": "Gurugram Thunders",
-          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GTH@2x.png"
-        },
-        {
-          "name": "Maharashtra Tycoons",
-          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MTY@2x.png"
-        }
-      ],
-      "slug": "gurugram-thunders-vs-maharashtra-tycoons",
-      "tournamentSlug": "world-legends-pro-t20-league-2026",
-      "collectionSlug": "world-legends-pro-t20-league-2026"
-    },
-    {
-      "id": 2,
       "isLive": true,
       "name": "Unknown Match",
       "tournament": "Ireland tour of United Arab Emirates, 2026",
@@ -63,7 +34,7 @@
       "collectionSlug": "ireland-tour-of-united-arab-emirates-2026"
     },
     {
-      "id": 3,
+      "id": 2,
       "isLive": true,
       "name": "Match 4",
       "tournament": "CG United Women's Super 50 Cup 2026",
@@ -92,7 +63,7 @@
       "collectionSlug": "cg-united-womens-super-50-cup-2026"
     },
     {
-      "id": 4,
+      "id": 3,
       "isLive": true,
       "name": "Match 5",
       "tournament": "CG United Women's Super 50 Cup 2026",
@@ -121,9 +92,9 @@
       "collectionSlug": "cg-united-womens-super-50-cup-2026"
     },
     {
-      "id": 5,
+      "id": 4,
       "isLive": true,
-      "name": "Match 15",
+      "name": "Match 16",
       "tournament": "Emirates D10, 2026",
       "category": "All",
       "categories": [
@@ -131,23 +102,52 @@
       ],
       "status": "LIVE",
       "streamingStatus": "STARTED",
-      "matchId": 139597,
+      "matchId": 139598,
       "streamType": "PAID",
-      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/Emirates_web_1769270071345.jpg",
-      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/Emirates_Old_Sporty.jpg",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/Emirates_web_opt2.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/Emirates_Old_Sporty_v2.jpg",
       "teams": [
         {
-          "name": "Fujairah",
-          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-FUJA@2x.png"
+          "name": "Ajman",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AJMN@2x.png"
         },
         {
-          "name": "Emirates Red",
-          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-EMRD@2x.png"
+          "name": "Sharjah",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SHRJ@2x.png"
         }
       ],
-      "slug": "fujairah-vs-emirates-red",
+      "slug": "ajman-vs-sharjah",
       "tournamentSlug": "emirates-d10-2026",
       "collectionSlug": "emirates-d10-2026"
+    },
+    {
+      "id": 5,
+      "isLive": true,
+      "name": "Match 55",
+      "tournament": "Roshn Saudi League 2025-2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 139831,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/139831_5655_ALQ_AHS_FC-Web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/139831_5655_ALQ_AHS_FC-App.jpg",
+      "teams": [
+        {
+          "name": "Al-Qadsiah FC",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-QAD@2x.png"
+        },
+        {
+          "name": "Al Hilal SFC",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-AH@2x.png"
+        }
+      ],
+      "slug": "al-qadsiah-fc-vs-al-hilal-sfc",
+      "tournamentSlug": "roshn-saudi-league-2025-2026",
+      "collectionSlug": "roshn-saudi-league-2025-2026"
     },
     {
       "id": 6,
@@ -233,6 +233,64 @@
         }
       ],
       "slug": "featured-holes-day-1",
+      "tournamentSlug": "farmers-insurance-open-2026",
+      "collectionSlug": "farmers-insurance-open-2026"
+    },
+    {
+      "id": 9,
+      "isLive": true,
+      "name": "Featured Groups - Day 1",
+      "tournament": "Farmers Insurance Open 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 140023,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/farmers-insurance-open-2026-old-match-card-.png",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/farmers-insurance-open-2026-sporty-match-card-old.png",
+      "teams": [
+        {
+          "name": "Featured Groups - Day 1",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png"
+        },
+        {
+          "name": "Torrey Pines Golf Course",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "featured-groups-day-1",
+      "tournamentSlug": "farmers-insurance-open-2026",
+      "collectionSlug": "farmers-insurance-open-2026"
+    },
+    {
+      "id": 10,
+      "isLive": true,
+      "name": "Marquee Group - Day 1",
+      "tournament": "Farmers Insurance Open 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 140022,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/farmers-insurance-open-2026-old-match-card-.png",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/farmers-insurance-open-2026-sporty-match-card-old.png",
+      "teams": [
+        {
+          "name": "Marquee Group - Day 1",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png"
+        },
+        {
+          "name": "Torrey Pines Golf Course ",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "marquee-group-day-1",
       "tournamentSlug": "farmers-insurance-open-2026",
       "collectionSlug": "farmers-insurance-open-2026"
     }
