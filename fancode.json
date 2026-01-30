@@ -1,7 +1,211 @@
 {
-  "success": false,
-  "message": "Failed to fetch data from FanCode",
-  "updatedAt": "30/01/2026, 11:03:05 PM",
-  "error": "Invalid response structure from FanCode API",
-  "data": []
+  "success": true,
+  "message": "Live matches fetched successfully",
+  "total": 7,
+  "updatedAt": "30/01/2026, 11:32:12 PM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "name": "1st T20I",
+      "tournament": "England tour of Sri Lanka, 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 139292,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(4).png",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/Old-Sporty-(1080x1440)-(4).png",
+      "teams": [
+        {
+          "name": "Sri Lanka",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRL@2x.png"
+        },
+        {
+          "name": "England",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ENG@2x.png"
+        }
+      ],
+      "slug": "sri-lanka-vs-england",
+      "tournamentSlug": "england-tour-of-sri-lanka-2026",
+      "collectionSlug": "england-tour-of-sri-lanka-2026"
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "name": "Match 20",
+      "tournament": "Emirates D10, 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 139602,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/Emirates_web_opt2.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/Emirates_Old_Sporty_v2.jpg",
+      "teams": [
+        {
+          "name": "Fujairah",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-FUJA@2x.png"
+        },
+        {
+          "name": "Sharjah",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SHRJ@2x.png"
+        }
+      ],
+      "slug": "fujairah-vs-sharjah",
+      "tournamentSlug": "emirates-d10-2026",
+      "collectionSlug": "emirates-d10-2026"
+    },
+    {
+      "id": 3,
+      "isLive": true,
+      "name": "Match 56",
+      "tournament": "Roshn Saudi League 2025-2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 139832,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/139832_5655_ALK_ANF_FC-Web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/139832_5655_ALK_ANF_FC-App.jpg",
+      "teams": [
+        {
+          "name": "Al-Kholood Club",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-KHO@2x.png"
+        },
+        {
+          "name": "Al-Nassr FC",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ANF@2x.png"
+        }
+      ],
+      "slug": "al-kholood-club-vs-al-nassr-fc",
+      "tournamentSlug": "roshn-saudi-league-2025-2026",
+      "collectionSlug": "roshn-saudi-league-2025-2026"
+    },
+    {
+      "id": 4,
+      "isLive": true,
+      "name": "Day 3 - Centre Court",
+      "tournament": "Hexagon Cup 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 140166,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1769529100515.png",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/Old-Sporty-(1080x1440)-(1)_1769529100506.png",
+      "teams": [
+        {
+          "name": "Day 3 - Centre Court",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/le-flags/FC-HC@2x.png"
+        },
+        {
+          "name": "Madrid, Spain",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/le-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "day-3-centre-court",
+      "tournamentSlug": "hexagon-cup-2026",
+      "collectionSlug": "hexagon-cup-2026"
+    },
+    {
+      "id": 5,
+      "isLive": true,
+      "name": "Main Feed - Day 2",
+      "tournament": "Farmers Insurance Open 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 140026,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/farmers-insurance-open-2026-old-match-card-_1769182129290.png",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/farmers-insurance-open-2026-sporty-match-card-old_1769182128535.png",
+      "teams": [
+        {
+          "name": "Main Feed - Day 2",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png"
+        },
+        {
+          "name": "Torrey Pines Golf Course",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "main-feed-day-2",
+      "tournamentSlug": "farmers-insurance-open-2026",
+      "collectionSlug": "farmers-insurance-open-2026"
+    },
+    {
+      "id": 6,
+      "isLive": true,
+      "name": "Featured Holes - Day 2",
+      "tournament": "Farmers Insurance Open 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 140029,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/farmers-insurance-open-2026-old-match-card-_1769182129290.png",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/farmers-insurance-open-2026-sporty-match-card-old_1769182128535.png",
+      "teams": [
+        {
+          "name": "Featured Holes - Day 2",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png"
+        },
+        {
+          "name": "Torrey Pines Golf Course",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "featured-holes-day-2",
+      "tournamentSlug": "farmers-insurance-open-2026",
+      "collectionSlug": "farmers-insurance-open-2026"
+    },
+    {
+      "id": 7,
+      "isLive": true,
+      "name": "Featured Groups - Day 2",
+      "tournament": "Farmers Insurance Open 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 140028,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/farmers-insurance-open-2026-old-match-card-_1769182129290.png",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/farmers-insurance-open-2026-sporty-match-card-old_1769182128535.png",
+      "teams": [
+        {
+          "name": "Featured Groups - Day 2",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png"
+        },
+        {
+          "name": "Torrey Pines Golf Course ",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "featured-groups-day-2",
+      "tournamentSlug": "farmers-insurance-open-2026",
+      "collectionSlug": "farmers-insurance-open-2026"
+    }
+  ]
 }
