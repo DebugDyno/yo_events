@@ -2,10 +2,19 @@
   "success": true,
   "message": "Live matches fetched successfully",
   "total": 13,
-  "updatedAt": "30/01/2026, 09:52:34 AM",
+  "updatedAt": "30/01/2026, 10:58:42 AM",
   "data": [
     {
       "id": 1,
+      "isLive": true,
+      "contentId": "1090502487",
+      "name": "Sony Sports Ten 5",
+      "genre": "Cricket",
+      "provider": "Sony Liv",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/sony4/videoasset_images/manage_file/1000014490/1769698307449427_SS26_mens_Eliminator_Auckland_Aces_vs_Canterbury_Kings_29jan_landscape_thumb.jpg"
+    },
+    {
+      "id": 2,
       "isLive": true,
       "contentId": "1540061302",
       "name": "Mumbai vs Delhi: Day 2",
@@ -14,7 +23,7 @@
       "image": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/6986/1769685636986-h"
     },
     {
-      "id": 2,
+      "id": 3,
       "isLive": true,
       "contentId": "1540061296",
       "name": "Punjab vs Karnataka: Day 2",
@@ -23,22 +32,13 @@
       "image": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/3212/1769686013212-h"
     },
     {
-      "id": 3,
+      "id": 4,
       "isLive": true,
       "contentId": "1540061299",
       "name": "Haryana vs Bengal: Day 2",
       "genre": "Cricket",
       "provider": "JioHotstar",
       "image": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2200/1769686362200-h"
-    },
-    {
-      "id": 4,
-      "isLive": true,
-      "contentId": "1090502486",
-      "name": "Sony Sports Ten 5",
-      "genre": "Cricket",
-      "provider": "Sony Liv",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/sony4/videoasset_images/manage_file/1000014488/1769697843111970_SS26_womens_Eliminator_AucklandHearts_vs_NorthernBrave_29jan_landscape_thumb.jpg"
     },
     {
       "id": 5,
@@ -106,11 +106,11 @@
     {
       "id": 12,
       "isLive": true,
-      "contentId": "138793",
-      "name": "Auckland Hearts VS Northern Brave Women",
+      "contentId": "138761",
+      "name": "Auckland Aces VS Canterbury",
       "genre": "Sports",
       "provider": "FanCode",
-      "image": "https://images.fancode.com/aig/match/v1/138793_CASACARDS_PARTNER_16_9_1920_1080.png"
+      "image": "https://images.fancode.com/aig/match/v1/138761_CASACARDS_PARTNER_16_9_1920_1080.png"
     },
     {
       "id": 13,
