@@ -1,11 +1,32 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 8,
-  "updatedAt": "31/01/2026, 01:06:09 AM",
+  "total": 7,
+  "updatedAt": "31/01/2026, 01:26:58 AM",
   "data": [
     {
       "id": 1,
+      "isLive": true,
+      "contentId": "139345",
+      "name": "BRI vs DER",
+      "genre": "football",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/42520430fdf9b276dd4eb826eb464852.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/c18232c93318dad2586cc846f98e3294.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 2,
       "isLive": true,
       "contentId": "131049",
       "name": "ESL vs ALA",
@@ -26,7 +47,7 @@
       }
     },
     {
-      "id": 2,
+      "id": 3,
       "isLive": true,
       "contentId": "140013",
       "name": "RSB vs LAP",
@@ -47,7 +68,7 @@
       }
     },
     {
-      "id": 3,
+      "id": 4,
       "isLive": true,
       "contentId": "1090502579",
       "name": "FC Koln vs VfL Wolfsburg - MD 20 - 31 Jan 2026",
@@ -72,49 +93,7 @@
       }
     },
     {
-      "id": 4,
-      "isLive": true,
-      "contentId": "139602",
-      "name": "FUJ vs SHA",
-      "genre": "cricket",
-      "language": "english",
-      "provider": "FanCode",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/backdrops/006aa86f4967f9f431aaf66fe3a7c317.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/c3107d406a726c2d0ec60771a154fccc.jpg"
-      ],
-      "providerInfo": {
-        "id": "63ce216c483822001ca300a4",
-        "name": "FanCode",
-        "hashId": "c60fe425e3269"
-      }
-    },
-    {
       "id": 5,
-      "isLive": true,
-      "contentId": "139832",
-      "name": "ALK vs ANF",
-      "genre": "football",
-      "language": "english",
-      "provider": "FanCode",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/backdrops/20267256ddbe5ba54197c2f1893f28b6.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/002e81c7c95b8268bf825ec60f1b0119.jpg"
-      ],
-      "providerInfo": {
-        "id": "63ce216c483822001ca300a4",
-        "name": "FanCode",
-        "hashId": "c60fe425e3269"
-      }
-    },
-    {
-      "id": 6,
       "isLive": true,
       "contentId": "140029",
       "name": "Farmers Insurance Open 2026",
@@ -147,7 +126,7 @@
       }
     },
     {
-      "id": 7,
+      "id": 6,
       "isLive": true,
       "contentId": "140166",
       "name": "HC vs LOC",
@@ -172,7 +151,7 @@
       }
     },
     {
-      "id": 8,
+      "id": 7,
       "isLive": true,
       "contentId": "620235",
       "name": "ONE: Mark of Greatness",
