@@ -1,7 +1,240 @@
 {
-  "success": false,
-  "message": "Failed to fetch data from FanCode",
-  "updatedAt": "31/01/2026, 08:40:56 PM",
-  "error": "Invalid response structure from FanCode API",
-  "data": []
+  "success": true,
+  "message": "Live matches fetched successfully",
+  "total": 8,
+  "updatedAt": "31/01/2026, 09:07:47 PM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "name": "Match 11",
+      "tournament": "World Legends Pro T20 League, 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 140083,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/140083_5928_DR_PPT_FC-Web_1769805880964.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/140083_5928_DR_PPT_FC-App_1769805880951.jpg",
+      "teams": [
+        {
+          "name": "Dubai Royals",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DR@2x.png"
+        },
+        {
+          "name": "Pune Panthers",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PPT@2x.png"
+        }
+      ],
+      "slug": "dubai-royals-vs-pune-panthers",
+      "tournamentSlug": "world-legends-pro-t20-league-2026",
+      "collectionSlug": "world-legends-pro-t20-league-2026"
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "name": "Match 7",
+      "tournament": "CG United Women's Super 50 Cup 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 139771,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/CWI-Women's-Super-50-Cup-2026_Old_match-card_2025_FC-WEB_1-(1).jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/CWI-Womens-Super-50-Cup-2026_Old_Sporty_1_1769512684710.jpg",
+      "teams": [
+        {
+          "name": "Trinidad and Tobago Women",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TNRF@2x.png"
+        },
+        {
+          "name": "Barbados Women",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BARR@2x.png"
+        }
+      ],
+      "slug": "trinidad-and-tobago-women-vs-barbados-women",
+      "tournamentSlug": "cg-united-womens-super-50-cup-2026",
+      "collectionSlug": "cg-united-womens-super-50-cup-2026"
+    },
+    {
+      "id": 3,
+      "isLive": true,
+      "name": "Match 8",
+      "tournament": "CG United Women's Super 50 Cup 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 139770,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/CWI-Women's-Super-50-Cup-2026_Old_match-card_2025_FC-WEB_2-(1).jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/CWI-Womens-Super-50-Cup-2026_Old_Sporty_2_1769512685511.jpg",
+      "teams": [
+        {
+          "name": "Leeward Islands Women",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LWI@2x.png"
+        },
+        {
+          "name": "Jamaica Women",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JAM@2x.png"
+        }
+      ],
+      "slug": "leeward-islands-women-vs-jamaica-women",
+      "tournamentSlug": "cg-united-womens-super-50-cup-2026",
+      "collectionSlug": "cg-united-womens-super-50-cup-2026"
+    },
+    {
+      "id": 4,
+      "isLive": true,
+      "name": "Match 9",
+      "tournament": "CG United Women's Super 50 Cup 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 139769,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/CWI-Women's-Super-50-Cup-2026_Old_match-card_2025_FC-WEB_1-(1).jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/CWI-Womens-Super-50-Cup-2026_Old_Sporty_1_1769512684710.jpg",
+      "teams": [
+        {
+          "name": "Windward Islands Women",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WNII@2x.png"
+        },
+        {
+          "name": "Guyana Women",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GUYY@2x.png"
+        }
+      ],
+      "slug": "windward-islands-women-vs-guyana-women",
+      "tournamentSlug": "cg-united-womens-super-50-cup-2026",
+      "collectionSlug": "cg-united-womens-super-50-cup-2026"
+    },
+    {
+      "id": 5,
+      "isLive": true,
+      "name": "Match 23",
+      "tournament": "Emirates D10, 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 139605,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/Emirates_web_1769265237104.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/Emirates_Old_Sporty_1769265237100.jpg",
+      "teams": [
+        {
+          "name": "Sharjah",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SHRJ@2x.png"
+        },
+        {
+          "name": "Emirates Red",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-EMRD@2x.png"
+        }
+      ],
+      "slug": "sharjah-vs-emirates-red",
+      "tournamentSlug": "emirates-d10-2026",
+      "collectionSlug": "emirates-d10-2026"
+    },
+    {
+      "id": 6,
+      "isLive": true,
+      "name": "Match 99",
+      "tournament": "EFL Championship 2025-26",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 139347,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/139347_5489_PRM_WBA_FC-Web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/139347_5489_PRM_WBA_FC-App.jpg",
+      "teams": [
+        {
+          "name": "Portsmouth F.C.",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-PORTS@2x.png"
+        },
+        {
+          "name": "West Bromwich Albion F.C.",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-WESTB@2x.png"
+        }
+      ],
+      "slug": "portsmouth-f-c-vs-west-bromwich-albion-f-c",
+      "tournamentSlug": "efl-championship-2025-26",
+      "collectionSlug": "efl-championship-2025-26"
+    },
+    {
+      "id": 7,
+      "isLive": true,
+      "name": "Match 212",
+      "tournament": "LALIGA 2025-26",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 131048,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/131048_5427_OSN_VIL_FC-Web.png",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/131048_5427_OSN_VIL_FC-App.png",
+      "teams": [
+        {
+          "name": "CA Osasuna",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-OSN@2x.png"
+        },
+        {
+          "name": "Villarreal CF",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-VIL@2x.png"
+        }
+      ],
+      "slug": "ca-osasuna-vs-villarreal-cf",
+      "tournamentSlug": "laliga-2025-26",
+      "collectionSlug": "laliga-2025-26"
+    },
+    {
+      "id": 8,
+      "isLive": true,
+      "name": "Day 4 - Centre Court",
+      "tournament": "Hexagon Cup 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 140168,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1769529100515.png",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/Old-Sporty-(1080x1440)-(1)_1769529100506.png",
+      "teams": [
+        {
+          "name": "Day 4 - Centre Court",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/le-flags/FC-HC@2x.png"
+        },
+        {
+          "name": "Madrid, Spain",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/le-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "day-4-centre-court",
+      "tournamentSlug": "hexagon-cup-2026",
+      "collectionSlug": "hexagon-cup-2026"
+    }
+  ]
 }
