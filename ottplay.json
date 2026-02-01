@@ -1,8 +1,8 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 19,
-  "updatedAt": "01/02/2026, 10:10:41 PM",
+  "total": 18,
+  "updatedAt": "01/02/2026, 10:30:57 PM",
   "data": [
     {
       "id": 1,
@@ -57,6 +57,27 @@
     {
       "id": 3,
       "isLive": true,
+      "contentId": "131042",
+      "name": "GEF vs CEV",
+      "genre": "football",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/780de53b59b3437f86ed629074807a90.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/876b233370c66f5482919562167b8153.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 4,
+      "isLive": true,
       "contentId": "1090502906",
       "name": "Borussia Dortmund vs Heidenheim - MD 20 - 1 Feb 2026",
       "genre": "football",
@@ -80,7 +101,7 @@
       }
     },
     {
-      "id": 4,
+      "id": 5,
       "isLive": true,
       "contentId": "1540061954",
       "name": "Tottenham Hotspurs vs Manchester City",
@@ -101,7 +122,7 @@
       }
     },
     {
-      "id": 5,
+      "id": 6,
       "isLive": true,
       "contentId": "140039",
       "name": "Farmers Insurance Open 2026",
@@ -152,7 +173,7 @@
       }
     },
     {
-      "id": 6,
+      "id": 7,
       "isLive": true,
       "contentId": "131046",
       "name": "RB vs VAL",
@@ -165,27 +186,6 @@
       ],
       "posters": [
         "https://images.ottplay.com/posters/80246451e662bb2b715c87ec853a4774.jpg"
-      ],
-      "providerInfo": {
-        "id": "63ce216c483822001ca300a4",
-        "name": "FanCode",
-        "hashId": "c60fe425e3269"
-      }
-    },
-    {
-      "id": 7,
-      "isLive": true,
-      "contentId": "140096",
-      "name": "MCI-W vs CHE-W",
-      "genre": "football",
-      "language": "english",
-      "provider": "FanCode",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/backdrops/3f2cfa5b71155104e6fdc599d9ad9cde.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/7569b2ea0e6fbf5357d14c7b10dd2f9f.jpg"
       ],
       "providerInfo": {
         "id": "63ce216c483822001ca300a4",
@@ -271,31 +271,6 @@
     {
       "id": 11,
       "isLive": true,
-      "contentId": "1090502892",
-      "name": "VfB Stuttgart vs SC Freiburg - MD 20 - 1 Feb 2026",
-      "genre": "football",
-      "language": "english",
-      "provider": "SonyLIV",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/images/5bb38005f41d45a3d1433ace88348fd1.jpg",
-        "https://images.ottplay.com/images/630b00ee4b7b8459cb3d8d43aa63e387.jpg",
-        "https://images.ottplay.com/images/852ac15659b2ff730abab5240ea8b1f4.jpg",
-        "https://images.ottplay.com/images/1dec2ed365101a66a6b6c041a0d7654d.jpg",
-        "https://images.ottplay.com/images/a82d1aece91587d0e1bf8ed80d895bbb.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/43c951ab2ce22f02c53af572928e03eb.jpg"
-      ],
-      "providerInfo": {
-        "id": "5f456c2aff9ccd034434e6fd",
-        "name": "SonyLIV",
-        "hashId": "100dc02b90dfc"
-      }
-    },
-    {
-      "id": 12,
-      "isLive": true,
       "contentId": "1540061616",
       "name": "Majhi Mumbai vs Bengaluru Strikers",
       "genre": "cricket",
@@ -315,7 +290,7 @@
       }
     },
     {
-      "id": 13,
+      "id": 12,
       "isLive": true,
       "contentId": "140085",
       "name": "DW vs GT",
@@ -336,7 +311,7 @@
       }
     },
     {
-      "id": 14,
+      "id": 13,
       "isLive": true,
       "contentId": "1090502908",
       "name": "Delhi Warriors vs Gurugram Thunders - 1 Feb 2026",
@@ -361,7 +336,7 @@
       }
     },
     {
-      "id": 15,
+      "id": 14,
       "isLive": true,
       "contentId": "1090502889",
       "name": "Delhi Warriors vs Gurugram Thunders - 1 Feb 2026",
@@ -386,7 +361,7 @@
       }
     },
     {
-      "id": 16,
+      "id": 15,
       "isLive": true,
       "contentId": "1540061462",
       "name": "Final: Bengal Tigers vs Karnataka Bulldozers",
@@ -407,7 +382,7 @@
       }
     },
     {
-      "id": 17,
+      "id": 16,
       "isLive": true,
       "contentId": "1540061462",
       "name": "Bengal Tigers vs Karnataka Bulldozers",
@@ -428,7 +403,7 @@
       }
     },
     {
-      "id": 18,
+      "id": 17,
       "isLive": true,
       "contentId": "140169",
       "name": "HC vs LOC",
@@ -457,7 +432,7 @@
       }
     },
     {
-      "id": 19,
+      "id": 18,
       "isLive": true,
       "contentId": "620235",
       "name": "ONE: Mark of Greatness",
