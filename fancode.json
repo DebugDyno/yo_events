@@ -1,8 +1,8 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 9,
-  "updatedAt": "01/02/2026, 07:03:38 PM",
+  "total": 7,
+  "updatedAt": "01/02/2026, 07:31:18 PM",
   "data": [
     {
       "id": 1,
@@ -36,6 +36,35 @@
     {
       "id": 2,
       "isLive": true,
+      "name": "Match 13",
+      "tournament": "World Legends Pro T20 League, 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 140085,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/140085_5928_DW_GT_FC-Web_1769806995490.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/140085_5928_DW_GT_FC-App_1769806995494.jpg",
+      "teams": [
+        {
+          "name": "Delhi Warriors",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DWR@2x.png"
+        },
+        {
+          "name": "Gurugram Thunders",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GTH@2x.png"
+        }
+      ],
+      "slug": "delhi-warriors-vs-gurugram-thunders",
+      "tournamentSlug": "world-legends-pro-t20-league-2026",
+      "collectionSlug": "world-legends-pro-t20-league-2026"
+    },
+    {
+      "id": 3,
+      "isLive": true,
       "name": "Unknown Match",
       "tournament": "Women's Super League 2025-26",
       "category": "All",
@@ -59,35 +88,6 @@
         }
       ],
       "slug": "west-ham-united-women-vs-tottenham-hotspur-women",
-      "tournamentSlug": "womens-super-league-2025-26",
-      "collectionSlug": "womens-super-league-2025-26"
-    },
-    {
-      "id": 3,
-      "isLive": true,
-      "name": "Unknown Match",
-      "tournament": "Women's Super League 2025-26",
-      "category": "All",
-      "categories": [
-        "All"
-      ],
-      "status": "LIVE",
-      "streamingStatus": "STARTED",
-      "matchId": 140095,
-      "streamType": "PAID",
-      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/140095_5826_MUN-W_LIV-W_FC-Web.jpg",
-      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/140095_5826_MUN-W_LIV-W_FC-App.jpg",
-      "teams": [
-        {
-          "name": "Manchester United Women",
-          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MUW@2x.png"
-        },
-        {
-          "name": "Liverpool Women",
-          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-LIVW@2x.png"
-        }
-      ],
-      "slug": "manchester-united-women-vs-liverpool-women",
       "tournamentSlug": "womens-super-league-2025-26",
       "collectionSlug": "womens-super-league-2025-26"
     },
@@ -123,35 +123,6 @@
     {
       "id": 5,
       "isLive": true,
-      "name": "Unknown Match",
-      "tournament": "Women's Super League 2025-26",
-      "category": "All",
-      "categories": [
-        "All"
-      ],
-      "status": "LIVE",
-      "streamingStatus": "STARTED",
-      "matchId": 140093,
-      "streamType": "PAID",
-      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/140093_5826_EVE-W_AST-W_FC-Web.jpg",
-      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/140093_5826_EVE-W_AST-W_FC-App.jpg",
-      "teams": [
-        {
-          "name": "Everton Women",
-          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-EVW@2x.png"
-        },
-        {
-          "name": "Aston Villa Women",
-          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-AVW@2x.png"
-        }
-      ],
-      "slug": "everton-women-vs-aston-villa-women",
-      "tournamentSlug": "womens-super-league-2025-26",
-      "collectionSlug": "womens-super-league-2025-26"
-    },
-    {
-      "id": 6,
-      "isLive": true,
       "name": "Match 216",
       "tournament": "LALIGA 2025-26",
       "category": "All",
@@ -179,7 +150,7 @@
       "collectionSlug": "laliga-2025-26"
     },
     {
-      "id": 7,
+      "id": 6,
       "isLive": true,
       "name": "Day 5 - Centre Court",
       "tournament": "Hexagon Cup 2026",
@@ -208,7 +179,7 @@
       "collectionSlug": "hexagon-cup-2026"
     },
     {
-      "id": 8,
+      "id": 7,
       "isLive": true,
       "name": "Match 24",
       "tournament": "AFC Futsal Asian Cup, 2026",
@@ -233,35 +204,6 @@
         }
       ],
       "slug": "ir-iran-vs-afghanistan",
-      "tournamentSlug": "afc-futsal-asian-cup-2026",
-      "collectionSlug": "afc-futsal-asian-cup-2026"
-    },
-    {
-      "id": 9,
-      "isLive": true,
-      "name": "Match 23",
-      "tournament": "AFC Futsal Asian Cup, 2026",
-      "category": "All",
-      "categories": [
-        "All"
-      ],
-      "status": "LIVE",
-      "streamingStatus": "STARTED",
-      "matchId": 139903,
-      "streamType": "PAID",
-      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1769333142206.png",
-      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/Old-Sporty-(1080x1440)-(2)_1769333142199.png",
-      "teams": [
-        {
-          "name": "Saudi Arabia",
-          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/fs-flags/FC-KSA@2x.png"
-        },
-        {
-          "name": "Malaysia",
-          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/fs-flags/FC-MAL@2x.png"
-        }
-      ],
-      "slug": "saudi-arabia-vs-malaysia",
       "tournamentSlug": "afc-futsal-asian-cup-2026",
       "collectionSlug": "afc-futsal-asian-cup-2026"
     }
