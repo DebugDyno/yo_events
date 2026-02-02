@@ -1,11 +1,55 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 8,
-  "updatedAt": "02/02/2026, 10:34:01 PM",
+  "total": 5,
+  "updatedAt": "02/02/2026, 11:23:13 PM",
   "data": [
     {
       "id": 1,
+      "isLive": true,
+      "contentId": "139610",
+      "name": "FUJ vs DUB",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/df3dfc76527ad9792dd2483ad928a6a3.jpg",
+        "https://images.ottplay.com/backdrops/a1e7cbb538d5a114b798d582c85ad759.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/dcbfc39b5a93f810a8ed52d730ca102d.jpg",
+        "https://images.ottplay.com/posters/aafc8404a7753a17d3dae313b6bb1323.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "contentId": "139835",
+      "name": "AHS vs AAS",
+      "genre": "football",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/ba9294fe8b032d427892b2cf625ccead.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/ac7be9bfa7ce7c19a56476432a0fa3ce.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 3,
       "isLive": true,
       "contentId": "139609",
       "name": "EMB vs SHA",
@@ -28,7 +72,7 @@
       }
     },
     {
-      "id": 2,
+      "id": 4,
       "isLive": true,
       "contentId": "140180",
       "name": "ATP vs LOC",
@@ -135,124 +179,7 @@
       }
     },
     {
-      "id": 3,
-      "isLive": true,
-      "contentId": "139834",
-      "name": "ALR vs ANF",
-      "genre": "football",
-      "language": "english",
-      "provider": "FanCode",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/backdrops/0e277c6aec3c30d503f48a812ba53f9b.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/02407a39214ba1b7ec1a4b964e0c8d67.jpg"
-      ],
-      "providerInfo": {
-        "id": "63ce216c483822001ca300a4",
-        "name": "FanCode",
-        "hashId": "c60fe425e3269"
-      }
-    },
-    {
-      "id": 4,
-      "isLive": true,
-      "contentId": "1090502944",
-      "name": "Hyderabad Superstars vs Mumbai Pickle Power - 2 Feb 2026",
-      "genre": "pickleball",
-      "language": "english",
-      "provider": "SonyLIV",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/images/48eb69199fe9c40afd995a4c30a16493.jpg",
-        "https://images.ottplay.com/images/8f3d9a3eb8c8506e8e36149b06baede0.jpg",
-        "https://images.ottplay.com/images/f38b83e8aeadafb16131213b7053e492.jpg",
-        "https://images.ottplay.com/images/50daae4a6eb63ef46e328a6461e7c783.jpg",
-        "https://images.ottplay.com/images/3d8feab690992833a7987edf266e75e8.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/eac9ef78eb67fdcb404a04368ea4cc50.jpg"
-      ],
-      "providerInfo": {
-        "id": "5f456c2aff9ccd034434e6fd",
-        "name": "SonyLIV",
-        "hashId": "100dc02b90dfc"
-      }
-    },
-    {
       "id": 6,
-      "isLive": true,
-      "contentId": "140087",
-      "name": "MTY vs DR",
-      "genre": "cricket",
-      "language": "english",
-      "provider": "FanCode",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/backdrops/de62bc5f0134eebd24bf56f6a94aef01.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/76c66fae204154059227e03e9dd3efe6.jpg"
-      ],
-      "providerInfo": {
-        "id": "63ce216c483822001ca300a4",
-        "name": "FanCode",
-        "hashId": "c60fe425e3269"
-      }
-    },
-    {
-      "id": 7,
-      "isLive": true,
-      "contentId": "1090502941",
-      "name": "Maharashtra Tycoons vs Dubai Royals - 2 Feb 2026",
-      "genre": "cricket",
-      "language": "hindi",
-      "provider": "SonyLIV",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/images/f4ed111dab12e671f9cc4526000d30c1.jpg",
-        "https://images.ottplay.com/images/b90c013f7a457ee7986a3123bda2b397.jpg",
-        "https://images.ottplay.com/images/113bd2269f1a2aabfaf42005ca5dbf8c.jpg",
-        "https://images.ottplay.com/images/4f7d25f665b2379ef2243b22dd9878a5.jpg",
-        "https://images.ottplay.com/images/3486e2abd05bbd172dde1987e0476459.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/0ff029ce9de979ba0079a8c7df5dec9a.jpg"
-      ],
-      "providerInfo": {
-        "id": "5f456c2aff9ccd034434e6fd",
-        "name": "SonyLIV",
-        "hashId": "100dc02b90dfc"
-      }
-    },
-    {
-      "id": 8,
-      "isLive": true,
-      "contentId": "1090502938",
-      "name": "Maharashtra Tycoons vs Dubai Royals - 2 Feb 2026",
-      "genre": "cricket",
-      "language": "english",
-      "provider": "SonyLIV",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/images/af0c8f11e9140e5eaa413e60d15efae1.jpg",
-        "https://images.ottplay.com/images/b90c013f7a457ee7986a3123bda2b397.jpg",
-        "https://images.ottplay.com/images/f9c38b31458719652a36e0f6245fb8fd.jpg",
-        "https://images.ottplay.com/images/bac3b835fc124fccbd4f1209bb61fc50.jpg",
-        "https://images.ottplay.com/images/aada5d7f1eef740134a4f1ebdd63934d.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/00b5400d25b31b1b2f364f8b5a8f75c0.jpg"
-      ],
-      "providerInfo": {
-        "id": "5f456c2aff9ccd034434e6fd",
-        "name": "SonyLIV",
-        "hashId": "100dc02b90dfc"
-      }
-    },
-    {
-      "id": 9,
       "isLive": true,
       "contentId": "620235",
       "name": "ONE: Mark of Greatness",
