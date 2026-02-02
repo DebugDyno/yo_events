@@ -1,53 +1,35 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 5,
-  "updatedAt": "02/02/2026, 01:34:35 PM",
+  "total": 3,
+  "updatedAt": "02/02/2026, 02:29:26 PM",
   "data": [
     {
       "id": 1,
+      "isLive": true,
+      "contentId": "1090502936",
+      "name": "LIV",
+      "genre": "Cricket",
+      "provider": "Sony Liv",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/sony4/videoasset_images/manage_file/1000014713/1769910277768886_WLP26_RajasthanLions_vs_DelhiWarriors_Landscape_thumb_hindi.jpg"
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "contentId": "1090502934",
+      "name": "LIV",
+      "genre": "Cricket",
+      "provider": "Sony Liv",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/sony4/videoasset_images/manage_file/1000014713/1769910295357886_WLP26_RajasthanLions_vs_DelhiWarriors_Landscape_thumb.jpg"
+    },
+    {
+      "id": 3,
       "isLive": true,
       "contentId": "1540061954",
       "name": "Tottenham Hotspur vs Manchester City",
       "genre": "Football",
       "provider": "JioHotstar",
       "image": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/3882/1769864123882-h"
-    },
-    {
-      "id": 2,
-      "isLive": true,
-      "contentId": "140336",
-      "name": "Dream Sports Championship Table Tennis 2026",
-      "genre": "Sports",
-      "provider": "FanCode",
-      "image": "https://images.fancode.com/aig/match/v1/140336_CASACARDS_PARTNER_16_9_1920_1080.png"
-    },
-    {
-      "id": 3,
-      "isLive": true,
-      "contentId": "140335",
-      "name": "Dream Sports Championship Table Tennis 2026",
-      "genre": "Sports",
-      "provider": "FanCode",
-      "image": "https://images.fancode.com/aig/match/v1/140335_CASACARDS_PARTNER_16_9_1920_1080.png"
-    },
-    {
-      "id": 4,
-      "isLive": true,
-      "contentId": "140334",
-      "name": "Dream Sports Championship Table Tennis 2026",
-      "genre": "Sports",
-      "provider": "FanCode",
-      "image": "https://images.fancode.com/aig/match/v1/140334_CASACARDS_PARTNER_16_9_1920_1080.png"
-    },
-    {
-      "id": 5,
-      "isLive": true,
-      "contentId": "140311",
-      "name": "Dream Sports Championship Table Tennis 2026",
-      "genre": "Sports",
-      "provider": "FanCode",
-      "image": "https://images.fancode.com/aig/match/v1/140311_CASACARDS_PARTNER_16_9_1920_1080.png"
     }
   ]
 }
