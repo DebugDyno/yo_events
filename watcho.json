@@ -1,11 +1,20 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 7,
-  "updatedAt": "03/02/2026, 11:59:27 AM",
+  "total": 5,
+  "updatedAt": "03/02/2026, 12:57:16 PM",
   "data": [
     {
       "id": 1,
+      "isLive": true,
+      "contentId": "1540062134",
+      "name": "SF: Australia vs England",
+      "genre": "Cricket",
+      "provider": "JioHotstar",
+      "image": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/4272/1770043724272-h"
+    },
+    {
+      "id": 2,
       "isLive": true,
       "contentId": "140339",
       "name": "Dream Sports Championship Table Tennis 2026",
@@ -14,7 +23,7 @@
       "image": "https://images.fancode.com/aig/match/v1/140339_CASACARDS_PARTNER_16_9_1920_1080.png"
     },
     {
-      "id": 2,
+      "id": 3,
       "isLive": true,
       "contentId": "140338",
       "name": "Dream Sports Championship Table Tennis 2026",
@@ -23,22 +32,13 @@
       "image": "https://images.fancode.com/aig/match/v1/140338_CASACARDS_PARTNER_16_9_1920_1080.png"
     },
     {
-      "id": 3,
+      "id": 4,
       "isLive": true,
       "contentId": "140337",
       "name": "Dream Sports Championship Table Tennis 2026",
       "genre": "Sports",
       "provider": "FanCode",
       "image": "https://images.fancode.com/aig/match/v1/140337_CASACARDS_PARTNER_16_9_1920_1080.png"
-    },
-    {
-      "id": 4,
-      "isLive": true,
-      "contentId": "140312",
-      "name": "Dream Sports Championship Table Tennis 2026",
-      "genre": "Sports",
-      "provider": "FanCode",
-      "image": "https://images.fancode.com/aig/match/v1/140312_CASACARDS_PARTNER_16_9_1920_1080.png"
     },
     {
       "id": 5,
@@ -48,24 +48,6 @@
       "genre": "Sports",
       "provider": "FanCode",
       "image": "https://images.fancode.com/aig/match/v1/139905_CASACARDS_PARTNER_16_9_1920_1080.png"
-    },
-    {
-      "id": 6,
-      "isLive": true,
-      "contentId": "133975",
-      "name": "South Australian Scorpions VS Victoria Women",
-      "genre": "Sports",
-      "provider": "FanCode",
-      "image": "https://images.fancode.com/aig/match/v1/133975_CASACARDS_PARTNER_16_9_1920_1080.png"
-    },
-    {
-      "id": 7,
-      "isLive": true,
-      "contentId": "133944",
-      "name": "Victoria VS Queensland",
-      "genre": "Sports",
-      "provider": "FanCode",
-      "image": "https://images.fancode.com/aig/match/v1770076800519/133944_CASACARDS_PARTNER_16_9_1920_1080.png"
     }
   ]
 }
