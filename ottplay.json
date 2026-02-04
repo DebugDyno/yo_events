@@ -2,10 +2,35 @@
   "success": true,
   "message": "Live matches fetched successfully",
   "total": 5,
-  "updatedAt": "04/02/2026, 12:38:55 PM",
+  "updatedAt": "04/02/2026, 01:24:14 PM",
   "data": [
     {
       "id": 1,
+      "isLive": true,
+      "contentId": "1540062137",
+      "name": "SF: India vs Afghanistan",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "JioHotstar",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/backdrop-1770189345.jpg",
+        "https://images.ottplay.com/images/57a40742d59b9d1476ec66ef22254a17.jpg",
+        "https://images.ottplay.com/images/eea5b3ffecb3c9dc05be6228255f0bfa.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/7e4b016b077ff0bec7437086bef47374.jpg",
+        "https://images.ottplay.com/images/poster-1770189319.jpg",
+        "https://images.ottplay.com/posters/fadad75e748f6d502111222eb7cf390f.jpg"
+      ],
+      "providerInfo": {
+        "id": "67977987ed126c0029b9f20c",
+        "name": "JioHotstar",
+        "hashId": "4025a7f67d456"
+      }
+    },
+    {
+      "id": 2,
       "isLive": true,
       "contentId": "140319",
       "name": "ARC vs LOC",
@@ -23,29 +48,6 @@
         "id": "63ce216c483822001ca300a4",
         "name": "FanCode",
         "hashId": "c60fe425e3269"
-      }
-    },
-    {
-      "id": 2,
-      "isLive": true,
-      "contentId": "1540062137",
-      "name": "SF: India vs Afghanistan",
-      "genre": "cricket",
-      "language": "english",
-      "provider": "JioHotstar",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/images/57a40742d59b9d1476ec66ef22254a17.jpg",
-        "https://images.ottplay.com/images/eea5b3ffecb3c9dc05be6228255f0bfa.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/7e4b016b077ff0bec7437086bef47374.jpg",
-        "https://images.ottplay.com/posters/fadad75e748f6d502111222eb7cf390f.jpg"
-      ],
-      "providerInfo": {
-        "id": "67977987ed126c0029b9f20c",
-        "name": "JioHotstar",
-        "hashId": "4025a7f67d456"
       }
     },
     {
