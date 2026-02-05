@@ -1,11 +1,20 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 5,
-  "updatedAt": "05/02/2026, 03:25:48 PM",
+  "total": 3,
+  "updatedAt": "05/02/2026, 04:08:46 PM",
   "data": [
     {
       "id": 1,
+      "isLive": true,
+      "contentId": "1540061481",
+      "name": "Spain vs Netherlands",
+      "genre": "Hockey",
+      "provider": "JioHotstar",
+      "image": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/1117/1770276971117-h"
+    },
+    {
+      "id": 2,
       "isLive": true,
       "contentId": "1090503197",
       "name": "LIV",
@@ -14,40 +23,13 @@
       "image": "https://d229kpbsb5jevy.cloudfront.net/sony4/videoasset_images/manage_file/1000014812/1770116865142170_DPworld_tour_Qatar_Masters_Day1_3feb_landscape_thumb.jpg"
     },
     {
-      "id": 2,
+      "id": 3,
       "isLive": true,
       "contentId": "1540062758",
       "name": "Nepal vs Canada: Warm Up",
       "genre": "Cricket",
       "provider": "JioHotstar",
       "image": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7079/1770231657079-h"
-    },
-    {
-      "id": 3,
-      "isLive": true,
-      "contentId": "140320",
-      "name": "Asian Rifle & Pistol Championship 2026",
-      "genre": "Sports",
-      "provider": "FanCode",
-      "image": "https://images.fancode.com/aig/match/v1770091202002/140320_CASACARDS_PARTNER_16_9_1920_1080.png"
-    },
-    {
-      "id": 4,
-      "isLive": true,
-      "contentId": "139909",
-      "name": "Iraq VS IR Iran",
-      "genre": "Sports",
-      "provider": "FanCode",
-      "image": "https://images.fancode.com/aig/match/v1770177602140/139909_CASACARDS_PARTNER_16_9_1920_1080.png"
-    },
-    {
-      "id": 5,
-      "isLive": true,
-      "contentId": "134034",
-      "name": "Western Australia VS Tasmania",
-      "genre": "Sports",
-      "provider": "FanCode",
-      "image": "https://images.fancode.com/aig/match/v1/134034_CASACARDS_PARTNER_16_9_1920_1080.png"
     }
   ]
 }
