@@ -1,8 +1,8 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 7,
-  "updatedAt": "07/02/2026, 01:31:36 AM",
+  "total": 8,
+  "updatedAt": "07/02/2026, 02:15:54 AM",
   "data": [
     {
       "id": 1,
@@ -204,6 +204,35 @@
         }
       ],
       "slug": "featured-groups-day-2",
+      "tournamentSlug": "wm-phoenix-open-2026",
+      "collectionSlug": "wm-phoenix-open-2026"
+    },
+    {
+      "id": 8,
+      "isLive": true,
+      "name": "World Feed - Day 2",
+      "tournament": "WM Phoenix Open 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 140041,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/WM-Phoenix-Open-2026_web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/WM-Phoenix-Open-2026_app.jpg",
+      "teams": [
+        {
+          "name": "World Feed - Day 2",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png"
+        },
+        {
+          "name": "TPC Scottsdale",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "world-feed-day-2",
       "tournamentSlug": "wm-phoenix-open-2026",
       "collectionSlug": "wm-phoenix-open-2026"
     }
