@@ -1,11 +1,20 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 10,
-  "updatedAt": "07/02/2026, 10:11:54 PM",
+  "total": 8,
+  "updatedAt": "07/02/2026, 10:32:30 PM",
   "data": [
     {
       "id": 1,
+      "isLive": true,
+      "contentId": "1090503333",
+      "name": "Sony Sports Ten 2",
+      "genre": "Football",
+      "provider": "Sony Liv",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/sony4/videoasset_images/manage_file/1000014298/1769513352954875_Bundesliga_2025_26_Borussia-Mgladbach-vs-Bayer-Leverkusen_landscape_thumb.jpg"
+    },
+    {
+      "id": 2,
       "isLive": true,
       "contentId": "1540062092",
       "name": "Wolves vs Chelsea",
@@ -14,43 +23,7 @@
       "image": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/4829/1770397524829-h"
     },
     {
-      "id": 2,
-      "isLive": true,
-      "contentId": "1090503354",
-      "name": "LIV",
-      "genre": "Pickleball",
-      "provider": "Sony Liv",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/sony4/videoasset_images/manage_file/1000014934/1770407604971489_WPL26_SF_Delhi_vs_Bengaluru_7feb_landscape_thumb.jpg"
-    },
-    {
       "id": 3,
-      "isLive": true,
-      "contentId": "1090503327",
-      "name": "Sony Sports Ten 2",
-      "genre": "Football",
-      "provider": "Sony Liv",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/sony4/videoasset_images/manage_file/1000014913/177036401214026_BLIGA_26_Heidenheim-vs-Hamburger-sv_landscape_thumb.jpg"
-    },
-    {
-      "id": 4,
-      "isLive": true,
-      "contentId": "1090503331",
-      "name": "Sony Sports Ten 2",
-      "genre": "Football",
-      "provider": "Sony Liv",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/sony4/videoasset_images/manage_file/1000014927/1770390675980904_Bundesliga_2025_26_St_Pauli_vs_VfB_Stuttgart_6feb_landscape_thumb.jpg"
-    },
-    {
-      "id": 5,
-      "isLive": true,
-      "contentId": "1090503328",
-      "name": "Sony Sports Ten 2",
-      "genre": "Football",
-      "provider": "Sony Liv",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/sony4/videoasset_images/manage_file/1000006892/1755929846694147_Bliga26_Goal_Arena_landscape_thumb.jpg"
-    },
-    {
-      "id": 6,
       "isLive": true,
       "contentId": "1540062322",
       "name": "India vs USA",
@@ -59,7 +32,7 @@
       "image": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7363/1770470487363-h"
     },
     {
-      "id": 7,
+      "id": 4,
       "isLive": true,
       "contentId": "1540063476",
       "name": "Winter Olympics: Day 1",
@@ -68,7 +41,16 @@
       "image": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/6143/1770465506143-h"
     },
     {
-      "id": 8,
+      "id": 5,
+      "isLive": true,
+      "contentId": "140398",
+      "name": "WM Phoenix Open 2026",
+      "genre": "Sports",
+      "provider": "FanCode",
+      "image": "https://images.fancode.com/aig/match/v1770184803494/140398_CASACARDS_PARTNER_16_9_1920_1080.png"
+    },
+    {
+      "id": 6,
       "isLive": true,
       "contentId": "140185",
       "name": "ATP 250 - Open Occitanie 2026",
@@ -77,7 +59,7 @@
       "image": "https://images.fancode.com/aig/match/v1/140185_CASACARDS_PARTNER_16_9_1920_1080.png"
     },
     {
-      "id": 9,
+      "id": 7,
       "isLive": true,
       "contentId": "139350",
       "name": "Coventry City Football Club VS Oxford United",
@@ -86,7 +68,7 @@
       "image": "https://images.fancode.com/aig/match/v1/139350_CASACARDS_PARTNER_16_9_1920_1080.png"
     },
     {
-      "id": 10,
+      "id": 8,
       "isLive": true,
       "contentId": "131059",
       "name": "FC Barcelona VS RCD Mallorca",
