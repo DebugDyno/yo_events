@@ -1,7 +1,95 @@
 {
-  "success": false,
-  "message": "Failed to fetch data from FanCode",
-  "updatedAt": "08/02/2026, 04:29:04 AM",
-  "error": "Invalid response structure from FanCode API",
-  "data": []
+  "success": true,
+  "message": "Live matches fetched successfully",
+  "total": 3,
+  "updatedAt": "08/02/2026, 05:07:25 AM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "name": "Unknown Match",
+      "tournament": "Sheffield Shield, 2025-26",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 134033,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/134033_5609_VCT_QUN_fc-Web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/134033_5609_VCT_QUN_fc-App_1760687268114.jpg",
+      "teams": [
+        {
+          "name": "Victoria",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-VCT@2x.png"
+        },
+        {
+          "name": "Queensland",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-QUN@2x.png"
+        }
+      ],
+      "slug": "victoria-vs-queensland",
+      "tournamentSlug": "sheffield-shield-2025-26",
+      "collectionSlug": "sheffield-shield-2025-26"
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "name": "Unknown Match",
+      "tournament": "Sheffield Shield, 2025-26",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 134032,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/134032_5609_NSW_SAU_fc-Web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/134032_5609_NSW_SAU_fc-App_1760687268146.jpg",
+      "teams": [
+        {
+          "name": "New South Wales",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NSW@2x.png"
+        },
+        {
+          "name": "South Australia",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SAUS@2x.png"
+        }
+      ],
+      "slug": "new-south-wales-vs-south-australia",
+      "tournamentSlug": "sheffield-shield-2025-26",
+      "collectionSlug": "sheffield-shield-2025-26"
+    },
+    {
+      "id": 3,
+      "isLive": true,
+      "name": "World Feed - Day 3",
+      "tournament": "WM Phoenix Open 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 140042,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/WM-Phoenix-Open-2026_web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/WM-Phoenix-Open-2026_app.jpg",
+      "teams": [
+        {
+          "name": "World Feed - Day 3",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png"
+        },
+        {
+          "name": "TPC Scottsdale",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "world-feed-day-3",
+      "tournamentSlug": "wm-phoenix-open-2026",
+      "collectionSlug": "wm-phoenix-open-2026"
+    }
+  ]
 }
