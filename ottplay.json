@@ -2,10 +2,31 @@
   "success": true,
   "message": "Live matches fetched successfully",
   "total": 4,
-  "updatedAt": "07/02/2026, 05:31:02 AM",
+  "updatedAt": "07/02/2026, 08:14:58 AM",
   "data": [
     {
       "id": 1,
+      "isLive": true,
+      "contentId": "134034",
+      "name": "WAU vs TAS",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/c28a33114339a31335d0d45e9c92e4bd.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/3118f7a4a1a161c32dcb326dfc9b5ee4.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 2,
       "isLive": true,
       "contentId": "134032",
       "name": "NSW vs SAU",
@@ -26,7 +47,7 @@
       }
     },
     {
-      "id": 2,
+      "id": 3,
       "isLive": true,
       "contentId": "134033",
       "name": "VCT vs QUN",
@@ -39,41 +60,6 @@
       ],
       "posters": [
         "https://images.ottplay.com/posters/c7ac2a2b66e5ced4f0059023ab534050.jpg"
-      ],
-      "providerInfo": {
-        "id": "63ce216c483822001ca300a4",
-        "name": "FanCode",
-        "hashId": "c60fe425e3269"
-      }
-    },
-    {
-      "id": 3,
-      "isLive": true,
-      "contentId": "140041",
-      "name": "WM Phoenix Open 2026",
-      "genre": "golf",
-      "language": "english",
-      "provider": "FanCode",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/backdrops/48511ad9de7651abcdd81cff2d7d88d1.jpg",
-        "https://images.ottplay.com/backdrops/067d46229bb4814e6abd09aa7dd8854a.jpg",
-        "https://images.ottplay.com/backdrops/88cfd53675ce24cd3ff5d9a5783a4fea.jpg",
-        "https://images.ottplay.com/backdrops/b171cb164ff434d881f12b7235c32b55.jpg",
-        "https://images.ottplay.com/backdrops/dde3f77ff5ca5098579eff3ddbbe7e2f.jpg",
-        "https://images.ottplay.com/backdrops/b31586bc38c8bed57ccd5c2865bd14a3.jpg",
-        "https://images.ottplay.com/backdrops/839ae4ef86274ac50cab188609d7b9e5.jpg",
-        "https://images.ottplay.com/backdrops/c19cc20de7f8396faf6db13ee9a9ced1.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/9ccc66d7b55745efcab9f54b91887f3d.jpg",
-        "https://images.ottplay.com/posters/33773d2daf725063833c45527f9cd81c.jpg",
-        "https://images.ottplay.com/posters/5550559f9753d8cadfd2bca5ee7f7375.jpg",
-        "https://images.ottplay.com/posters/8d697ee6de68f663517b9e00d78d8b4a.jpg",
-        "https://images.ottplay.com/posters/d470d57c63eb591df378c4b36b936829.jpg",
-        "https://images.ottplay.com/posters/d3395fc2cb9f7460279eb7b3773f3b39.jpg",
-        "https://images.ottplay.com/posters/ffe164379dafa0eea12a33f45ce9b0fa.jpg",
-        "https://images.ottplay.com/posters/abf5d1e2fdd82c769b2f8a37c5990f65.jpg"
       ],
       "providerInfo": {
         "id": "63ce216c483822001ca300a4",
