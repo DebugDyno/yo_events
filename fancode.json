@@ -1,7 +1,37 @@
 {
-  "success": false,
-  "message": "Failed to fetch data from FanCode",
-  "updatedAt": "08/02/2026, 05:01:11 PM",
-  "error": "Invalid response structure from FanCode API",
-  "data": []
+  "success": true,
+  "message": "Live matches fetched successfully",
+  "total": 1,
+  "updatedAt": "08/02/2026, 05:18:16 PM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "name": "BCPL Auction",
+      "tournament": "BCPL Auction",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 140529,
+      "streamType": "AUTH",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Live-Event-old.jpg",
+      "portraitImage": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_Live-Event.jpg",
+      "teams": [
+        {
+          "name": "BCPL Auction",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/le-flags/FC-BC@2x.png"
+        },
+        {
+          "name": "India",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/le-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "bcpl-auction",
+      "tournamentSlug": "bcpl-auction",
+      "collectionSlug": "bcpl-auction"
+    }
+  ]
 }
