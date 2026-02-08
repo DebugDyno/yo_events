@@ -1,7 +1,182 @@
 {
-  "success": false,
-  "message": "Failed to fetch data from FanCode",
-  "updatedAt": "08/02/2026, 09:29:06 PM",
-  "error": "Invalid response structure from FanCode API",
-  "data": []
+  "success": true,
+  "message": "Live matches fetched successfully",
+  "total": 6,
+  "updatedAt": "08/02/2026, 10:10:33 PM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "name": "Match 223",
+      "tournament": "LALIGA 2025-26",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 131057,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/131057_5427_ATH_LE_FC-Web.png",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/131057_5427_ATH_LE_FC-App.png",
+      "teams": [
+        {
+          "name": "Athletic Club",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ATH@2x.png"
+        },
+        {
+          "name": "Levante",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-LET@2x.png"
+        }
+      ],
+      "slug": "athletic-club-vs-levante",
+      "tournamentSlug": "laliga-2025-26",
+      "collectionSlug": "laliga-2025-26"
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "name": "Match 227",
+      "tournament": "LALIGA 2025-26",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 131053,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/131053_5427_SEV_GIR_FC-Web.png",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/131053_5427_SEV_GIR_FC-App.png",
+      "teams": [
+        {
+          "name": "Sevilla FC",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SVI@2x.png"
+        },
+        {
+          "name": "Girona FC",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-GIR@2x.png"
+        }
+      ],
+      "slug": "sevilla-fc-vs-girona-fc",
+      "tournamentSlug": "laliga-2025-26",
+      "collectionSlug": "laliga-2025-26"
+    },
+    {
+      "id": 3,
+      "isLive": true,
+      "name": "Match 96",
+      "tournament": "LALIGA Hypermotion 2025-26",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 140429,
+      "streamType": "PAID",
+      "landscapeImage": "https://images.fancode.com/aig/match/v1770347072522/140429_CASACARDS_APP.png",
+      "portraitImage": "https://images.fancode.com/aig/match/v1770347072522/140429_CASACARDS_SPORTY_APP.png",
+      "teams": [
+        {
+          "name": "Cádiz",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-CDZ@2x.png"
+        },
+        {
+          "name": "Almería",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ALM@2x.png"
+        }
+      ],
+      "slug": "cadiz-vs-almeria",
+      "tournamentSlug": "laliga-hypermotion-2025-26",
+      "collectionSlug": "laliga-hypermotion-2025-26"
+    },
+    {
+      "id": 4,
+      "isLive": true,
+      "name": "BCPL Auction",
+      "tournament": "BCPL Auction",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 140529,
+      "streamType": "AUTH",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Live-Event-old.jpg",
+      "portraitImage": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_Live-Event.jpg",
+      "teams": [
+        {
+          "name": "BCPL Auction",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/le-flags/FC-BC@2x.png"
+        },
+        {
+          "name": "India",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/le-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "bcpl-auction",
+      "tournamentSlug": "bcpl-auction",
+      "collectionSlug": "bcpl-auction"
+    },
+    {
+      "id": 5,
+      "isLive": true,
+      "name": "Main Feed - Day 4",
+      "tournament": "WM Phoenix Open 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 140401,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/WM-Phoenix-Open-2026_web-(1).jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/WM-Phoenix-Open-2026_app-(1).jpg",
+      "teams": [
+        {
+          "name": "Main Feed - Day 4",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png"
+        },
+        {
+          "name": "TPC Scottsdale",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "main-feed-day-4",
+      "tournamentSlug": "wm-phoenix-open-2026",
+      "collectionSlug": "wm-phoenix-open-2026"
+    },
+    {
+      "id": 6,
+      "isLive": true,
+      "name": "Featured Groups - Day 4",
+      "tournament": "WM Phoenix Open 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 140402,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/WM-Phoenix-Open-2026_web-(1).jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/WM-Phoenix-Open-2026_app-(1).jpg",
+      "teams": [
+        {
+          "name": "Featured Groups - Day 4",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png"
+        },
+        {
+          "name": "TPC Scottsdale",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "featured-groups-day-4",
+      "tournamentSlug": "wm-phoenix-open-2026",
+      "collectionSlug": "wm-phoenix-open-2026"
+    }
+  ]
 }
