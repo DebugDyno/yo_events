@@ -1,7 +1,124 @@
 {
-  "success": false,
-  "message": "Failed to fetch data from FanCode",
-  "updatedAt": "09/02/2026, 12:35:06 AM",
-  "error": "Invalid response structure from FanCode API",
-  "data": []
+  "success": true,
+  "message": "Live matches fetched successfully",
+  "total": 4,
+  "updatedAt": "09/02/2026, 01:05:43 AM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "name": "Main Feed - Day 4",
+      "tournament": "WM Phoenix Open 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 140401,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/WM-Phoenix-Open-2026_web-(1).jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/WM-Phoenix-Open-2026_app-(1).jpg",
+      "teams": [
+        {
+          "name": "Main Feed - Day 4",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png"
+        },
+        {
+          "name": "TPC Scottsdale",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "main-feed-day-4",
+      "tournamentSlug": "wm-phoenix-open-2026",
+      "collectionSlug": "wm-phoenix-open-2026"
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "name": "Featured Groups - Day 4",
+      "tournament": "WM Phoenix Open 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 140402,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/WM-Phoenix-Open-2026_web-(1).jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/WM-Phoenix-Open-2026_app-(1).jpg",
+      "teams": [
+        {
+          "name": "Featured Groups - Day 4",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png"
+        },
+        {
+          "name": "TPC Scottsdale",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "featured-groups-day-4",
+      "tournamentSlug": "wm-phoenix-open-2026",
+      "collectionSlug": "wm-phoenix-open-2026"
+    },
+    {
+      "id": 3,
+      "isLive": true,
+      "name": "World Feed - Day 4",
+      "tournament": "WM Phoenix Open 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 140043,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/WM-Phoenix-Open-2026_web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/WM-Phoenix-Open-2026_app.jpg",
+      "teams": [
+        {
+          "name": "World Feed - Day 4",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png"
+        },
+        {
+          "name": "TPC Scottsdale",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "world-feed-day-4",
+      "tournamentSlug": "wm-phoenix-open-2026",
+      "collectionSlug": "wm-phoenix-open-2026"
+    },
+    {
+      "id": 4,
+      "isLive": true,
+      "name": "Featured Holes - Day 4",
+      "tournament": "WM Phoenix Open 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 140403,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/WM-Phoenix-Open-2026_web-(1).jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/WM-Phoenix-Open-2026_app-(1).jpg",
+      "teams": [
+        {
+          "name": "Featured Holes - Day 4",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png"
+        },
+        {
+          "name": "TPC Scottsdale",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "featured-holes-day-4",
+      "tournamentSlug": "wm-phoenix-open-2026",
+      "collectionSlug": "wm-phoenix-open-2026"
+    }
+  ]
 }
