@@ -1,23 +1,65 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 3,
-  "updatedAt": "08/02/2026, 05:30:43 AM",
+  "total": 9,
+  "updatedAt": "08/02/2026, 08:58:57 AM",
   "data": [
     {
       "id": 1,
       "isLive": true,
-      "contentId": "134033",
-      "name": "VCT vs QUN",
+      "contentId": "1540063073",
+      "name": "Jharkhand vs Uttarakhand: QF, Day 3",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "JioHotstar",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/93976e3a7c98201adb9843ea348c2ccf.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/11443ea0cf5bae27afe66b71a08c8689.jpg"
+      ],
+      "providerInfo": {
+        "id": "67977987ed126c0029b9f20c",
+        "name": "JioHotstar",
+        "hashId": "4025a7f67d456"
+      }
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "contentId": "1540063079",
+      "name": "Bengal vs Andhra: QF, Day 3",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "JioHotstar",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/49dc98c424813b62542de795ffc91227.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/f3eb3a5a2c6eacf6a6020f87d060186d.jpg"
+      ],
+      "providerInfo": {
+        "id": "67977987ed126c0029b9f20c",
+        "name": "JioHotstar",
+        "hashId": "4025a7f67d456"
+      }
+    },
+    {
+      "id": 3,
+      "isLive": true,
+      "contentId": "134034",
+      "name": "WAU vs TAS",
       "genre": "cricket",
       "language": "english",
       "provider": "FanCode",
       "content_type": "sport",
       "image": [
-        "https://images.ottplay.com/backdrops/a6033669679d12462d0b78131412dde7.jpg"
+        "https://images.ottplay.com/backdrops/c28a33114339a31335d0d45e9c92e4bd.jpg"
       ],
       "posters": [
-        "https://images.ottplay.com/posters/c7ac2a2b66e5ced4f0059023ab534050.jpg"
+        "https://images.ottplay.com/posters/3118f7a4a1a161c32dcb326dfc9b5ee4.jpg"
       ],
       "providerInfo": {
         "id": "63ce216c483822001ca300a4",
@@ -26,7 +68,107 @@
       }
     },
     {
-      "id": 2,
+      "id": 4,
+      "isLive": true,
+      "contentId": "1090503423",
+      "name": "UFC Fight Night - Bautista vs Oliveira - 8 Feb 2026",
+      "genre": "fight sports",
+      "language": "tamil",
+      "provider": "SonyLIV",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/a664cb727ee0fda629ea5598a46a4479.jpg",
+        "https://images.ottplay.com/images/20040022f7d666246b5bbe7a7fb9328a.jpg",
+        "https://images.ottplay.com/images/b93d71d9bc35c880661b7cf51ab50b75.jpg",
+        "https://images.ottplay.com/images/72074e071657b85bdb1ba30a0220a532.jpg",
+        "https://images.ottplay.com/images/4e39d3b034ea1e808f0d5fd81307fe5c.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/382f3adf166b23d785b2256c266d5c84.jpg"
+      ],
+      "providerInfo": {
+        "id": "5f456c2aff9ccd034434e6fd",
+        "name": "SonyLIV",
+        "hashId": "100dc02b90dfc"
+      }
+    },
+    {
+      "id": 5,
+      "isLive": true,
+      "contentId": "1090503422",
+      "name": "UFC Fight Night - Bautista vs Oliveira - 8 Feb 2026",
+      "genre": "fight sports",
+      "language": "hindi",
+      "provider": "SonyLIV",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/a9ddad0e2873e957a92811221aa58103.jpg",
+        "https://images.ottplay.com/images/20040022f7d666246b5bbe7a7fb9328a.jpg",
+        "https://images.ottplay.com/images/bbe18531f00fed2e9fe55e11e175e0ed.jpg",
+        "https://images.ottplay.com/images/8da622f7f8bdac8a15fc84f78017e457.jpg",
+        "https://images.ottplay.com/images/a000c8029e1144bc32f27ab03235667e.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/671667939a0a245e282fce2d4cda4e2d.jpg"
+      ],
+      "providerInfo": {
+        "id": "5f456c2aff9ccd034434e6fd",
+        "name": "SonyLIV",
+        "hashId": "100dc02b90dfc"
+      }
+    },
+    {
+      "id": 6,
+      "isLive": true,
+      "contentId": "1090503421",
+      "name": "UFC Fight Night - Bautista vs Oliveira - 8 Feb 2026",
+      "genre": "fight sports",
+      "language": "telugu",
+      "provider": "SonyLIV",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/76af3f1d8d3677c4046a592916d6e732.jpg",
+        "https://images.ottplay.com/images/20040022f7d666246b5bbe7a7fb9328a.jpg",
+        "https://images.ottplay.com/images/3965e041058127ff365cf4f0845fe686.jpg",
+        "https://images.ottplay.com/images/b7005855929312f2222b165f8b6fbc6c.jpg",
+        "https://images.ottplay.com/images/cb7edd7b3bda9ac4aea18b215995a39b.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/3bc3a29fe75d652a31073eb376b0f071.jpg"
+      ],
+      "providerInfo": {
+        "id": "5f456c2aff9ccd034434e6fd",
+        "name": "SonyLIV",
+        "hashId": "100dc02b90dfc"
+      }
+    },
+    {
+      "id": 7,
+      "isLive": true,
+      "contentId": "1090503420",
+      "name": "UFC Fight Night - Bautista vs Oliveira - 8 Feb 2026",
+      "genre": "fight sports",
+      "language": "english",
+      "provider": "SonyLIV",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/64ecf5504d257af3a6ccc84d28c43759.jpg",
+        "https://images.ottplay.com/images/20040022f7d666246b5bbe7a7fb9328a.jpg",
+        "https://images.ottplay.com/images/0124cd5e84837320ed0c231b7d1513b7.jpg",
+        "https://images.ottplay.com/images/ac2ef88d196acaf58f50c4559e06494f.jpg",
+        "https://images.ottplay.com/images/b4c34c299f3d3370f0ab02877cdfb7e4.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/f9cee5961e3912aa8176205e3d41a09e.jpg"
+      ],
+      "providerInfo": {
+        "id": "5f456c2aff9ccd034434e6fd",
+        "name": "SonyLIV",
+        "hashId": "100dc02b90dfc"
+      }
+    },
+    {
+      "id": 8,
       "isLive": true,
       "contentId": "134032",
       "name": "NSW vs SAU",
@@ -47,7 +189,7 @@
       }
     },
     {
-      "id": 3,
+      "id": 9,
       "isLive": true,
       "contentId": "620235",
       "name": "ONE: Mark of Greatness",
