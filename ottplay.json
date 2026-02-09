@@ -1,11 +1,53 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 7,
-  "updatedAt": "09/02/2026, 02:00:29 PM",
+  "total": 6,
+  "updatedAt": "09/02/2026, 03:06:11 PM",
   "data": [
     {
       "id": 1,
+      "isLive": true,
+      "contentId": "1540062192",
+      "name": "Zimbabwe vs Oman",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "JioHotstar",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/aafcaf518e466eba78482bf339bc7c7c.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/5732a2efeed169394be12a63b02b7e37.jpg"
+      ],
+      "providerInfo": {
+        "id": "67977987ed126c0029b9f20c",
+        "name": "JioHotstar",
+        "hashId": "4025a7f67d456"
+      }
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "contentId": "1540063522",
+      "name": "Winter Olympics: Day 3",
+      "genre": "multi sports",
+      "language": "english",
+      "provider": "JioHotstar",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/7d0e2bd8004722f5852bd0a078b39139.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/87aa95ce4174f33ab28c487aaf4687ca.jpg"
+      ],
+      "providerInfo": {
+        "id": "67977987ed126c0029b9f20c",
+        "name": "JioHotstar",
+        "hashId": "4025a7f67d456"
+      }
+    },
+    {
+      "id": 3,
       "isLive": true,
       "contentId": "140315",
       "name": "SKC vs LOC",
@@ -26,38 +68,7 @@
       }
     },
     {
-      "id": 2,
-      "isLive": true,
-      "contentId": "140324",
-      "name": "ARC vs LOC",
-      "genre": "liveevents",
-      "language": "english",
-      "provider": "FanCode",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/backdrops/13d57113783c0b2af91b80b598f28cc5.jpg",
-        "https://images.ottplay.com/backdrops/4b52af8056c78b1ab8eb879b7dfc0c53.jpg",
-        "https://images.ottplay.com/backdrops/845a17ee3ede434666e08826321d0c59.jpg",
-        "https://images.ottplay.com/backdrops/1aac4eda936b7dda14f3023e83a3c7ff.jpg",
-        "https://images.ottplay.com/backdrops/86c744a40b1910bee354c66fb0b1f94d.jpg",
-        "https://images.ottplay.com/backdrops/f5e720851aabe12b74e9b332de1fa79e.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/7ae499a14c0b45777214982b74d0e447.jpg",
-        "https://images.ottplay.com/posters/78a9748645a6953bf2a3da6807e9afea.jpg",
-        "https://images.ottplay.com/posters/454373b9405e9171b5f972e7922768e1.jpg",
-        "https://images.ottplay.com/posters/22c0a263d92bc07884d0e3f46ae351e0.jpg",
-        "https://images.ottplay.com/posters/d51b13531a74c2f1a6538a0da49fdf33.jpg",
-        "https://images.ottplay.com/posters/0cb9d16440118b9db6f7cd55e6781be3.jpg"
-      ],
-      "providerInfo": {
-        "id": "63ce216c483822001ca300a4",
-        "name": "FanCode",
-        "hashId": "c60fe425e3269"
-      }
-    },
-    {
-      "id": 3,
+      "id": 4,
       "isLive": true,
       "contentId": "1540062189",
       "name": "Scotland vs Italy",
@@ -78,49 +89,7 @@
       }
     },
     {
-      "id": 4,
-      "isLive": true,
-      "contentId": "1540063094",
-      "name": "Mumbai vs Karnataka: QF, Day 4",
-      "genre": "cricket",
-      "language": "english",
-      "provider": "JioHotstar",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/images/9cf8d5a6078c961d97ac6bbd17c6a9c9.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/81a1945ecb8d5df5329a52ddf84ba106.jpg"
-      ],
-      "providerInfo": {
-        "id": "67977987ed126c0029b9f20c",
-        "name": "JioHotstar",
-        "hashId": "4025a7f67d456"
-      }
-    },
-    {
       "id": 5,
-      "isLive": true,
-      "contentId": "1540063088",
-      "name": "Madhya Pradesh vs Jammu and Kashmir: QF, Day 4",
-      "genre": "cricket",
-      "language": "english",
-      "provider": "JioHotstar",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/images/e413e2c9457a2f17b749fbe7c2969ab0.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/95671805848d09325281cf1b62fb90a6.jpg"
-      ],
-      "providerInfo": {
-        "id": "67977987ed126c0029b9f20c",
-        "name": "JioHotstar",
-        "hashId": "4025a7f67d456"
-      }
-    },
-    {
-      "id": 6,
       "isLive": true,
       "contentId": "1540063091",
       "name": "Bengal vs Andhra: QF, Day 4",
@@ -141,7 +110,7 @@
       }
     },
     {
-      "id": 7,
+      "id": 6,
       "isLive": true,
       "contentId": "620235",
       "name": "ONE: Mark of Greatness",
