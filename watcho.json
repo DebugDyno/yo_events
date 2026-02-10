@@ -1,26 +1,26 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 10,
-  "updatedAt": "10/02/2026, 07:21:19 PM",
+  "total": 8,
+  "updatedAt": "10/02/2026, 08:19:52 PM",
   "data": [
     {
       "id": 1,
+      "isLive": true,
+      "contentId": "1540061502",
+      "name": "Belgium vs Argentina",
+      "genre": "Hockey",
+      "provider": "JioHotstar",
+      "image": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/5933/1770668525933-h"
+    },
+    {
+      "id": 2,
       "isLive": true,
       "contentId": "1540062331",
       "name": "Pakistan vs USA",
       "genre": "Cricket",
       "provider": "JioHotstar",
       "image": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/9582/1770665969582-h"
-    },
-    {
-      "id": 2,
-      "isLive": true,
-      "contentId": "1540061578",
-      "name": "China vs England",
-      "genre": "Hockey",
-      "provider": "JioHotstar",
-      "image": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7519/1770651217519-h"
     },
     {
       "id": 3,
@@ -70,29 +70,11 @@
     {
       "id": 8,
       "isLive": true,
-      "contentId": "136034",
-      "name": "Chengdu Rongcheng VS Buriram United",
+      "contentId": "140052",
+      "name": "Esteghlal FC VS Al Hussein",
       "genre": "Sports",
       "provider": "FanCode",
-      "image": "https://images.fancode.com/aig/match/v1770632229939/136034_CASACARDS_PARTNER_16_9_1920_1080.png"
-    },
-    {
-      "id": 9,
-      "isLive": true,
-      "contentId": "136033",
-      "name": "Shanghai Shenhua VS Machida Zelvia",
-      "genre": "Sports",
-      "provider": "FanCode",
-      "image": "https://images.fancode.com/aig/match/v1770632229939/136033_CASACARDS_PARTNER_16_9_1920_1080.png"
-    },
-    {
-      "id": 10,
-      "isLive": true,
-      "contentId": "133945",
-      "name": "Western Australia VS Tasmania",
-      "genre": "Sports",
-      "provider": "FanCode",
-      "image": "https://images.fancode.com/aig/match/v1770569043956/133945_CASACARDS_PARTNER_16_9_1920_1080.png"
+      "image": "https://images.fancode.com/aig/match/v1/140052_CASACARDS_PARTNER_16_9_1920_1080.png"
     }
   ]
 }
