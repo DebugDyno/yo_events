@@ -1,11 +1,20 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 6,
-  "updatedAt": "10/02/2026, 06:35:38 AM",
+  "total": 5,
+  "updatedAt": "10/02/2026, 09:34:44 AM",
   "data": [
     {
       "id": 1,
+      "isLive": true,
+      "contentId": "1540063103",
+      "name": "Bengal vs Andhra: QF, Day 5",
+      "genre": "Cricket",
+      "provider": "JioHotstar",
+      "image": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2240/1770647732240-h"
+    },
+    {
+      "id": 2,
       "isLive": true,
       "contentId": "140531",
       "name": "ATP 500 - Nexo Dallas Open 2026",
@@ -14,22 +23,13 @@
       "image": "https://images.fancode.com/aig/match/v1770537602333/140531_CASACARDS_PARTNER_16_9_1920_1080.png"
     },
     {
-      "id": 2,
-      "isLive": true,
-      "contentId": "140530",
-      "name": "ATP 500 - Nexo Dallas Open 2026",
-      "genre": "Sports",
-      "provider": "FanCode",
-      "image": "https://images.fancode.com/aig/match/v1770537602866/140530_CASACARDS_PARTNER_16_9_1920_1080.png"
-    },
-    {
       "id": 3,
       "isLive": true,
-      "contentId": "140201",
-      "name": "ATP 250 - IEB+ Argentina Open 2026",
+      "contentId": "140316",
+      "name": "Strikers Cup 2026",
       "genre": "Sports",
       "provider": "FanCode",
-      "image": "https://images.fancode.com/aig/match/v1/140201_CASACARDS_PARTNER_16_9_1920_1080.png"
+      "image": "https://images.fancode.com/aig/match/v1/140316_CASACARDS_PARTNER_16_9_1920_1080.png"
     },
     {
       "id": 4,
@@ -42,15 +42,6 @@
     },
     {
       "id": 5,
-      "isLive": true,
-      "contentId": "139170",
-      "name": "TGL Season 2",
-      "genre": "Sports",
-      "provider": "FanCode",
-      "image": "https://images.fancode.com/aig/match/v1770084004132/139170_CASACARDS_PARTNER_16_9_1920_1080.png"
-    },
-    {
-      "id": 6,
       "isLive": true,
       "contentId": "133943",
       "name": "New South Wales VS South Australia",
