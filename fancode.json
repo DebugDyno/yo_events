@@ -1,7 +1,327 @@
 {
-  "success": false,
-  "message": "Failed to fetch data from FanCode",
-  "updatedAt": "12/02/2026, 01:36:39 AM",
-  "error": "Invalid response structure from FanCode API",
-  "data": []
+  "success": true,
+  "message": "Live matches fetched successfully",
+  "total": 11,
+  "updatedAt": "12/02/2026, 02:23:32 AM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "name": "Quarter - Final",
+      "tournament": "DFB Pokal 2025-26",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 139001,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/04_FC-Bayern-M%C3%BCnchen-vs-RB-Leipzig_1769793016225.png",
+      "portraitImage": " https://www.fancode.com/skillup-uploads/cms-media/04_FC-Bayern-M%C3%BCnchen-vs-RB-Leipzig.png",
+      "teams": [
+        {
+          "name": "FC Bayern München",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-BAYERN@2x.png"
+        },
+        {
+          "name": "RB Leipzig",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-LEP@2x.png"
+        }
+      ],
+      "slug": "fc-bayern-munchen-vs-rb-leipzig",
+      "tournamentSlug": "dfb-pokal-2025-26",
+      "collectionSlug": "dfb-pokal-2025-26"
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "name": "Unknown Match",
+      "tournament": "UEFA Women's Champions League 2025-26",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 140407,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/Paris-FC-Women-vs-Real-Madrid-Women_fc-web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/Paris-FC-Women-vs-Real-Madrid-Women_fc-app.jpg",
+      "teams": [
+        {
+          "name": "Paris FC Women",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-PFC@2x.png"
+        },
+        {
+          "name": "Real Madrid Women",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/RM-FT2@2x.png"
+        }
+      ],
+      "slug": "paris-fc-women-vs-real-madrid-women",
+      "tournamentSlug": "uefa-womens-champions-league-2025-26",
+      "collectionSlug": "uefa-womens-champions-league-2025-26"
+    },
+    {
+      "id": 3,
+      "isLive": true,
+      "name": "Semi - Final Leg 1",
+      "tournament": "Copa del Rey, 2025-26",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 140522,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/140522_5806_ATH_RS_FC-Web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/140522_5806_ATH_RS_FC-App.jpg",
+      "teams": [
+        {
+          "name": "Athletic Club",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ATH@2x.png"
+        },
+        {
+          "name": "Real Sociedad",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-RSO@2x.png"
+        }
+      ],
+      "slug": "athletic-club-vs-real-sociedad",
+      "tournamentSlug": "copa-del-rey-2025-26",
+      "collectionSlug": "copa-del-rey-2025-26"
+    },
+    {
+      "id": 4,
+      "isLive": true,
+      "name": "Unknown Match",
+      "tournament": "League Two 2025-26",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 140528,
+      "streamType": "AUTH",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/League-Two-2025-26_match-card.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/League-Two-2025-26_Sporty_Match_card.jpg",
+      "teams": [
+        {
+          "name": "Swindon Town",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SWI@2x.png"
+        },
+        {
+          "name": "Newport County",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-NPT@2x.png"
+        }
+      ],
+      "slug": "swindon-town-vs-newport-county",
+      "tournamentSlug": "league-two-2025-26",
+      "collectionSlug": "league-two-2025-26"
+    },
+    {
+      "id": 5,
+      "isLive": true,
+      "name": "World Feed",
+      "tournament": "ATP 500 - ABN AMRO Open 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 140196,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(3)_1770389196821.png",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/Old-Sporty-(1080x1440)-(2)_1770389196820.png",
+      "teams": [
+        {
+          "name": "World Feed",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png"
+        },
+        {
+          "name": "Rotterdam, Netherlands",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "world-feed",
+      "tournamentSlug": "atp-500-abn-amro-open-2026",
+      "collectionSlug": "atp-500-abn-amro-open-2026"
+    },
+    {
+      "id": 6,
+      "isLive": true,
+      "name": "Centre Court",
+      "tournament": "ATP 500 - ABN AMRO Open 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 140546,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(3)_1770389196821.png",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/Old-Sporty-(1080x1440)-(2)_1770389196820.png",
+      "teams": [
+        {
+          "name": "Centre Court",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png"
+        },
+        {
+          "name": "Rotterdam, Netherlands",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "centre-court",
+      "tournamentSlug": "atp-500-abn-amro-open-2026",
+      "collectionSlug": "atp-500-abn-amro-open-2026"
+    },
+    {
+      "id": 7,
+      "isLive": true,
+      "name": "Court 1",
+      "tournament": "ATP 500 - ABN AMRO Open 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 140545,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(3)_1770389196821.png",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/Old-Sporty-(1080x1440)-(2)_1770389196820.png",
+      "teams": [
+        {
+          "name": "Court 1",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png"
+        },
+        {
+          "name": "Rotterdam, Netherlands",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "court-1",
+      "tournamentSlug": "atp-500-abn-amro-open-2026",
+      "collectionSlug": "atp-500-abn-amro-open-2026"
+    },
+    {
+      "id": 8,
+      "isLive": true,
+      "name": "Cancha Guillermo Vilas",
+      "tournament": "ATP 250 - IEB+ Argentina Open 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 140203,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250IEBArgentina-Open--old-card-(1).png",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250IEBArgentina-Open--old-sporty--(1).png",
+      "teams": [
+        {
+          "name": "Cancha Guillermo Vilas",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png"
+        },
+        {
+          "name": "Buenos Aires, Argentina",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "cancha-guillermo-vilas",
+      "tournamentSlug": "atp-250-ieb-argentina-open-2026",
+      "collectionSlug": "atp-250-ieb-argentina-open-2026"
+    },
+    {
+      "id": 9,
+      "isLive": true,
+      "name": "World Feed",
+      "tournament": "ATP 500 - Nexo Dallas Open 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 140189,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/Dallas-Open-(ATP-500)-old-card-_1770112378426.png",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/Dallas-Open-(ATP-500)-old-Sporty-card-_1770112378388.png",
+      "teams": [
+        {
+          "name": "World Feed",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png"
+        },
+        {
+          "name": "Dallas, United States",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "world-feed",
+      "tournamentSlug": "atp-500-nexo-dallas-open-2026",
+      "collectionSlug": "atp-500-nexo-dallas-open-2026"
+    },
+    {
+      "id": 10,
+      "isLive": true,
+      "name": "Center Court",
+      "tournament": "ATP 500 - Nexo Dallas Open 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 140535,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/Dallas-Open-(ATP-500)-old-card-_1770541232780.png",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/Dallas-Open-(ATP-500)-old-Sporty-card-_1770541232774.png",
+      "teams": [
+        {
+          "name": "Center Court",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png"
+        },
+        {
+          "name": "Dallas, United States",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "center-court",
+      "tournamentSlug": "atp-500-nexo-dallas-open-2026",
+      "collectionSlug": "atp-500-nexo-dallas-open-2026"
+    },
+    {
+      "id": 11,
+      "isLive": true,
+      "name": "Grandstand",
+      "tournament": "ATP 500 - Nexo Dallas Open 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 140534,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/Dallas-Open-(ATP-500)-old-card-_1770541232780.png",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/Dallas-Open-(ATP-500)-old-Sporty-card-_1770541232774.png",
+      "teams": [
+        {
+          "name": "Grandstand",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png"
+        },
+        {
+          "name": "Dallas, United States",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "grandstand",
+      "tournamentSlug": "atp-500-nexo-dallas-open-2026",
+      "collectionSlug": "atp-500-nexo-dallas-open-2026"
+    }
+  ]
 }
