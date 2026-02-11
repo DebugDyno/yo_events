@@ -1,11 +1,32 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 5,
-  "updatedAt": "11/02/2026, 09:33:47 AM",
+  "total": 4,
+  "updatedAt": "11/02/2026, 11:11:42 AM",
   "data": [
     {
       "id": 1,
+      "isLive": true,
+      "contentId": "1540062201",
+      "name": "South Africa vs Afghanistan",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "JioHotstar",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/a4d71b602143763728884f9c64cc6887.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/ffad9586a0cb6bea30dbcdee90b775a3.jpg"
+      ],
+      "providerInfo": {
+        "id": "67977987ed126c0029b9f20c",
+        "name": "JioHotstar",
+        "hashId": "4025a7f67d456"
+      }
+    },
+    {
+      "id": 2,
       "isLive": true,
       "contentId": "140317",
       "name": "SKC vs LOC",
@@ -30,51 +51,9 @@
       }
     },
     {
-      "id": 2,
-      "isLive": true,
-      "contentId": "140374",
-      "name": "TIG vs FOR",
-      "genre": "football",
-      "language": "english",
-      "provider": "FanCode",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/backdrops/ec5c1df1d7eceb677162b9e123c86fff.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/d2ccbae62b6ca26c6e90bc9dbd16f388.jpg"
-      ],
-      "providerInfo": {
-        "id": "63ce216c483822001ca300a4",
-        "name": "FanCode",
-        "hashId": "c60fe425e3269"
-      }
-    },
-    {
       "id": 3,
       "isLive": true,
-      "contentId": "1540061456",
-      "name": "Windy City Open 2026: Semi-finals",
-      "genre": "squash",
-      "language": "english",
-      "provider": "JioHotstar",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/images/5410534feeccbf5b6cbd05a89de5f58f.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/332592a5c4302940ba7fbd3d4bb8f8ce.jpg"
-      ],
-      "providerInfo": {
-        "id": "67977987ed126c0029b9f20c",
-        "name": "JioHotstar",
-        "hashId": "4025a7f67d456"
-      }
-    },
-    {
-      "id": 4,
-      "isLive": true,
-      "contentId": "140188",
+      "contentId": "140533",
       "name": "ATP vs LOC",
       "genre": "lawn-tennis",
       "language": "english",
@@ -147,8 +126,8 @@
         "https://images.ottplay.com/backdrops/a106da37bd581c8e1a51d6c269e59a13.jpg"
       ],
       "posters": [
-        "https://images.ottplay.com/posters/ff2bbc1c25d0631270bd9e7e866363a4.jpg",
         "https://images.ottplay.com/posters/e4febf888f64401d06b6e37702b7b214.jpg",
+        "https://images.ottplay.com/posters/ff2bbc1c25d0631270bd9e7e866363a4.jpg",
         "https://images.ottplay.com/posters/09545afc09e36b54db391e3a8fca398c.jpg",
         "https://images.ottplay.com/posters/9c62de89679e63940f68ddc5c1ba0036.jpg",
         "https://images.ottplay.com/posters/973f55154030dea0702ec31b0e3f69ea.jpg",
@@ -219,7 +198,7 @@
       }
     },
     {
-      "id": 5,
+      "id": 4,
       "isLive": true,
       "contentId": "620235",
       "name": "ONE: Mark of Greatness",
