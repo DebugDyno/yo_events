@@ -1,26 +1,26 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 4,
-  "updatedAt": "11/02/2026, 11:11:40 AM",
+  "total": 3,
+  "updatedAt": "11/02/2026, 12:12:52 PM",
   "data": [
     {
       "id": 1,
+      "isLive": true,
+      "contentId": "1540061505",
+      "name": "Pakistan vs Germany",
+      "genre": "Hockey",
+      "provider": "JioHotstar",
+      "image": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/8804/1770765538804-h"
+    },
+    {
+      "id": 2,
       "isLive": true,
       "contentId": "1540062201",
       "name": "South Africa vs Afghanistan",
       "genre": "Cricket",
       "provider": "JioHotstar",
       "image": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/250/1770731860250-h"
-    },
-    {
-      "id": 2,
-      "isLive": true,
-      "contentId": "140533",
-      "name": "ATP 500 - Nexo Dallas Open 2026",
-      "genre": "Sports",
-      "provider": "FanCode",
-      "image": "https://images.fancode.com/aig/match/v1770537603226/140533_CASACARDS_PARTNER_16_9_1920_1080.png"
     },
     {
       "id": 3,
@@ -30,15 +30,6 @@
       "genre": "Sports",
       "provider": "FanCode",
       "image": "https://images.fancode.com/aig/match/v1/140317_CASACARDS_PARTNER_16_9_1920_1080.png"
-    },
-    {
-      "id": 4,
-      "isLive": true,
-      "contentId": "140188",
-      "name": "ATP 500 - Nexo Dallas Open 2026",
-      "genre": "Sports",
-      "provider": "FanCode",
-      "image": "https://images.fancode.com/aig/match/v1770120003211/140188_CASACARDS_PARTNER_16_9_1920_1080.png"
     }
   ]
 }
