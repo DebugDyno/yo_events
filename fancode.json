@@ -1,7 +1,182 @@
 {
-  "success": false,
-  "message": "Failed to fetch data from FanCode",
-  "updatedAt": "12/02/2026, 06:38:15 PM",
-  "error": "Invalid response structure from FanCode API",
-  "data": []
+  "success": true,
+  "message": "Live matches fetched successfully",
+  "total": 6,
+  "updatedAt": "12/02/2026, 07:45:31 PM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "name": "Match 104",
+      "tournament": "AFC Champions League Two 2025-26",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 140059,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/140059_5648_BU_MAC_FC-Web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/140059_5648_BU_MAC_FC-App.jpg",
+      "teams": [
+        {
+          "name": "Bangkok United",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-BANGK@2x.png"
+        },
+        {
+          "name": "Macarthur",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MACA@2x.png"
+        }
+      ],
+      "slug": "bangkok-united-vs-macarthur",
+      "tournamentSlug": "afc-champions-league-two-2025-26",
+      "collectionSlug": "afc-champions-league-two-2025-26"
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "name": "Day 1",
+      "tournament": "WTT Star Contenders",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 140603,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/WTT_web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/WTT-old-sporty.jpg",
+      "teams": [
+        {
+          "name": "Day 1",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/le-flags/FC-SP@2x.png"
+        },
+        {
+          "name": "Chennai",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/le-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "day-1",
+      "tournamentSlug": "wtt-star-contenders",
+      "collectionSlug": "wtt-star-contenders"
+    },
+    {
+      "id": 3,
+      "isLive": true,
+      "name": "World Feed",
+      "tournament": "ATP 500 - ABN AMRO Open 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 140197,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(3)_1770389196821.png",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/Old-Sporty-(1080x1440)-(2)_1770389196820.png",
+      "teams": [
+        {
+          "name": "World Feed",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png"
+        },
+        {
+          "name": "Rotterdam, Netherlands",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "world-feed",
+      "tournamentSlug": "atp-500-abn-amro-open-2026",
+      "collectionSlug": "atp-500-abn-amro-open-2026"
+    },
+    {
+      "id": 4,
+      "isLive": true,
+      "name": "Centre Court",
+      "tournament": "ATP 500 - ABN AMRO Open 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 140548,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(3)_1770389196821.png",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/Old-Sporty-(1080x1440)-(2)_1770389196820.png",
+      "teams": [
+        {
+          "name": "Centre Court",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png"
+        },
+        {
+          "name": "Rotterdam, Netherlands",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "centre-court",
+      "tournamentSlug": "atp-500-abn-amro-open-2026",
+      "collectionSlug": "atp-500-abn-amro-open-2026"
+    },
+    {
+      "id": 5,
+      "isLive": true,
+      "name": "Court 1",
+      "tournament": "ATP 500 - ABN AMRO Open 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 140547,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(3)_1770389196821.png",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/Old-Sporty-(1080x1440)-(2)_1770389196820.png",
+      "teams": [
+        {
+          "name": "Court 1",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png"
+        },
+        {
+          "name": "Rotterdam, Netherlands",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "court-1",
+      "tournamentSlug": "atp-500-abn-amro-open-2026",
+      "collectionSlug": "atp-500-abn-amro-open-2026"
+    },
+    {
+      "id": 6,
+      "isLive": true,
+      "name": "Day 2",
+      "tournament": "PIF Saudi Ladies International 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 140110,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(4)_1770293026599.png",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/Old-Sporty-(1080x1440)-(4)_1770293025899.png",
+      "teams": [
+        {
+          "name": "Day 2",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PIY@2x.png"
+        },
+        {
+          "name": "Riyadh Golf Club",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "day-2",
+      "tournamentSlug": "pif-saudi-ladies-international-2026",
+      "collectionSlug": "pif-saudi-ladies-international-2026"
+    }
+  ]
 }
