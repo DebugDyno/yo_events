@@ -1,7 +1,66 @@
 {
-  "success": false,
-  "message": "Failed to fetch data from FanCode",
-  "updatedAt": "14/02/2026, 04:28:28 PM",
-  "error": "Invalid response structure from FanCode API",
-  "data": []
+  "success": true,
+  "message": "Live matches fetched successfully",
+  "total": 2,
+  "updatedAt": "14/02/2026, 04:57:32 PM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "name": "Day 3",
+      "tournament": "WTT Star Contenders",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 140605,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/WTT_web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/WTT-old-sporty.jpg",
+      "teams": [
+        {
+          "name": "Day 3",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/le-flags/FC-SP@2x.png"
+        },
+        {
+          "name": "WTT Star Contenders",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/le-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "day-3",
+      "tournamentSlug": "wtt-star-contenders",
+      "collectionSlug": "wtt-star-contenders"
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "name": "Day 4",
+      "tournament": "PIF Saudi Ladies International 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 140112,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(4)_1770293026599.png",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/Old-Sporty-(1080x1440)-(4)_1770293025899.png",
+      "teams": [
+        {
+          "name": "Day 4",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PIY@2x.png"
+        },
+        {
+          "name": "Riyadh Golf Club",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "day-4",
+      "tournamentSlug": "pif-saudi-ladies-international-2026",
+      "collectionSlug": "pif-saudi-ladies-international-2026"
+    }
+  ]
 }
