@@ -1,7 +1,269 @@
 {
-  "success": false,
-  "message": "Failed to fetch data from FanCode",
-  "updatedAt": "14/02/2026, 09:49:42 PM",
-  "error": "Invalid response structure from FanCode API",
-  "data": []
+  "success": true,
+  "message": "Live matches fetched successfully",
+  "total": 9,
+  "updatedAt": "14/02/2026, 10:21:25 PM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "name": "Match 109",
+      "tournament": "EFL Championship 2025-26",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 139355,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/139355_5489_DER_SWA_FC-Web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/139355_5489_DER_SWA_FC-App.jpg",
+      "teams": [
+        {
+          "name": "Derby County Football Club",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-DER@2x.png"
+        },
+        {
+          "name": "Swansea City A.F.C.",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SWN@2x.png"
+        }
+      ],
+      "slug": "derby-county-football-club-vs-swansea-city-a-f-c",
+      "tournamentSlug": "efl-championship-2025-26",
+      "collectionSlug": "efl-championship-2025-26"
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "name": "Match 234",
+      "tournament": "LALIGA 2025-26",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 131066,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/131066_5427_GEF_VIL_FC-Web.png",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/131066_5427_GEF_VIL_FC-App.png",
+      "teams": [
+        {
+          "name": "Getafe CF",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-GEF@2x.png"
+        },
+        {
+          "name": "Villarreal CF",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-VIL@2x.png"
+        }
+      ],
+      "slug": "getafe-cf-vs-villarreal-cf",
+      "tournamentSlug": "laliga-2025-26",
+      "collectionSlug": "laliga-2025-26"
+    },
+    {
+      "id": 3,
+      "isLive": true,
+      "name": "Centre Court",
+      "tournament": "ATP 500 - ABN AMRO Open 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 140199,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(3)_1770389196821.png",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/Old-Sporty-(1080x1440)-(2)_1770389196820.png",
+      "teams": [
+        {
+          "name": "Centre Court",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png"
+        },
+        {
+          "name": "Rotterdam, Netherlands",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "centre-court",
+      "tournamentSlug": "atp-500-abn-amro-open-2026",
+      "collectionSlug": "atp-500-abn-amro-open-2026"
+    },
+    {
+      "id": 4,
+      "isLive": true,
+      "name": "World Feed",
+      "tournament": "ATP 500 - ABN AMRO Open 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 140550,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(3)_1770389196821.png",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/Old-Sporty-(1080x1440)-(2)_1770389196820.png",
+      "teams": [
+        {
+          "name": "World Feed",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png"
+        },
+        {
+          "name": "Rotterdam, Netherlands",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "world-feed",
+      "tournamentSlug": "atp-500-abn-amro-open-2026",
+      "collectionSlug": "atp-500-abn-amro-open-2026"
+    },
+    {
+      "id": 5,
+      "isLive": true,
+      "name": "Cancha Guillermo Vilas",
+      "tournament": "ATP 250 - IEB+ Argentina Open 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 140206,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250IEBArgentina-Open--old-card-(1).png",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250IEBArgentina-Open--old-sporty--(1).png",
+      "teams": [
+        {
+          "name": "Cancha Guillermo Vilas",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png"
+        },
+        {
+          "name": "Buenos Aires, Argentina",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "cancha-guillermo-vilas",
+      "tournamentSlug": "atp-250-ieb-argentina-open-2026",
+      "collectionSlug": "atp-250-ieb-argentina-open-2026"
+    },
+    {
+      "id": 6,
+      "isLive": true,
+      "name": "Main Feed - Day 3",
+      "tournament": "AT&T Pebble Beach Pro-Am 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 140632,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/AT&T-Pebble-Beach-Pro-Am-2026-old-card-.png",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/AT&T-Pebble-Beach-Pro-Am-2026-old-Sporty-.png",
+      "teams": [
+        {
+          "name": "Main Feed - Day 3",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png"
+        },
+        {
+          "name": "Pebble Beach Golf Links, Spyglass Hill Golf Course",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "main-feed-day-3",
+      "tournamentSlug": "at-t-pebble-beach-pro-am-2026",
+      "collectionSlug": "at-t-pebble-beach-pro-am-2026"
+    },
+    {
+      "id": 7,
+      "isLive": true,
+      "name": "Featured Groups - Day 3",
+      "tournament": "AT&T Pebble Beach Pro-Am 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 140630,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/AT&T-Pebble-Beach-Pro-Am-2026-old-card-.png",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/AT&T-Pebble-Beach-Pro-Am-2026-old-Sporty-.png",
+      "teams": [
+        {
+          "name": "Featured Groups - Day 3",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png"
+        },
+        {
+          "name": "Pebble Beach Golf Links, Spyglass Hill Golf Course",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "featured-groups-day-3",
+      "tournamentSlug": "at-t-pebble-beach-pro-am-2026",
+      "collectionSlug": "at-t-pebble-beach-pro-am-2026"
+    },
+    {
+      "id": 8,
+      "isLive": true,
+      "name": "Marquee Feed - Day 3",
+      "tournament": "AT&T Pebble Beach Pro-Am 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 140629,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/AT&T-Pebble-Beach-Pro-Am-2026-old-card-.png",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/AT&T-Pebble-Beach-Pro-Am-2026-old-Sporty-.png",
+      "teams": [
+        {
+          "name": "Marquee Feed - Day 3",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png"
+        },
+        {
+          "name": "Pebble Beach Golf Links, Spyglass Hill Golf Course",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "marquee-feed-day-3",
+      "tournamentSlug": "at-t-pebble-beach-pro-am-2026",
+      "collectionSlug": "at-t-pebble-beach-pro-am-2026"
+    },
+    {
+      "id": 9,
+      "isLive": true,
+      "name": "Featured Holes - Day 3",
+      "tournament": "AT&T Pebble Beach Pro-Am 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 140631,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/AT&T-Pebble-Beach-Pro-Am-2026-old-card-.png",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/AT&T-Pebble-Beach-Pro-Am-2026-old-Sporty-.png",
+      "teams": [
+        {
+          "name": "Featured Holes - Day 3",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png"
+        },
+        {
+          "name": "Pebble Beach Golf Links, Spyglass Hill Golf Course",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "featured-holes-day-3",
+      "tournamentSlug": "at-t-pebble-beach-pro-am-2026",
+      "collectionSlug": "at-t-pebble-beach-pro-am-2026"
+    }
+  ]
 }
