@@ -2,21 +2,28 @@
   "status": "200",
   "success": true,
   "message": "Data fetched successfully",
-  "total": 7,
-  "updatedAt": "15/02/2026, 10:16:19 AM",
+  "total": 9,
+  "updatedAt": "15/02/2026, 11:15:11 AM",
   "data": [
     {
-      "id": "1540063939",
-      "name": "Australia vs Germany",
-      "tounament": "Watch the live stream of the FIH Men's Pro League 2025/26 match between Australia and Germany",
-      "Portrait_Image": "https://img.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6303/1771090626303-h",
-      "Landscape_Image": "https://img.hotstar.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/6303/1771090626303-h",
+      "id": "1540062225",
+      "name": "West Indies vs Nepal",
+      "tounament": "Watch the live stream of the ICC Men's T20 World Cup 2026 match between West Indies and Nepal",
+      "Portrait_Image": "https://img.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/4329/1771091344329-h",
+      "Landscape_Image": "https://img.hotstar.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/4329/1771091344329-h",
       "provider": "Hotstar",
       "language": [
-        "English"
+        "English",
+        "Hindi",
+        "Tamil",
+        "Bengali",
+        "Haryanvi",
+        "Bhojpuri",
+        "Telugu",
+        "Kannada"
       ],
       "isLive": true,
-      "metaDetailVerbiage": "English • Sports",
+      "metaDetailVerbiage": "8 Languages • Sports",
       "genre": "Sports"
     },
     {
@@ -33,6 +40,20 @@
       ],
       "isLive": true,
       "metaDetailVerbiage": "3 Languages • Sports",
+      "genre": "Sports"
+    },
+    {
+      "id": "1540063939",
+      "name": "Australia vs Germany",
+      "tounament": "Watch the live stream of the FIH Men's Pro League 2025/26 match between Australia and Germany",
+      "Portrait_Image": "https://img.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6303/1771090626303-h",
+      "Landscape_Image": "https://img.hotstar.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/6303/1771090626303-h",
+      "provider": "Hotstar",
+      "language": [
+        "English"
+      ],
+      "isLive": true,
+      "metaDetailVerbiage": "English • Sports",
       "genre": "Sports"
     },
     {
@@ -64,39 +85,53 @@
       "genre": "Sports"
     },
     {
-      "id": "140607",
-      "name": "Women's Premier League T20 2026",
-      "tounament": "Women's Premier League T20 2026",
-      "Portrait_Image": "https://images.fancode.com/aig/match/v1770868801574/140607_CASACARDS_PARTNER_2_3_700_1050.png",
-      "Landscape_Image": "https://images.fancode.com/aig/match/v1770868801574/140607_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "provider": "FanCode",
-      "language": [
-        "English"
-      ],
-      "isLive": true,
-      "metaDetailVerbiage": "English • Cricket • U",
-      "genre": "Cricket"
-    },
-    {
-      "id": "140608",
-      "name": "Women's Premier League T20 2026",
-      "tounament": "Women's Premier League T20 2026",
-      "Portrait_Image": "https://images.fancode.com/aig/match/v1770868801620/140608_CASACARDS_PARTNER_2_3_700_1050.png",
-      "Landscape_Image": "https://images.fancode.com/aig/match/v1770868801620/140608_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "provider": "FanCode",
-      "language": [
-        "English"
-      ],
-      "isLive": true,
-      "metaDetailVerbiage": "English • Cricket • U",
-      "genre": "Cricket"
-    },
-    {
       "id": "140642",
       "name": "Legends League Cricket Auction 2026",
       "tounament": "Legends League Cricket Auction 2026",
       "Portrait_Image": "https://images.fancode.com/aig/match/v1770998403391/140642_CASACARDS_PARTNER_2_3_700_1050.png",
-      "Landscape_Image": "https://images.fancode.com/aig/match/v1770998403391/140642_CASACARDS_PARTNER_11_10_550_500.png",
+      "Landscape_Image": "https://images.fancode.com/aig/match/v1770998403391/140642_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "provider": "FanCode",
+      "language": [
+        "English"
+      ],
+      "isLive": true,
+      "metaDetailVerbiage": "English • Liveevents • U",
+      "genre": "Liveevents"
+    },
+    {
+      "id": "140606",
+      "name": "WTT Star Contenders",
+      "tounament": "WTT Star Contenders",
+      "Portrait_Image": "https://images.fancode.com/aig/match/v1770753602273/140606_CASACARDS_PARTNER_2_3_700_1050.png",
+      "Landscape_Image": "https://images.fancode.com/aig/match/v1770753602273/140606_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "provider": "FanCode",
+      "language": [
+        "English"
+      ],
+      "isLive": true,
+      "metaDetailVerbiage": "English • Liveevents • U",
+      "genre": "Liveevents"
+    },
+    {
+      "id": "140614",
+      "name": "Premier League T20 2026",
+      "tounament": "Premier League T20 2026",
+      "Portrait_Image": "https://images.fancode.com/aig/match/v1770868801643/140614_CASACARDS_PARTNER_2_3_700_1050.png",
+      "Landscape_Image": "https://images.fancode.com/aig/match/v1770868801643/140614_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "provider": "FanCode",
+      "language": [
+        "English"
+      ],
+      "isLive": true,
+      "metaDetailVerbiage": "English • Cricket • U",
+      "genre": "Cricket"
+    },
+    {
+      "id": "140615",
+      "name": "Premier League T20 2026",
+      "tounament": "Premier League T20 2026",
+      "Portrait_Image": "https://images.fancode.com/aig/match/v1770868801669/140615_CASACARDS_PARTNER_2_3_700_1050.png",
+      "Landscape_Image": "https://images.fancode.com/aig/match/v1770868801669/140615_CASACARDS_PARTNER_7_2_1920_548.png",
       "provider": "FanCode",
       "language": [
         "English"
