@@ -1,7 +1,182 @@
 {
-  "success": false,
-  "message": "Failed to fetch data from FanCode",
-  "updatedAt": "15/02/2026, 08:29:32 PM",
-  "error": "Invalid response structure from FanCode API",
-  "data": []
+  "success": true,
+  "message": "Live matches fetched successfully",
+  "total": 6,
+  "updatedAt": "15/02/2026, 09:03:49 PM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "name": "Match 4",
+      "tournament": "ISL 2025-26",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 140434,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/140434_5956_BFC_SCD_fc-web_1771131079325.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/140434_5956_BFC_SCD_fc-app_1771131079320.jpg",
+      "teams": [
+        {
+          "name": "Bengaluru FC",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-BEG@2x.png"
+        },
+        {
+          "name": "Sporting Club Delhi",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SCD@2x.png"
+        }
+      ],
+      "slug": "bengaluru-fc-vs-sporting-club-delhi",
+      "tournamentSlug": "isl-2025-26",
+      "collectionSlug": "isl-2025-26"
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "name": "Match 239",
+      "tournament": "LALIGA 2025-26",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 131061,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/131061_5427_RVL_ATL_FC-Web.png",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/131061_5427_RVL_ATL_FC-App.png",
+      "teams": [
+        {
+          "name": "Rayo Vallecano",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-RAV@2x.png"
+        },
+        {
+          "name": "Atletico de Madrid",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ATLH@2x.png"
+        }
+      ],
+      "slug": "rayo-vallecano-vs-atletico-de-madrid",
+      "tournamentSlug": "laliga-2025-26",
+      "collectionSlug": "laliga-2025-26"
+    },
+    {
+      "id": 3,
+      "isLive": true,
+      "name": "Centre Court",
+      "tournament": "ATP 500 - ABN AMRO Open 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 140200,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(3)_1770389196821.png",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/Old-Sporty-(1080x1440)-(2)_1770389196820.png",
+      "teams": [
+        {
+          "name": "Centre Court",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png"
+        },
+        {
+          "name": "Rotterdam, Netherlands",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "centre-court",
+      "tournamentSlug": "atp-500-abn-amro-open-2026",
+      "collectionSlug": "atp-500-abn-amro-open-2026"
+    },
+    {
+      "id": 4,
+      "isLive": true,
+      "name": "World Feed",
+      "tournament": "ATP 500 - ABN AMRO Open 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 140551,
+      "streamType": "PAID",
+      "landscapeImage": " https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(3)_1770389196821.png",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/Old-Sporty-(1080x1440)-(2)_1770389196820.png",
+      "teams": [
+        {
+          "name": "World Feed",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png"
+        },
+        {
+          "name": "Rotterdam, Netherlands",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "world-feed",
+      "tournamentSlug": "atp-500-abn-amro-open-2026",
+      "collectionSlug": "atp-500-abn-amro-open-2026"
+    },
+    {
+      "id": 5,
+      "isLive": true,
+      "name": "Main Feed - Day 4",
+      "tournament": "AT&T Pebble Beach Pro-Am 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 140636,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/AT&T-Pebble-Beach-Pro-Am-2026-old-card-.png",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/AT&T-Pebble-Beach-Pro-Am-2026-old-Sporty-.png",
+      "teams": [
+        {
+          "name": "Main Feed - Day 4",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png"
+        },
+        {
+          "name": "Pebble Beach Golf Links, Spyglass Hill Golf Course",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "main-feed-day-4",
+      "tournamentSlug": "at-t-pebble-beach-pro-am-2026",
+      "collectionSlug": "at-t-pebble-beach-pro-am-2026"
+    },
+    {
+      "id": 6,
+      "isLive": true,
+      "name": "Featured Groups - Day 4",
+      "tournament": "AT&T Pebble Beach Pro-Am 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 140635,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/AT&T-Pebble-Beach-Pro-Am-2026-old-card-.png",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/AT&T-Pebble-Beach-Pro-Am-2026-old-Sporty-.png",
+      "teams": [
+        {
+          "name": "Featured Groups - Day 4",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png"
+        },
+        {
+          "name": "Pebble Beach Golf Links, Spyglass Hill Golf Course",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "featured-groups-day-4",
+      "tournamentSlug": "at-t-pebble-beach-pro-am-2026",
+      "collectionSlug": "at-t-pebble-beach-pro-am-2026"
+    }
+  ]
 }
