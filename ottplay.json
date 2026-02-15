@@ -1,6 +1,228 @@
 {
-  "success": false,
-  "message": "Failed to fetch data",
-  "data": [],
-  "error": "HTTP error! Status: 403"
+  "success": true,
+  "message": "Live matches fetched successfully",
+  "total": 10,
+  "updatedAt": "15/02/2026, 05:11:43 PM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "1090503978",
+      "name": "Birmingham City vs Leeds United - Round 4 - 15 Feb 2026",
+      "genre": "football",
+      "language": "english",
+      "provider": "SonyLIV",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/3e8c533d50434921a198b7865b2c18f6.jpg",
+        "https://images.ottplay.com/images/19976e76c714ffeece478ee4c27ddfca.jpg",
+        "https://images.ottplay.com/images/050273a90f09f5d73f39c4535b6076e2.jpg",
+        "https://images.ottplay.com/images/05a94876611314183e29b699a8a534e2.jpg",
+        "https://images.ottplay.com/images/d8c32253968a40da66f0aec99bc09600.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/1c2e1531a3225a2d8d44201b4e7b0606.jpg"
+      ],
+      "providerInfo": {
+        "id": "5f456c2aff9ccd034434e6fd",
+        "name": "SonyLIV",
+        "hashId": "100dc02b90dfc"
+      }
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "contentId": "140433",
+      "name": "JFC vs MSC",
+      "genre": "football",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/554a32c3cdf930feb13e893ef6c5b7fa.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/99841cede4b6d9dcbe6ef0a32530e3fe.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 3,
+      "isLive": true,
+      "contentId": "1540063540",
+      "name": "Winter Olympics: Day 9",
+      "genre": "multi sports",
+      "language": "english",
+      "provider": "JioHotstar",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/cb7252bc343139fbdb60b7275f4d0262.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/b2ae32fb6c1ed85e85c0362d21a47c6d.jpg"
+      ],
+      "providerInfo": {
+        "id": "67977987ed126c0029b9f20c",
+        "name": "JioHotstar",
+        "hashId": "4025a7f67d456"
+      }
+    },
+    {
+      "id": 4,
+      "isLive": true,
+      "contentId": "1540062228",
+      "name": "USA vs Namibia",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "JioHotstar",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/350c454e9269dcefc536b4d397818399.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/80fe0a361b790b4891ba4475f52c923c.jpg"
+      ],
+      "providerInfo": {
+        "id": "67977987ed126c0029b9f20c",
+        "name": "JioHotstar",
+        "hashId": "4025a7f67d456"
+      }
+    },
+    {
+      "id": 5,
+      "isLive": true,
+      "contentId": "1540063853",
+      "name": "Indian Racing League: Day 11",
+      "genre": "motorsports",
+      "language": "english",
+      "provider": "JioHotstar",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/d568dff7bed07b344dda9a09dd874b3c.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/3801f7854636911a10646f158d5c8f40.jpg"
+      ],
+      "providerInfo": {
+        "id": "67977987ed126c0029b9f20c",
+        "name": "JioHotstar",
+        "hashId": "4025a7f67d456"
+      }
+    },
+    {
+      "id": 6,
+      "isLive": true,
+      "contentId": "1540063999",
+      "name": "Finals: European Team Championships",
+      "genre": "badminton",
+      "language": "english",
+      "provider": "JioHotstar",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/aaeb7f218c70fd388b70f8d377f9dfb8.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/64c1797aabc0266f92e7bb6bb4ef6560.jpg"
+      ],
+      "providerInfo": {
+        "id": "67977987ed126c0029b9f20c",
+        "name": "JioHotstar",
+        "hashId": "4025a7f67d456"
+      }
+    },
+    {
+      "id": 7,
+      "isLive": true,
+      "contentId": "140606",
+      "name": "WTT vs LOC",
+      "genre": "liveevents",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/44564e44529ecb512c0e1ec223427300.jpg",
+        "https://images.ottplay.com/backdrops/30c791e46d45ed3dd68fe0ef0a0ee2c2.jpg",
+        "https://images.ottplay.com/backdrops/7673d7f52d83907571906bfc366366f4.jpg",
+        "https://images.ottplay.com/backdrops/a862acc9e899a7c489cde37bb05b20d0.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/111aeb3e40ffe7110ac94fef96246d2d.jpg",
+        "https://images.ottplay.com/posters/5cf542bf09d705b6ee49407c7b0d58d5.jpg",
+        "https://images.ottplay.com/posters/7024c3b65c50880bc0b072d3ec2bbeb4.jpg",
+        "https://images.ottplay.com/posters/29cdd927fd518fec0bfe9c9c46cdbb45.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 8,
+      "isLive": true,
+      "contentId": "1540064019",
+      "name": "Dil Se India: India vs Pakistan",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "JioHotstar",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/2edf3351d868da9200fc187e52639704.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/b194e4c77608ef47bfe5e1ca152172f0.jpg"
+      ],
+      "providerInfo": {
+        "id": "67977987ed126c0029b9f20c",
+        "name": "JioHotstar",
+        "hashId": "4025a7f67d456"
+      }
+    },
+    {
+      "id": 9,
+      "isLive": true,
+      "contentId": "1540063129",
+      "name": "Uttarakhand vs Karnataka: SF, Day 1",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "JioHotstar",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/b41b21880b65021a08f114ffc000d6ff.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/b968bb52fa8e8449748187a9d13ed68e.jpg"
+      ],
+      "providerInfo": {
+        "id": "67977987ed126c0029b9f20c",
+        "name": "JioHotstar",
+        "hashId": "4025a7f67d456"
+      }
+    },
+    {
+      "id": 10,
+      "isLive": true,
+      "contentId": "1540063132",
+      "name": "Bengal vs Jammu and Kashmir: SF, Day 1",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "JioHotstar",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/a3c2a2a965255616018fbdbd6a1f1166.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/6c553eb4c328489a3b96309b114fe69b.jpg"
+      ],
+      "providerInfo": {
+        "id": "67977987ed126c0029b9f20c",
+        "name": "JioHotstar",
+        "hashId": "4025a7f67d456"
+      }
+    }
+  ]
 }
