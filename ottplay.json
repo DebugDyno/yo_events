@@ -1,11 +1,32 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 4,
-  "updatedAt": "19/02/2026, 09:35:41 AM",
+  "total": 3,
+  "updatedAt": "19/02/2026, 11:05:16 AM",
   "data": [
     {
-      "id": 1,
+      "id": 2,
+      "isLive": true,
+      "contentId": "1540062249",
+      "name": "West Indies vs Italy",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "JioHotstar",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/73d7049c683daa04545aae05bd4ab0ed.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/1944d2aa6510ca345e2067a5e3807b67.jpg"
+      ],
+      "providerInfo": {
+        "id": "67977987ed126c0029b9f20c",
+        "name": "JioHotstar",
+        "hashId": "4025a7f67d456"
+      }
+    },
+    {
+      "id": 3,
       "isLive": true,
       "contentId": "1540063153",
       "name": "Uttarakhand vs Karnataka: SF, Day 5",
@@ -26,7 +47,7 @@
       }
     },
     {
-      "id": 2,
+      "id": 4,
       "isLive": true,
       "contentId": "134037",
       "name": "TAS vs NSW",
@@ -39,48 +60,6 @@
       ],
       "posters": [
         "https://images.ottplay.com/posters/325198e3737568b13e36d8aef524fb39.jpg"
-      ],
-      "providerInfo": {
-        "id": "63ce216c483822001ca300a4",
-        "name": "FanCode",
-        "hashId": "c60fe425e3269"
-      }
-    },
-    {
-      "id": 3,
-      "isLive": true,
-      "contentId": "140382",
-      "name": "CSC vs VAN",
-      "genre": "football",
-      "language": "english",
-      "provider": "FanCode",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/backdrops/e4a52ff9f292e2d274a8d06affa4c226.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/a372c4a8e6065081ad95c7f0a8616ddc.jpg"
-      ],
-      "providerInfo": {
-        "id": "63ce216c483822001ca300a4",
-        "name": "FanCode",
-        "hashId": "c60fe425e3269"
-      }
-    },
-    {
-      "id": 4,
-      "isLive": true,
-      "contentId": "134036",
-      "name": "WAU vs VCT",
-      "genre": "cricket",
-      "language": "english",
-      "provider": "FanCode",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/backdrops/fdc9cc17edcdc15f9ebd2e9b55e92238.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/6e912ff8d02d2bc37dc341ed4f1956b3.jpg"
       ],
       "providerInfo": {
         "id": "63ce216c483822001ca300a4",
