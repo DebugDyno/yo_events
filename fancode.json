@@ -1,7 +1,269 @@
 {
-  "success": false,
-  "message": "Failed to fetch data from FanCode",
-  "updatedAt": "21/02/2026, 10:46:22 PM",
-  "error": "Invalid response structure from FanCode API",
-  "data": []
+  "success": true,
+  "message": "Live matches fetched successfully",
+  "total": 9,
+  "updatedAt": "21/02/2026, 11:16:01 PM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "name": "Match 7",
+      "tournament": "Boland T20 Super League Finals 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 140680,
+      "streamType": "AUTH",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/140680_5968_PECC_VDCC_FC-Web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/140680_5968_PECC_VDCC_FC-App.jpg",
+      "teams": [
+        {
+          "name": "Paarl East Cricket Club",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PECC@2x.png"
+        },
+        {
+          "name": "Van der Stel Cricket Club",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-VDCC@2x.png"
+        }
+      ],
+      "slug": "paarl-east-cricket-club-vs-van-der-stel-cricket-club",
+      "tournamentSlug": "boland-t20-super-league-finals-2026",
+      "collectionSlug": "boland-t20-super-league-finals-2026"
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "name": "Match 249",
+      "tournament": "LALIGA 2025-26",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 131071,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/131071_5427_OSN_RM_FC-Web.png",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/131071_5427_OSN_RM_FC-App.png",
+      "teams": [
+        {
+          "name": "CA Osasuna",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-OSN@2x.png"
+        },
+        {
+          "name": "Real Madrid",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-RMA@2x.png"
+        }
+      ],
+      "slug": "ca-osasuna-vs-real-madrid",
+      "tournamentSlug": "laliga-2025-26",
+      "collectionSlug": "laliga-2025-26"
+    },
+    {
+      "id": 3,
+      "isLive": true,
+      "name": "Featured Groups - Day 3",
+      "tournament": "The Genesis Invitational 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 140574,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1770825129935.png",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/Old-Sporty-(1080x1440)_1770825129243.png",
+      "teams": [
+        {
+          "name": "Featured Groups - Day 3",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png"
+        },
+        {
+          "name": "The Riviera Country Club",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "featured-groups-day-3",
+      "tournamentSlug": "the-genesis-invitational-2026",
+      "collectionSlug": "the-genesis-invitational-2026"
+    },
+    {
+      "id": 4,
+      "isLive": true,
+      "name": "Main Feed - Day 3",
+      "tournament": "The Genesis Invitational 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 140572,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1770825129935.png",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/Old-Sporty-(1080x1440)_1770825129243.png",
+      "teams": [
+        {
+          "name": "Main Feed - Day 3",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png"
+        },
+        {
+          "name": "The Riviera Country Club",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "main-feed-day-3",
+      "tournamentSlug": "the-genesis-invitational-2026",
+      "collectionSlug": "the-genesis-invitational-2026"
+    },
+    {
+      "id": 5,
+      "isLive": true,
+      "name": "Marquee Group - Day 3",
+      "tournament": "The Genesis Invitational 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 140573,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1770825129935.png",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/Old-Sporty-(1080x1440)_1770825129243.png",
+      "teams": [
+        {
+          "name": "Marquee Group - Day 3",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png"
+        },
+        {
+          "name": "The Riviera Country Club",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "marquee-group-day-3",
+      "tournamentSlug": "the-genesis-invitational-2026",
+      "collectionSlug": "the-genesis-invitational-2026"
+    },
+    {
+      "id": 6,
+      "isLive": true,
+      "name": "Quadra Guga Kuerten",
+      "tournament": "ATP 500 - Rio Open Presented by Claro 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 140761,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(6).png",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/Old-Sporty-(1080x1440)-(5)_1771347572389.png",
+      "teams": [
+        {
+          "name": "Quadra Guga Kuerten",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png"
+        },
+        {
+          "name": "Rio de Janeiro, Brazil",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "quadra-guga-kuerten",
+      "tournamentSlug": "atp-500-rio-open-presented-by-claro-2026",
+      "collectionSlug": "atp-500-rio-open-presented-by-claro-2026"
+    },
+    {
+      "id": 7,
+      "isLive": true,
+      "name": "World Feed - Day 3",
+      "tournament": "The Genesis Invitational 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 140070,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1770825129935.png",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/Old-Sporty-(1080x1440)_1770825129243.png",
+      "teams": [
+        {
+          "name": "World Feed - Day 3",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png"
+        },
+        {
+          "name": "The Riviera Country Club",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "world-feed-day-3",
+      "tournamentSlug": "the-genesis-invitational-2026",
+      "collectionSlug": "the-genesis-invitational-2026"
+    },
+    {
+      "id": 8,
+      "isLive": true,
+      "name": "World Feed",
+      "tournament": "ATP 500 - Qatar ExxonMobil Open 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 140213,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/ATP_Qatar_Alcaraz_Fils_web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/ATP_Qatar_Alcaraz_Fils_Old-sporty.jpg",
+      "teams": [
+        {
+          "name": "World Feed",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png"
+        },
+        {
+          "name": "Doha, Qatar",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "world-feed",
+      "tournamentSlug": "atp-500-qatar-exxonmobil-open-2026",
+      "collectionSlug": "atp-500-qatar-exxonmobil-open-2026"
+    },
+    {
+      "id": 9,
+      "isLive": true,
+      "name": "Center Court",
+      "tournament": "ATP 500 - Qatar ExxonMobil Open 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 140758,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/ATP_Qatar_Alcaraz_Fils_web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/ATP_Qatar_Alcaraz_Fils_Old-sporty.jpg",
+      "teams": [
+        {
+          "name": "Center Court",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png"
+        },
+        {
+          "name": "Doha, Qatar",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "center-court",
+      "tournamentSlug": "atp-500-qatar-exxonmobil-open-2026",
+      "collectionSlug": "atp-500-qatar-exxonmobil-open-2026"
+    }
+  ]
 }
