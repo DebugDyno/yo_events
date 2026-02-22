@@ -1,11 +1,20 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 9,
-  "updatedAt": "22/02/2026, 09:36:16 AM",
+  "total": 4,
+  "updatedAt": "22/02/2026, 10:52:18 AM",
   "data": [
     {
       "id": 1,
+      "isLive": true,
+      "contentId": "1540063980",
+      "name": "Australia vs China",
+      "genre": "Hockey",
+      "provider": "JioHotstar",
+      "image": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/4266/1771681084266-h"
+    },
+    {
+      "id": 2,
       "isLive": true,
       "contentId": "1540064224",
       "name": "Maharashtra vs Delhi",
@@ -14,43 +23,7 @@
       "image": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/9174/1771677689174-h"
     },
     {
-      "id": 2,
-      "isLive": true,
-      "contentId": "1090504656",
-      "name": "Sony Sports Ten 2",
-      "genre": "Fight Sports",
-      "provider": "Sony Liv",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/sony4/videoasset_images/manage_file/1000015476/1771652969311249_UFC_Fight_Night_Strickland_vs_Hernandez_Hindi_landscape_thumb.jpg"
-    },
-    {
       "id": 3,
-      "isLive": true,
-      "contentId": "1090504655",
-      "name": "Sony Sports Ten 2",
-      "genre": "Fight Sports",
-      "provider": "Sony Liv",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/sony4/videoasset_images/manage_file/1000015476/1771653012741249_UFC_Fight_Night_Strickland_vs_Hernandez_tamil_landscape_thumb.jpg"
-    },
-    {
-      "id": 4,
-      "isLive": true,
-      "contentId": "1090504653",
-      "name": "Sony Sports Ten 2",
-      "genre": "Fight Sports",
-      "provider": "Sony Liv",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/sony4/videoasset_images/manage_file/1000015476/1771652994645249_UFC_Fight_Night_Strickland_vs_Hernandez_landscape_thumb.jpg"
-    },
-    {
-      "id": 5,
-      "isLive": true,
-      "contentId": "1090504654",
-      "name": "Sony Sports Ten 2",
-      "genre": "Fight Sports",
-      "provider": "Sony Liv",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/sony4/videoasset_images/manage_file/1000015476/1771653037882249_UFC_Fight_Night_Strickland_vs_Hernandez_telugu_landscape_thumb.jpg"
-    },
-    {
-      "id": 6,
       "isLive": true,
       "contentId": "140609",
       "name": "Lantau Cricket Club Women VS Kowloon Cricket Club Women",
@@ -59,25 +32,7 @@
       "image": "https://images.fancode.com/aig/match/v1771128000451/140609_CASACARDS_PARTNER_16_9_1920_1080.png"
     },
     {
-      "id": 7,
-      "isLive": true,
-      "contentId": "140610",
-      "name": "Diasqua Little Sai Wan Cricket Club Women VS Hong Kong Cricket Club Women",
-      "genre": "Sports",
-      "provider": "FanCode",
-      "image": "https://images.fancode.com/aig/match/v1771120800395/140610_CASACARDS_PARTNER_16_9_1920_1080.png"
-    },
-    {
-      "id": 8,
-      "isLive": true,
-      "contentId": "140300",
-      "name": "ATP 250 - Delray Beach Open 2026",
-      "genre": "Sports",
-      "provider": "FanCode",
-      "image": "https://images.fancode.com/aig/match/v1771070402258/140300_CASACARDS_PARTNER_16_9_1920_1080.png"
-    },
-    {
-      "id": 9,
+      "id": 4,
       "isLive": true,
       "contentId": "133982",
       "name": "ACT Meteors VS South Australian Scorpions",
