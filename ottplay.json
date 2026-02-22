@@ -1,11 +1,32 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 12,
-  "updatedAt": "22/02/2026, 04:26:50 PM",
+  "total": 8,
+  "updatedAt": "22/02/2026, 04:49:17 PM",
   "data": [
     {
       "id": 1,
+      "isLive": true,
+      "contentId": "140441",
+      "name": "BFC vs NEUFC",
+      "genre": "football",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/73c698ca227b7c73d21b66df8b92a493.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/3b36c677679fb10c92e30ca1ea39b396.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 2,
       "isLive": true,
       "contentId": "140662",
       "name": "EN-A vs PKS",
@@ -29,7 +50,7 @@
       }
     },
     {
-      "id": 2,
+      "id": 3,
       "isLive": true,
       "contentId": "1540064212",
       "name": "Curling: SUI vs SWE, Gold Medal Match",
@@ -50,7 +71,7 @@
       }
     },
     {
-      "id": 3,
+      "id": 4,
       "isLive": true,
       "contentId": "1540064209",
       "name": "Bobsleigh Heats",
@@ -72,7 +93,7 @@
       }
     },
     {
-      "id": 4,
+      "id": 5,
       "isLive": true,
       "contentId": "1540063561",
       "name": "Cross-country Skiing",
@@ -81,6 +102,7 @@
       "provider": "JioHotstar",
       "content_type": "sport",
       "image": [
+        "https://images.ottplay.com/images/2db290927da839b03a850063971d0fe7.jpg",
         "https://images.ottplay.com/images/024d63604b98d5460ff26243835c468e.jpg",
         "https://images.ottplay.com/images/383ad3eb240afda21b65ddf7f639544e.jpg"
       ],
@@ -94,7 +116,7 @@
       }
     },
     {
-      "id": 5,
+      "id": 6,
       "isLive": true,
       "contentId": "1540062255",
       "name": "Super 8: Sri Lanka vs England",
@@ -115,7 +137,7 @@
       }
     },
     {
-      "id": 6,
+      "id": 7,
       "isLive": true,
       "contentId": "1540063242",
       "name": "South Africa W vs Pakistan W: 1st ODI",
@@ -138,109 +160,7 @@
       }
     },
     {
-      "id": 7,
-      "isLive": true,
-      "contentId": "1090504675",
-      "name": "India A Women vs Bangladesh A Women - Final - 22 Feb 2026",
-      "genre": "cricket",
-      "language": "hindi",
-      "provider": "SonyLIV",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/images/b67db7f39f9dcea450e13912d657a611.jpg",
-        "https://images.ottplay.com/images/b6ba8f0a7ad961141515761648585616.jpg",
-        "https://images.ottplay.com/images/78b60347864eaecfb59de4215d22ef63.jpg",
-        "https://images.ottplay.com/images/462ac06b9cac313de9942807153204a3.jpg",
-        "https://images.ottplay.com/images/dedadfe8e41e7d8306b148f69d403b63.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/46cd883fcab6208cc9ff87c2b656e134.jpg"
-      ],
-      "providerInfo": {
-        "id": "5f456c2aff9ccd034434e6fd",
-        "name": "SonyLIV",
-        "hashId": "100dc02b90dfc"
-      }
-    },
-    {
       "id": 8,
-      "isLive": true,
-      "contentId": "1090504674",
-      "name": "India A Women vs Bangladesh A Women - Final - 22 Feb 2026",
-      "genre": "cricket",
-      "language": "telugu",
-      "provider": "SonyLIV",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/images/d70b36e37c6f940591b25fd46e059342.jpg",
-        "https://images.ottplay.com/images/b6ba8f0a7ad961141515761648585616.jpg",
-        "https://images.ottplay.com/images/78c6450d92ab98d29432cd822ee0d09a.jpg",
-        "https://images.ottplay.com/images/19520f8b7a6d108e01310d2301104622.jpg",
-        "https://images.ottplay.com/images/c85ede38a694cac72c9dc79d9a233b23.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/f0deae15261c6fff4f12002e31368ab7.jpg"
-      ],
-      "providerInfo": {
-        "id": "5f456c2aff9ccd034434e6fd",
-        "name": "SonyLIV",
-        "hashId": "100dc02b90dfc"
-      }
-    },
-    {
-      "id": 9,
-      "isLive": true,
-      "contentId": "1090504673",
-      "name": "India A Women vs Bangladesh A Women - Final - 22 Feb 2026",
-      "genre": "cricket",
-      "language": "tamil",
-      "provider": "SonyLIV",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/images/d91bb1c3ab938450a63ccbc380e2b15a.jpg",
-        "https://images.ottplay.com/images/b6ba8f0a7ad961141515761648585616.jpg",
-        "https://images.ottplay.com/images/9850010e8f9ecef8456156acbb31a739.jpg",
-        "https://images.ottplay.com/images/15f47bb818d3604931dec63bce42801d.jpg",
-        "https://images.ottplay.com/images/220cbd5fe01727d919d9c207b0c0610a.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/171339056c30d85db9f62396642dad01.jpg"
-      ],
-      "providerInfo": {
-        "id": "5f456c2aff9ccd034434e6fd",
-        "name": "SonyLIV",
-        "hashId": "100dc02b90dfc"
-      }
-    },
-    {
-      "id": 10,
-      "isLive": true,
-      "contentId": "1090504658",
-      "name": "India A Women vs Bangladesh A Women - Final - 22 Feb 2026",
-      "genre": "cricket",
-      "language": "english",
-      "provider": "SonyLIV",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/images/media/gallery/l1920x1080-1771742052.jpg",
-        "https://images.ottplay.com/images/2d37867eefac11af767f44ed1c0908f6.jpg",
-        "https://images.ottplay.com/images/b6ba8f0a7ad961141515761648585616.jpg",
-        "https://images.ottplay.com/images/eebbf39bb74fbd3153121e997d3b994b.jpg",
-        "https://images.ottplay.com/images/0f5cf673559b0fd2b2608586de679f16.jpg",
-        "https://images.ottplay.com/images/ea018065bfb62a496d0fed0d4a1e322c.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/44c388d3f0efc105ca22ea0ccd4529df.jpg",
-        "https://images.ottplay.com/images/media/gallery/750x1125-1771742051.jpg"
-      ],
-      "providerInfo": {
-        "id": "5f456c2aff9ccd034434e6fd",
-        "name": "SonyLIV",
-        "hashId": "100dc02b90dfc"
-      }
-    },
-    {
-      "id": 11,
       "isLive": true,
       "contentId": "1090504676",
       "name": "Magical Kenya Open - Day 4 - 22 Feb 2026",
@@ -262,27 +182,6 @@
         "id": "5f456c2aff9ccd034434e6fd",
         "name": "SonyLIV",
         "hashId": "100dc02b90dfc"
-      }
-    },
-    {
-      "id": 12,
-      "isLive": true,
-      "contentId": "1540064224",
-      "name": "Maharashtra vs Delhi",
-      "genre": "cricket",
-      "language": "english",
-      "provider": "JioHotstar",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/images/bce9c8049a3bf404adfa415f3de78840.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/2b815d0dd8838590f46ea594e849ac6f.jpg"
-      ],
-      "providerInfo": {
-        "id": "67977987ed126c0029b9f20c",
-        "name": "JioHotstar",
-        "hashId": "4025a7f67d456"
       }
     }
   ]
