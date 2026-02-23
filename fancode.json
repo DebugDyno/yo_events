@@ -1,7 +1,95 @@
 {
-  "success": false,
-  "message": "Failed to fetch data from FanCode",
-  "updatedAt": "23/02/2026, 03:36:05 PM",
-  "error": "Invalid response structure from FanCode API",
-  "data": []
+  "success": true,
+  "message": "Live matches fetched successfully",
+  "total": 3,
+  "updatedAt": "23/02/2026, 04:32:55 PM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "name": "Centre Court",
+      "tournament": "ATP 500 - Dubai Duty Free Tennis Championship 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 140345,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/Dubai-Duty-Free-Tennis-Championships_fc-web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/Dubai-Duty-Free-Tennis-Championships_fc-app.jpg",
+      "teams": [
+        {
+          "name": "Centre Court",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png"
+        },
+        {
+          "name": "Dubai, United Arab Emirates",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "centre-court",
+      "tournamentSlug": "atp-500-dubai-duty-free-tennis-championship-2026",
+      "collectionSlug": "atp-500-dubai-duty-free-tennis-championship-2026"
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "name": "New Court - 1",
+      "tournament": "ATP 500 - Dubai Duty Free Tennis Championship 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 140892,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/Dubai-Duty-Free-Tennis-Championships_fc-web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/Dubai-Duty-Free-Tennis-Championships_fc-app.jpg",
+      "teams": [
+        {
+          "name": "New Court - 1",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png"
+        },
+        {
+          "name": "Dubai, United Arab Emirates",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "new-court-1",
+      "tournamentSlug": "atp-500-dubai-duty-free-tennis-championship-2026",
+      "collectionSlug": "atp-500-dubai-duty-free-tennis-championship-2026"
+    },
+    {
+      "id": 3,
+      "isLive": true,
+      "name": "World Feed",
+      "tournament": "ATP 500 - Dubai Duty Free Tennis Championship 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 140891,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/Dubai-Duty-Free-Tennis-Championships_fc-web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/Dubai-Duty-Free-Tennis-Championships_fc-app.jpg",
+      "teams": [
+        {
+          "name": "World Feed",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png"
+        },
+        {
+          "name": "Dubai, United Arab Emirates",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "world-feed",
+      "tournamentSlug": "atp-500-dubai-duty-free-tennis-championship-2026",
+      "collectionSlug": "atp-500-dubai-duty-free-tennis-championship-2026"
+    }
+  ]
 }
