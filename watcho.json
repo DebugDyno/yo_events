@@ -1,11 +1,20 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 6,
-  "updatedAt": "24/02/2026, 11:43:34 AM",
+  "total": 4,
+  "updatedAt": "24/02/2026, 12:46:57 PM",
   "data": [
     {
       "id": 1,
+      "isLive": true,
+      "contentId": "1540063986",
+      "name": "Spain vs China",
+      "genre": "Hockey",
+      "provider": "JioHotstar",
+      "image": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2206/1771873132206-h"
+    },
+    {
+      "id": 2,
       "isLive": true,
       "contentId": "1540064258",
       "name": "Indian Navy vs Canara Bank",
@@ -14,7 +23,7 @@
       "image": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/311/1771853540311-h"
     },
     {
-      "id": 2,
+      "id": 3,
       "isLive": true,
       "contentId": "1540063189",
       "name": "Karnataka vs Jammu and Kashmir: Final, Day 1",
@@ -23,40 +32,13 @@
       "image": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/5231/1771873355231-h"
     },
     {
-      "id": 3,
+      "id": 4,
       "isLive": true,
       "contentId": "1540063882",
       "name": "Australia W vs India W: 1st ODI",
       "genre": "Cricket",
       "provider": "JioHotstar",
       "image": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/1346/1771849081346-h"
-    },
-    {
-      "id": 4,
-      "isLive": true,
-      "contentId": "140829",
-      "name": "ATP 500 - Abierto Mexicano Telcel",
-      "genre": "Sports",
-      "provider": "FanCode",
-      "image": "https://images.fancode.com/aig/match/v1771538402499/140829_CASACARDS_PARTNER_16_9_1920_1080.png"
-    },
-    {
-      "id": 5,
-      "isLive": true,
-      "contentId": "140351",
-      "name": "ATP 500 - Abierto Mexicano Telcel",
-      "genre": "Sports",
-      "provider": "FanCode",
-      "image": "https://images.fancode.com/aig/match/v1771243202689/140351_CASACARDS_PARTNER_16_9_1920_1080.png"
-    },
-    {
-      "id": 6,
-      "isLive": true,
-      "contentId": "133985",
-      "name": "ACT Meteors VS South Australian Scorpions",
-      "genre": "Sports",
-      "provider": "FanCode",
-      "image": "https://images.fancode.com/aig/match/v1/133985_CASACARDS_PARTNER_16_9_1920_1080.png"
     }
   ]
 }
