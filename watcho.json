@@ -1,11 +1,20 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 8,
-  "updatedAt": "25/02/2026, 11:20:49 AM",
+  "total": 6,
+  "updatedAt": "25/02/2026, 12:15:20 PM",
   "data": [
     {
       "id": 1,
+      "isLive": true,
+      "contentId": "1540063989",
+      "name": "Australia vs China",
+      "genre": "Hockey",
+      "provider": "JioHotstar",
+      "image": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/886/1771932380886-h"
+    },
+    {
+      "id": 2,
       "isLive": true,
       "contentId": "1090505005",
       "name": "Sony Sports Ten 5",
@@ -14,7 +23,7 @@
       "image": "https://d229kpbsb5jevy.cloudfront.net/sony4/videoasset_images/manage_file/1000015541/1771920520354652_NZw_vs_ZIMw_live_landscape_thumb.jpg"
     },
     {
-      "id": 2,
+      "id": 3,
       "isLive": true,
       "contentId": "1540064264",
       "name": "Bank Of Baroda vs Income Tax",
@@ -23,7 +32,7 @@
       "image": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/3453/1771936823453-h"
     },
     {
-      "id": 3,
+      "id": 4,
       "isLive": true,
       "contentId": "1540063192",
       "name": "Karnataka vs Jammu and Kashmir: Final, Day 2",
@@ -32,7 +41,7 @@
       "image": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/9109/1771930839109-h"
     },
     {
-      "id": 4,
+      "id": 5,
       "isLive": true,
       "contentId": "140879",
       "name": "Hong Kong, China VS Kuwait",
@@ -41,40 +50,13 @@
       "image": "https://images.fancode.com/aig/match/v1771588801018/140879_CASACARDS_PARTNER_16_9_1920_1080.png"
     },
     {
-      "id": 5,
-      "isLive": true,
-      "contentId": "140835",
-      "name": "ATP 500 - Abierto Mexicano Telcel",
-      "genre": "Sports",
-      "provider": "FanCode",
-      "image": "https://images.fancode.com/aig/match/v1771538402524/140835_CASACARDS_PARTNER_16_9_1920_1080.png"
-    },
-    {
       "id": 6,
       "isLive": true,
-      "contentId": "140834",
-      "name": "ATP 500 - Abierto Mexicano Telcel",
+      "contentId": "140670",
+      "name": "Bhutan VS Bahrain",
       "genre": "Sports",
       "provider": "FanCode",
-      "image": "https://images.fancode.com/aig/match/v1771538402560/140834_CASACARDS_PARTNER_16_9_1920_1080.png"
-    },
-    {
-      "id": 7,
-      "isLive": true,
-      "contentId": "140833",
-      "name": "ATP 500 - Abierto Mexicano Telcel",
-      "genre": "Sports",
-      "provider": "FanCode",
-      "image": "https://images.fancode.com/aig/match/v1771538402595/140833_CASACARDS_PARTNER_16_9_1920_1080.png"
-    },
-    {
-      "id": 8,
-      "isLive": true,
-      "contentId": "140352",
-      "name": "ATP 500 - Abierto Mexicano Telcel",
-      "genre": "Sports",
-      "provider": "FanCode",
-      "image": "https://images.fancode.com/aig/match/v1771329601864/140352_CASACARDS_PARTNER_16_9_1920_1080.png"
+      "image": "https://images.fancode.com/aig/match/v1771401601281/140670_CASACARDS_PARTNER_16_9_1920_1080.png"
     }
   ]
 }
