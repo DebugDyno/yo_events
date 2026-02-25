@@ -1,7 +1,182 @@
 {
-  "success": false,
-  "message": "Failed to fetch data from FanCode",
-  "updatedAt": "26/02/2026, 12:07:54 AM",
-  "error": "Invalid response structure from FanCode API",
-  "data": []
+  "success": true,
+  "message": "Live matches fetched successfully",
+  "total": 6,
+  "updatedAt": "26/02/2026, 01:06:51 AM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "name": "3rd ODI",
+      "tournament": "Sri Lanka Women tour of West Indies, 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 140140,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/Sri-Lanka-Women-tour-of-West-Indies,-2026-old-card_1771585889068.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/Sri-Lanka-Women-tour-of-West-Indies,-2026-old-sporty_1771585889102.jpg",
+      "teams": [
+        {
+          "name": "West Indies Women",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png"
+        },
+        {
+          "name": "Sri Lanka Women",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRL@2x.png"
+        }
+      ],
+      "slug": "west-indies-women-vs-sri-lanka-women",
+      "tournamentSlug": "sri-lanka-women-tour-of-west-indies-2026",
+      "collectionSlug": "sri-lanka-women-tour-of-west-indies-2026"
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "name": "Match 13",
+      "tournament": "Boland T20 Super League Finals 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 140686,
+      "streamType": "AUTH",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/140686_5968_PECC_VDS_FC-Web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/140686_5968_PECC_VDS_FC-App.jpg",
+      "teams": [
+        {
+          "name": "Paarl East Cricket Club",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PECC@2x.png"
+        },
+        {
+          "name": "Vredenburg/Saldanha CC",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-VDS@2x.png"
+        }
+      ],
+      "slug": "paarl-east-cricket-club-vs-vredenburg-saldanha-cc",
+      "tournamentSlug": "boland-t20-super-league-finals-2026",
+      "collectionSlug": "boland-t20-super-league-finals-2026"
+    },
+    {
+      "id": 3,
+      "isLive": true,
+      "name": "Match 72",
+      "tournament": "Roshn Saudi League 2025-2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 138439,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/138439_5655_ALN_ANF_fc-web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/138439_5655_ALN_ANF_fc-app_1771578889677.jpg",
+      "teams": [
+        {
+          "name": "Al-Najmah SC",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ALJ@2x.png"
+        },
+        {
+          "name": "Al-Nassr FC",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ANF@2x.png"
+        }
+      ],
+      "slug": "al-najmah-sc-vs-al-nassr-fc",
+      "tournamentSlug": "roshn-saudi-league-2025-2026",
+      "collectionSlug": "roshn-saudi-league-2025-2026"
+    },
+    {
+      "id": 4,
+      "isLive": true,
+      "name": "Centre Court",
+      "tournament": "ATP 500 - Dubai Duty Free Tennis Championship 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 140899,
+      "streamType": "PAID",
+      "landscapeImage": " https://www.fancode.com/skillup-uploads/cms-media/Dubai-Duty-Free-Tennis-Championships_fc-web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/Dubai-Duty-Free-Tennis-Championships_fc-app.jpg",
+      "teams": [
+        {
+          "name": "Centre Court",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png"
+        },
+        {
+          "name": "Dubai, United Arab Emirates",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "centre-court",
+      "tournamentSlug": "atp-500-dubai-duty-free-tennis-championship-2026",
+      "collectionSlug": "atp-500-dubai-duty-free-tennis-championship-2026"
+    },
+    {
+      "id": 5,
+      "isLive": true,
+      "name": "World Feed",
+      "tournament": "ATP 500 - Dubai Duty Free Tennis Championship 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 140898,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/Dubai-Duty-Free-Tennis-Championships_fc-web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/Dubai-Duty-Free-Tennis-Championships_fc-app.jpg",
+      "teams": [
+        {
+          "name": "World Feed",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png"
+        },
+        {
+          "name": "Dubai, United Arab Emirates",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "world-feed",
+      "tournamentSlug": "atp-500-dubai-duty-free-tennis-championship-2026",
+      "collectionSlug": "atp-500-dubai-duty-free-tennis-championship-2026"
+    },
+    {
+      "id": 6,
+      "isLive": true,
+      "name": "Court Jaime Fillol",
+      "tournament": "ATP 250 - BCI Seguros Chile Open 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 140359,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/BCI-Seguros-Chile-Open,-Clay,-ATP-250-old-.png",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/BCI-Seguros-Chile-Open,-Clay,-ATP-250-sporty-.png",
+      "teams": [
+        {
+          "name": "Court Jaime Fillol",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png"
+        },
+        {
+          "name": "Santiago, Chile",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "court-jaime-fillol",
+      "tournamentSlug": "atp-250-bci-seguros-chile-open-2026",
+      "collectionSlug": "atp-250-bci-seguros-chile-open-2026"
+    }
+  ]
 }
