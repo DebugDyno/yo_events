@@ -1,7 +1,240 @@
 {
-  "success": false,
-  "message": "Failed to fetch data from FanCode",
-  "updatedAt": "26/02/2026, 11:58:05 PM",
-  "error": "Invalid response structure from FanCode API",
-  "data": []
+  "success": true,
+  "message": "Live matches fetched successfully",
+  "total": 8,
+  "updatedAt": "27/02/2026, 12:55:08 AM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "name": "Match 14",
+      "tournament": "Boland T20 Super League Finals 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 140687,
+      "streamType": "AUTH",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/140687_5968_VDCC_PRC_FC-Web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/140687_5968_VDCC_PRC_FC-App.jpg",
+      "teams": [
+        {
+          "name": "Van der Stel Cricket Club",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-VDCC@2x.png"
+        },
+        {
+          "name": "Paarl CC",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PAR@2x.png"
+        }
+      ],
+      "slug": "van-der-stel-cricket-club-vs-paarl-cc",
+      "tournamentSlug": "boland-t20-super-league-finals-2026",
+      "collectionSlug": "boland-t20-super-league-finals-2026"
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "name": "Match 73",
+      "tournament": "Roshn Saudi League 2025-2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 140701,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/140701_5655_ALR_AAS_fc-web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/140701_5655_ALR_AAS_fc-app.jpg",
+      "teams": [
+        {
+          "name": "Al-Riyadh SC",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-RIY@2x.png"
+        },
+        {
+          "name": "Al-Ahli Saudi FC",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-AAS@2x.png"
+        }
+      ],
+      "slug": "al-riyadh-sc-vs-al-ahli-saudi-fc",
+      "tournamentSlug": "roshn-saudi-league-2025-2026",
+      "collectionSlug": "roshn-saudi-league-2025-2026"
+    },
+    {
+      "id": 3,
+      "isLive": true,
+      "name": "Main Feed - Day 1",
+      "tournament": "Cognizant Classic in The Palm Beaches 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 140764,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/Cognizant-Classic-in-The-Palm-Beaches-2026-old-match-card-.png",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/Cognizant-Classic-in-The-Palm-Beaches-2026-Sporty-match-card-.png",
+      "teams": [
+        {
+          "name": "Main Feed - Day 1",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png"
+        },
+        {
+          "name": "PGA National Resort, Florida",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "main-feed-day-1",
+      "tournamentSlug": "cognizant-classic-in-the-palm-beaches-2026",
+      "collectionSlug": "cognizant-classic-in-the-palm-beaches-2026"
+    },
+    {
+      "id": 4,
+      "isLive": true,
+      "name": "Featured Groups - Day 1",
+      "tournament": "Cognizant Classic in The Palm Beaches 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 140766,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/Cognizant-Classic-in-The-Palm-Beaches-2026-old-match-card-.png",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/Cognizant-Classic-in-The-Palm-Beaches-2026-Sporty-match-card-.png",
+      "teams": [
+        {
+          "name": "Featured Groups - Day 1",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png"
+        },
+        {
+          "name": "PGA National Resort, Florida",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "featured-groups-day-1",
+      "tournamentSlug": "cognizant-classic-in-the-palm-beaches-2026",
+      "collectionSlug": "cognizant-classic-in-the-palm-beaches-2026"
+    },
+    {
+      "id": 5,
+      "isLive": true,
+      "name": "Marquee Group - Day 1",
+      "tournament": "Cognizant Classic in The Palm Beaches 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 140765,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/Cognizant-Classic-in-The-Palm-Beaches-2026-old-match-card-.png",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/Cognizant-Classic-in-The-Palm-Beaches-2026-Sporty-match-card-.png",
+      "teams": [
+        {
+          "name": "Marquee Group - Day 1",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png"
+        },
+        {
+          "name": "PGA National Resort, Florida",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "marquee-group-day-1",
+      "tournamentSlug": "cognizant-classic-in-the-palm-beaches-2026",
+      "collectionSlug": "cognizant-classic-in-the-palm-beaches-2026"
+    },
+    {
+      "id": 6,
+      "isLive": true,
+      "name": "Featured Holes - Day 1",
+      "tournament": "Cognizant Classic in The Palm Beaches 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 140767,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/Cognizant-Classic-in-The-Palm-Beaches-2026-old-match-card-.png",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/Cognizant-Classic-in-The-Palm-Beaches-2026-Sporty-match-card-.png",
+      "teams": [
+        {
+          "name": "Featured Holes - Day 1",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png"
+        },
+        {
+          "name": "PGA National Resort, Florida",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "featured-holes-day-1",
+      "tournamentSlug": "cognizant-classic-in-the-palm-beaches-2026",
+      "collectionSlug": "cognizant-classic-in-the-palm-beaches-2026"
+    },
+    {
+      "id": 7,
+      "isLive": true,
+      "name": "Court Jaime Fillol",
+      "tournament": "ATP 250 - BCI Seguros Chile Open 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 140360,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/BCI-Seguros-Chile-Open,-Clay,-ATP-250-old-.png",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/BCI-Seguros-Chile-Open,-Clay,-ATP-250-sporty-.png",
+      "teams": [
+        {
+          "name": "Court Jaime Fillol",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png"
+        },
+        {
+          "name": "Santiago, Chile",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "court-jaime-fillol",
+      "tournamentSlug": "atp-250-bci-seguros-chile-open-2026",
+      "collectionSlug": "atp-250-bci-seguros-chile-open-2026"
+    },
+    {
+      "id": 8,
+      "isLive": true,
+      "name": "World Feed - Day 1",
+      "tournament": "Cognizant Classic in The Palm Beaches 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 140763,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/Cognizant-Classic-in-The-Palm-Beaches-2026-old-match-card-.png",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/Cognizant-Classic-in-The-Palm-Beaches-2026-Sporty-match-card-.png",
+      "teams": [
+        {
+          "name": "World Feed - Day 1",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png"
+        },
+        {
+          "name": "PGA National Resort, Florida",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "world-feed-day-1",
+      "tournamentSlug": "cognizant-classic-in-the-palm-beaches-2026",
+      "collectionSlug": "cognizant-classic-in-the-palm-beaches-2026"
+    }
+  ]
 }
