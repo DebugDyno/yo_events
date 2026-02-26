@@ -1,8 +1,8 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 6,
-  "updatedAt": "26/02/2026, 01:55:31 PM",
+  "total": 5,
+  "updatedAt": "26/02/2026, 02:40:29 PM",
   "data": [
     {
       "id": 1,
@@ -14,9 +14,11 @@
       "provider": "JioHotstar",
       "content_type": "sport",
       "image": [
+        "https://images.ottplay.com/images/554c0950ecd6af88e8dfd1cd1bcd3a5e.jpg",
         "https://images.ottplay.com/images/8240513828f959299e2253e4c68e6382.jpg"
       ],
       "posters": [
+        "https://images.ottplay.com/posters/f8108539c378f969d9dd386f90768520.jpg",
         "https://images.ottplay.com/posters/dacbfbf2fe039c07cb0b3cbe6e518a1a.jpg"
       ],
       "providerInfo": {
@@ -27,27 +29,6 @@
     },
     {
       "id": 2,
-      "isLive": true,
-      "contentId": "140672",
-      "name": "JPN vs BAH",
-      "genre": "cricket",
-      "language": "english",
-      "provider": "FanCode",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/backdrops/b500409e03a391b2547655d6883dd686.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/ed9ffff99ab8a090c5d325bbf19f56a9.jpg"
-      ],
-      "providerInfo": {
-        "id": "63ce216c483822001ca300a4",
-        "name": "FanCode",
-        "hashId": "c60fe425e3269"
-      }
-    },
-    {
-      "id": 3,
       "isLive": true,
       "contentId": "1540064270",
       "name": "CAG vs Route Mobile",
@@ -68,7 +49,7 @@
       }
     },
     {
-      "id": 4,
+      "id": 3,
       "isLive": true,
       "contentId": "140880",
       "name": "HK vs KUW",
@@ -91,7 +72,7 @@
       }
     },
     {
-      "id": 5,
+      "id": 4,
       "isLive": true,
       "contentId": "1540063195",
       "name": "Karnataka vs Jammu and Kashmir: Final, Day 3",
@@ -112,7 +93,7 @@
       }
     },
     {
-      "id": 6,
+      "id": 5,
       "isLive": true,
       "contentId": "1540064230",
       "name": "SF1: Delhi vs Andhra",
