@@ -1,7 +1,182 @@
 {
-  "success": false,
-  "message": "Failed to fetch data from FanCode",
-  "updatedAt": "27/02/2026, 05:24:01 AM",
-  "error": "Invalid response structure from FanCode API",
-  "data": []
+  "success": true,
+  "message": "Live matches fetched successfully",
+  "total": 6,
+  "updatedAt": "27/02/2026, 06:54:34 AM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "name": "Match 22",
+      "tournament": "CONCACAF Champions Cup 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 140389,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/140389_5954_PU_DEF_FC-Web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/140389_5954_PU_DEF_FC-App.jpg",
+      "teams": [
+        {
+          "name": "Philadelphia Union",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-PU@2x.png"
+        },
+        {
+          "name": "Defense Force",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-DEF@2x.png"
+        }
+      ],
+      "slug": "philadelphia-union-vs-defense-force",
+      "tournamentSlug": "concacaf-champions-cup-2026",
+      "collectionSlug": "concacaf-champions-cup-2026"
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "name": "Court Jaime Fillol",
+      "tournament": "ATP 250 - BCI Seguros Chile Open 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 140360,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/BCI-Seguros-Chile-Open,-Clay,-ATP-250-old-.png",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/BCI-Seguros-Chile-Open,-Clay,-ATP-250-sporty-.png",
+      "teams": [
+        {
+          "name": "Court Jaime Fillol",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png"
+        },
+        {
+          "name": "Santiago, Chile",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "court-jaime-fillol",
+      "tournamentSlug": "atp-250-bci-seguros-chile-open-2026",
+      "collectionSlug": "atp-250-bci-seguros-chile-open-2026"
+    },
+    {
+      "id": 3,
+      "isLive": true,
+      "name": "World Feed",
+      "tournament": "ATP 500 - Abierto Mexicano Telcel",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 140355,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/Abierto-Mexicano-_web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/Abierto-Mexicano-_Old-sporty.jpg",
+      "teams": [
+        {
+          "name": "World Feed",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png"
+        },
+        {
+          "name": "Acapulco, Mexico",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "world-feed",
+      "tournamentSlug": "atp-500-abierto-mexicano-telcel",
+      "collectionSlug": "atp-500-abierto-mexicano-telcel"
+    },
+    {
+      "id": 4,
+      "isLive": true,
+      "name": "Grandstand",
+      "tournament": "ATP 500 - Abierto Mexicano Telcel",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 140354,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/Abierto-Mexicano-_web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/Abierto-Mexicano-_Old-sporty.jpg",
+      "teams": [
+        {
+          "name": "Grandstand",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png"
+        },
+        {
+          "name": "Acapulco, Mexico",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "grandstand",
+      "tournamentSlug": "atp-500-abierto-mexicano-telcel",
+      "collectionSlug": "atp-500-abierto-mexicano-telcel"
+    },
+    {
+      "id": 5,
+      "isLive": true,
+      "name": "Cancha 1",
+      "tournament": "ATP 500 - Abierto Mexicano Telcel",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 140841,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/Abierto-Mexicano-_web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/Abierto-Mexicano-_Old-sporty.jpg",
+      "teams": [
+        {
+          "name": "Cancha 1",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png"
+        },
+        {
+          "name": "Acapulco, Mexico",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "cancha-1",
+      "tournamentSlug": "atp-500-abierto-mexicano-telcel",
+      "collectionSlug": "atp-500-abierto-mexicano-telcel"
+    },
+    {
+      "id": 6,
+      "isLive": true,
+      "name": "Estadio",
+      "tournament": "ATP 500 - Abierto Mexicano Telcel",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 140840,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/Abierto-Mexicano-_web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/Abierto-Mexicano-_Old-sporty.jpg",
+      "teams": [
+        {
+          "name": "Estadio",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png"
+        },
+        {
+          "name": "Acapulco, Mexico",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "estadio",
+      "tournamentSlug": "atp-500-abierto-mexicano-telcel",
+      "collectionSlug": "atp-500-abierto-mexicano-telcel"
+    }
+  ]
 }
