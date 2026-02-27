@@ -1,8 +1,8 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 8,
-  "updatedAt": "28/02/2026, 02:29:58 AM",
+  "total": 7,
+  "updatedAt": "28/02/2026, 03:07:14 AM",
   "data": [
     {
       "id": 1,
@@ -14,10 +14,12 @@
       "provider": "FanCode",
       "content_type": "sport",
       "image": [
+        "https://images.ottplay.com/backdrops/football.jpg",
         "https://images.ottplay.com/backdrops/6303294a6bb22411fd500944002ebf07.jpg"
       ],
       "posters": [
-        "https://images.ottplay.com/posters/ad9be17c7aecc204f89c1535de6091a8.jpg"
+        "https://images.ottplay.com/posters/ad9be17c7aecc204f89c1535de6091a8.jpg",
+        "https://images.ottplay.com/posters/football.jpg"
       ],
       "providerInfo": {
         "id": "63ce216c483822001ca300a4",
@@ -91,31 +93,6 @@
     {
       "id": 5,
       "isLive": true,
-      "contentId": "1090505268",
-      "name": "FC Augsburg vs FC Koln - MD 24 - 28 Feb 2026",
-      "genre": "football",
-      "language": "english",
-      "provider": "SonyLIV",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/images/75b72b509fa5fe4d7d49955b8f2ff1e0.jpg",
-        "https://images.ottplay.com/images/64f6619ba3a360c8b3a5332d57f32761.jpg",
-        "https://images.ottplay.com/images/91668836626daa0235faaf905cdc01da.jpg",
-        "https://images.ottplay.com/images/4842f73bf2e0237b7d6e521228b15a10.jpg",
-        "https://images.ottplay.com/images/e67f44351e79d136e954449eb14a67b8.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/2ce667919c1872ee0802a4592abe242a.jpg"
-      ],
-      "providerInfo": {
-        "id": "5f456c2aff9ccd034434e6fd",
-        "name": "SonyLIV",
-        "hashId": "100dc02b90dfc"
-      }
-    },
-    {
-      "id": 6,
-      "isLive": true,
       "contentId": "140702",
       "name": "ASF vs AHS",
       "genre": "football",
@@ -135,7 +112,7 @@
       }
     },
     {
-      "id": 7,
+      "id": 6,
       "isLive": true,
       "contentId": "140772",
       "name": "Cognizant Classic in The Palm Beaches 2026",
@@ -174,7 +151,7 @@
       }
     },
     {
-      "id": 8,
+      "id": 7,
       "isLive": true,
       "contentId": "140361",
       "name": "ATP vs LOC",
