@@ -1,7 +1,298 @@
 {
-  "success": false,
-  "message": "Failed to fetch data from FanCode",
-  "updatedAt": "28/02/2026, 08:24:24 PM",
-  "error": "Invalid response structure from FanCode API",
-  "data": []
+  "success": true,
+  "message": "Live matches fetched successfully",
+  "total": 10,
+  "updatedAt": "28/02/2026, 08:46:49 PM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "name": "Match 19",
+      "tournament": "ISL 2025-26",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 140449,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/140449_5956_MBSG_MSC_fc-web-(1).jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/140449_5956_MBSG_MSC_fc-app-(1).jpg",
+      "teams": [
+        {
+          "name": "Mohun Bagan Super Giant",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MOHB@2x.png"
+        },
+        {
+          "name": "Mohammedan SC",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MHMS@2x.png"
+        }
+      ],
+      "slug": "mohun-bagan-super-giant-vs-mohammedan-sc",
+      "tournamentSlug": "isl-2025-26",
+      "collectionSlug": "isl-2025-26"
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "name": "Bengali Commentary Only",
+      "tournament": "ISL 2025-26  - Regional",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 141088,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/140449_5956_MBSG_MSC_fc-web_1772199121067.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/140449_5956_MBSG_MSC_fc-app_1772199121055.jpg",
+      "teams": [
+        {
+          "name": "Mohun Bagan Super Giant",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MOHB@2x.png"
+        },
+        {
+          "name": "Mohammedan SC",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MHMS@2x.png"
+        }
+      ],
+      "slug": "mohun-bagan-super-giant-vs-mohammedan-sc",
+      "tournamentSlug": "isl-2025-26-regional",
+      "collectionSlug": "isl-2025-26-regional"
+    },
+    {
+      "id": 3,
+      "isLive": true,
+      "name": "Match 119",
+      "tournament": "EFL Championship 2025-26",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 140130,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/140130_5489_PST_MLW_fc-web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/140130_5489_PST_MLW_fc-app.jpg",
+      "teams": [
+        {
+          "name": "Preston North End F.C.",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-PREST@2x.png"
+        },
+        {
+          "name": "Millwall F.C.",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MILW@2x.png"
+        }
+      ],
+      "slug": "preston-north-end-f-c-vs-millwall-f-c",
+      "tournamentSlug": "efl-championship-2025-26",
+      "collectionSlug": "efl-championship-2025-26"
+    },
+    {
+      "id": 4,
+      "isLive": true,
+      "name": "Main Feed - Day 3",
+      "tournament": "Cognizant Classic in The Palm Beaches 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 140774,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/Cognizant-Classic-in-The-Palm-Beaches-2026-old-match-card-.png",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/Cognizant-Classic-in-The-Palm-Beaches-2026-Sporty-match-card-.png",
+      "teams": [
+        {
+          "name": "Main Feed - Day 3",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png"
+        },
+        {
+          "name": "PGA National Resort, Florida",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "main-feed-day-3",
+      "tournamentSlug": "cognizant-classic-in-the-palm-beaches-2026",
+      "collectionSlug": "cognizant-classic-in-the-palm-beaches-2026"
+    },
+    {
+      "id": 5,
+      "isLive": true,
+      "name": "Centre Court",
+      "tournament": "ATP 500 - Dubai Duty Free Tennis Championship 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 140350,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/Dubai-Duty-Free-Tennis-Championships_fc-web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/Dubai-Duty-Free-Tennis-Championships_fc-app.jpg",
+      "teams": [
+        {
+          "name": "Centre Court",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png"
+        },
+        {
+          "name": "Dubai, United Arab Emirates",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "centre-court",
+      "tournamentSlug": "atp-500-dubai-duty-free-tennis-championship-2026",
+      "collectionSlug": "atp-500-dubai-duty-free-tennis-championship-2026"
+    },
+    {
+      "id": 6,
+      "isLive": true,
+      "name": "Featured Groups - Day 3",
+      "tournament": "Cognizant Classic in The Palm Beaches 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 140776,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/Cognizant-Classic-in-The-Palm-Beaches-2026-old-match-card-.png",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/Cognizant-Classic-in-The-Palm-Beaches-2026-Sporty-match-card-.png",
+      "teams": [
+        {
+          "name": "Featured Groups - Day 3",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png"
+        },
+        {
+          "name": "PGA National Resort, Florida",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "featured-groups-day-3",
+      "tournamentSlug": "cognizant-classic-in-the-palm-beaches-2026",
+      "collectionSlug": "cognizant-classic-in-the-palm-beaches-2026"
+    },
+    {
+      "id": 7,
+      "isLive": true,
+      "name": "Marquee Group - Day 3",
+      "tournament": "Cognizant Classic in The Palm Beaches 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 140775,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/Cognizant-Classic-in-The-Palm-Beaches-2026-old-match-card-.png",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/Cognizant-Classic-in-The-Palm-Beaches-2026-Sporty-match-card-.png",
+      "teams": [
+        {
+          "name": "Marquee Group - Day 3",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png"
+        },
+        {
+          "name": "PGA National Resort, Florida",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "marquee-group-day-3",
+      "tournamentSlug": "cognizant-classic-in-the-palm-beaches-2026",
+      "collectionSlug": "cognizant-classic-in-the-palm-beaches-2026"
+    },
+    {
+      "id": 8,
+      "isLive": true,
+      "name": "Featured Holes - Day 3",
+      "tournament": "Cognizant Classic in The Palm Beaches 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 140777,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/Cognizant-Classic-in-The-Palm-Beaches-2026-old-match-card-.png",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/Cognizant-Classic-in-The-Palm-Beaches-2026-Sporty-match-card-.png",
+      "teams": [
+        {
+          "name": "Featured Holes - Day 3",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png"
+        },
+        {
+          "name": "PGA National Resort, Florida",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "featured-holes-day-3",
+      "tournamentSlug": "cognizant-classic-in-the-palm-beaches-2026",
+      "collectionSlug": "cognizant-classic-in-the-palm-beaches-2026"
+    },
+    {
+      "id": 9,
+      "isLive": true,
+      "name": "World Feed - Day 3",
+      "tournament": "Cognizant Classic in The Palm Beaches 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 140773,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/Cognizant-Classic-in-The-Palm-Beaches-2026-old-match-card-.png",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/Cognizant-Classic-in-The-Palm-Beaches-2026-Sporty-match-card-.png",
+      "teams": [
+        {
+          "name": "World Feed - Day 3",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png"
+        },
+        {
+          "name": "PGA National Resort, Florida",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "world-feed-day-3",
+      "tournamentSlug": "cognizant-classic-in-the-palm-beaches-2026",
+      "collectionSlug": "cognizant-classic-in-the-palm-beaches-2026"
+    },
+    {
+      "id": 10,
+      "isLive": true,
+      "name": "World Feed",
+      "tournament": "ATP 500 - Dubai Duty Free Tennis Championship 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 140903,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/Dubai-Duty-Free-Tennis-Championships_fc-web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/Dubai-Duty-Free-Tennis-Championships_fc-app.jpg",
+      "teams": [
+        {
+          "name": "World Feed",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png"
+        },
+        {
+          "name": "Dubai, United Arab Emirates",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "world-feed",
+      "tournamentSlug": "atp-500-dubai-duty-free-tennis-championship-2026",
+      "collectionSlug": "atp-500-dubai-duty-free-tennis-championship-2026"
+    }
+  ]
 }
