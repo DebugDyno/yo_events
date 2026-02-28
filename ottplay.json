@@ -1,8 +1,8 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 7,
-  "updatedAt": "01/03/2026, 12:53:45 AM",
+  "total": 6,
+  "updatedAt": "01/03/2026, 01:09:30 AM",
   "data": [
     {
       "id": 1,
@@ -32,6 +32,27 @@
     {
       "id": 2,
       "isLive": true,
+      "contentId": "131080",
+      "name": "RO vs ATL",
+      "genre": "football",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/d3a56fa3dd5bab099178a484cd9286d4.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/4501b5fa73c0245e1c606a391952e8a5.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 3,
+      "isLive": true,
       "contentId": "140703",
       "name": "ALF vs ANF",
       "genre": "football",
@@ -51,7 +72,7 @@
       }
     },
     {
-      "id": 3,
+      "id": 4,
       "isLive": true,
       "contentId": "131087",
       "name": "MRC vs RS",
@@ -72,7 +93,7 @@
       }
     },
     {
-      "id": 4,
+      "id": 5,
       "isLive": true,
       "contentId": "140141",
       "name": "WI-W vs SL-W",
@@ -99,32 +120,7 @@
       }
     },
     {
-      "id": 5,
-      "isLive": true,
-      "contentId": "1090505226",
-      "name": "Borussia Dortmund vs Bayern Munich - MD 24 - 28 Feb 2026",
-      "genre": "football",
-      "language": "english",
-      "provider": "SonyLIV",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/images/a5f355fc7a8c8d0479f59c9f07f14618.jpg",
-        "https://images.ottplay.com/images/a705b70ff1c6ca7cd0f3cf8cfccc3a04.jpg",
-        "https://images.ottplay.com/images/2bac952fb08b75a351e6e8195258f9aa.jpg",
-        "https://images.ottplay.com/images/412355c46ea04de3a48e39baf3ade5a6.jpg",
-        "https://images.ottplay.com/images/adfe81cf9ae12629895b2f15bf61f5e5.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/88fff73dc2f1fa5b60fe953af819cef9.jpg"
-      ],
-      "providerInfo": {
-        "id": "5f456c2aff9ccd034434e6fd",
-        "name": "SonyLIV",
-        "hashId": "100dc02b90dfc"
-      }
-    },
-    {
-      "id": 6,
+      "id": 7,
       "isLive": true,
       "contentId": "140773",
       "name": "Cognizant Classic in The Palm Beaches 2026",
@@ -170,27 +166,6 @@
         "id": "63ce216c483822001ca300a4",
         "name": "FanCode",
         "hashId": "c60fe425e3269"
-      }
-    },
-    {
-      "id": 7,
-      "isLive": true,
-      "contentId": "1540064002",
-      "name": "Semi-finals: German Open",
-      "genre": "badminton",
-      "language": "english",
-      "provider": "JioHotstar",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/images/e535e3030f0c42705387bc6765dc75c9.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/6b598edbab366542dd4ad52d9d280178.jpg"
-      ],
-      "providerInfo": {
-        "id": "67977987ed126c0029b9f20c",
-        "name": "JioHotstar",
-        "hashId": "4025a7f67d456"
       }
     }
   ]
