@@ -1,11 +1,20 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 20,
-  "updatedAt": "28/02/2026, 09:22:44 PM",
+  "total": 19,
+  "updatedAt": "28/02/2026, 09:45:18 PM",
   "data": [
     {
       "id": 1,
+      "isLive": true,
+      "contentId": "1090505226",
+      "name": "Sony Sports Ten 2",
+      "genre": "Football",
+      "provider": "Sony Liv",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/sony4/videoasset_images/manage_file/1000015083/1770617250355953_BLIGA_26_Dortmund-vs-Bayern_landscape_thumb.jpg"
+    },
+    {
+      "id": 2,
       "isLive": true,
       "contentId": "1540064089",
       "name": "Newcastle vs Everton",
@@ -14,7 +23,7 @@
       "image": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/3964/1772194163964-h"
     },
     {
-      "id": 2,
+      "id": 3,
       "isLive": true,
       "contentId": "1540064086",
       "name": "Burnley vs Brentford",
@@ -23,7 +32,7 @@
       "image": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/9138/1772193819138-h"
     },
     {
-      "id": 3,
+      "id": 4,
       "isLive": true,
       "contentId": "1540064068",
       "name": "Liverpool vs West Ham",
@@ -32,7 +41,7 @@
       "image": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/9601/1772193659601-h"
     },
     {
-      "id": 4,
+      "id": 5,
       "isLive": true,
       "contentId": "1090505279",
       "name": "Sony Sports Ten 2",
@@ -41,7 +50,7 @@
       "image": "https://d229kpbsb5jevy.cloudfront.net/sony4/videoasset_images/manage_file/1000015083/1770453535577953_BLIGA_26_Leverkusen-vs-Mainz_landscape_thumb.jpg"
     },
     {
-      "id": 5,
+      "id": 6,
       "isLive": true,
       "contentId": "1090505281",
       "name": "Sony Sports Ten 2",
@@ -50,7 +59,7 @@
       "image": "https://d229kpbsb5jevy.cloudfront.net/sony4/videoasset_images/manage_file/1000015083/1770616827659953_BLIGA_26_Hoffenheim-vs-St-Pauli_landscape_thumb.jpg"
     },
     {
-      "id": 6,
+      "id": 7,
       "isLive": true,
       "contentId": "1090505277",
       "name": "Sony Sports Ten 2",
@@ -59,7 +68,7 @@
       "image": "https://d229kpbsb5jevy.cloudfront.net/sony4/videoasset_images/manage_file/1000006892/1755929846694147_Bliga26_Goal_Arena_landscape_thumb.jpg"
     },
     {
-      "id": 7,
+      "id": 8,
       "isLive": true,
       "contentId": "1090505280",
       "name": "Sony Sports Ten 2",
@@ -68,7 +77,7 @@
       "image": "https://d229kpbsb5jevy.cloudfront.net/sony4/videoasset_images/manage_file/1000015083/1770453764927953_BLIGA_26_Borussia-Mgladbach-vs-Union-Berlin_landscape_thumb.jpg"
     },
     {
-      "id": 8,
+      "id": 9,
       "isLive": true,
       "contentId": "1090505282",
       "name": "Sony Sports Ten 2",
@@ -77,7 +86,7 @@
       "image": "https://d229kpbsb5jevy.cloudfront.net/sony4/videoasset_images/manage_file/1000015083/1770617053268953_BLIGA_26_Werder-Bremen-vs-Heidenheim_landscape_thumb.jpg"
     },
     {
-      "id": 9,
+      "id": 10,
       "isLive": true,
       "contentId": "1540062385",
       "name": "Super 8: Sri Lanka vs Pakistan",
@@ -86,22 +95,13 @@
       "image": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/1962/1772260241962-h"
     },
     {
-      "id": 10,
+      "id": 11,
       "isLive": true,
       "contentId": "1540064002",
       "name": "Semi-finals: German Open",
       "genre": "Badminton",
       "provider": "JioHotstar",
       "image": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/1821/1772258551821-h"
-    },
-    {
-      "id": 11,
-      "isLive": true,
-      "contentId": "141088",
-      "name": "Mohun Bagan Super Giant VS Mohammedan SC",
-      "genre": "Sports",
-      "provider": "FanCode",
-      "image": "https://images.fancode.com/aig/match/v1772092801541/141088_CASACARDS_PARTNER_16_9_1920_1080.png"
     },
     {
       "id": 12,
@@ -160,15 +160,6 @@
     {
       "id": 18,
       "isLive": true,
-      "contentId": "140449",
-      "name": "Mohun Bagan Super Giant VS Mohammedan SC",
-      "genre": "Sports",
-      "provider": "FanCode",
-      "image": "https://images.fancode.com/aig/match/v1770386415711/140449_CASACARDS_PARTNER_16_9_1920_1080.png"
-    },
-    {
-      "id": 19,
-      "isLive": true,
       "contentId": "140130",
       "name": "Preston North End F.C. VS Millwall F.C.",
       "genre": "Sports",
@@ -176,7 +167,7 @@
       "image": "https://images.fancode.com/aig/match/v1771689602443/140130_CASACARDS_PARTNER_16_9_1920_1080.png"
     },
     {
-      "id": 20,
+      "id": 19,
       "isLive": true,
       "contentId": "131084",
       "name": "FC Barcelona VS Villarreal CF",
