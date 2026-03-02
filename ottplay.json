@@ -1,5 +1,29 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 1,
+  "updatedAt": "02/03/2026, 10:48:25 AM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "1540064279",
+      "name": "Reliance vs Bank Of Baroda",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "JioHotstar",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/45b89bf4c842b03e58c6359e8de277ec.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/b027ee9889c9245e7477f225ba76446b.jpg"
+      ],
+      "providerInfo": {
+        "id": "67977987ed126c0029b9f20c",
+        "name": "JioHotstar",
+        "hashId": "4025a7f67d456"
+      }
+    }
+  ]
 }
