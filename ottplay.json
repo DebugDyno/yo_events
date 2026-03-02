@@ -1,5 +1,31 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 1,
+  "updatedAt": "02/03/2026, 09:55:45 PM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "140696",
+      "name": "MAT vs VDCC",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/f6ac072951189d4c3013db50d2db01b8.jpg",
+        "https://images.ottplay.com/backdrops/dbf90c7332697f12e8f7b58c7f43ecd9.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/f11e16c26f792a884189cbb93473348e.jpg",
+        "https://images.ottplay.com/posters/9ffd56700b61dbeaeaa4c2a7c82489e4.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    }
+  ]
 }
