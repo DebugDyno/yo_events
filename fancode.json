@@ -1,66 +1,7 @@
 {
-  "success": true,
-  "message": "Live matches fetched successfully",
-  "total": 2,
-  "updatedAt": "04/03/2026, 02:20:18 AM",
-  "data": [
-    {
-      "id": 1,
-      "isLive": true,
-      "name": "Semi - Final Leg 2",
-      "tournament": "Copa del Rey, 2025-26",
-      "category": "All",
-      "categories": [
-        "All"
-      ],
-      "status": "LIVE",
-      "streamingStatus": "STARTED",
-      "matchId": 140525,
-      "streamType": "PAID",
-      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/140525_5806_BAR_ATL_FC-Web.jpg",
-      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/140525_5806_BAR_ATL_FC-App.jpg",
-      "teams": [
-        {
-          "name": "FC Barcelona",
-          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/BAR-FT2@2x.png"
-        },
-        {
-          "name": "Atletico de Madrid",
-          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ATLH@2x.png"
-        }
-      ],
-      "slug": "fc-barcelona-vs-atletico-de-madrid",
-      "tournamentSlug": "copa-del-rey-2025-26",
-      "collectionSlug": "copa-del-rey-2025-26"
-    },
-    {
-      "id": 2,
-      "isLive": true,
-      "name": "Unknown Match",
-      "tournament": "Vertu Trophy 2025-26",
-      "category": "All",
-      "categories": [
-        "All"
-      ],
-      "status": "LIVE",
-      "streamingStatus": "STARTED",
-      "matchId": 140875,
-      "streamType": "AUTH",
-      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(5)_1772173611237.png",
-      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/Old-Sporty-(1080x1440)-(5)_1772173611269.png",
-      "teams": [
-        {
-          "name": "Doncaster Rovers F.C.",
-          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-DRO@2x.png"
-        },
-        {
-          "name": "Stockport County",
-          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-STOCK@2x.png"
-        }
-      ],
-      "slug": "doncaster-rovers-f-c-vs-stockport-county",
-      "tournamentSlug": "vertu-trophy-2025-26",
-      "collectionSlug": "vertu-trophy-2025-26"
-    }
-  ]
+  "success": false,
+  "message": "Failed to fetch data from FanCode",
+  "updatedAt": "04/03/2026, 02:50:26 AM",
+  "error": "Invalid response structure from FanCode API",
+  "data": []
 }
