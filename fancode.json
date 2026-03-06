@@ -1,7 +1,95 @@
 {
-  "success": false,
-  "message": "Failed to fetch data from FanCode",
-  "updatedAt": "06/03/2026, 09:53:05 PM",
-  "error": "Invalid response structure from FanCode API",
-  "data": []
+  "success": true,
+  "message": "Live matches fetched successfully",
+  "total": 3,
+  "updatedAt": "06/03/2026, 10:33:35 PM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "name": "Main Feed Day 2",
+      "tournament": "Arnold Palmer Invitational 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 140992,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(7).png",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/Old-Sporty-(1080x1440)-(7).png",
+      "teams": [
+        {
+          "name": "Main Feed Day 2",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-APIM@2x.png"
+        },
+        {
+          "name": "Orlando, Florida",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "main-feed-day-2",
+      "tournamentSlug": "arnold-palmer-invitational-2026",
+      "collectionSlug": "arnold-palmer-invitational-2026"
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "name": "Featured Group Day 2",
+      "tournament": "Arnold Palmer Invitational 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 140993,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(7).png",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/Old-Sporty-(1080x1440)-(7).png",
+      "teams": [
+        {
+          "name": "Featured Group Day 2",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-APIM@2x.png"
+        },
+        {
+          "name": "Orlando, Florida",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "featured-group-day-2",
+      "tournamentSlug": "arnold-palmer-invitational-2026",
+      "collectionSlug": "arnold-palmer-invitational-2026"
+    },
+    {
+      "id": 3,
+      "isLive": true,
+      "name": "Marquee Feed Day 2",
+      "tournament": "Arnold Palmer Invitational 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 140994,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(7).png",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/Old-Sporty-(1080x1440)-(7).png",
+      "teams": [
+        {
+          "name": "Marquee Feed Day 2",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-APIM@2x.png"
+        },
+        {
+          "name": "Orlando, Florida",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "marquee-feed-day-2",
+      "tournamentSlug": "arnold-palmer-invitational-2026",
+      "collectionSlug": "arnold-palmer-invitational-2026"
+    }
+  ]
 }
