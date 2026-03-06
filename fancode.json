@@ -1,7 +1,95 @@
 {
-  "success": false,
-  "message": "Failed to fetch data from FanCode",
-  "updatedAt": "06/03/2026, 03:15:54 PM",
-  "error": "Invalid response structure from FanCode API",
-  "data": []
+  "success": true,
+  "message": "Live matches fetched successfully",
+  "total": 3,
+  "updatedAt": "06/03/2026, 03:49:38 PM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "name": "Match 1",
+      "tournament": "Tillo Cup 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 141255,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/Tillo-Cup-2026-old-card-.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/Tillo-Cup-2026-Sporty-.jpg",
+      "teams": [
+        {
+          "name": "JP Sports",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JPS@2x.png"
+        },
+        {
+          "name": "Lightning Legends",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LGT@2x.png"
+        }
+      ],
+      "slug": "jp-sports-noida-vs-lightning-legends",
+      "tournamentSlug": "tillo-cup-2026",
+      "collectionSlug": "tillo-cup-2026"
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "name": "Match 10",
+      "tournament": "AFC Women's Asian Cup, 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 140803,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/140803_5979_UB-W_CHN-W_fc-Web_1772191702178.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/140803_5979_UB-W_CHN-W_fc-App.jpg",
+      "teams": [
+        {
+          "name": "Uzbekistan Women",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-UB@2x.png"
+        },
+        {
+          "name": "China PR Women",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-CHN@2x.png"
+        }
+      ],
+      "slug": "uzbekistan-women-vs-china-pr-women",
+      "tournamentSlug": "afc-womens-asian-cup-2026",
+      "collectionSlug": "afc-womens-asian-cup-2026"
+    },
+    {
+      "id": 3,
+      "isLive": true,
+      "name": "Match 79",
+      "tournament": "A League 2025-26",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 140907,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/140907_5802_ADL_WEL_fc-web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/140907_5802_ADL_WEL_fc-app.jpg",
+      "teams": [
+        {
+          "name": "Adelaide United",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ADLA@2x.png"
+        },
+        {
+          "name": "Wellington Phoenix",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-WEL@2x.png"
+        }
+      ],
+      "slug": "adelaide-united-vs-wellington-phoenix",
+      "tournamentSlug": "a-league-2025-26",
+      "collectionSlug": "a-league-2025-26"
+    }
+  ]
 }
