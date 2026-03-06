@@ -1,8 +1,8 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 5,
-  "updatedAt": "06/03/2026, 12:32:49 PM",
+  "total": 3,
+  "updatedAt": "06/03/2026, 01:16:46 PM",
   "data": [
     {
       "id": 1,
@@ -30,6 +30,27 @@
     {
       "id": 2,
       "isLive": true,
+      "contentId": "141255",
+      "name": "JPS vs LGT",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/a27103fd5fa26c7ac4857b58bb1f92a2.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/31045113f054ef7791a5e2519f60113a.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 3,
+      "isLive": true,
       "contentId": "1540064291",
       "name": "SF: DY Patil Red vs Canara Bank",
       "genre": "cricket",
@@ -46,70 +67,6 @@
         "id": "67977987ed126c0029b9f20c",
         "name": "JioHotstar",
         "hashId": "4025a7f67d456"
-      }
-    },
-    {
-      "id": 3,
-      "isLive": true,
-      "contentId": "134040",
-      "name": "SAU vs NSW",
-      "genre": "cricket",
-      "language": "english",
-      "provider": "FanCode",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/backdrops/5d51a6e62980497ebfafdd08321de312.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/467a27e1cc5272cf09628421e725a6d9.jpg"
-      ],
-      "providerInfo": {
-        "id": "63ce216c483822001ca300a4",
-        "name": "FanCode",
-        "hashId": "c60fe425e3269"
-      }
-    },
-    {
-      "id": 4,
-      "isLive": true,
-      "contentId": "134038",
-      "name": "QUN vs WAU",
-      "genre": "cricket",
-      "language": "english",
-      "provider": "FanCode",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/backdrops/cricket.jpg",
-        "https://images.ottplay.com/backdrops/be0005df569d1f2e249b1634dbaf4b9f.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/001192bbbbe0ec098126628a84b7b08b.jpg"
-      ],
-      "providerInfo": {
-        "id": "63ce216c483822001ca300a4",
-        "name": "FanCode",
-        "hashId": "c60fe425e3269"
-      }
-    },
-    {
-      "id": 5,
-      "isLive": true,
-      "contentId": "134039",
-      "name": "TAS vs VCT",
-      "genre": "cricket",
-      "language": "english",
-      "provider": "FanCode",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/backdrops/86cf0d1920d8e9d3f803eb0591e6cbab.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/291db32b266d0516e793642006948382.jpg"
-      ],
-      "providerInfo": {
-        "id": "63ce216c483822001ca300a4",
-        "name": "FanCode",
-        "hashId": "c60fe425e3269"
       }
     }
   ]
