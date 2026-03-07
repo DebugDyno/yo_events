@@ -1,11 +1,20 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 8,
-  "updatedAt": "07/03/2026, 02:29:46 PM",
+  "total": 5,
+  "updatedAt": "07/03/2026, 03:07:19 PM",
   "data": [
     {
       "id": 1,
+      "isLive": true,
+      "contentId": "1540064460",
+      "name": "BWF All England Open: SFs",
+      "genre": "Badminton",
+      "provider": "JioHotstar",
+      "image": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/4545/1772857654545-h"
+    },
+    {
+      "id": 2,
       "isLive": true,
       "contentId": "1540064502",
       "name": "Only Test: AUS W vs IND W, Day 2",
@@ -14,7 +23,7 @@
       "image": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/3145/1772824403145-h"
     },
     {
-      "id": 2,
+      "id": 3,
       "isLive": true,
       "contentId": "141299",
       "name": "Malaysia VS Bahrain",
@@ -23,7 +32,7 @@
       "image": "https://images.fancode.com/aig/match/v1772769601873/141299_CASACARDS_PARTNER_16_9_1920_1080.png"
     },
     {
-      "id": 3,
+      "id": 4,
       "isLive": true,
       "contentId": "141256",
       "name": "A&S Kolkata VS Nexage Hyderabad",
@@ -32,49 +41,13 @@
       "image": "https://images.fancode.com/aig/match/v1772481600924/141256_CASACARDS_PARTNER_16_9_1920_1080.png"
     },
     {
-      "id": 4,
+      "id": 5,
       "isLive": true,
       "contentId": "140909",
       "name": "Sydney FC VS Melbourne Victory",
       "genre": "Sports",
       "provider": "FanCode",
       "image": "https://images.fancode.com/aig/match/v1772272801633/140909_CASACARDS_PARTNER_16_9_1920_1080.png"
-    },
-    {
-      "id": 5,
-      "isLive": true,
-      "contentId": "140885",
-      "name": "Hong Kong, China VS Kuwait",
-      "genre": "Sports",
-      "provider": "FanCode",
-      "image": "https://images.fancode.com/aig/match/v1771899802297/140885_CASACARDS_PARTNER_16_9_1920_1080.png"
-    },
-    {
-      "id": 6,
-      "isLive": true,
-      "contentId": "122063",
-      "name": "Charlotte Hornets VS Memphis Grizzlies",
-      "genre": "Sports",
-      "provider": "FanCode",
-      "image": ""
-    },
-    {
-      "id": 7,
-      "isLive": true,
-      "contentId": "122085",
-      "name": "Brooklyn Nets VS Atlanta Hawks",
-      "genre": "Sports",
-      "provider": "FanCode",
-      "image": ""
-    },
-    {
-      "id": 8,
-      "isLive": true,
-      "contentId": "122068",
-      "name": "New York Knicks VS Boston Celtics",
-      "genre": "Sports",
-      "provider": "FanCode",
-      "image": ""
     }
   ]
 }
