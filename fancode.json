@@ -1,7 +1,327 @@
 {
-  "success": false,
-  "message": "Failed to fetch data from FanCode",
-  "updatedAt": "09/03/2026, 03:08:08 AM",
-  "error": "Invalid response structure from FanCode API",
-  "data": []
+  "success": true,
+  "message": "Live matches fetched successfully",
+  "total": 11,
+  "updatedAt": "09/03/2026, 03:23:16 AM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "name": "Match 2",
+      "tournament": "ICC Men's T20 WC Americas Sub Regional Qualifier B",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 140706,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/140706_5971_MEX_SRN_fc-Web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/140706_5971_MEX_SRN_fc-App.jpg",
+      "teams": [
+        {
+          "name": "Mexico",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MEX@2x.png"
+        },
+        {
+          "name": "Suriname",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/SRN-CR2@2x.png"
+        }
+      ],
+      "slug": "mexico-vs-suriname",
+      "tournamentSlug": "icc-mens-t20-wc-americas-sub-regional-qualifier-b",
+      "collectionSlug": "icc-mens-t20-wc-americas-sub-regional-qualifier-b"
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "name": "Match 269",
+      "tournament": "LALIGA 2025-26",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 131097,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/131097_5427_VAL_ALA_FC-Web.png",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/131097_5427_VAL_ALA_FC-App.png",
+      "teams": [
+        {
+          "name": "Valencia CF",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-VAL@2x.png"
+        },
+        {
+          "name": "Deportivo Alaves",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ALA@2x.png"
+        }
+      ],
+      "slug": "valencia-cf-vs-deportivo-alaves",
+      "tournamentSlug": "laliga-2025-26",
+      "collectionSlug": "laliga-2025-26"
+    },
+    {
+      "id": 3,
+      "isLive": true,
+      "name": "Match 113",
+      "tournament": "LALIGA Hypermotion 2025-26",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 140827,
+      "streamType": "PAID",
+      "landscapeImage": "https://images.fancode.com/aig/match/v1772160982911/140827_CASACARDS_APP.png",
+      "portraitImage": "https://images.fancode.com/aig/match/v1772160982911/140827_CASACARDS_SPORTY_APP.png",
+      "teams": [
+        {
+          "name": "Deportivo La Coruna",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-DEP@2x.png"
+        },
+        {
+          "name": "Granada",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-GRD@2x.png"
+        }
+      ],
+      "slug": "deportivo-la-coruna-vs-granada",
+      "tournamentSlug": "laliga-hypermotion-2025-26",
+      "collectionSlug": "laliga-hypermotion-2025-26"
+    },
+    {
+      "id": 4,
+      "isLive": true,
+      "name": "World Feed Day 4",
+      "tournament": "Arnold Palmer Invitational 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 141003,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(7).png",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/Old-Sporty-(1080x1440)-(7).png",
+      "teams": [
+        {
+          "name": "World Feed Day 4",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-APIM@2x.png"
+        },
+        {
+          "name": "Orlando, Florida",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "world-feed-day-4",
+      "tournamentSlug": "arnold-palmer-invitational-2026",
+      "collectionSlug": "arnold-palmer-invitational-2026"
+    },
+    {
+      "id": 5,
+      "isLive": true,
+      "name": "E Court Feed",
+      "tournament": "ATP Masters BNP Paribas Open 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 141018,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_app.jpg",
+      "teams": [
+        {
+          "name": "E Court Feed",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png"
+        },
+        {
+          "name": "Indian, United States",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "e-court-feed",
+      "tournamentSlug": "atp-masters-bnp-paribas-open-2026",
+      "collectionSlug": "atp-masters-bnp-paribas-open-2026"
+    },
+    {
+      "id": 6,
+      "isLive": true,
+      "name": "World Feed",
+      "tournament": "ATP Masters BNP Paribas Open 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 141016,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_app.jpg",
+      "teams": [
+        {
+          "name": "World Feed",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png"
+        },
+        {
+          "name": "Indian, United States",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "world-feed",
+      "tournamentSlug": "atp-masters-bnp-paribas-open-2026",
+      "collectionSlug": "atp-masters-bnp-paribas-open-2026"
+    },
+    {
+      "id": 7,
+      "isLive": true,
+      "name": "C Court Feed",
+      "tournament": "ATP Masters BNP Paribas Open 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 141247,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_app.jpg",
+      "teams": [
+        {
+          "name": "C Court Feed",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png"
+        },
+        {
+          "name": "Indian, United States",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "c-court-feed",
+      "tournamentSlug": "atp-masters-bnp-paribas-open-2026",
+      "collectionSlug": "atp-masters-bnp-paribas-open-2026"
+    },
+    {
+      "id": 8,
+      "isLive": true,
+      "name": "F Court Feed",
+      "tournament": "ATP Masters BNP Paribas Open 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 141246,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_app.jpg",
+      "teams": [
+        {
+          "name": "F Court Feed",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png"
+        },
+        {
+          "name": "Indian, United States",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "f-court-feed",
+      "tournamentSlug": "atp-masters-bnp-paribas-open-2026",
+      "collectionSlug": "atp-masters-bnp-paribas-open-2026"
+    },
+    {
+      "id": 9,
+      "isLive": true,
+      "name": "B Court Feed",
+      "tournament": "ATP Masters BNP Paribas Open 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 141245,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_app.jpg",
+      "teams": [
+        {
+          "name": "B Court Feed",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png"
+        },
+        {
+          "name": "Indian, United States",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "b-court-feed",
+      "tournamentSlug": "atp-masters-bnp-paribas-open-2026",
+      "collectionSlug": "atp-masters-bnp-paribas-open-2026"
+    },
+    {
+      "id": 10,
+      "isLive": true,
+      "name": "A Court Feed",
+      "tournament": "ATP Masters BNP Paribas Open 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 141017,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_app.jpg",
+      "teams": [
+        {
+          "name": "A Court Feed",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png"
+        },
+        {
+          "name": "Indian, United States",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "a-court-feed",
+      "tournamentSlug": "atp-masters-bnp-paribas-open-2026",
+      "collectionSlug": "atp-masters-bnp-paribas-open-2026"
+    },
+    {
+      "id": 11,
+      "isLive": true,
+      "name": "D Court Feed",
+      "tournament": "ATP Masters BNP Paribas Open 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 141248,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_app.jpg",
+      "teams": [
+        {
+          "name": "D Court Feed",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png"
+        },
+        {
+          "name": "Indian, United States",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "d-court-feed",
+      "tournamentSlug": "atp-masters-bnp-paribas-open-2026",
+      "collectionSlug": "atp-masters-bnp-paribas-open-2026"
+    }
+  ]
 }
