@@ -1,71 +1,11 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 11,
-  "updatedAt": "08/03/2026, 10:43:26 AM",
+  "total": 8,
+  "updatedAt": "08/03/2026, 11:28:12 AM",
   "data": [
     {
-      "id": 1,
-      "isLive": true,
-      "contentId": "1090505773",
-      "name": "UFC 326 - Holloway vs Oliveira 2  - 8 Mar 2026",
-      "genre": "fight sports",
-      "language": "english",
-      "provider": "SonyLIV",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/images/media/gallery/01920x1080sonylivcarousel-1772935531.jpg",
-        "https://images.ottplay.com/images/04e93b28a58407f501066b7613c0f0ca.jpg",
-        "https://images.ottplay.com/images/180be3efa0f477aed4eb9f1778939d9b.jpg",
-        "https://images.ottplay.com/images/3e623f6aa47c1cec5a6844fc615284dd.jpg",
-        "https://images.ottplay.com/images/9edf6de9c508bb244e403c66f3970cf9.jpg",
-        "https://images.ottplay.com/images/7f35019bfcd5e08bcf2277d7a9b481b7.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/8dc2cd388c2c012a61e696a8ea50cbb7.jpg",
-        "https://images.ottplay.com/images/media/gallery/0750x1125sonylivposter-1772935531.jpg"
-      ],
-      "providerInfo": {
-        "id": "5f456c2aff9ccd034434e6fd",
-        "name": "SonyLIV",
-        "hashId": "100dc02b90dfc"
-      }
-    },
-    {
       "id": 2,
-      "isLive": true,
-      "contentId": "139365",
-      "name": "F1 QATAR AIRWAYS AUSTRALIAN GRAND PRIX 2026",
-      "genre": "formula1",
-      "language": "english",
-      "provider": "FanCode",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/images/media/gallery/01920x1080fancodecarousel-1772941201.jpg",
-        "https://images.ottplay.com/backdrops/b8e2bd5ebdacfe4f57ec4999f735eff5.jpg",
-        "https://images.ottplay.com/images/media/gallery/01920x1080fancodecarousel-1772859869.jpg",
-        "https://images.ottplay.com/backdrops/1043e963ee28b41b24f7deee1744a3fd.jpg",
-        "https://images.ottplay.com/backdrops/87178b418d6e1eb580ca8a6ea674f892.jpg",
-        "https://images.ottplay.com/backdrops/c44e42b871a710064eb20d730dae64f5.jpg",
-        "https://images.ottplay.com/backdrops/fd33aabc3f5742f0d2f4f8ecda412420.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/b607c188444c19b6429451ce599ea37d.jpg",
-        "https://images.ottplay.com/images/media/gallery/0750x1125fancodeposter-1772941201.jpg",
-        "https://images.ottplay.com/posters/d7aecab1590ce50a727f951d2052a45b.jpg",
-        "https://images.ottplay.com/images/media/gallery/0750x1125fancodeposter-1772859870.jpg",
-        "https://images.ottplay.com/posters/e5ba20ab807b4d0b2ecbcba62b805a26.jpg",
-        "https://images.ottplay.com/posters/7a1d3b35b912e035c19f4d81365c3366.jpg",
-        "https://images.ottplay.com/posters/d09a9870b4ab64e6a8c47a7283ef179a.jpg"
-      ],
-      "providerInfo": {
-        "id": "63ce216c483822001ca300a4",
-        "name": "FanCode",
-        "hashId": "c60fe425e3269"
-      }
-    },
-    {
-      "id": 3,
       "isLive": true,
       "contentId": "1540064505",
       "name": "Only Test: AUS W vs IND W, Day 3",
@@ -74,11 +14,12 @@
       "provider": "JioHotstar",
       "content_type": "sport",
       "image": [
+        "https://images.ottplay.com/images/media/gallery/1920x1080carouselday-3live-1772946771.jpg",
         "https://images.ottplay.com/images/5fe17924064a601d19fb8c504f2866e7.jpg"
       ],
       "posters": [
-        "https://images.ottplay.com/images/media/gallery/750x1125posterday-3live-1772946771.jpg",
-        "https://images.ottplay.com/posters/0a1f56823b9e5b11ffc7d182d29dd4a2.jpg"
+        "https://images.ottplay.com/posters/0a1f56823b9e5b11ffc7d182d29dd4a2.jpg",
+        "https://images.ottplay.com/images/media/gallery/750x1125posterday-3live-1772946771.jpg"
       ],
       "providerInfo": {
         "id": "67977987ed126c0029b9f20c",
@@ -87,7 +28,49 @@
       }
     },
     {
+      "id": 3,
+      "isLive": true,
+      "contentId": "140619",
+      "name": "HKCC vs USRC",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/d7a9b6fa8aa6ce8da6f74e9bb41c9b17.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/d5fc83eb8d0c6cd16168ce56f0561acc.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
       "id": 4,
+      "isLive": true,
+      "contentId": "140618",
+      "name": "PACC vs DLSW",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/7b8c0ea0607dddb8546a61aa9fcf8267.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/e9d27b9265e79f02d5f54809e53554e5.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 5,
       "isLive": true,
       "contentId": "141257",
       "name": "LGT vs NEH",
@@ -108,7 +91,7 @@
       }
     },
     {
-      "id": 5,
+      "id": 6,
       "isLive": true,
       "contentId": "1540065229",
       "name": "Dil Se India: India vs New Zealand, Final",
@@ -129,7 +112,7 @@
       }
     },
     {
-      "id": 6,
+      "id": 7,
       "isLive": true,
       "contentId": "140786",
       "name": "Australian Women's Classic 2026",
@@ -152,7 +135,7 @@
       }
     },
     {
-      "id": 7,
+      "id": 8,
       "isLive": true,
       "contentId": "134038",
       "name": "QUN vs WAU",
@@ -174,84 +157,9 @@
       }
     },
     {
-      "id": 8,
-      "isLive": true,
-      "contentId": "1090505776",
-      "name": "UFC 326 - Holloway vs Oliveira 2  - 8 Mar 2026",
-      "genre": "fight sports",
-      "language": "telugu",
-      "provider": "SonyLIV",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/images/29835b53a1b70555f4f2f3f705018bda.jpg",
-        "https://images.ottplay.com/images/180be3efa0f477aed4eb9f1778939d9b.jpg",
-        "https://images.ottplay.com/images/d5c7f1a2b84c86daa155c8daaf41d9f5.jpg",
-        "https://images.ottplay.com/images/ad3332f5fd822ff220b0120560325a78.jpg",
-        "https://images.ottplay.com/images/b53c3e46f640e7b50f625db5d068aac5.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/bec3744f5204f249dd9512764f30bba3.jpg"
-      ],
-      "providerInfo": {
-        "id": "5f456c2aff9ccd034434e6fd",
-        "name": "SonyLIV",
-        "hashId": "100dc02b90dfc"
-      }
-    },
-    {
       "id": 9,
       "isLive": true,
-      "contentId": "1090505775",
-      "name": "UFC 326 - Holloway vs Oliveira 2  - 8 Mar 2026",
-      "genre": "fight sports",
-      "language": "tamil",
-      "provider": "SonyLIV",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/images/3f19ad15c009259a73093a858c131e9f.jpg",
-        "https://images.ottplay.com/images/180be3efa0f477aed4eb9f1778939d9b.jpg",
-        "https://images.ottplay.com/images/bfd096c682ac0a2d80ae3f8e27b0934f.jpg",
-        "https://images.ottplay.com/images/440341a9ac4037586a74560fd5152800.jpg",
-        "https://images.ottplay.com/images/c0c321382adcbc21d301c26556d8862e.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/d2157a439faa9387370f5992fe90093a.jpg"
-      ],
-      "providerInfo": {
-        "id": "5f456c2aff9ccd034434e6fd",
-        "name": "SonyLIV",
-        "hashId": "100dc02b90dfc"
-      }
-    },
-    {
-      "id": 10,
-      "isLive": true,
-      "contentId": "1090505774",
-      "name": "UFC 326 - Holloway vs Oliveira 2  - 8 Mar 2026",
-      "genre": "fight sports",
-      "language": "hindi",
-      "provider": "SonyLIV",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/images/a527a275ca3c49a3da4a458104d6800c.jpg",
-        "https://images.ottplay.com/images/180be3efa0f477aed4eb9f1778939d9b.jpg",
-        "https://images.ottplay.com/images/6ab9deb13b28084d10ba0846b37f2816.jpg",
-        "https://images.ottplay.com/images/2338dc32adb74493bf5f49ef096249ae.jpg",
-        "https://images.ottplay.com/images/af7b8fcba34a25f8fa951a15057f4f55.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/f7ce9e6e7cb1a50fc4ff94f66ee80329.jpg"
-      ],
-      "providerInfo": {
-        "id": "5f456c2aff9ccd034434e6fd",
-        "name": "SonyLIV",
-        "hashId": "100dc02b90dfc"
-      }
-    },
-    {
-      "id": 11,
-      "isLive": true,
-      "contentId": "141013",
+      "contentId": "141014",
       "name": "ATP vs LOC",
       "genre": "lawn-tennis",
       "language": "english",
@@ -483,10 +391,10 @@
         "https://images.ottplay.com/backdrops/a106da37bd581c8e1a51d6c269e59a13.jpg"
       ],
       "posters": [
-        "https://images.ottplay.com/posters/525901cd96b3ee108dc743c2f08eb159.jpg",
         "https://images.ottplay.com/posters/44b85b62134a73adc1d02c4602d0916a.jpg",
-        "https://images.ottplay.com/posters/95314cdb6f958722d2700ab46e773edd.jpg",
+        "https://images.ottplay.com/posters/525901cd96b3ee108dc743c2f08eb159.jpg",
         "https://images.ottplay.com/posters/cd7caf79f0c758665119e6eaec0dcaf6.jpg",
+        "https://images.ottplay.com/posters/95314cdb6f958722d2700ab46e773edd.jpg",
         "https://images.ottplay.com/posters/01b2ee4d0e2d6a39255e39d87d8628ee.jpg",
         "https://images.ottplay.com/posters/d8157d904f4c6df8df05e1f018cfd52d.jpg",
         "https://images.ottplay.com/posters/7bb2a8032955402c0913167c69033acf.jpg",
