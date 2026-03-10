@@ -1,7 +1,182 @@
 {
-  "success": false,
-  "message": "Failed to fetch data from FanCode",
-  "updatedAt": "11/03/2026, 01:47:37 AM",
-  "error": "Invalid response structure from FanCode API",
-  "data": []
+  "success": true,
+  "message": "Live matches fetched successfully",
+  "total": 6,
+  "updatedAt": "11/03/2026, 02:21:59 AM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "name": "Match 125",
+      "tournament": "EFL Championship 2025-26",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 140556,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/140556_5489_STK_IPT_fc-web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/140556_5489_STK_IPT_fc-app.jpg",
+      "teams": [
+        {
+          "name": "Stoke City F.C.",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-STOKC@2x.png"
+        },
+        {
+          "name": "Ipswich Town F.C.",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-IPSW@2x.png"
+        }
+      ],
+      "slug": "stoke-city-f-c-vs-ipswich-town-f-c",
+      "tournamentSlug": "efl-championship-2025-26",
+      "collectionSlug": "efl-championship-2025-26"
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "name": "B Court Feed",
+      "tournament": "ATP Masters BNP Paribas Open 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 141024,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_app.jpg",
+      "teams": [
+        {
+          "name": "B Court Feed",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png"
+        },
+        {
+          "name": "Indian, United States",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "b-court-feed",
+      "tournamentSlug": "atp-masters-bnp-paribas-open-2026",
+      "collectionSlug": "atp-masters-bnp-paribas-open-2026"
+    },
+    {
+      "id": 3,
+      "isLive": true,
+      "name": "C Court Feed",
+      "tournament": "ATP Masters BNP Paribas Open 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 141254,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_app.jpg",
+      "teams": [
+        {
+          "name": "C Court Feed",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png"
+        },
+        {
+          "name": "Indian, United States",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "c-court-feed",
+      "tournamentSlug": "atp-masters-bnp-paribas-open-2026",
+      "collectionSlug": "atp-masters-bnp-paribas-open-2026"
+    },
+    {
+      "id": 4,
+      "isLive": true,
+      "name": "World Feed",
+      "tournament": "ATP Masters BNP Paribas Open 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 141253,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_app.jpg",
+      "teams": [
+        {
+          "name": "World Feed",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png"
+        },
+        {
+          "name": "Indian, United States",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "world-feed",
+      "tournamentSlug": "atp-masters-bnp-paribas-open-2026",
+      "collectionSlug": "atp-masters-bnp-paribas-open-2026"
+    },
+    {
+      "id": 5,
+      "isLive": true,
+      "name": "A Court Feed",
+      "tournament": "ATP Masters BNP Paribas Open 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 141023,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_app.jpg",
+      "teams": [
+        {
+          "name": "A Court Feed",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png"
+        },
+        {
+          "name": "Indian, United States",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "a-court-feed",
+      "tournamentSlug": "atp-masters-bnp-paribas-open-2026",
+      "collectionSlug": "atp-masters-bnp-paribas-open-2026"
+    },
+    {
+      "id": 6,
+      "isLive": true,
+      "name": "D Court Feed",
+      "tournament": "ATP Masters BNP Paribas Open 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 141022,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_app.jpg",
+      "teams": [
+        {
+          "name": "D Court Feed",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png"
+        },
+        {
+          "name": "Indian, United States",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "d-court-feed",
+      "tournamentSlug": "atp-masters-bnp-paribas-open-2026",
+      "collectionSlug": "atp-masters-bnp-paribas-open-2026"
+    }
+  ]
 }
