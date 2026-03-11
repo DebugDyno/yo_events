@@ -1,8 +1,8 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 8,
-  "updatedAt": "11/03/2026, 05:23:27 PM",
+  "total": 6,
+  "updatedAt": "11/03/2026, 06:00:42 PM",
   "data": [
     {
       "id": 1,
@@ -30,6 +30,27 @@
     {
       "id": 2,
       "isLive": true,
+      "contentId": "140867",
+      "name": "RAT vs OSK",
+      "genre": "football",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/28c00300c4a1bad5dc404f7aa6a50e5c.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/2e0aefcc4c5ab64be1d111cdda6c9199.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 3,
+      "isLive": true,
       "contentId": "140860",
       "name": "VIS vs SE",
       "genre": "football",
@@ -51,7 +72,7 @@
       }
     },
     {
-      "id": 3,
+      "id": 4,
       "isLive": true,
       "contentId": "140861",
       "name": "HIR vs JDT",
@@ -74,7 +95,7 @@
       }
     },
     {
-      "id": 4,
+      "id": 5,
       "isLive": true,
       "contentId": "1090506110",
       "name": "Auction - 11 Mar 2026",
@@ -99,49 +120,7 @@
       }
     },
     {
-      "id": 5,
-      "isLive": true,
-      "contentId": "141189",
-      "name": "RE vs TNT",
-      "genre": "cricket",
-      "language": "english",
-      "provider": "FanCode",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/backdrops/ec5c5f6f71060e2e569793ad3d4617bf.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/848a87e48515eb4abe1c58959a7a4ad0.jpg"
-      ],
-      "providerInfo": {
-        "id": "63ce216c483822001ca300a4",
-        "name": "FanCode",
-        "hashId": "c60fe425e3269"
-      }
-    },
-    {
       "id": 6,
-      "isLive": true,
-      "contentId": "141264",
-      "name": "CDE vs NOD",
-      "genre": "cricket",
-      "language": "english",
-      "provider": "FanCode",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/backdrops/fd9695eece66c20de27cd7861d04929f.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/33780ab788297b15dd596546a08013f9.jpg"
-      ],
-      "providerInfo": {
-        "id": "63ce216c483822001ca300a4",
-        "name": "FanCode",
-        "hashId": "c60fe425e3269"
-      }
-    },
-    {
-      "id": 7,
       "isLive": true,
       "contentId": "1540065183",
       "name": "FIH Women's Hockey WC Q'fiers 2026: Day 3",
@@ -159,31 +138,6 @@
         "id": "67977987ed126c0029b9f20c",
         "name": "JioHotstar",
         "hashId": "4025a7f67d456"
-      }
-    },
-    {
-      "id": 8,
-      "isLive": true,
-      "contentId": "133949",
-      "name": "TAS vs NSW",
-      "genre": "cricket",
-      "language": "english",
-      "provider": "FanCode",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/backdrops/e0169fff0285cac8dc0cd36bac70fa67.jpg",
-        "https://images.ottplay.com/backdrops/3d4261de176623ff98c9c50fed42ca4f.jpg",
-        "https://images.ottplay.com/backdrops/7206288ac45b233b715107db626440d9.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/f7afff9d7caa7b4bcf0eab7efa158197.jpg",
-        "https://images.ottplay.com/posters/a53d810518743912c8e30d63117bd493.jpg",
-        "https://images.ottplay.com/posters/325198e3737568b13e36d8aef524fb39.jpg"
-      ],
-      "providerInfo": {
-        "id": "63ce216c483822001ca300a4",
-        "name": "FanCode",
-        "hashId": "c60fe425e3269"
       }
     }
   ]
