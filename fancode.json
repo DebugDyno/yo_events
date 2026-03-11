@@ -1,7 +1,95 @@
 {
-  "success": false,
-  "message": "Failed to fetch data from FanCode",
-  "updatedAt": "11/03/2026, 07:13:41 AM",
-  "error": "Invalid response structure from FanCode API",
-  "data": []
+  "success": true,
+  "message": "Live matches fetched successfully",
+  "total": 3,
+  "updatedAt": "11/03/2026, 09:25:09 AM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "name": "Final",
+      "tournament": "One Day Cup, 2025-26",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 133949,
+      "streamType": "AUTH",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/Tasmania-vs-New-South-Wales_fc-web_1772692426912.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/Tasmania-vs-New-South-Wales_fc-app-(1).jpg",
+      "teams": [
+        {
+          "name": "Tasmania",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TAS@2x.png"
+        },
+        {
+          "name": "New South Wales",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NSW@2x.png"
+        }
+      ],
+      "slug": "tasmania-vs-new-south-wales",
+      "tournamentSlug": "one-day-cup-2025-26",
+      "collectionSlug": "one-day-cup-2025-26"
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "name": "Match 9",
+      "tournament": "Tillo Cup 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 141263,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/Tillo-Cup-2026-old-card-.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/Tillo-Cup-2026-Sporty-.jpg",
+      "teams": [
+        {
+          "name": "SPJ Cargo Delhi",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SPJT@2x.png"
+        },
+        {
+          "name": "MHKL Banaras",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MHK@2x.png"
+        }
+      ],
+      "slug": "spj-cargo-delhi-vs-mhkl-banaras",
+      "tournamentSlug": "tillo-cup-2026",
+      "collectionSlug": "tillo-cup-2026"
+    },
+    {
+      "id": 3,
+      "isLive": true,
+      "name": "Match 25",
+      "tournament": "CONCACAF Champions Cup 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 141095,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/141095_5954_LAF_LDA_1772957535861.png",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/141095_5954_LAF_LDA_1772958619200.png",
+      "teams": [
+        {
+          "name": "Los Angeles Football Club",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-LAF@2x.png"
+        },
+        {
+          "name": "Alajuelense",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-LDA@2x.png"
+        }
+      ],
+      "slug": "los-angeles-football-club-vs-alajuelense",
+      "tournamentSlug": "concacaf-champions-cup-2026",
+      "collectionSlug": "concacaf-champions-cup-2026"
+    }
+  ]
 }
