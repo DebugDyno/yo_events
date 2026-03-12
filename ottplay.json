@@ -1,11 +1,32 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 7,
-  "updatedAt": "12/03/2026, 11:39:23 AM",
+  "total": 5,
+  "updatedAt": "12/03/2026, 12:43:16 PM",
   "data": [
     {
       "id": 1,
+      "isLive": true,
+      "contentId": "141191",
+      "name": "PL vs GT",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/531502d49a87b282b5921bc44402b5b5.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/280f76b1721ec80523083b428105c46c.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 2,
       "isLive": true,
       "contentId": "141190",
       "name": "BR vs PL",
@@ -26,7 +47,7 @@
       }
     },
     {
-      "id": 2,
+      "id": 3,
       "isLive": true,
       "contentId": "141265",
       "name": "MHKL vs CDE",
@@ -47,7 +68,7 @@
       }
     },
     {
-      "id": 3,
+      "id": 4,
       "isLive": true,
       "contentId": "141356",
       "name": "CC vs GW",
@@ -60,27 +81,6 @@
       ],
       "posters": [
         "https://images.ottplay.com/posters/6aed528959703276754745ae41fc686d.jpg"
-      ],
-      "providerInfo": {
-        "id": "63ce216c483822001ca300a4",
-        "name": "FanCode",
-        "hashId": "c60fe425e3269"
-      }
-    },
-    {
-      "id": 4,
-      "isLive": true,
-      "contentId": "140787",
-      "name": "Women's Australian Open 2026",
-      "genre": "golf",
-      "language": "english",
-      "provider": "FanCode",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/backdrops/86a562af97ddfd55ecb022add0884201.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/c5909b6ab44fa32329f0cb55c2f62d69.jpg"
       ],
       "providerInfo": {
         "id": "63ce216c483822001ca300a4",
@@ -108,48 +108,6 @@
         "https://images.ottplay.com/posters/2c32790d202142b60ba1e3028382e5c1.jpg",
         "https://images.ottplay.com/posters/c40a034c456c2c5bab97a13b0e43d76a.jpg",
         "https://images.ottplay.com/posters/fc9215cda14305cab346a73927990c2d.jpg"
-      ],
-      "providerInfo": {
-        "id": "63ce216c483822001ca300a4",
-        "name": "FanCode",
-        "hashId": "c60fe425e3269"
-      }
-    },
-    {
-      "id": 6,
-      "isLive": true,
-      "contentId": "133987",
-      "name": "SASC vs NSWB",
-      "genre": "cricket",
-      "language": "english",
-      "provider": "FanCode",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/backdrops/fbe0bee10e66fab906fc0f85901fd2a1.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/d3d028d44774b07dfd1ffb30d46375fa.jpg"
-      ],
-      "providerInfo": {
-        "id": "63ce216c483822001ca300a4",
-        "name": "FanCode",
-        "hashId": "c60fe425e3269"
-      }
-    },
-    {
-      "id": 7,
-      "isLive": true,
-      "contentId": "133986",
-      "name": "QLF vs VCTW",
-      "genre": "cricket",
-      "language": "english",
-      "provider": "FanCode",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/backdrops/f3252fab9e3e263ef7973feeb2fe0949.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/d2e58aa7dd19112f66e27b5947ac19e3.jpg"
       ],
       "providerInfo": {
         "id": "63ce216c483822001ca300a4",
