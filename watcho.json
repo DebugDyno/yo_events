@@ -1,11 +1,20 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 13,
-  "updatedAt": "14/03/2026, 10:28:57 PM",
+  "total": 12,
+  "updatedAt": "14/03/2026, 11:00:20 PM",
   "data": [
     {
       "id": 1,
+      "isLive": true,
+      "contentId": "1540065288",
+      "name": "Chelsea vs Newcastle",
+      "genre": "Football",
+      "provider": "JioHotstar",
+      "image": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2722/1773411092722-h"
+    },
+    {
+      "id": 2,
       "isLive": true,
       "contentId": "1090506607",
       "name": "Sony Sports Ten 2",
@@ -14,7 +23,7 @@
       "image": "https://d229kpbsb5jevy.cloudfront.net/sony4/videoasset_images/manage_file/1000016185/1773483212603469_bliga26_MD26_Hamburg_SV_vs_FC_Koln_14mar_landscape_thumb.jpg"
     },
     {
-      "id": 2,
+      "id": 3,
       "isLive": true,
       "contentId": "1540064412",
       "name": "Arsenal vs Everton",
@@ -23,7 +32,7 @@
       "image": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/3686/1773411003686-h"
     },
     {
-      "id": 3,
+      "id": 4,
       "isLive": true,
       "contentId": "1540064373",
       "name": "Burnley vs Bournemouth",
@@ -32,7 +41,7 @@
       "image": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2562/1773410912562-h"
     },
     {
-      "id": 4,
+      "id": 5,
       "isLive": true,
       "contentId": "1540064406",
       "name": "Sunderland vs Brighton",
@@ -41,22 +50,13 @@
       "image": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/4612/1773410804612-h"
     },
     {
-      "id": 5,
+      "id": 6,
       "isLive": true,
       "contentId": "1540064466",
       "name": "BWF Swiss Open: Semi-finals",
       "genre": "Badminton",
       "provider": "JioHotstar",
       "image": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7552/1773466657552-h"
-    },
-    {
-      "id": 6,
-      "isLive": true,
-      "contentId": "1540065189",
-      "name": "Final: India vs England",
-      "genre": "Hockey",
-      "provider": "JioHotstar",
-      "image": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/3576/1773494833576-h"
     },
     {
       "id": 7,
@@ -97,15 +97,6 @@
     {
       "id": 11,
       "isLive": true,
-      "contentId": "140953",
-      "name": "Leicester City F.C. VS Queens Park Rangers F.C.",
-      "genre": "Sports",
-      "provider": "FanCode",
-      "image": "https://images.fancode.com/aig/match/v1772899202221/140953_CASACARDS_PARTNER_16_9_1920_1080.png"
-    },
-    {
-      "id": 12,
-      "isLive": true,
       "contentId": "140713",
       "name": "Mexico VS Argentina",
       "genre": "Sports",
@@ -113,7 +104,7 @@
       "image": "https://images.fancode.com/aig/match/v1772899201813/140713_CASACARDS_PARTNER_16_9_1920_1080.png"
     },
     {
-      "id": 13,
+      "id": 12,
       "isLive": true,
       "contentId": "131105",
       "name": "Atletico de Madrid VS Getafe CF",
