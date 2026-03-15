@@ -1,11 +1,20 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 9,
-  "updatedAt": "15/03/2026, 11:17:11 PM",
+  "total": 8,
+  "updatedAt": "15/03/2026, 11:33:42 PM",
   "data": [
     {
       "id": 1,
+      "isLive": true,
+      "contentId": "1090506707",
+      "name": "Sony Sports Ten 2",
+      "genre": "Football",
+      "provider": "Sony Liv",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/sony4/videoasset_images/manage_file/1000015722/1772390887584152_bliga26_MD26_VfB_Stuttgart_vs_RB_Leipzig_1mar_landscape_thumb.jpg"
+    },
+    {
+      "id": 2,
       "isLive": true,
       "contentId": "1090506706",
       "name": "Sony Sports Ten 2",
@@ -14,22 +23,13 @@
       "image": "https://d229kpbsb5jevy.cloudfront.net/sony4/videoasset_images/manage_file/1000015722/1772390485614152_bliga26_MD26_SC_Freiburg_vs_Union_Berlin_1mar_landscape_thumb.jpg"
     },
     {
-      "id": 2,
+      "id": 3,
       "isLive": true,
       "contentId": "1540064418",
       "name": "Liverpool vs Tottenham Hotspur",
       "genre": "Football",
       "provider": "JioHotstar",
       "image": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/3079/1773489433079-h"
-    },
-    {
-      "id": 3,
-      "isLive": true,
-      "contentId": "141309",
-      "name": "Konark Suryas Odisha VS Royal Riders Punjab",
-      "genre": "Sports",
-      "provider": "FanCode",
-      "image": "https://images.fancode.com/aig/match/v1772992800459/141309_CASACARDS_PARTNER_16_9_1920_1080.png"
     },
     {
       "id": 4,
@@ -69,15 +69,6 @@
     },
     {
       "id": 8,
-      "isLive": true,
-      "contentId": "140715",
-      "name": "Suriname VS Mexico",
-      "genre": "Sports",
-      "provider": "FanCode",
-      "image": "https://images.fancode.com/aig/match/v1772985600741/140715_CASACARDS_PARTNER_16_9_1920_1080.png"
-    },
-    {
-      "id": 9,
       "isLive": true,
       "contentId": "131107",
       "name": "Real Betis VS RC Celta",
