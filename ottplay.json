@@ -1,5 +1,71 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 3,
+  "updatedAt": "17/03/2026, 01:12:48 AM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "131102",
+      "name": "RVL vs LE",
+      "genre": "football",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/e327c86895b43c189cc5e84ff50dc920.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/b17125dbecce27757dbd2dfe88d8cd8c.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "contentId": "141222",
+      "name": "ALB vs LAP",
+      "genre": "football",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/a260264a884c5d5ef5751b969b0bcbb8.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/02472a4169de8093e2c1c7c4532e20f3.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 3,
+      "isLive": true,
+      "contentId": "1540065475",
+      "name": "Brentford vs Wolves",
+      "genre": "football",
+      "language": "english",
+      "provider": "JioHotstar",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/438de68034ec71d6a9084f87f3f12557.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/db4010ebc5ac0c250a94f80da24a6da9.jpg"
+      ],
+      "providerInfo": {
+        "id": "67977987ed126c0029b9f20c",
+        "name": "JioHotstar",
+        "hashId": "4025a7f67d456"
+      }
+    }
+  ]
 }
