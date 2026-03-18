@@ -1,7 +1,95 @@
 {
-  "success": false,
-  "message": "Failed to fetch data from FanCode",
-  "updatedAt": "18/03/2026, 10:05:35 AM",
-  "error": "Invalid response structure from FanCode API",
-  "data": []
+  "success": true,
+  "message": "Live matches fetched successfully",
+  "total": 3,
+  "updatedAt": "18/03/2026, 11:19:08 AM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "name": "Match 14",
+      "tournament": "Ayodhya Premier League",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 141368,
+      "streamType": "AUTH",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/141368_6007_SS_CC_FC-Web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/141368_6007_SS_CC_FC-App.jpg",
+      "teams": [
+        {
+          "name": "Saryu Smashers",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRS@2x.png"
+        },
+        {
+          "name": "Chambal Chargers",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CAC@2x.png"
+        }
+      ],
+      "slug": "saryu-smashers-vs-chambal-chargers",
+      "tournamentSlug": "ayodhya-premier-league",
+      "collectionSlug": "ayodhya-premier-league"
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "name": "Match 25",
+      "tournament": "Thunderbolt T10 League 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 141208,
+      "streamType": "AUTH",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8).png",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/Old-Sporty-(1080x1440)-(8).png",
+      "teams": [
+        {
+          "name": "Mumbai Maverics",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MVM@2x.png"
+        },
+        {
+          "name": "Chennai Warlords",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CWL@2x.png"
+        }
+      ],
+      "slug": "mumbai-maverics-vs-chennai-warlords",
+      "tournamentSlug": "thunderbolt-t10-league-2026",
+      "collectionSlug": "thunderbolt-t10-league-2026"
+    },
+    {
+      "id": 3,
+      "isLive": true,
+      "name": "Match 32",
+      "tournament": "CONCACAF Champions Cup 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 141102,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/141102_5954_CRU_MONT_1772957805508.png",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/141102_5954_CRU_MONT_1772958619249.png",
+      "teams": [
+        {
+          "name": "Cruz Azul",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-CRAZ@2x.png"
+        },
+        {
+          "name": "Monterrey",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MONT@2x.png"
+        }
+      ],
+      "slug": "cruz-azul-vs-monterrey",
+      "tournamentSlug": "concacaf-champions-cup-2026",
+      "collectionSlug": "concacaf-champions-cup-2026"
+    }
+  ]
 }
