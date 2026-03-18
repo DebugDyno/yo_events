@@ -1,5 +1,29 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 1,
+  "updatedAt": "18/03/2026, 07:53:53 AM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "141101",
+      "name": "LDA vs LAF",
+      "genre": "football",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/42380bf33212ebf80648f3eaba1ac160.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/94e7ea8bb18e2cf260eb876d28b0c002.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    }
+  ]
 }
