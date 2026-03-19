@@ -1,7 +1,95 @@
 {
-  "success": false,
-  "message": "Failed to fetch data from FanCode",
-  "updatedAt": "19/03/2026, 02:59:42 PM",
-  "error": "Invalid response structure from FanCode API",
-  "data": []
+  "success": true,
+  "message": "Live matches fetched successfully",
+  "total": 3,
+  "updatedAt": "19/03/2026, 03:39:59 PM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "name": "Match 17",
+      "tournament": "Ayodhya Premier League",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 141371,
+      "streamType": "AUTH",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/141371_6007_HT_BB_FC-Web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/141371_6007_HT_BB_FC-App.jpg",
+      "teams": [
+        {
+          "name": "Hindon Titans",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HNT@2x.png"
+        },
+        {
+          "name": "Betwa Blasters",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BTB@2x.png"
+        }
+      ],
+      "slug": "hindon-titans-vs-betwa-blasters",
+      "tournamentSlug": "ayodhya-premier-league",
+      "collectionSlug": "ayodhya-premier-league"
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "name": "Match 31",
+      "tournament": "Thunderbolt T10 League 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 141214,
+      "streamType": "AUTH",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8).png",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/Old-Sporty-(1080x1440)-(8).png",
+      "teams": [
+        {
+          "name": "Mumbai Mavericks",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MVM@2x.png"
+        },
+        {
+          "name": "Punjab Lions",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PL@2x.png"
+        }
+      ],
+      "slug": "mumbai-mavericks-vs-punjab-lions",
+      "tournamentSlug": "thunderbolt-t10-league-2026",
+      "collectionSlug": "thunderbolt-t10-league-2026"
+    },
+    {
+      "id": 3,
+      "isLive": true,
+      "name": "Play-Offs",
+      "tournament": "AFC Women's Asian Cup, 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 140819,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/140819_5979_TPE-W_NK-W_fc-Web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/140819_5979_TPE-W_NK-W_fc-App.jpg",
+      "teams": [
+        {
+          "name": "Chinese Taipei Women",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-CT@2x.png"
+        },
+        {
+          "name": "DPR Korea Women",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-NK@2x.png"
+        }
+      ],
+      "slug": "chinese-taipei-women-vs-dpr-korea-women",
+      "tournamentSlug": "afc-womens-asian-cup-2026",
+      "collectionSlug": "afc-womens-asian-cup-2026"
+    }
+  ]
 }
