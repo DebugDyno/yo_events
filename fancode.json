@@ -1,7 +1,414 @@
 {
-  "success": false,
-  "message": "Failed to fetch data from FanCode",
-  "updatedAt": "22/03/2026, 12:32:51 AM",
-  "error": "Invalid response structure from FanCode API",
-  "data": []
+  "success": true,
+  "message": "Live matches fetched successfully",
+  "total": 14,
+  "updatedAt": "22/03/2026, 01:04:59 AM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "name": "Match 283",
+      "tournament": "LALIGA 2025-26",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 131117,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/131117_5427_LE_RO_FC-Web.png",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/131117_5427_LE_RO_FC-App.png",
+      "teams": [
+        {
+          "name": "Levante",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-LET@2x.png"
+        },
+        {
+          "name": "Real Oviedo",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-RO@2x.png"
+        }
+      ],
+      "slug": "levante-vs-real-oviedo",
+      "tournamentSlug": "laliga-2025-26",
+      "collectionSlug": "laliga-2025-26"
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "name": "Unknown Match",
+      "tournament": "LALIGA Hypermotion 2025-26",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 141409,
+      "streamType": "PAID",
+      "landscapeImage": "https://images.fancode.com/aig/match/v1773431102733/141409_CASACARDS_APP.png",
+      "portraitImage": "https://images.fancode.com/aig/match/v1773431102733/141409_CASACARDS_SPORTY_APP.png",
+      "teams": [
+        {
+          "name": "Cádiz",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-CDZ@2x.png"
+        },
+        {
+          "name": "Málaga",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MAG@2x.png"
+        }
+      ],
+      "slug": "cadiz-vs-malaga",
+      "tournamentSlug": "laliga-hypermotion-2025-26",
+      "collectionSlug": "laliga-hypermotion-2025-26"
+    },
+    {
+      "id": 3,
+      "isLive": true,
+      "name": "Brazil GP",
+      "tournament": "ESTRELLA GALICIA 0,0 GRAND PRIX OF BRAZIL 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 139928,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/ESTRELLA-GALICIA-0,0-GRAND-PRIX-OF-BRAZIL-2026-old-card.png",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/ESTRELLA-GALICIA-0,0-GRAND-PRIX-OF-BRAZIL-2026-Sporty-old.png",
+      "teams": [
+        {
+          "name": "Day 2",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/motogp-flags/FC-MG@2x.png"
+        },
+        {
+          "name": "Autódromo Internacional de Goiânia – Ayrton Senna",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/motogp-flags/FC-LOT@2x.png"
+        }
+      ],
+      "slug": "day-2",
+      "tournamentSlug": "estrella-galicia-00-grand-prix-of-brazil-2026",
+      "collectionSlug": "estrella-galicia-00-grand-prix-of-brazil-2026"
+    },
+    {
+      "id": 4,
+      "isLive": true,
+      "name": "Main Feed - Day 3\t",
+      "tournament": "Valspar Championship 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 141396,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/Valspar-Championship_fc-web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/Valspar-Championship_fc-app.jpg",
+      "teams": [
+        {
+          "name": "Main Feed - Day 3\t",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-VC@2x.png"
+        },
+        {
+          "name": "Palm Harbor, Florida",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "main-feed-day-3",
+      "tournamentSlug": "valspar-championship-2026",
+      "collectionSlug": "valspar-championship-2026"
+    },
+    {
+      "id": 5,
+      "isLive": true,
+      "name": "Featured Holes - Day 3\t",
+      "tournament": "Valspar Championship 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 141398,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/Valspar-Championship_fc-web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/Valspar-Championship_fc-app.jpg",
+      "teams": [
+        {
+          "name": "Featured Holes - Day 3\t",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-VC@2x.png"
+        },
+        {
+          "name": "Palm Harbor, Florida",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "featured-holes-day-3",
+      "tournamentSlug": "valspar-championship-2026",
+      "collectionSlug": "valspar-championship-2026"
+    },
+    {
+      "id": 6,
+      "isLive": true,
+      "name": "Featured Groups - Day 3\t",
+      "tournament": "Valspar Championship 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 141397,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/Valspar-Championship_fc-web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/Valspar-Championship_fc-app.jpg",
+      "teams": [
+        {
+          "name": "Featured Groups - Day 3\t",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-VC@2x.png"
+        },
+        {
+          "name": "Palm Harbor, Florida",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "featured-groups-day-3",
+      "tournamentSlug": "valspar-championship-2026",
+      "collectionSlug": "valspar-championship-2026"
+    },
+    {
+      "id": 7,
+      "isLive": true,
+      "name": "Marquee Feed - Day 3\t",
+      "tournament": "Valspar Championship 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 141399,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/Valspar-Championship_fc-web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/Valspar-Championship_fc-app.jpg",
+      "teams": [
+        {
+          "name": "Marquee Feed - Day 3\t",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-VC@2x.png"
+        },
+        {
+          "name": "Palm Harbor, Florida",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "marquee-feed-day-3",
+      "tournamentSlug": "valspar-championship-2026",
+      "collectionSlug": "valspar-championship-2026"
+    },
+    {
+      "id": 8,
+      "isLive": true,
+      "name": "World Feed",
+      "tournament": "ATP Masters Miami Open 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 141042,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB_1773742804978.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-App_1773742804982.jpg",
+      "teams": [
+        {
+          "name": "World Feed",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png"
+        },
+        {
+          "name": "Miami, United States",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "world-feed",
+      "tournamentSlug": "atp-masters-miami-open-2026",
+      "collectionSlug": "atp-masters-miami-open-2026"
+    },
+    {
+      "id": 9,
+      "isLive": true,
+      "name": "B Court Feed",
+      "tournament": "ATP Masters Miami Open 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 141469,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB_1773742804978.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-App_1773742804982.jpg",
+      "teams": [
+        {
+          "name": "B Court Feed",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png"
+        },
+        {
+          "name": "Miami, United States",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "b-court-feed",
+      "tournamentSlug": "atp-masters-miami-open-2026",
+      "collectionSlug": "atp-masters-miami-open-2026"
+    },
+    {
+      "id": 10,
+      "isLive": true,
+      "name": "D Court Feed",
+      "tournament": "ATP Masters Miami Open 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 141467,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB_1773742804978.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-App_1773742804982.jpg",
+      "teams": [
+        {
+          "name": "D Court Feed",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png"
+        },
+        {
+          "name": "Miami, United States",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "d-court-feed",
+      "tournamentSlug": "atp-masters-miami-open-2026",
+      "collectionSlug": "atp-masters-miami-open-2026"
+    },
+    {
+      "id": 11,
+      "isLive": true,
+      "name": "E Court Feed",
+      "tournament": "ATP Masters Miami Open 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 141466,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB_1773742804978.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-App_1773742804982.jpg",
+      "teams": [
+        {
+          "name": "E Court Feed",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png"
+        },
+        {
+          "name": "Miami, United States",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "e-court-feed",
+      "tournamentSlug": "atp-masters-miami-open-2026",
+      "collectionSlug": "atp-masters-miami-open-2026"
+    },
+    {
+      "id": 12,
+      "isLive": true,
+      "name": "A Court Feed",
+      "tournament": "ATP Masters Miami Open 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 141041,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB_1773742804978.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_sporty_1080_x_1350_FC-App-V2_1773742804973.jpg",
+      "teams": [
+        {
+          "name": "A Court Feed",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png"
+        },
+        {
+          "name": "Miami, United States",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "a-court-feed",
+      "tournamentSlug": "atp-masters-miami-open-2026",
+      "collectionSlug": "atp-masters-miami-open-2026"
+    },
+    {
+      "id": 13,
+      "isLive": true,
+      "name": "World Feed - Day 3\t",
+      "tournament": "Valspar Championship 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 141400,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/Valspar-Championship_fc-web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/Valspar-Championship_fc-app.jpg",
+      "teams": [
+        {
+          "name": "World Feed - Day 3\t",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-VC@2x.png"
+        },
+        {
+          "name": "Palm Harbor, Florida",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "world-feed-day-3",
+      "tournamentSlug": "valspar-championship-2026",
+      "collectionSlug": "valspar-championship-2026"
+    },
+    {
+      "id": 14,
+      "isLive": true,
+      "name": "C Court Feed",
+      "tournament": "ATP Masters Miami Open 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 141470,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB_1773742804978.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-App_1773742804982.jpg",
+      "teams": [
+        {
+          "name": "C Court Feed",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png"
+        },
+        {
+          "name": "Miami, United States",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "c-court-feed",
+      "tournamentSlug": "atp-masters-miami-open-2026",
+      "collectionSlug": "atp-masters-miami-open-2026"
+    }
+  ]
 }
