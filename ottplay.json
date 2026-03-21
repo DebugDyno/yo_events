@@ -1,11 +1,32 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 5,
-  "updatedAt": "21/03/2026, 01:11:03 PM",
+  "total": 4,
+  "updatedAt": "21/03/2026, 01:29:13 PM",
   "data": [
     {
       "id": 1,
+      "isLive": true,
+      "contentId": "141375",
+      "name": "MM vs BB",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/e225b85321d3152329a62f653ced6939.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/fd7e82ceb79318cb70f8d3d0ea1176b6.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 2,
       "isLive": true,
       "contentId": "141335",
       "name": "CML vs JR",
@@ -26,7 +47,7 @@
       }
     },
     {
-      "id": 2,
+      "id": 3,
       "isLive": true,
       "contentId": "140920",
       "name": "MLV vs CCM",
@@ -47,7 +68,7 @@
       }
     },
     {
-      "id": 3,
+      "id": 4,
       "isLive": true,
       "contentId": "141374",
       "name": "HT vs SS",
@@ -60,54 +81,6 @@
       ],
       "posters": [
         "https://images.ottplay.com/posters/0ddc745e3cf167774a019b155fe1234c.jpg"
-      ],
-      "providerInfo": {
-        "id": "63ce216c483822001ca300a4",
-        "name": "FanCode",
-        "hashId": "c60fe425e3269"
-      }
-    },
-    {
-      "id": 4,
-      "isLive": true,
-      "contentId": "141334",
-      "name": "MA vs DTA",
-      "genre": "cricket",
-      "language": "english",
-      "provider": "FanCode",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/backdrops/5e9b830b7a9df1471ec29c60805c30ce.jpg",
-        "https://images.ottplay.com/backdrops/ed40e53dd0b725ade6aeaca54215571f.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/61a25990ddf5d4a67d4ad76e2fabea36.jpg",
-        "https://images.ottplay.com/posters/08a186f8d7d8502edbb40cf2b0c25f49.jpg"
-      ],
-      "providerInfo": {
-        "id": "63ce216c483822001ca300a4",
-        "name": "FanCode",
-        "hashId": "c60fe425e3269"
-      }
-    },
-    {
-      "id": 5,
-      "isLive": true,
-      "contentId": "133992",
-      "name": "NSWB vs QLF",
-      "genre": "cricket",
-      "language": "english",
-      "provider": "FanCode",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/backdrops/e938d11b28f77a21954caa67cbdb1db7.jpg",
-        "https://images.ottplay.com/backdrops/a107f094aaf0dced9c8a2ccfa4b06c1f.jpg",
-        "https://images.ottplay.com/backdrops/3f3b9220650bbb4dd495d4a44c3e601d.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/061b5b6a65f775c30c0c3a0f0f77f4d4.jpg",
-        "https://images.ottplay.com/posters/45558019a921f5769427eacdbcaf362c.jpg",
-        "https://images.ottplay.com/posters/0487dc2dd909c1b651a4349b3cb914e4.jpg"
       ],
       "providerInfo": {
         "id": "63ce216c483822001ca300a4",

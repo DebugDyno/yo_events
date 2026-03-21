@@ -1,7 +1,124 @@
 {
-  "success": false,
-  "message": "Failed to fetch data from FanCode",
-  "updatedAt": "21/03/2026, 01:11:04 PM",
-  "error": "Invalid response structure from FanCode API",
-  "data": []
+  "success": true,
+  "message": "Live matches fetched successfully",
+  "total": 4,
+  "updatedAt": "21/03/2026, 01:29:14 PM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "name": "Match 20",
+      "tournament": "Ayodhya Premier League",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 141374,
+      "streamType": "AUTH",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/141374_6007_HT_SS_FC-Web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/141374_6007_HT_SS_FC-App.jpg",
+      "teams": [
+        {
+          "name": "Hindon Titans",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HNT@2x.png"
+        },
+        {
+          "name": "Saryu Smashers",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRS@2x.png"
+        }
+      ],
+      "slug": "hindon-titans-vs-saryu-smashers",
+      "tournamentSlug": "ayodhya-premier-league",
+      "collectionSlug": "ayodhya-premier-league"
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "name": "Match 2",
+      "tournament": "Actors Cricket Bash 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 141335,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/141335_6005_CML_JR_fc-Web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/141335_6005_CML_JR_fc-App.jpg",
+      "teams": [
+        {
+          "name": "Chennai Marvels",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CMB@2x.png"
+        },
+        {
+          "name": "Jaipur Royals",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR3@2x.png"
+        }
+      ],
+      "slug": "chennai-marvels-vs-jaipur-royals",
+      "tournamentSlug": "actors-cricket-bash-2026",
+      "collectionSlug": "actors-cricket-bash-2026"
+    },
+    {
+      "id": 3,
+      "isLive": true,
+      "name": "Match 21",
+      "tournament": "Ayodhya Premier League",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 141375,
+      "streamType": "AUTH",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/141375_6007_MM_BB_FC-Web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/141375_6007_MM_BB_FC-App.jpg",
+      "teams": [
+        {
+          "name": "Manorama Marvels",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MAM@2x.png"
+        },
+        {
+          "name": "Betwa Blasters",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BTB@2x.png"
+        }
+      ],
+      "slug": "manorama-marvels-vs-betwa-blasters",
+      "tournamentSlug": "ayodhya-premier-league",
+      "collectionSlug": "ayodhya-premier-league"
+    },
+    {
+      "id": 4,
+      "isLive": true,
+      "name": "Match 92",
+      "tournament": "A League 2025-26",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 140920,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/140920_5802_MLV_CCM_fc-web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/140920_5802_MLV_CCM_fc-app.jpg",
+      "teams": [
+        {
+          "name": "Melbourne Victory",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MLVA@2x.png"
+        },
+        {
+          "name": "Central Coast Mariners",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-CENTA@2x.png"
+        }
+      ],
+      "slug": "melbourne-victory-vs-central-coast-mariners",
+      "tournamentSlug": "a-league-2025-26",
+      "collectionSlug": "a-league-2025-26"
+    }
+  ]
 }
