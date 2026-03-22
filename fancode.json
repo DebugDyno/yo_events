@@ -1,8 +1,8 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 12,
-  "updatedAt": "22/03/2026, 10:09:14 PM",
+  "total": 13,
+  "updatedAt": "22/03/2026, 10:31:45 PM",
   "data": [
     {
       "id": 1,
@@ -349,6 +349,35 @@
         }
       ],
       "slug": "c-court-feed",
+      "tournamentSlug": "atp-masters-miami-open-2026",
+      "collectionSlug": "atp-masters-miami-open-2026"
+    },
+    {
+      "id": 13,
+      "isLive": true,
+      "name": "A Court Feed",
+      "tournament": "ATP Masters Miami Open 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 141046,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB_1773742804978.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-App_1773742804982.jpg",
+      "teams": [
+        {
+          "name": "A Court Feed",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png"
+        },
+        {
+          "name": "Miami, United States",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "a-court-feed",
       "tournamentSlug": "atp-masters-miami-open-2026",
       "collectionSlug": "atp-masters-miami-open-2026"
     }
