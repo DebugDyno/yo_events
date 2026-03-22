@@ -1,11 +1,20 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 4,
-  "updatedAt": "22/03/2026, 12:04:49 PM",
+  "total": 3,
+  "updatedAt": "22/03/2026, 12:56:43 PM",
   "data": [
     {
       "id": 1,
+      "isLive": true,
+      "contentId": "1090507238",
+      "name": "LIV",
+      "genre": "Golf",
+      "provider": "Sony Liv",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/sony4/videoasset_images/manage_file/1000016394/1773922645704180_Golf_SA_Day4_landscape_thumb.jpg"
+    },
+    {
+      "id": 2,
       "isLive": true,
       "contentId": "1090507361",
       "name": "Sony Sports Ten 5",
@@ -14,31 +23,13 @@
       "image": "https://d229kpbsb5jevy.cloudfront.net/sony4/videoasset_images/manage_file/1000016421/1773970017958830_NZvsSA26_4thT20I_20mar_landscape_thumb.jpg"
     },
     {
-      "id": 2,
+      "id": 3,
       "isLive": true,
       "contentId": "141338",
       "name": "Delhi Titans VS Jaipur Royals",
       "genre": "Sports",
       "provider": "FanCode",
       "image": "https://images.fancode.com/aig/match/v1773561602260/141338_CASACARDS_PARTNER_16_9_1920_1080.png"
-    },
-    {
-      "id": 3,
-      "isLive": true,
-      "contentId": "141337",
-      "name": "Mumbai Aces VS Chandigarh Mavericks",
-      "genre": "Sports",
-      "provider": "FanCode",
-      "image": "https://images.fancode.com/aig/match/v1773554402973/141337_CASACARDS_PARTNER_16_9_1920_1080.png"
-    },
-    {
-      "id": 4,
-      "isLive": true,
-      "contentId": "141376",
-      "name": "Gomti Thunder VS Hindon Titans",
-      "genre": "Sports",
-      "provider": "FanCode",
-      "image": "https://images.fancode.com/aig/match/v1773215050130/141376_CASACARDS_PARTNER_16_9_1920_1080.png"
     }
   ]
 }
