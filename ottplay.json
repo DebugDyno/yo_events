@@ -1,11 +1,34 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 3,
-  "updatedAt": "23/03/2026, 11:39:36 AM",
+  "total": 2,
+  "updatedAt": "23/03/2026, 01:10:14 PM",
   "data": [
     {
       "id": 1,
+      "isLive": true,
+      "contentId": "141449",
+      "name": "NAM vs UGA",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/f9ab6a60728ce7954ea325ad83e04f6e.jpg",
+        "https://images.ottplay.com/backdrops/cf92cf83acbd70716128f92bd831412b.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/ffe9e5e03c312f7036e1c5720220478b.jpg",
+        "https://images.ottplay.com/posters/7e1312783c2475ecbdd1cc91ff9fe433.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 2,
       "isLive": true,
       "contentId": "141341",
       "name": "CML vs CMA",
@@ -18,48 +41,6 @@
       ],
       "posters": [
         "https://images.ottplay.com/posters/b714c4e66863e8f892be2a926e324b62.jpg"
-      ],
-      "providerInfo": {
-        "id": "63ce216c483822001ca300a4",
-        "name": "FanCode",
-        "hashId": "c60fe425e3269"
-      }
-    },
-    {
-      "id": 2,
-      "isLive": true,
-      "contentId": "141378",
-      "name": "YSK vs SS",
-      "genre": "cricket",
-      "language": "english",
-      "provider": "FanCode",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/backdrops/403d5138b90736b20ef7e99633e117cd.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/840879211f5eed48de8e267e06101b50.jpg"
-      ],
-      "providerInfo": {
-        "id": "63ce216c483822001ca300a4",
-        "name": "FanCode",
-        "hashId": "c60fe425e3269"
-      }
-    },
-    {
-      "id": 3,
-      "isLive": true,
-      "contentId": "141340",
-      "name": "MA vs JR",
-      "genre": "cricket",
-      "language": "english",
-      "provider": "FanCode",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/backdrops/d603b6ed3f24a575427d9fdce07c3382.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/8d95f8b98bfa144d143806250caa916d.jpg"
       ],
       "providerInfo": {
         "id": "63ce216c483822001ca300a4",
