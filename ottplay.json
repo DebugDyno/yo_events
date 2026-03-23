@@ -2,10 +2,31 @@
   "success": true,
   "message": "Live matches fetched successfully",
   "total": 3,
-  "updatedAt": "23/03/2026, 02:05:20 PM",
+  "updatedAt": "23/03/2026, 03:13:00 PM",
   "data": [
     {
       "id": 1,
+      "isLive": true,
+      "contentId": "141342",
+      "name": "DTA vs ALA",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/1067825ed7ac6a4e0be1edd3e3384075.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/1aba72d1f07de38afcd4faba1058bcea.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 2,
       "isLive": true,
       "contentId": "141379",
       "name": "MM vs GW",
@@ -26,7 +47,7 @@
       }
     },
     {
-      "id": 2,
+      "id": 3,
       "isLive": true,
       "contentId": "141449",
       "name": "NAM vs UGA",
@@ -41,27 +62,6 @@
       "posters": [
         "https://images.ottplay.com/posters/ffe9e5e03c312f7036e1c5720220478b.jpg",
         "https://images.ottplay.com/posters/7e1312783c2475ecbdd1cc91ff9fe433.jpg"
-      ],
-      "providerInfo": {
-        "id": "63ce216c483822001ca300a4",
-        "name": "FanCode",
-        "hashId": "c60fe425e3269"
-      }
-    },
-    {
-      "id": 3,
-      "isLive": true,
-      "contentId": "141341",
-      "name": "CML vs CMA",
-      "genre": "cricket",
-      "language": "english",
-      "provider": "FanCode",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/backdrops/88c8f9f4e6e455b67ef31ded4214736c.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/b714c4e66863e8f892be2a926e324b62.jpg"
       ],
       "providerInfo": {
         "id": "63ce216c483822001ca300a4",
