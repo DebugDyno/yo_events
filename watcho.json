@@ -1,7 +1,26 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 0,
-  "updatedAt": "23/03/2026, 08:18:49 AM",
-  "data": []
+  "total": 2,
+  "updatedAt": "23/03/2026, 10:26:34 AM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "141340",
+      "name": "Mumbai Aces VS Jaipur Royals",
+      "genre": "Sports",
+      "provider": "FanCode",
+      "image": "https://images.fancode.com/aig/match/v1773640802100/141340_CASACARDS_PARTNER_16_9_1920_1080.png"
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "contentId": "141378",
+      "name": "Yamuna Super Kings VS Saryu Smashers",
+      "genre": "Sports",
+      "provider": "FanCode",
+      "image": "https://images.fancode.com/aig/match/v1773215050131/141378_CASACARDS_PARTNER_16_9_1920_1080.png"
+    }
+  ]
 }

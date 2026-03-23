@@ -1,5 +1,50 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 2,
+  "updatedAt": "23/03/2026, 10:26:35 AM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "141378",
+      "name": "YSK vs SS",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/403d5138b90736b20ef7e99633e117cd.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/840879211f5eed48de8e267e06101b50.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "contentId": "141340",
+      "name": "MA vs JR",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/d603b6ed3f24a575427d9fdce07c3382.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/8d95f8b98bfa144d143806250caa916d.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    }
+  ]
 }
