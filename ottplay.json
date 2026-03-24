@@ -2,10 +2,31 @@
   "success": true,
   "message": "Live matches fetched successfully",
   "total": 2,
-  "updatedAt": "24/03/2026, 11:17:21 AM",
+  "updatedAt": "24/03/2026, 12:17:00 PM",
   "data": [
     {
       "id": 1,
+      "isLive": true,
+      "contentId": "141344",
+      "name": "JR vs CMA",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/4f62e39e24d58585bbe8dc14b249cc98.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/c37dd310023865d8e58dd1bfe02703b2.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 2,
       "isLive": true,
       "contentId": "141380",
       "name": "BB vs GT",
@@ -18,27 +39,6 @@
       ],
       "posters": [
         "https://images.ottplay.com/posters/a7083817e0c77f50db23e085e462b638.jpg"
-      ],
-      "providerInfo": {
-        "id": "63ce216c483822001ca300a4",
-        "name": "FanCode",
-        "hashId": "c60fe425e3269"
-      }
-    },
-    {
-      "id": 2,
-      "isLive": true,
-      "contentId": "141343",
-      "name": "MA vs ALA",
-      "genre": "cricket",
-      "language": "english",
-      "provider": "FanCode",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/backdrops/af07076a2673296ce0ef2d800ce41927.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/cda0b5f6b0785a301093457242ce6381.jpg"
       ],
       "providerInfo": {
         "id": "63ce216c483822001ca300a4",
