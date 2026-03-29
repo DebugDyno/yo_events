@@ -1,7 +1,153 @@
 {
-  "success": false,
-  "message": "Failed to fetch data from FanCode",
-  "updatedAt": "29/03/2026, 08:59:31 AM",
-  "error": "Invalid response structure from FanCode API",
-  "data": []
+  "success": true,
+  "message": "Live matches fetched successfully",
+  "total": 5,
+  "updatedAt": "29/03/2026, 10:55:50 AM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "name": "1st ODI",
+      "tournament": "South Africa Women's tour of New Zealand, 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 141071,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/South-Africa-Women's-tour-of-New-Zealand-ODIs-old.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/South-Africa-Women's-tour-of-New-Zealand-ODIs-Sporty-card.jpg",
+      "teams": [
+        {
+          "name": "New Zealand Women",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NZC@2x.png"
+        },
+        {
+          "name": "South Africa Women",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RSA@2x.png"
+        }
+      ],
+      "slug": "new-zealand-women-vs-south-africa-women",
+      "tournamentSlug": "south-africa-womens-tour-of-new-zealand-2026",
+      "collectionSlug": "south-africa-womens-tour-of-new-zealand-2026"
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "name": "Unknown Match",
+      "tournament": "AFC Women's Champions League 2025-26",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 141217,
+      "streamType": "PAID",
+      "landscapeImage": "https://images.fancode.com/aig/match/v1774667324846/141217_CASACARDS_APP.png",
+      "portraitImage": "https://images.fancode.com/aig/match/v1774667324846/141217_CASACARDS_SPORTY_APP.png",
+      "teams": [
+        {
+          "name": "Melbourne City Women",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MLCA@2x.png"
+        },
+        {
+          "name": "PFC Nasaf",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/DEF-FT1@2x.png"
+        }
+      ],
+      "slug": "melbourne-city-women-vs-pfc-nasaf",
+      "tournamentSlug": "afc-womens-champions-league-2025-26",
+      "collectionSlug": "afc-womens-champions-league-2025-26"
+    },
+    {
+      "id": 3,
+      "isLive": true,
+      "name": "Unknown Match",
+      "tournament": "Sheffield Shield, 2025-26",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 134044,
+      "streamType": "AUTH",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/134042_5609_VCT_SAU_FC-Web.png",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/134042_5609_VCT_SAU_FC-App.png",
+      "teams": [
+        {
+          "name": "Victoria",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-VCT@2x.png"
+        },
+        {
+          "name": "South Australia",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SAUS@2x.png"
+        }
+      ],
+      "slug": "victoria-vs-south-australia",
+      "tournamentSlug": "sheffield-shield-2025-26",
+      "collectionSlug": "sheffield-shield-2025-26"
+    },
+    {
+      "id": 4,
+      "isLive": true,
+      "name": "Australasia - Day 2",
+      "tournament": "Ferrari Challenge Series 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 141603,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series_fc-web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series_fc-app.jpg",
+      "teams": [
+        {
+          "name": "Australasia - Day 2",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-POR@2x.png"
+        },
+        {
+          "name": "Phillip Island",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "ferrari-challenge-series",
+      "tournamentSlug": "ferrari-challenge-series-2026",
+      "collectionSlug": "ferrari-challenge-series-2026"
+    },
+    {
+      "id": 5,
+      "isLive": true,
+      "name": "Race",
+      "tournament": "F1 ARAMCO JAPANESE GRAND PRIX 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 139384,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/Japanese-Grand-Prix_fc-web.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/Japanese-Grand-Prix_fc-app.jpg",
+      "teams": [
+        {
+          "name": "Race",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-FR5@2x.png"
+        },
+        {
+          "name": "Japan",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-LOT@2x.png"
+        }
+      ],
+      "slug": "race",
+      "tournamentSlug": "f1-aramco-japanese-grand-prix-2026",
+      "collectionSlug": "f1-aramco-japanese-grand-prix-2026"
+    }
+  ]
 }
