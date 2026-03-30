@@ -1,11 +1,32 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 3,
-  "updatedAt": "31/03/2026, 12:07:07 AM",
+  "total": 2,
+  "updatedAt": "31/03/2026, 01:09:12 AM",
   "data": [
     {
       "id": 1,
+      "isLive": true,
+      "contentId": "141074",
+      "name": "ATP vs LOC",
+      "genre": "lawn-tennis",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/3cbbd13a42d7dae867de4541c6401fa8.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/c606d0b922da1e9bed0d966990a5854d.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 2,
       "isLive": true,
       "contentId": "1090507843",
       "name": "Germany vs Ghana - 31 Mar 2026",
@@ -27,48 +48,6 @@
         "id": "5f456c2aff9ccd034434e6fd",
         "name": "SonyLIV",
         "hashId": "100dc02b90dfc"
-      }
-    },
-    {
-      "id": 2,
-      "isLive": true,
-      "contentId": "1540065688",
-      "name": "RR vs CSK",
-      "genre": "cricket",
-      "language": "english",
-      "provider": "JioHotstar",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/images/92f4b617d4b1b20bc3e7e368ab7b5b7b.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/7d9b472c73c3903ae69d1842a5290410.jpg"
-      ],
-      "providerInfo": {
-        "id": "67977987ed126c0029b9f20c",
-        "name": "JioHotstar",
-        "hashId": "4025a7f67d456"
-      }
-    },
-    {
-      "id": 3,
-      "isLive": true,
-      "contentId": "141273",
-      "name": "ATP vs LOC",
-      "genre": "lawn-tennis",
-      "language": "english",
-      "provider": "FanCode",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/backdrops/afc446b090972e985cd609b5adf21c3a.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/f2d63ec19936a572c40efdbadc537e32.jpg"
-      ],
-      "providerInfo": {
-        "id": "63ce216c483822001ca300a4",
-        "name": "FanCode",
-        "hashId": "c60fe425e3269"
       }
     }
   ]
