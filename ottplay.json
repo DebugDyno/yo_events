@@ -1,5 +1,29 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 1,
+  "updatedAt": "31/03/2026, 01:41:34 PM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "141289",
+      "name": "ATP vs LOC",
+      "genre": "lawn-tennis",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/5f9331cbf5074e6dab3ecb7a5a5b5e33.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/b00b3c29d76669c928bb416467a2bf0c.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    }
+  ]
 }
