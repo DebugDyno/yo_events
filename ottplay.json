@@ -1,5 +1,29 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 1,
+  "updatedAt": "01/04/2026, 02:27:39 PM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "141611",
+      "name": "CHN-U20 vs VIE-U20",
+      "genre": "football",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/15860c12c46615fce4d75ac0e89f0aa4.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/45fa4e75e67761f5fe0b83a4aec520ab.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    }
+  ]
 }
