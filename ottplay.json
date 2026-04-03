@@ -1,6 +1,71 @@
 {
-  "success": false,
-  "message": "Failed to fetch data",
-  "data": [],
-  "error": "HTTP error! Status: 403"
+  "success": true,
+  "message": "Live matches fetched successfully",
+  "total": 3,
+  "updatedAt": "03/04/2026, 05:22:37 PM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "141428",
+      "name": "MIDD vs MLW",
+      "genre": "football",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/a13cf7ca9cef20490edd9bda819ae8c6.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/5953864f8062f2586b684a59f81da7ad.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "contentId": "141281",
+      "name": "ATP vs LOC",
+      "genre": "lawn-tennis",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/ba3aade802f57d8a310ae981c7953f2b.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/4662f06b36ef9655ce57eebe95b9a446.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 3,
+      "isLive": true,
+      "contentId": "141292",
+      "name": "ATP vs LOC",
+      "genre": "lawn-tennis",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/52f97a9e8ddbbcde1405fc0d84f6ef98.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/c41dabc33591840a16ffea1764224b4f.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    }
+  ]
 }
