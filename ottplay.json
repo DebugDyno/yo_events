@@ -1,6 +1,29 @@
 {
-  "success": false,
-  "message": "Failed to fetch data",
-  "data": [],
-  "error": "HTTP error! Status: 403"
+  "success": true,
+  "message": "Live matches fetched successfully",
+  "total": 1,
+  "updatedAt": "05/04/2026, 04:48:43 AM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "141638",
+      "name": "Aramco Championship USA 2026",
+      "genre": "golf",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/b91d9593dac5b8e285c3bfe4c9b554a2.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/2a2f26cf1193b31bca85eed3d0a686d6.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    }
+  ]
 }
