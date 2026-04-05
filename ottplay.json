@@ -1,11 +1,32 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 11,
-  "updatedAt": "06/04/2026, 12:30:13 AM",
+  "total": 8,
+  "updatedAt": "06/04/2026, 01:09:03 AM",
   "data": [
     {
       "id": 1,
+      "isLive": true,
+      "contentId": "141084",
+      "name": "ATP vs LOC",
+      "genre": "lawn-tennis",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/0bfd3231478ead64c348d7a60ecb6ea4.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/0b697fea6773f90edaabe8fdbc31cc7e.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 2,
       "isLive": true,
       "contentId": "131123",
       "name": "ALA vs OSN",
@@ -26,7 +47,7 @@
       }
     },
     {
-      "id": 2,
+      "id": 3,
       "isLive": true,
       "contentId": "140724",
       "name": "ETT vs ALQ",
@@ -47,7 +68,7 @@
       }
     },
     {
-      "id": 3,
+      "id": 4,
       "isLive": true,
       "contentId": "141796",
       "name": "Valero Texas Open 2026",
@@ -68,49 +89,7 @@
       }
     },
     {
-      "id": 4,
-      "isLive": true,
-      "contentId": "131128",
-      "name": "RO vs SEV",
-      "genre": "football",
-      "language": "english",
-      "provider": "FanCode",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/backdrops/b1865616a0a3c16b1506f4c666b94f16.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/474f0645d935b64e5734b66b37475490.jpg"
-      ],
-      "providerInfo": {
-        "id": "63ce216c483822001ca300a4",
-        "name": "FanCode",
-        "hashId": "c60fe425e3269"
-      }
-    },
-    {
       "id": 5,
-      "isLive": true,
-      "contentId": "1540065712",
-      "name": "RCB vs CSK",
-      "genre": "cricket",
-      "language": "english",
-      "provider": "JioHotstar",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/images/3feb3f76c7940fe6c848a8c6eaa031a2.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/46f0061c40dc1bb55b77ef371e011016.jpg"
-      ],
-      "providerInfo": {
-        "id": "67977987ed126c0029b9f20c",
-        "name": "JioHotstar",
-        "hashId": "4025a7f67d456"
-      }
-    },
-    {
-      "id": 6,
       "isLive": true,
       "contentId": "141794",
       "name": "Valero Texas Open 2026",
@@ -131,7 +110,7 @@
       }
     },
     {
-      "id": 7,
+      "id": 6,
       "isLive": true,
       "contentId": "141795",
       "name": "Valero Texas Open 2026",
@@ -152,7 +131,7 @@
       }
     },
     {
-      "id": 8,
+      "id": 7,
       "isLive": true,
       "contentId": "141793",
       "name": "Valero Texas Open 2026",
@@ -173,7 +152,7 @@
       }
     },
     {
-      "id": 9,
+      "id": 8,
       "isLive": true,
       "contentId": "141792",
       "name": "Valero Texas Open 2026",
@@ -186,48 +165,6 @@
       ],
       "posters": [
         "https://images.ottplay.com/posters/b17d339309c23924553b68982fb1138d.jpg"
-      ],
-      "providerInfo": {
-        "id": "63ce216c483822001ca300a4",
-        "name": "FanCode",
-        "hashId": "c60fe425e3269"
-      }
-    },
-    {
-      "id": 10,
-      "isLive": true,
-      "contentId": "141655",
-      "name": "ATP vs LOC",
-      "genre": "lawn-tennis",
-      "language": "english",
-      "provider": "FanCode",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/backdrops/1b6b185c1b9a2e194df06bb20129e39d.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/7ee764ee5dbffb03f62dcc691bdd7210.jpg"
-      ],
-      "providerInfo": {
-        "id": "63ce216c483822001ca300a4",
-        "name": "FanCode",
-        "hashId": "c60fe425e3269"
-      }
-    },
-    {
-      "id": 11,
-      "isLive": true,
-      "contentId": "141657",
-      "name": "ATP vs LOC",
-      "genre": "lawn-tennis",
-      "language": "english",
-      "provider": "FanCode",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/backdrops/4b9be23c7594bbfb36a23b173145ba30.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/0268ffeaf5a8efe889e9b87ccf92b9c3.jpg"
       ],
       "providerInfo": {
         "id": "63ce216c483822001ca300a4",
