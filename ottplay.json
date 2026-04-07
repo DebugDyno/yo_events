@@ -1,5 +1,29 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 1,
+  "updatedAt": "07/04/2026, 09:51:50 AM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "141749",
+      "name": "GER vs NYL",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/9b7676078a13a6dca86cd6e4b6f9aa54.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/18aa7ea56b3ca6446079f80bc6217d69.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    }
+  ]
 }
