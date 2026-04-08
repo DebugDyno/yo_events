@@ -1,7 +1,37 @@
 {
-  "success": false,
-  "message": "Failed to fetch data from FanCode",
-  "updatedAt": "08/04/2026, 05:29:04 AM",
-  "error": "Invalid response structure from FanCode API",
-  "data": []
+  "success": true,
+  "message": "Live matches fetched successfully",
+  "total": 1,
+  "updatedAt": "08/04/2026, 08:06:57 AM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "name": "Match 5",
+      "tournament": "Hong Kong, China-A tour of Malaysia-A 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 141775,
+      "streamType": "AUTH",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/Hong-Kong,-China-A-tour-of-Malaysia-A-2026-old-card.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/Hong-Kong,-China-A-tour-of-Malaysia-A-2026-sporty.jpg",
+      "teams": [
+        {
+          "name": "Malaysia A",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR1@2x.png"
+        },
+        {
+          "name": "Hong Kong, China-A",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HK@2x.png"
+        }
+      ],
+      "slug": "malaysia-a-vs-hong-kong-china-a",
+      "tournamentSlug": "hong-kong-china-a-tour-of-malaysia-a-2026",
+      "collectionSlug": "hong-kong-china-a-tour-of-malaysia-a-2026"
+    }
+  ]
 }
