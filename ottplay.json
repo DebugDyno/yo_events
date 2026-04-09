@@ -1,5 +1,92 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 4,
+  "updatedAt": "09/04/2026, 08:54:19 AM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "141883",
+      "name": "TOL vs LAG",
+      "genre": "football",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/e0b28c2c13a108b57e74e65699b9c2cb.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/e971f9ff678b4e41a7b68b525adca667.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "contentId": "141748",
+      "name": "NYL vs PUW",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/94393fcc4d1b082959edfcfa75a202a9.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/56c027b0cdf02c18960d44619e3b5b37.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 3,
+      "isLive": true,
+      "contentId": "141776",
+      "name": "MALA vs HKCA",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/cd4496c855a5e162048cc793d2a4fdc8.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/5b74015cff253954bb685f2d18b9e18f.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 4,
+      "isLive": true,
+      "contentId": "141882",
+      "name": "TIG vs SS",
+      "genre": "football",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/53b1c69f8872c297cfe6f3a7124f7e87.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/8f4c5f978bda05e96453c7979d7f4db4.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    }
+  ]
 }
