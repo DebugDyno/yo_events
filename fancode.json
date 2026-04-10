@@ -1,7 +1,95 @@
 {
-  "success": false,
-  "message": "Failed to fetch data from FanCode",
-  "updatedAt": "10/04/2026, 11:38:40 PM",
-  "error": "Invalid response structure from FanCode API",
-  "data": []
+  "success": true,
+  "message": "Live matches fetched successfully",
+  "total": 3,
+  "updatedAt": "11/04/2026, 12:40:20 AM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "name": "Match 309",
+      "tournament": "LALIGA 2025-26",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 131131,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/131131_5427_RM_GIR_FC-Web.png",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/131131_5427_RM_GIR_FC-App.png",
+      "teams": [
+        {
+          "name": "Real Madrid",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-RMA@2x.png"
+        },
+        {
+          "name": "Girona FC",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-GIR@2x.png"
+        }
+      ],
+      "slug": "real-madrid-vs-girona-fc",
+      "tournamentSlug": "laliga-2025-26",
+      "collectionSlug": "laliga-2025-26"
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "name": "Match 144",
+      "tournament": "EFL Championship 2025-26",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 141437,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/141437_5489_WBA_MLW_fc-web-v2.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/141437_5489_WBA_MLW_fc-app.jpg",
+      "teams": [
+        {
+          "name": "West Bromwich Albion F.C.",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-WESTB@2x.png"
+        },
+        {
+          "name": "Millwall F.C.",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MILW@2x.png"
+        }
+      ],
+      "slug": "west-bromwich-albion-f-c-vs-millwall-f-c",
+      "tournamentSlug": "efl-championship-2025-26",
+      "collectionSlug": "efl-championship-2025-26"
+    },
+    {
+      "id": 3,
+      "isLive": true,
+      "name": "Day 2",
+      "tournament": "The Augusta Masters 2026",
+      "category": "All",
+      "categories": [
+        "All"
+      ],
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "matchId": 141877,
+      "streamType": "PAID",
+      "landscapeImage": "https://www.fancode.com/skillup-uploads/cms-media/The-Masters-Augusta-old-card-.jpg",
+      "portraitImage": "https://www.fancode.com/skillup-uploads/cms-media/The-Masters-Augusta-Sporty--.jpg",
+      "teams": [
+        {
+          "name": "Day 2",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-AUM@2x.png"
+        },
+        {
+          "name": "Georgia, USA",
+          "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png"
+        }
+      ],
+      "slug": "day-2",
+      "tournamentSlug": "the-augusta-masters-2026",
+      "collectionSlug": "the-augusta-masters-2026"
+    }
+  ]
 }
