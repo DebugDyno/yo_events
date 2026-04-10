@@ -1,5 +1,29 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 1,
+  "updatedAt": "10/04/2026, 12:40:05 PM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "141904",
+      "name": "BRA-W vs BOT-W",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/03b31fbb80d4242a37c8f8eb2a04c48f.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/ca277a3433190c5a796341cff42438c4.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    }
+  ]
 }
