@@ -1,5 +1,71 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 3,
+  "updatedAt": "14/04/2026, 02:23:59 PM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "141826",
+      "name": "ATP vs LOC",
+      "genre": "lawn-tennis",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/58977fafd90d0999f2f95f69763262cf.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/189f14d79447e8f27ee078fd03bebbe3.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "contentId": "141841",
+      "name": "ATP vs LOC",
+      "genre": "lawn-tennis",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/c6ba41082045fefa44c9dd29206f9f91.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/16d9a7dd4caf938a74596b2e121936d8.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 3,
+      "isLive": true,
+      "contentId": "141760",
+      "name": "MEP vs GER",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/af2e8c0b9680238d149f7809d3be549f.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/d109d46a58002d77499cd8e49090a314.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    }
+  ]
 }
