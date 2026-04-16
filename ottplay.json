@@ -1,5 +1,92 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 4,
+  "updatedAt": "16/04/2026, 02:27:01 PM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "141844",
+      "name": "ATP vs LOC",
+      "genre": "lawn-tennis",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/3aff8ac8a6aff0c80ad933cbe76a1365.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/f8763ae48fe356aef1e22fb9a866e413.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "contentId": "141830",
+      "name": "ATP vs LOC",
+      "genre": "lawn-tennis",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/df063674b831b974e94a5b50701f1862.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/2828cbe4fb88a5e8c507488ab8b610b3.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 3,
+      "isLive": true,
+      "contentId": "141845",
+      "name": "ATP vs LOC",
+      "genre": "lawn-tennis",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/c0d15ddf361d9a9942ed948a4b97e64b.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/690ba8b0b25633e32a2070f15946dd05.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 4,
+      "isLive": true,
+      "contentId": "141764",
+      "name": "MEP vs EVF",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/fe5cf3c07f1dc8e5c22255807c3c77a6.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/135bc95be7b7ba80bbcdbd5be9f9b46a.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    }
+  ]
 }
