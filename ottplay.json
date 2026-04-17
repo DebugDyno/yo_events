@@ -1,5 +1,29 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 1,
+  "updatedAt": "17/04/2026, 09:51:19 AM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "142066",
+      "name": "BAN vs NZ",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/59dbbea6b1115a2ef49fd8872000895e.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/1231332a86c96127a48cb74d9bc98b2a.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    }
+  ]
 }
