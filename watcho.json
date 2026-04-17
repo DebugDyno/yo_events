@@ -1,11 +1,29 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 10,
-  "updatedAt": "17/04/2026, 10:37:45 PM",
+  "total": 8,
+  "updatedAt": "17/04/2026, 11:32:13 PM",
   "data": [
     {
       "id": 1,
+      "isLive": true,
+      "contentId": "1090528269",
+      "name": "Sony Sports Ten 2",
+      "genre": "Football",
+      "provider": "Sony Liv",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/sony4/videoasset_images/manage_file/1000016952/1775438170185352_bliga26_MD30_St_Pauli_vs_FC_Koln_5apr_landscape_thumb.jpg"
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "contentId": "1090528101",
+      "name": "LIV",
+      "genre": "Golf",
+      "provider": "Sony Liv",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/sony4/videoasset_images/manage_file/1000017239/177624349331352_Golf_Mexico_Day2_landscape_thumb.jpg"
+    },
+    {
+      "id": 3,
       "isLive": true,
       "contentId": "1090528112",
       "name": "Sony Sports Ten 2",
@@ -14,7 +32,7 @@
       "image": "https://d229kpbsb5jevy.cloudfront.net/sony4/videoasset_images/manage_file/1000017315/1776430199518201_UYL26_SemiFinal_Real_Madrid_vs_PSG_25mar_landscape_thumb.jpg"
     },
     {
-      "id": 2,
+      "id": 4,
       "isLive": true,
       "contentId": "1540068381",
       "name": "South Africa W vs India W: 1st T20I",
@@ -23,7 +41,7 @@
       "image": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/683/1776404060683-h"
     },
     {
-      "id": 3,
+      "id": 5,
       "isLive": true,
       "contentId": "1540066370",
       "name": "GT vs KKR",
@@ -32,16 +50,7 @@
       "image": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/4476/1776336344476-h"
     },
     {
-      "id": 4,
-      "isLive": true,
-      "contentId": "142043",
-      "name": "Senior PGA Championship 2026",
-      "genre": "Sports",
-      "provider": "FanCode",
-      "image": "https://images.fancode.com/aig/match/v1776081602241/142043_CASACARDS_PARTNER_16_9_1920_1080.png"
-    },
-    {
-      "id": 5,
+      "id": 6,
       "isLive": true,
       "contentId": "141938",
       "name": "RBC Heritage 2026",
@@ -50,7 +59,7 @@
       "image": "https://images.fancode.com/aig/match/v1775757603197/141938_CASACARDS_PARTNER_16_9_1920_1080.png"
     },
     {
-      "id": 6,
+      "id": 7,
       "isLive": true,
       "contentId": "141939",
       "name": "RBC Heritage 2026",
@@ -59,40 +68,13 @@
       "image": "https://images.fancode.com/aig/match/v1775628002481/141939_CASACARDS_PARTNER_16_9_1920_1080.png"
     },
     {
-      "id": 7,
+      "id": 8,
       "isLive": true,
       "contentId": "141937",
       "name": "RBC Heritage 2026",
       "genre": "Sports",
       "provider": "FanCode",
       "image": "https://images.fancode.com/aig/match/v1775628002424/141937_CASACARDS_PARTNER_16_9_1920_1080.png"
-    },
-    {
-      "id": 8,
-      "isLive": true,
-      "contentId": "141847",
-      "name": "ATP 500 - BMW Open by Bitpanda 2026",
-      "genre": "Sports",
-      "provider": "FanCode",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/141847_6033_ATP_LOC_PARTNER_16x9.jpg"
-    },
-    {
-      "id": 9,
-      "isLive": true,
-      "contentId": "141833",
-      "name": "ATP 500 - Barcelona Open Banc Sabadell 2026",
-      "genre": "Sports",
-      "provider": "FanCode",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/141833_6032_ATP_LOC_PARTNER_16x9.jpg"
-    },
-    {
-      "id": 10,
-      "isLive": true,
-      "contentId": "141674",
-      "name": "Al-Ahli Saudi FC VS Johor Darul Ta'zim",
-      "genre": "Sports",
-      "provider": "FanCode",
-      "image": "https://images.fancode.com/aig/match/v1776139200673/141674_CASACARDS_PARTNER_16_9_1920_1080.png"
     }
   ]
 }
