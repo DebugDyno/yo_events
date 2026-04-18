@@ -1,11 +1,53 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 1,
-  "updatedAt": "18/04/2026, 11:23:07 AM",
+  "total": 3,
+  "updatedAt": "18/04/2026, 12:26:56 PM",
   "data": [
     {
       "id": 1,
+      "isLive": true,
+      "contentId": "140937",
+      "name": "BRB vs MLC",
+      "genre": "football",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/fa54f5fcad9d69bfe5004bca3eb17976.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/02bd5831605787d790438fbeab06ffee.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "contentId": "142046",
+      "name": "RWA-W vs ITA-W",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/0c8cf88b2355156ea328d8f24e606588.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/5d28cdfdb0d0520fd4aeef078c74d8a6.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 3,
       "isLive": true,
       "contentId": "140936",
       "name": "WEL vs SYW",
