@@ -1,6 +1,29 @@
 {
-  "success": false,
-  "message": "Failed to fetch data",
-  "data": [],
-  "error": "HTTP error! Status: 403"
+  "success": true,
+  "message": "Live matches fetched successfully",
+  "total": 1,
+  "updatedAt": "19/04/2026, 09:16:51 AM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "140939",
+      "name": "AFC vs CCM",
+      "genre": "football",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/ac5b698274d89e5724053353314e7d80.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/0d1a86e0a236b2ca9470aefcd3fda0ac.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    }
+  ]
 }
