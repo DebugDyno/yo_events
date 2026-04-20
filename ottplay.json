@@ -1,5 +1,29 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 1,
+  "updatedAt": "20/04/2026, 09:58:11 AM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "142072",
+      "name": "BD-W vs SL-W",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/a4c30c03e127e85037dc600290eaa41c.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/1d9712e8d90f1abd865ca2fd9d9d23f2.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    }
+  ]
 }
