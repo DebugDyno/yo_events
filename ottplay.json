@@ -1,5 +1,29 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 1,
+  "updatedAt": "21/04/2026, 05:15:27 PM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "142051",
+      "name": "VANW vs ITA-W",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/02b6a90dbefe81fda140a8b233b6dce5.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/3ccbfae65c70d57f7dd4cf60971587c8.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    }
+  ]
 }
