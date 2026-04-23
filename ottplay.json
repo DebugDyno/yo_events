@@ -1,11 +1,32 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 11,
-  "updatedAt": "24/04/2026, 12:55:00 AM",
+  "total": 9,
+  "updatedAt": "24/04/2026, 01:59:40 AM",
   "data": [
     {
       "id": 1,
+      "isLive": true,
+      "contentId": "141995",
+      "name": "Zurich Classic of New Orleans 2026",
+      "genre": "golf",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/f4af9bf4dbcbb8e33d3268849d69041f.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/2c4be03abb536c3a4df6cfdfb452db01.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 2,
       "isLive": true,
       "contentId": "131155",
       "name": "RO vs VIL",
@@ -26,7 +47,7 @@
       }
     },
     {
-      "id": 2,
+      "id": 3,
       "isLive": true,
       "contentId": "141924",
       "name": "SC vs BRO",
@@ -47,7 +68,7 @@
       }
     },
     {
-      "id": 3,
+      "id": 4,
       "isLive": true,
       "contentId": "141681",
       "name": "STU vs FRB",
@@ -68,7 +89,7 @@
       }
     },
     {
-      "id": 4,
+      "id": 5,
       "isLive": true,
       "contentId": "131159",
       "name": "RVL vs ESL",
@@ -81,27 +102,6 @@
       ],
       "posters": [
         "https://images.ottplay.com/posters/94e0f73dd65acab1bf19df86afd2e003.jpg"
-      ],
-      "providerInfo": {
-        "id": "63ce216c483822001ca300a4",
-        "name": "FanCode",
-        "hashId": "c60fe425e3269"
-      }
-    },
-    {
-      "id": 5,
-      "isLive": true,
-      "contentId": "131153",
-      "name": "LE vs SEV",
-      "genre": "football",
-      "language": "english",
-      "provider": "FanCode",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/backdrops/2a6887e22b8a21880148f2129299da27.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/c530e5bf8b23b6f2dc1cde7f7cbea4b0.jpg"
       ],
       "providerInfo": {
         "id": "63ce216c483822001ca300a4",
@@ -186,48 +186,6 @@
       ],
       "posters": [
         "https://images.ottplay.com/posters/c7d148a8c0c25693ce562cf7321a3ef0.jpg"
-      ],
-      "providerInfo": {
-        "id": "63ce216c483822001ca300a4",
-        "name": "FanCode",
-        "hashId": "c60fe425e3269"
-      }
-    },
-    {
-      "id": 10,
-      "isLive": true,
-      "contentId": "142206",
-      "name": "ATP vs LOC",
-      "genre": "lawn-tennis",
-      "language": "english",
-      "provider": "FanCode",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/backdrops/fd107ef450a93d82b27d0a7e61527ea6.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/200e6b2e07323dad790850a8e1862275.jpg"
-      ],
-      "providerInfo": {
-        "id": "63ce216c483822001ca300a4",
-        "name": "FanCode",
-        "hashId": "c60fe425e3269"
-      }
-    },
-    {
-      "id": 11,
-      "isLive": true,
-      "contentId": "141854",
-      "name": "ATP vs LOC",
-      "genre": "lawn-tennis",
-      "language": "english",
-      "provider": "FanCode",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/backdrops/2d279d78f89155d611a26b051dc29a5e.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/4341d9740ceda57166cacc746a757bb8.jpg"
       ],
       "providerInfo": {
         "id": "63ce216c483822001ca300a4",
