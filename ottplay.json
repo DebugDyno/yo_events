@@ -1,6 +1,79 @@
 {
-  "success": false,
-  "message": "Failed to fetch data",
-  "data": [],
-  "error": "HTTP error! Status: 403"
+  "success": true,
+  "message": "Live matches fetched successfully",
+  "total": 3,
+  "updatedAt": "23/04/2026, 01:17:39 PM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "1090528662",
+      "name": "Singapore Open - Day 1 - 23 Apr 2026",
+      "genre": "golf",
+      "language": "english",
+      "provider": "SonyLIV",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/c540ee55cbeba1cd390d8d1ff17da94b.jpg",
+        "https://images.ottplay.com/images/2fe69df20c4017eee6ea908c15ae0500.jpg",
+        "https://images.ottplay.com/images/812d3c33cf3f5102d756e8c35d4eb6a1.jpg",
+        "https://images.ottplay.com/images/e3ec4018e4456bc93e5f51d69400731f.jpg",
+        "https://images.ottplay.com/images/48eeaa04de4b32e8fe27e62aaf3ad709.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/e8d1c9e747aa71975a59056fa8e2d98e.jpg"
+      ],
+      "providerInfo": {
+        "id": "5f456c2aff9ccd034434e6fd",
+        "name": "SonyLIV",
+        "hashId": "100dc02b90dfc"
+      }
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "contentId": "142068",
+      "name": "BAN vs NZ",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/b87f2e0def44f9f451209617a0257702.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/57a6d8dbd28324ab3eb7d4dd6f6577f7.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 3,
+      "isLive": true,
+      "contentId": "1090528586",
+      "name": "Volvo China Open - Day 1 - 23 Apr 2026",
+      "genre": "golf",
+      "language": "english",
+      "provider": "SonyLIV",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/6fc4e1621e5ef2411b1477a1b6fe7550.jpg",
+        "https://images.ottplay.com/images/5f401937864a69d93bc57a2ec7d5b8d9.jpg",
+        "https://images.ottplay.com/images/5de75fc9a1f90a859515101c82421251.jpg",
+        "https://images.ottplay.com/images/f26c34b58799787a091aeffeecfda70e.jpg",
+        "https://images.ottplay.com/images/38b203a468a4aae84ac947c096c672ca.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/056aa419dfa50bdbff50a067a7b606e0.jpg"
+      ],
+      "providerInfo": {
+        "id": "5f456c2aff9ccd034434e6fd",
+        "name": "SonyLIV",
+        "hashId": "100dc02b90dfc"
+      }
+    }
+  ]
 }
