@@ -1,5 +1,54 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 2,
+  "updatedAt": "25/04/2026, 08:56:59 AM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "142074",
+      "name": "BD-W vs SL-W",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/8f73594c4800c2eb6fb2753065ed338a.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/70c2e706e028040b195e06b677a110cf.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "contentId": "1090528759",
+      "name": "Singapore Open - Day 3 - 25 Apr 2026",
+      "genre": "golf",
+      "language": "english",
+      "provider": "SonyLIV",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/fe565c4a883531b467801b9fa93d5a7e.jpg",
+        "https://images.ottplay.com/images/5881cb1adacbb29874d6bef1506167b9.jpg",
+        "https://images.ottplay.com/images/3c9862d561fcdebe447cfdebdd51cf7c.jpg",
+        "https://images.ottplay.com/images/6c8a1d99464d6deff71e4a10a61cfb1c.jpg",
+        "https://images.ottplay.com/images/bc1182e4dd259e913abd7fc34cbdeaad.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/cc067869752822d97153b8e760daca3b.jpg"
+      ],
+      "providerInfo": {
+        "id": "5f456c2aff9ccd034434e6fd",
+        "name": "SonyLIV",
+        "hashId": "100dc02b90dfc"
+      }
+    }
+  ]
 }
