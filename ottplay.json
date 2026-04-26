@@ -1,6 +1,159 @@
 {
-  "success": false,
-  "message": "Failed to fetch data",
-  "data": [],
-  "error": "HTTP error! Status: 403"
+  "success": true,
+  "message": "Live matches fetched successfully",
+  "total": 7,
+  "updatedAt": "26/04/2026, 03:08:55 PM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "141861",
+      "name": "ATP vs LOC",
+      "genre": "lawn-tennis",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/62e6e6e6c8714cab7f0ff404dfd9dfde.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/6586848cedcd7e9709ee66b3ebc212f3.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "contentId": "142283",
+      "name": "ATP vs LOC",
+      "genre": "lawn-tennis",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/ad7d3ed3cd84f69f3f540974f7fdacd1.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/d0cfc7fe3d937c07c2842fcd7497cc82.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 4,
+      "isLive": true,
+      "contentId": "142109",
+      "name": "DTM vs LOC",
+      "genre": "racing",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/e9d6d887949752c72563f645c5fe30a4.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/7c922f62d4f0914563325e1960cb687c.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 5,
+      "isLive": true,
+      "contentId": "140946",
+      "name": "MLC vs ADL",
+      "genre": "football",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/185721852ea0e76466593324b40522ee.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/0049551d59e080f472b153ee0e404bbc.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 6,
+      "isLive": true,
+      "contentId": "142056",
+      "name": "RWA-W vs VANW",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/a8c4787dfdb6151c0dc78d041fe17975.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/73511fb00614d523460c273ea1cd4a96.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 7,
+      "isLive": true,
+      "contentId": "139938",
+      "name": "ESTRELLA GALICIA 0,0 GRAND PRIX OF SPAIN 2026",
+      "genre": "motogp",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/b235eb566b38be12387ad61506152461.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/295407a01894259db5c6a0284d02f4d1.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 10,
+      "isLive": true,
+      "contentId": "1090529081",
+      "name": "Singapore Open - Day 4 - 26 Apr 2026",
+      "genre": "golf",
+      "language": "english",
+      "provider": "SonyLIV",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/cc3fae13bee3c3aa609fdbed83b63102.jpg",
+        "https://images.ottplay.com/images/52d7b5c6f7f09bfeeea9414019a8755d.jpg",
+        "https://images.ottplay.com/images/f4d60d03ef8241b2ffcc4397c1601fa1.jpg",
+        "https://images.ottplay.com/images/abfc04a116bb4951fb80befa524d0238.jpg",
+        "https://images.ottplay.com/images/8ae8a80cd5f11279b2839bed66b6e137.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/560382fde02b5b1bd8d57496ccf9f5d9.jpg"
+      ],
+      "providerInfo": {
+        "id": "5f456c2aff9ccd034434e6fd",
+        "name": "SonyLIV",
+        "hashId": "100dc02b90dfc"
+      }
+    }
+  ]
 }
