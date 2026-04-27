@@ -1,5 +1,29 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 1,
+  "updatedAt": "27/04/2026, 10:25:06 AM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "141977",
+      "name": "UAE vs OMN",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/df58418bcd5c5060c440f8ea059662d5.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/4f6b63c66c17fe717bb83d472cfbdbf5.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    }
+  ]
 }
