@@ -1,5 +1,50 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 2,
+  "updatedAt": "28/04/2026, 12:47:49 PM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "142075",
+      "name": "BD-W vs SL-W",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/93960fa75de55e625ef65004e7d7eb9a.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/b786cd4f97aa196f3b16cd619d16e53f.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "contentId": "142060",
+      "name": "RWA-W vs NP-W",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/8de14714173d6a800379f4da9b11c617.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/0fccc5440e6949b3d1583d5ccd9a3437.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    }
+  ]
 }
