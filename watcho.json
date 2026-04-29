@@ -1,11 +1,20 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 4,
-  "updatedAt": "29/04/2026, 03:59:32 PM",
+  "total": 3,
+  "updatedAt": "29/04/2026, 05:34:53 PM",
   "data": [
     {
       "id": 1,
+      "isLive": true,
+      "contentId": "142375",
+      "name": "ATP Masters Mutua Madrid Open 2026",
+      "genre": "Sports",
+      "provider": "FanCode",
+      "image": "https://images.fancode.com/aig/match/v1777449600926/142375_CASACARDS_PARTNER_16_9_1920_1080.png"
+    },
+    {
+      "id": 2,
       "isLive": true,
       "contentId": "1540068506",
       "name": "China vs India: Thomas Cup, Group Stage",
@@ -14,31 +23,13 @@
       "image": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7391/1777376937391-h"
     },
     {
-      "id": 2,
+      "id": 3,
       "isLive": true,
       "contentId": "1540068509",
       "name": "Japan vs Malaysia: Thomas Cup, Group Stage",
       "genre": "Badminton",
       "provider": "JioHotstar",
       "image": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7353/1777377497353-h"
-    },
-    {
-      "id": 3,
-      "isLive": true,
-      "contentId": "142070",
-      "name": "Bangladesh VS New Zealand",
-      "genre": "Sports",
-      "provider": "FanCode",
-      "image": "https://images.fancode.com/aig/match/v1776248538539/142070_CASACARDS_PARTNER_16_9_1920_1080.png"
-    },
-    {
-      "id": 4,
-      "isLive": true,
-      "contentId": "141978",
-      "name": "Nepal VS Oman",
-      "genre": "Sports",
-      "provider": "FanCode",
-      "image": "https://images.fancode.com/aig/match/v1776830400337/141978_CASACARDS_PARTNER_16_9_1920_1080.png"
     }
   ]
 }
