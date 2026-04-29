@@ -1,5 +1,29 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 1,
+  "updatedAt": "29/04/2026, 09:29:56 AM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "141978",
+      "name": "NEP vs OMN",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/ef644139c5109b9e34df85d084b67fd6.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/b305ab8787b246e2fdc8648b5afcc698.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    }
+  ]
 }
