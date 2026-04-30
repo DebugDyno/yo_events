@@ -1,6 +1,50 @@
 {
-  "success": false,
-  "message": "Failed to fetch data",
-  "data": [],
-  "error": "HTTP error! Status: 403"
+  "success": true,
+  "message": "Live matches fetched successfully",
+  "total": 2,
+  "updatedAt": "30/04/2026, 02:59:03 PM",
+  "data": [
+    {
+      "id": 3,
+      "isLive": true,
+      "contentId": "142076",
+      "name": "BD-W vs SL-W",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/cbbae45400fa63196e23c3da5f203936.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/f35213259731253eb556adf3f2f8438e.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 4,
+      "isLive": true,
+      "contentId": "142062",
+      "name": "ITA-W vs USA-W",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/f07423bc6a7346fcb39a4bc79476a7bd.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/deb76dc4d7032e906c37fd6d9147c6a6.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    }
+  ]
 }
