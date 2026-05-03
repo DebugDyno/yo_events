@@ -1,5 +1,117 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 5,
+  "updatedAt": "03/05/2026, 08:12:36 AM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "1090529600",
+      "name": "GS Caltex Maekyung Open - Day 4 - 3 May 2026",
+      "genre": "golf",
+      "language": "english",
+      "provider": "SonyLIV",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/7bb997a70e5150f27262ddc9ca227256.jpg",
+        "https://images.ottplay.com/images/036a9435f5ab861b8c3e720109260331.jpg",
+        "https://images.ottplay.com/images/3c2c6b094a979961e12800bf035731d7.jpg",
+        "https://images.ottplay.com/images/b6eff114c71a7dd598ee18059706e124.jpg",
+        "https://images.ottplay.com/images/af4f3ec386e245a372c5d7997dacacda.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/d9832764d293b7fdf591ee55d3fabb74.jpg"
+      ],
+      "providerInfo": {
+        "id": "5f456c2aff9ccd034434e6fd",
+        "name": "SonyLIV",
+        "hashId": "100dc02b90dfc"
+      }
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "contentId": "142331",
+      "name": "MAFC vs SFA",
+      "genre": "football",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/0241acef0cb00a1d3c4152274c1c9739.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/944d4f5f7744231b3c7406c5d1e43ba3.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 3,
+      "isLive": true,
+      "contentId": "142332",
+      "name": "BFC vs JFC",
+      "genre": "football",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/9db948b7d1487119f4c3cc518a0efc5e.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/a289f9ad0654dfcb67d6c67e83cb27a5.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 4,
+      "isLive": true,
+      "contentId": "142395",
+      "name": "KC vs SKS",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/1fd424d616a411dadc9f16535924f2f0.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/4ca97d080525e2e36ba0073bb1fe614d.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 5,
+      "isLive": true,
+      "contentId": "142394",
+      "name": "WKH vs EKS",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/8ab15fd18d0b6e368c63cd79a4ee4687.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/1b80b8aa973282e12ff40c05fc360422.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    }
+  ]
 }
