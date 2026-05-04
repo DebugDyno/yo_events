@@ -1,5 +1,50 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 2,
+  "updatedAt": "04/05/2026, 06:46:46 AM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "142399",
+      "name": "NKL vs WKH",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/73ea5ee933cbbb0628fe41a64df464f5.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/fd0f874a79e05f99da2e83c36d85c3f5.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "contentId": "142398",
+      "name": "SKS vs EKS",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/c7b08ddb6b49869b29257cc780628fc3.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/54508a189d64250a5dca877fb0027033.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    }
+  ]
 }
