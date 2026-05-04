@@ -1,5 +1,50 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 2,
+  "updatedAt": "05/05/2026, 12:40:16 AM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "131161",
+      "name": "SEV vs RS",
+      "genre": "football",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/5f7376eb6bd409072e3fe31ed61a36ee.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/5da72475dcf96b6204adbb2d761b8554.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "contentId": "142137",
+      "name": "ALM vs MIR",
+      "genre": "football",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/8fcdefe61deb137b8195d5fd445d6912.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/cddabcebf18789a4fc5ccf319a9c1327.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    }
+  ]
 }
