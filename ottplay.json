@@ -1,5 +1,29 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 1,
+  "updatedAt": "06/05/2026, 10:13:52 AM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "142411",
+      "name": "SG vs AM",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/179d5981dbf25bb39c17031b13b15f4d.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/16c8fb0423842935a005c0d79e5fe55e.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    }
+  ]
 }
