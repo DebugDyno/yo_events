@@ -1,5 +1,29 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 1,
+  "updatedAt": "07/05/2026, 01:02:35 PM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "142296",
+      "name": "HK-W vs ML W",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/75776cd8357988de06983be174551262.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/a6f7a1c79fcca5dc50fd9f42b82cd1ad.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    }
+  ]
 }
