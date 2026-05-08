@@ -1,5 +1,71 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 3,
+  "updatedAt": "08/05/2026, 06:52:18 AM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "142297",
+      "name": "CH-W vs ML W",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/d89857d9880386c153bf275a7d56ae75.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/99c49feaf3d0d407dd4fd708c739c5e2.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "contentId": "142304",
+      "name": "FIJ vs VAN",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/39cbae428bdd55ff05c9d6528be5d569.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/433b14503dbb834f5e79f545ddee41e3.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 3,
+      "isLive": true,
+      "contentId": "142303",
+      "name": "PHI vs INA",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/5459fade4a96b6e1673ab53be7faf0e6.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/67bfda0a2a45649b2e0e5981d629e062.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    }
+  ]
 }
