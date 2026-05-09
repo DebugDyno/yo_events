@@ -1,5 +1,50 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 2,
+  "updatedAt": "09/05/2026, 06:49:04 AM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "142306",
+      "name": "JPN vs VAN",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/cb568436cf9e6ec00717b305fb81fd4b.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/6181abd1e41471c3e130d96d98cd8823.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "contentId": "142307",
+      "name": "INA vs SAM",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/7d5ad6f37c633572d78677a2d4ab804a.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/1bdecb9006465dd7823ac84958fc5476.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    }
+  ]
 }
