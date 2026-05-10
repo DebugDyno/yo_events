@@ -1,11 +1,32 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 8,
-  "updatedAt": "10/05/2026, 12:14:22 PM",
+  "total": 6,
+  "updatedAt": "10/05/2026, 02:01:07 PM",
   "data": [
     {
       "id": 1,
+      "isLive": true,
+      "contentId": "142462",
+      "name": "RRR vs RR",
+      "genre": "kabaddi",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/b07e158b4b61e5e84e461643aea102f9.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/65087f687d834527c02e0c49f90d237f.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 2,
       "isLive": true,
       "contentId": "139941",
       "name": "MICHELIN® GRAND PRIX OF FRANCE 2026",
@@ -26,49 +47,7 @@
       }
     },
     {
-      "id": 2,
-      "isLive": true,
-      "contentId": "142461",
-      "name": "RB vs JP",
-      "genre": "kabaddi",
-      "language": "english",
-      "provider": "FanCode",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/backdrops/8bd6f9c16ddfc5cd456335519dd33e57.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/afbd66a4a61de3199b73d774dc700686.jpg"
-      ],
-      "providerInfo": {
-        "id": "63ce216c483822001ca300a4",
-        "name": "FanCode",
-        "hashId": "c60fe425e3269"
-      }
-    },
-    {
       "id": 3,
-      "isLive": true,
-      "contentId": "142524",
-      "name": "FCS vs LOC",
-      "genre": "racing",
-      "language": "english",
-      "provider": "FanCode",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/backdrops/0c2ec09a98a4b696fec650235c0f3918.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/4dc3124cec9ba89ab9930ae0c67b26ea.jpg"
-      ],
-      "providerInfo": {
-        "id": "63ce216c483822001ca300a4",
-        "name": "FanCode",
-        "hashId": "c60fe425e3269"
-      }
-    },
-    {
-      "id": 4,
       "isLive": true,
       "contentId": "1090530046",
       "name": "Recurve Individual final fours - 10 May 2026",
@@ -93,7 +72,7 @@
       }
     },
     {
-      "id": 5,
+      "id": 4,
       "isLive": true,
       "contentId": "142300",
       "name": "HK-W vs CH-W",
@@ -114,28 +93,7 @@
       }
     },
     {
-      "id": 6,
-      "isLive": true,
-      "contentId": "142311",
-      "name": "PNG vs CI",
-      "genre": "cricket",
-      "language": "english",
-      "provider": "FanCode",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/backdrops/db3f4b15172bc6625058b02fd208fd41.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/049d3261ba5b9e2434f3bd12ff3bb479.jpg"
-      ],
-      "providerInfo": {
-        "id": "63ce216c483822001ca300a4",
-        "name": "FanCode",
-        "hashId": "c60fe425e3269"
-      }
-    },
-    {
-      "id": 7,
+      "id": 5,
       "isLive": true,
       "contentId": "142417",
       "name": "AM vs BOS",
@@ -156,7 +114,7 @@
       }
     },
     {
-      "id": 8,
+      "id": 6,
       "isLive": true,
       "contentId": "142160",
       "name": "BAN vs PAK",
