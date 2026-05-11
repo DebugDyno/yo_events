@@ -1,5 +1,29 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 1,
+  "updatedAt": "11/05/2026, 09:48:59 AM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "142160",
+      "name": "BAN vs PAK",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/49f55d0f4904b1e9bf26b87117b2b611.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/e769b9bb13a45b1ecbb7ffdbff8312e8.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    }
+  ]
 }
