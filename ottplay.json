@@ -1,5 +1,29 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 1,
+  "updatedAt": "12/05/2026, 06:51:54 AM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "142312",
+      "name": "SAM vs VAN",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/2b2c97304d9e5136088c9baa66f7bbd8.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/e62e0ff7959e5f9fe863a1da93c1e463.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    }
+  ]
 }
