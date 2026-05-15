@@ -1,7 +1,35 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 0,
-  "updatedAt": "15/05/2026, 06:55:07 AM",
-  "data": []
+  "total": 3,
+  "updatedAt": "15/05/2026, 10:40:28 AM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "1540068842",
+      "name": "BWF Thailand Open: QFs",
+      "genre": "Badminton",
+      "provider": "JioHotstar",
+      "image": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/3841/1778794123841-h"
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "contentId": "142510",
+      "name": "Sri Lanka A Women VS New Zealand A Women",
+      "genre": "Sports",
+      "provider": "FanCode",
+      "image": "https://images.fancode.com/aig/match/v1777898707574/142510_CASACARDS_PARTNER_16_9_1920_1080.png"
+    },
+    {
+      "id": 3,
+      "isLive": true,
+      "contentId": "142485",
+      "name": "Jungle Panthers VS Raging Bulls",
+      "genre": "Sports",
+      "provider": "FanCode",
+      "image": "https://images.fancode.com/aig/match/v1778752802306/142485_CASACARDS_PARTNER_16_9_1920_1080.png"
+    }
+  ]
 }

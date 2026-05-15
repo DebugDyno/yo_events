@@ -1,5 +1,50 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 2,
+  "updatedAt": "15/05/2026, 10:40:29 AM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "142485",
+      "name": "JP vs RB",
+      "genre": "kabaddi",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/e9943c0033d6cddc4071f8f141ea1bf8.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/a3819bb1ada558713daf0a44fa3a3365.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 3,
+      "isLive": true,
+      "contentId": "142510",
+      "name": "SL-W vs NZ-A-W",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/1dd7c055e32f9519948ba18d5fd0321a.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/984ba9dc2af49077b59a36b338be0638.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    }
+  ]
 }
