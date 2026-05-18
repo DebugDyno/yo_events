@@ -1,5 +1,29 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 1,
+  "updatedAt": "18/05/2026, 07:01:00 AM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "142322",
+      "name": "SAM vs CI",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/faa4e89dc0c754174f023daa7ccd16c6.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/c46fddb500599a440cd15e256c5932ae.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    }
+  ]
 }
