@@ -1,5 +1,29 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 1,
+  "updatedAt": "19/05/2026, 07:02:33 AM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "142760",
+      "name": "KL vs NTT",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/4ac04fe80bc21fc845555a4c352cb476.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/630602ee58b49d792290019a7986be23.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    }
+  ]
 }
