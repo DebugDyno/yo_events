@@ -1,5 +1,92 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 4,
+  "updatedAt": "20/05/2026, 11:17:23 AM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "141768",
+      "name": "MLC-W vs VER-W",
+      "genre": "football",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/bda5930e49550b9be5bded17de7f1d34.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/faf6fa0c0e940043d285472baa985ac9.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "contentId": "142742",
+      "name": "MAK vs BOS",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/e208f627e119905d7388f0a7bf4da540.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/512e7c07bcf0ae8173cdc8b24483d920.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 3,
+      "isLive": true,
+      "contentId": "142161",
+      "name": "BAN vs PAK",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/d48756ef4fc529aca9e8830831f2df97.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/c10f97d06faac6b79f8acfbf9e9f4af9.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 4,
+      "isLive": true,
+      "contentId": "142293",
+      "name": "SCO vs USA",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/a436b88f335c5bf6d916886a6a7691aa.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/1d4d8d81d7db05bc949cf87202c79938.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    }
+  ]
 }
