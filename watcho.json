@@ -1,26 +1,26 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 5,
-  "updatedAt": "23/05/2026, 02:54:18 PM",
+  "total": 4,
+  "updatedAt": "23/05/2026, 04:19:44 PM",
   "data": [
     {
       "id": 1,
+      "isLive": true,
+      "contentId": "1090530592",
+      "name": "LIV",
+      "genre": "Archery",
+      "provider": "Sony Liv",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/sony4/videoasset_images/manage_file/1000018215/17794680437144_Hyundai_ArcheryWC26_Compund_Finals_Live_landscape_thumb.jpg"
+    },
+    {
+      "id": 2,
       "isLive": true,
       "contentId": "1540069417",
       "name": "BWF Malaysia Masters: SFs",
       "genre": "Badminton",
       "provider": "JioHotstar",
       "image": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/3187/1779467043187-h"
-    },
-    {
-      "id": 2,
-      "isLive": true,
-      "contentId": "142907",
-      "name": "Rwanda VS Cameroon",
-      "genre": "Sports",
-      "provider": "FanCode",
-      "image": "https://images.fancode.com/aig/match/v1779199202029/142907_CASACARDS_PARTNER_16_9_1920_1080.png"
     },
     {
       "id": 3,
@@ -34,20 +34,11 @@
     {
       "id": 4,
       "isLive": true,
-      "contentId": "142446",
-      "name": "Switzerland VS Malta",
+      "contentId": "142267",
+      "name": "ATP 500 - Bitpanda Hamburg Open 2026",
       "genre": "Sports",
       "provider": "FanCode",
-      "image": "https://images.fancode.com/aig/match/v1779487200238/142446_CASACARDS_PARTNER_16_9_1920_1080.png"
-    },
-    {
-      "id": 5,
-      "isLive": true,
-      "contentId": "142445",
-      "name": "France Cricket VS Sweden",
-      "genre": "Sports",
-      "provider": "FanCode",
-      "image": "https://images.fancode.com/aig/match/v1779487200290/142445_CASACARDS_PARTNER_16_9_1920_1080.png"
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/142267_6063_ATP_LOC_PARTNER_16x9.jpg"
     }
   ]
 }
