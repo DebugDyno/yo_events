@@ -1,5 +1,92 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 4,
+  "updatedAt": "23/05/2026, 10:34:15 AM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "141770",
+      "name": "VER-W vs NAE-W",
+      "genre": "football",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/57a9a8efde4cc366a47b7d4f2cdbf43f.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/fd8791756361e7fb224c9e5fed45b3fe.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "contentId": "142513",
+      "name": "SL-W vs NZ-A-W",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/7f774b5ff506f69bc4fc45302816db2c.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/6c0dcbd3d694e360e68b2edb51dba438.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 3,
+      "isLive": true,
+      "contentId": "142745",
+      "name": "MAK vs AM",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/f547710fcad91d05adb03b6aab091aca.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/0c2ff23bc39cd430207ca539ec688991.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 5,
+      "isLive": true,
+      "contentId": "142755",
+      "name": "FCS vs LOC",
+      "genre": "racing",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/e96cb4919f90814e939e0fb71cfbfae5.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/9bdc577e6e017e50c3c3af083c280fe2.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    }
+  ]
 }
