@@ -1,5 +1,71 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 3,
+  "updatedAt": "25/05/2026, 11:46:09 AM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "142767",
+      "name": "NTT vs HKI",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/09c8ce61a3fad11105d62e5deec06611.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/345165e2a9eb2095d8c951c24ccef8dc.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "contentId": "142514",
+      "name": "SL-W vs NZ-A-W",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/8199cdb2e9cf3230bdd0c501adff49a6.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/b73fea47f10d5c22c000729127ce831d.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 3,
+      "isLive": true,
+      "contentId": "142747",
+      "name": "BD vs AM",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/a77c358711695493060d0d5f02a98d06.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/536750fe3ebf9e48d77a59473893a4ea.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    }
+  ]
 }
