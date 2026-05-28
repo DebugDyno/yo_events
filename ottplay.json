@@ -1,5 +1,33 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 1,
+  "updatedAt": "28/05/2026, 12:27:45 PM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "1090530926",
+      "name": "South Korea - Day 1 - 28 May 2026",
+      "genre": "golf",
+      "language": "english",
+      "provider": "SonyLIV",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/6384bd8ade2abd119f4829caa43191ce.jpg",
+        "https://images.ottplay.com/images/07c48b3e2b28c4dd6a9771c446632577.jpg",
+        "https://images.ottplay.com/images/99f4fb98d7590548925cfbcbec5920f5.jpg",
+        "https://images.ottplay.com/images/3ef25f338aa9e2a8ed144f336ba0b35f.jpg",
+        "https://images.ottplay.com/images/667f2996d00d2ab8d704b9a1b8937c58.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/acd7a8db5e4c1e9b08e39197c0f779ee.jpg"
+      ],
+      "providerInfo": {
+        "id": "5f456c2aff9ccd034434e6fd",
+        "name": "SonyLIV",
+        "hashId": "100dc02b90dfc"
+      }
+    }
+  ]
 }
