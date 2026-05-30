@@ -1,5 +1,54 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 2,
+  "updatedAt": "30/05/2026, 11:32:52 AM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "142748",
+      "name": "MAK vs SG",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/d989552894d3e7abaff1a361181aad5f.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/89680b02a8d27a2952cf40723db32797.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 3,
+      "isLive": true,
+      "contentId": "1090531335",
+      "name": "South Korea - Day 3 - 30 May 2026",
+      "genre": "golf",
+      "language": "english",
+      "provider": "SonyLIV",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/336587acadea411b5a56e0bb9ec10310.jpg",
+        "https://images.ottplay.com/images/1a3ecd06c991ca2efc016f08991e74b2.jpg",
+        "https://images.ottplay.com/images/c1ae84711614be02517d7e4509f8e7f2.jpg",
+        "https://images.ottplay.com/images/c70856895a0c660ec5de9e1e16fa1c67.jpg",
+        "https://images.ottplay.com/images/be4c61107de8cc7d3ea8b4eb315d7245.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/8b9489dd76ad55b6a2385a524327816b.jpg"
+      ],
+      "providerInfo": {
+        "id": "5f456c2aff9ccd034434e6fd",
+        "name": "SonyLIV",
+        "hashId": "100dc02b90dfc"
+      }
+    }
+  ]
 }
