@@ -1,5 +1,29 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 1,
+  "updatedAt": "31/05/2026, 05:46:22 AM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "142625",
+      "name": "TOL vs TIG",
+      "genre": "football",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/426987113a6fa608e798f94435b871e4.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/c50773c9caf2d81fd136e14c3be7e5e0.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    }
+  ]
 }
