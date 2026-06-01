@@ -1,5 +1,30 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 1,
+  "updatedAt": "01/06/2026, 10:49:57 AM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "142752",
+      "name": "BD vs AM",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/cricket.jpg",
+        "https://images.ottplay.com/backdrops/3c65165996c085de0a82631c5e2c5f7a.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/65a7d5f269dda95580b721ee361a3b0d.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    }
+  ]
 }
