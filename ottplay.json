@@ -1,5 +1,30 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 1,
+  "updatedAt": "02/06/2026, 10:26:02 AM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "143226",
+      "name": "SG vs MAK",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/cricket.jpg",
+        "https://images.ottplay.com/backdrops/1016c24e55e7356fdffa85f42520c67b.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/c4f8d8859374d88e9cf266144d74a24a.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    }
+  ]
 }
