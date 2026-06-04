@@ -1,53 +1,26 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 5,
-  "updatedAt": "05/06/2026, 03:44:33 AM",
+  "total": 2,
+  "updatedAt": "05/06/2026, 05:08:46 AM",
   "data": [
     {
       "id": 1,
+      "isLive": true,
+      "contentId": "1090533891",
+      "name": "Sony Sports Ten 2",
+      "genre": "Football",
+      "provider": "Sony Liv",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/sony4/videoasset_images/manage_file/1000019196/1780591123291597_INT_Friendlies26_Czechia_vs_Guatemala_4jun_landscape_thumb.jpg"
+    },
+    {
+      "id": 2,
       "isLive": true,
       "contentId": "143229",
       "name": "US Women's Open 2026",
       "genre": "Sports",
       "provider": "FanCode",
       "image": "https://images.fancode.com/aig/match/v1780394401887/143229_CASACARDS_PARTNER_16_9_1920_1080.png"
-    },
-    {
-      "id": 2,
-      "isLive": true,
-      "contentId": "143107",
-      "name": "the Memorial Tournament presented by Workday 2026",
-      "genre": "Sports",
-      "provider": "FanCode",
-      "image": "https://images.fancode.com/aig/match/v1779969603907/143107_CASACARDS_PARTNER_16_9_1920_1080.png"
-    },
-    {
-      "id": 3,
-      "isLive": true,
-      "contentId": "143108",
-      "name": "the Memorial Tournament presented by Workday 2026",
-      "genre": "Sports",
-      "provider": "FanCode",
-      "image": "https://images.fancode.com/aig/match/v1779969603840/143108_CASACARDS_PARTNER_16_9_1920_1080.png"
-    },
-    {
-      "id": 4,
-      "isLive": true,
-      "contentId": "143106",
-      "name": "the Memorial Tournament presented by Workday 2026",
-      "genre": "Sports",
-      "provider": "FanCode",
-      "image": "https://images.fancode.com/aig/match/v1779969604235/143106_CASACARDS_PARTNER_16_9_1920_1080.png"
-    },
-    {
-      "id": 5,
-      "isLive": true,
-      "contentId": "143046",
-      "name": "the Memorial Tournament presented by Workday 2026",
-      "genre": "Sports",
-      "provider": "FanCode",
-      "image": "https://images.fancode.com/aig/match/v1779998402291/143046_CASACARDS_PARTNER_16_9_1920_1080.png"
     }
   ]
 }
