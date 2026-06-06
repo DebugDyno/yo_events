@@ -1,11 +1,20 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 17,
-  "updatedAt": "06/06/2026, 11:15:32 PM",
+  "total": 11,
+  "updatedAt": "07/06/2026, 12:25:48 AM",
   "data": [
     {
       "id": 1,
+      "isLive": true,
+      "contentId": "1090534118",
+      "name": "Sony Sports Ten 2",
+      "genre": "Football",
+      "provider": "Sony Liv",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/sony4/videoasset_images/manage_file/1000019247/1780625947353940_INT_Friendlies26_Switzerland_vs_Australia_4jun_landscape_thumb.jpg"
+    },
+    {
+      "id": 2,
       "isLive": true,
       "contentId": "1090534066",
       "name": "Sony Sports Ten 5",
@@ -14,7 +23,7 @@
       "image": "https://d229kpbsb5jevy.cloudfront.net/sony4/videoasset_images/manage_file/1000019230/1780607275257719_VITALITY_BLAST_2026_Durham_vs_Northampton_5jun_landscape_thumb.jpg"
     },
     {
-      "id": 2,
+      "id": 3,
       "isLive": true,
       "contentId": "1090534034",
       "name": "Sony Sports Ten 2",
@@ -23,7 +32,7 @@
       "image": "https://d229kpbsb5jevy.cloudfront.net/sony4/videoasset_images/manage_file/1000019247/1780623504833940_INT_Friendlies26_Albania_vs_Luxembourg_4jun_landscape_thumb.jpg"
     },
     {
-      "id": 3,
+      "id": 4,
       "isLive": true,
       "contentId": "1090534035",
       "name": "Sony Sports Ten 2",
@@ -32,7 +41,7 @@
       "image": "https://d229kpbsb5jevy.cloudfront.net/sony4/videoasset_images/manage_file/1000019247/1780623396404940_INT_Friendlies26_Romania_vs_Wales_4jun_landscape_thumb.jpg"
     },
     {
-      "id": 4,
+      "id": 5,
       "isLive": true,
       "contentId": "1090534036",
       "name": "Sony Sports Ten 2",
@@ -41,7 +50,7 @@
       "image": "https://d229kpbsb5jevy.cloudfront.net/sony4/videoasset_images/manage_file/1000019247/1780623306451941_INT_Friendlies26_Portugal_vs_Chile_4jun_landscape_thumb.jpg"
     },
     {
-      "id": 5,
+      "id": 6,
       "isLive": true,
       "contentId": "1090534037",
       "name": "Sony Sports Ten 2",
@@ -50,61 +59,7 @@
       "image": "https://d229kpbsb5jevy.cloudfront.net/sony4/videoasset_images/manage_file/1000019247/1780623035225941_INT_Friendlies26_Gibraltar_vs_Cayman_Islands_4jun_landscape_thumb.jpg"
     },
     {
-      "id": 6,
-      "isLive": true,
-      "contentId": "1540070589",
-      "name": "NECO Master Blaster vs India Warriors",
-      "genre": "Cricket",
-      "provider": "JioHotstar",
-      "image": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/1778/1780661821778-h"
-    },
-    {
       "id": 7,
-      "isLive": true,
-      "contentId": "1540070773",
-      "name": "Indore Pink Panthers vs Jabalpur Royal Lions",
-      "genre": "Cricket",
-      "provider": "JioHotstar",
-      "image": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/3737/1780664703737-h"
-    },
-    {
-      "id": 8,
-      "isLive": true,
-      "contentId": "1540070940",
-      "name": "Triumph Knights MNE vs Sobo Mumbai Falcons",
-      "genre": "Cricket",
-      "provider": "JioHotstar",
-      "image": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7702/1780725517702-h"
-    },
-    {
-      "id": 9,
-      "isLive": true,
-      "contentId": "1540071693",
-      "name": "British Open: Semi-finals",
-      "genre": "Squash",
-      "provider": "JioHotstar",
-      "image": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2970/1780682512970-h"
-    },
-    {
-      "id": 10,
-      "isLive": true,
-      "contentId": "1090534018",
-      "name": "Sony Sports Ten 3",
-      "genre": "Cricket",
-      "provider": "Sony Liv",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/sony4/videoasset_images/manage_file/1000019356/1780754570823558_CCPL26_Bastor-Bisons-vs-Raipur-Rhinos_landscape_thumb.jpg"
-    },
-    {
-      "id": 11,
-      "isLive": true,
-      "contentId": "1090534017",
-      "name": "Sony Sports Ten 5",
-      "genre": "Rugby",
-      "provider": "Sony Liv",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/sony4/videoasset_images/manage_file/1000019322/1780694634028309_SVNS_World_Championship26_Session4_mens_and_womens_Match_4jun_landscape_thumb.jpg"
-    },
-    {
-      "id": 12,
       "isLive": true,
       "contentId": "143195",
       "name": "Canada VS USA",
@@ -113,16 +68,7 @@
       "image": "https://images.fancode.com/aig/match/v1780156800497/143195_CASACARDS_PARTNER_16_9_1920_1080.png"
     },
     {
-      "id": 13,
-      "isLive": true,
-      "contentId": "143150",
-      "name": "Liege Red Lions VS Ghent Gladiators",
-      "genre": "Sports",
-      "provider": "FanCode",
-      "image": "https://images.fancode.com/aig/match/v1780156800454/143150_CASACARDS_PARTNER_16_9_1920_1080.png"
-    },
-    {
-      "id": 14,
+      "id": 8,
       "isLive": true,
       "contentId": "143113",
       "name": "the Memorial Tournament presented by Workday 2026",
@@ -131,7 +77,7 @@
       "image": "https://images.fancode.com/aig/match/v1780156802114/143113_CASACARDS_PARTNER_16_9_1920_1080.png"
     },
     {
-      "id": 15,
+      "id": 9,
       "isLive": true,
       "contentId": "143114",
       "name": "the Memorial Tournament presented by Workday 2026",
@@ -140,7 +86,7 @@
       "image": "https://images.fancode.com/aig/match/v1780149602667/143114_CASACARDS_PARTNER_16_9_1920_1080.png"
     },
     {
-      "id": 16,
+      "id": 10,
       "isLive": true,
       "contentId": "143112",
       "name": "the Memorial Tournament presented by Workday 2026",
@@ -149,7 +95,7 @@
       "image": "https://images.fancode.com/aig/match/v1780149602622/143112_CASACARDS_PARTNER_16_9_1920_1080.png"
     },
     {
-      "id": 17,
+      "id": 11,
       "isLive": true,
       "contentId": "143048",
       "name": "the Memorial Tournament presented by Workday 2026",
