@@ -1,92 +1,38 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 20,
-  "updatedAt": "07/06/2026, 11:10:01 PM",
+  "total": 12,
+  "updatedAt": "08/06/2026, 12:25:43 AM",
   "data": [
     {
       "id": 1,
+      "isLive": true,
+      "contentId": "1090534251",
+      "name": "Sony Sports Ten 2",
+      "genre": "Football",
+      "provider": "Sony Liv",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/sony4/videoasset_images/manage_file/1000019247/1780623998568941_INT_Friendlies26_Greece_vs_Italy_4jun_landscape_thumb.jpg"
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "contentId": "1090534250",
+      "name": "Sony Sports Ten 2",
+      "genre": "Football",
+      "provider": "Sony Liv",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/sony4/videoasset_images/manage_file/1000019247/1780623891420941_INT_Friendlies26_Croatia_vs_Slovenia_4jun_landscape_thumb.jpg"
+    },
+    {
+      "id": 3,
       "isLive": true,
       "contentId": "1090534249",
       "name": "Sony Sports Ten 2",
       "genre": "Football",
       "provider": "Sony Liv",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/sony4/videoasset_images/manage_file/1000019368/1780763060638103_INT_Friendlies26_Kosovo_vs_Andora_6jun_landscape_thumb.jpg"
-    },
-    {
-      "id": 2,
-      "isLive": true,
-      "contentId": "1090534121",
-      "name": "Sony Sports Ten 2",
-      "genre": "Football",
-      "provider": "Sony Liv",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/sony4/videoasset_images/manage_file/1000019247/1780623779723941_INT_Friendlies26_Denmark_vs_Ukraine_4jun_landscape_thumb.jpg"
-    },
-    {
-      "id": 3,
-      "isLive": true,
-      "contentId": "1540070698",
-      "name": "Diamond Dazzlers vs Alembic Warriors",
-      "genre": "Cricket",
-      "provider": "JioHotstar",
-      "image": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/3351/1780755513351-h"
+      "image": "https://d229kpbsb5jevy.cloudfront.net/sony4/videoasset_images/manage_file/1000019409/1780853572297759_INT_Friendlies26_Kosovo_vs_Andorra_6jun_landscape_thumb.jpg"
     },
     {
       "id": 4,
-      "isLive": true,
-      "contentId": "1540070595",
-      "name": "Orange Tigers vs India Warriors",
-      "genre": "Cricket",
-      "provider": "JioHotstar",
-      "image": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/5929/1780754765929-h"
-    },
-    {
-      "id": 5,
-      "isLive": true,
-      "contentId": "1540070779",
-      "name": "Rewa Jaguars vs Bhopal Leopards",
-      "genre": "Cricket",
-      "provider": "JioHotstar",
-      "image": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/9290/1780834879290-h"
-    },
-    {
-      "id": 6,
-      "isLive": true,
-      "contentId": "1540070946",
-      "name": "Eagle Thane Strikers vs North Mumbai Panthers",
-      "genre": "Cricket",
-      "provider": "JioHotstar",
-      "image": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7538/1780754407538-h"
-    },
-    {
-      "id": 7,
-      "isLive": true,
-      "contentId": "1540071172",
-      "name": "Novus Royals Purulia vs Kolkata Royal Tigers",
-      "genre": "Cricket",
-      "provider": "JioHotstar",
-      "image": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/9395/1780758709395-h"
-    },
-    {
-      "id": 8,
-      "isLive": true,
-      "contentId": "1090534263",
-      "name": "Sony Sports Ten 3",
-      "genre": "Cricket",
-      "provider": "Sony Liv",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/sony4/videoasset_images/manage_file/1000019397/1780834316817980_CCPL26_Raigarh_Lions_vs_Bilaspur_Bulls_landscape_thumb.jpg"
-    },
-    {
-      "id": 9,
-      "isLive": true,
-      "contentId": "143152",
-      "name": "Antwerp Anchors VS Akcel United Brussels",
-      "genre": "Sports",
-      "provider": "FanCode",
-      "image": "https://images.fancode.com/aig/match/v1780243200593/143152_CASACARDS_PARTNER_16_9_1920_1080.png"
-    },
-    {
-      "id": 10,
       "isLive": true,
       "contentId": "143116",
       "name": "the Memorial Tournament presented by Workday 2026",
@@ -95,7 +41,7 @@
       "image": "https://images.fancode.com/aig/match/v1780243202519/143116_CASACARDS_PARTNER_16_9_1920_1080.png"
     },
     {
-      "id": 11,
+      "id": 5,
       "isLive": true,
       "contentId": "143117",
       "name": "the Memorial Tournament presented by Workday 2026",
@@ -104,7 +50,7 @@
       "image": "https://images.fancode.com/aig/match/v1780236002753/143117_CASACARDS_PARTNER_16_9_1920_1080.png"
     },
     {
-      "id": 12,
+      "id": 6,
       "isLive": true,
       "contentId": "143115",
       "name": "the Memorial Tournament presented by Workday 2026",
@@ -113,7 +59,7 @@
       "image": "https://images.fancode.com/aig/match/v1780236002714/143115_CASACARDS_PARTNER_16_9_1920_1080.png"
     },
     {
-      "id": 13,
+      "id": 7,
       "isLive": true,
       "contentId": "143049",
       "name": "the Memorial Tournament presented by Workday 2026",
@@ -122,25 +68,7 @@
       "image": "https://images.fancode.com/aig/match/v1780250401701/143049_CASACARDS_PARTNER_16_9_1920_1080.png"
     },
     {
-      "id": 14,
-      "isLive": true,
-      "contentId": "142992",
-      "name": "MP Tigers VS UP Brij Stars",
-      "genre": "Sports",
-      "provider": "FanCode",
-      "image": "https://images.fancode.com/aig/match/v1780236000465/142992_CASACARDS_PARTNER_16_9_1920_1080.png"
-    },
-    {
-      "id": 15,
-      "isLive": true,
-      "contentId": "1090529785",
-      "name": "Sony Sports Ten 5",
-      "genre": "Tennis",
-      "provider": "Sony Liv",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/sony4/videoasset_images/manage_file/1000019367/1780762274148840_RG26_final_mens_cobolli_vs_zverev_6jun_SP_landscape_thumb.jpg"
-    },
-    {
-      "id": 16,
+      "id": 8,
       "isLive": true,
       "contentId": "1090529784",
       "name": "Sony Sports Ten 5",
@@ -149,7 +77,7 @@
       "image": "https://d229kpbsb5jevy.cloudfront.net/sony4/videoasset_images/manage_file/1000019324/1780696150053660_RG26_final_kannada_generic_landscape_thumb.jpg"
     },
     {
-      "id": 17,
+      "id": 9,
       "isLive": true,
       "contentId": "1090529782",
       "name": "Sony Sports Ten 5",
@@ -158,7 +86,7 @@
       "image": "https://d229kpbsb5jevy.cloudfront.net/sony4/videoasset_images/manage_file/1000019324/1780696115959660_RG26_final_tamil_generic_landscape_thumb.jpg"
     },
     {
-      "id": 18,
+      "id": 10,
       "isLive": true,
       "contentId": "1090529783",
       "name": "Sony Sports Ten 5",
@@ -167,7 +95,7 @@
       "image": "https://d229kpbsb5jevy.cloudfront.net/sony4/videoasset_images/manage_file/1000019324/1780696125708660_RG26_final_telugu_generic_landscape_thumb.jpg"
     },
     {
-      "id": 19,
+      "id": 11,
       "isLive": true,
       "contentId": "1090529781",
       "name": "Sony Sports Ten 5",
@@ -176,13 +104,13 @@
       "image": "https://d229kpbsb5jevy.cloudfront.net/sony4/videoasset_images/manage_file/1000019324/1780696104376660_RG26_final_hindi_generic_landscape_thumb.jpg"
     },
     {
-      "id": 20,
+      "id": 12,
       "isLive": true,
       "contentId": "1090529780",
       "name": "Sony Sports Ten 5",
       "genre": "Tennis",
       "provider": "Sony Liv",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/sony4/videoasset_images/manage_file/1000019367/1780762274148840_RG26_final_mens_cobolli_vs_zverev_6jun_SP_landscape_thumb.jpg"
+      "image": "https://d229kpbsb5jevy.cloudfront.net/sony4/videoasset_images/manage_file/1000019235/1780611380459295_RG26_Extra_Serve_studio_show_5jun_landscape_thumb.jpg"
     }
   ]
 }
