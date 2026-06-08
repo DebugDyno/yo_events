@@ -1,5 +1,96 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 4,
+  "updatedAt": "08/06/2026, 05:27:16 PM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "143153",
+      "name": "JB vs LRL",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/cricket.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/36fecf22e05b42b3b6f2517bec7e2168.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 3,
+      "isLive": true,
+      "contentId": "1090534399",
+      "name": "Raipur Rhinos vs Bilaspur Bulls - 8 Jun 2026",
+      "genre": "cricket",
+      "language": "hindi",
+      "provider": "SonyLIV",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/389e1e1a37c73a861776fa485f1bd451.jpg",
+        "https://images.ottplay.com/images/ab2d72528a595c0ec4967c0eca06da85.jpg",
+        "https://images.ottplay.com/images/78ff89588e33a5a2700fc72fc55eb0ee.jpg",
+        "https://images.ottplay.com/images/e9756e4f6d00b2197450c50eb3301a33.jpg",
+        "https://images.ottplay.com/images/6d0b0b2c074df46fc715d59a482343f8.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/7e9eac1224162e807f0a69d4d051e30b.jpg"
+      ],
+      "providerInfo": {
+        "id": "5f456c2aff9ccd034434e6fd",
+        "name": "SonyLIV",
+        "hashId": "100dc02b90dfc"
+      }
+    },
+    {
+      "id": 4,
+      "isLive": true,
+      "contentId": "143345",
+      "name": "ATP vs LOC",
+      "genre": "lawn-tennis",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/db317aadb696addb1e4dd28851ca5124.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/ad80267fbc65cacc611ac5ab6bc814a9.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 5,
+      "isLive": true,
+      "contentId": "143118",
+      "name": "ATP vs LOC",
+      "genre": "lawn-tennis",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/cf7aa00599ec626420c37e539d4fb841.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/fcdd45c39e9b072379c2c026bdca3c2a.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    }
+  ]
 }
