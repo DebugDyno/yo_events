@@ -2,10 +2,31 @@
   "success": true,
   "message": "Live matches fetched successfully",
   "total": 7,
-  "updatedAt": "14/06/2026, 10:18:11 PM",
+  "updatedAt": "14/06/2026, 11:32:57 PM",
   "data": [
     {
       "id": 1,
+      "isLive": true,
+      "contentId": "143216",
+      "name": "RBC Canadian Open 2026",
+      "genre": "golf",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/d14fa2beae05a33d4540572753787d29.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/67e47216397d7059d544a9d73ea8b5e5.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 2,
       "isLive": true,
       "contentId": "143218",
       "name": "RBC Canadian Open 2026",
@@ -20,27 +41,6 @@
       "posters": [
         "https://images.ottplay.com/posters/ce53b798f5eb8bb59637e65cb32649cd.jpg",
         "https://images.ottplay.com/posters/201c77714fec684332c2faa56462bf92.jpg"
-      ],
-      "providerInfo": {
-        "id": "63ce216c483822001ca300a4",
-        "name": "FanCode",
-        "hashId": "c60fe425e3269"
-      }
-    },
-    {
-      "id": 2,
-      "isLive": true,
-      "contentId": "143199",
-      "name": "USA vs NED",
-      "genre": "cricket",
-      "language": "english",
-      "provider": "FanCode",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/backdrops/9b514947f4501e22133e0d87cf897cf2.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/f9b65ce55bcf38a5cabf33ba892ad723.jpg"
       ],
       "providerInfo": {
         "id": "63ce216c483822001ca300a4",
