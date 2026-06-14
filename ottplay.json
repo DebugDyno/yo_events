@@ -1,11 +1,32 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 7,
-  "updatedAt": "14/06/2026, 11:32:57 PM",
+  "total": 6,
+  "updatedAt": "15/06/2026, 01:21:36 AM",
   "data": [
     {
       "id": 1,
+      "isLive": true,
+      "contentId": "143391",
+      "name": "MAG vs ALM",
+      "genre": "football",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/football.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/dce14e6b6c28915d19fb63f1398518b9.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 2,
       "isLive": true,
       "contentId": "143216",
       "name": "RBC Canadian Open 2026",
@@ -26,7 +47,7 @@
       }
     },
     {
-      "id": 2,
+      "id": 3,
       "isLive": true,
       "contentId": "143218",
       "name": "RBC Canadian Open 2026",
@@ -49,7 +70,7 @@
       }
     },
     {
-      "id": 3,
+      "id": 4,
       "isLive": true,
       "contentId": "143219",
       "name": "RBC Canadian Open 2026",
@@ -70,7 +91,7 @@
       }
     },
     {
-      "id": 4,
+      "id": 5,
       "isLive": true,
       "contentId": "143217",
       "name": "RBC Canadian Open 2026",
@@ -91,7 +112,7 @@
       }
     },
     {
-      "id": 5,
+      "id": 6,
       "isLive": true,
       "contentId": "143220",
       "name": "RBC Canadian Open 2026",
@@ -109,52 +130,6 @@
         "id": "63ce216c483822001ca300a4",
         "name": "FanCode",
         "hashId": "c60fe425e3269"
-      }
-    },
-    {
-      "id": 6,
-      "isLive": true,
-      "contentId": "143166",
-      "name": "AA vs GG",
-      "genre": "cricket",
-      "language": "english",
-      "provider": "FanCode",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/backdrops/cricket.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/4abae10bc30ca142efec5b0177b98e18.jpg"
-      ],
-      "providerInfo": {
-        "id": "63ce216c483822001ca300a4",
-        "name": "FanCode",
-        "hashId": "c60fe425e3269"
-      }
-    },
-    {
-      "id": 8,
-      "isLive": true,
-      "contentId": "1090534739",
-      "name": "Bilaspur Bulls vs Raigarh Lions - Final - 14 Jun 2026",
-      "genre": "cricket",
-      "language": "hindi",
-      "provider": "SonyLIV",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/images/3126a14620a1a3e58316f412370e68cf.jpg",
-        "https://images.ottplay.com/images/2498b67c6bfd151842f3c768e6390df4.jpg",
-        "https://images.ottplay.com/images/ffc1588909777ad73396ed43e3f7204b.jpg",
-        "https://images.ottplay.com/images/2fa8c8b7885c07c49a22f05040043c62.jpg",
-        "https://images.ottplay.com/images/c186604da7b5d02132c2989eaa965035.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/ce642184eab71c51471f4690118de7c6.jpg"
-      ],
-      "providerInfo": {
-        "id": "5f456c2aff9ccd034434e6fd",
-        "name": "SonyLIV",
-        "hashId": "100dc02b90dfc"
       }
     }
   ]
