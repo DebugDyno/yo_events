@@ -1,5 +1,29 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 1,
+  "updatedAt": "14/06/2026, 05:41:51 AM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "142976",
+      "name": "WI vs SL",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/14319106f53b558b698853e0c9338521.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/f8b81033dca5330207df4476c41bf8e2.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    }
+  ]
 }
