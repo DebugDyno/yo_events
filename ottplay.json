@@ -1,5 +1,52 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 2,
+  "updatedAt": "18/06/2026, 02:43:42 PM",
+  "data": [
+    {
+      "id": 2,
+      "isLive": true,
+      "contentId": "143039",
+      "name": "MM vs FFA",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/cricket.jpg",
+        "https://images.ottplay.com/backdrops/68acb2289f0db36ec1bc0cc33accac70.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/9cc42adb20c2bdd677a0eb370476f251.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 5,
+      "isLive": true,
+      "contentId": "143184",
+      "name": "GTP vs STY",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/91cee6a662da0c991f9a97265ad2f116.jpg",
+        "https://images.ottplay.com/backdrops/cricket.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/30c8d12f85b0dd9901ee63841de598a1.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    }
+  ]
 }
