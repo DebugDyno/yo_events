@@ -1,5 +1,75 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 3,
+  "updatedAt": "20/06/2026, 11:36:44 AM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "143043",
+      "name": "LLI vs JJ",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/09fa5fb3cfa9e3a08033d24aff6d6be8.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/9cf0da85e9a176efb7b82b94bf3600a4.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "contentId": "1090535044",
+      "name": "Round 11 - Sanya E-Prix - Final  Race - 20 Jun 2026",
+      "genre": "racing",
+      "language": "english",
+      "provider": "SonyLIV",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/8eb065a19b94d80b7e2a2d7f3bc355ca.jpg",
+        "https://images.ottplay.com/images/7313524801cc8b0297c6d3d02c5ba9ea.jpg",
+        "https://images.ottplay.com/images/79d9570862e8fb25f0d96f4335230274.jpg",
+        "https://images.ottplay.com/images/09cb30ef817b6a0758b61f32711fcf52.jpg",
+        "https://images.ottplay.com/images/e1b4ee52e05bc30bb024412b56ff06cc.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/4627fa50a5ada667d7e7442955a064c9.jpg"
+      ],
+      "providerInfo": {
+        "id": "5f456c2aff9ccd034434e6fd",
+        "name": "SonyLIV",
+        "hashId": "100dc02b90dfc"
+      }
+    },
+    {
+      "id": 3,
+      "isLive": true,
+      "contentId": "143406",
+      "name": "FCS vs LOC",
+      "genre": "racing",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/ffa4893543c83c5c7745bd1e849994e5.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/074096ea9b20615241f56b0e01e128f1.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    }
+  ]
 }
