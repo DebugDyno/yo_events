@@ -1,11 +1,20 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 7,
-  "updatedAt": "21/06/2026, 05:09:02 AM",
+  "total": 6,
+  "updatedAt": "21/06/2026, 07:34:21 AM",
   "data": [
     {
       "id": 1,
+      "isLive": true,
+      "contentId": "1540072643",
+      "name": "Washington Freedom vs MI New York",
+      "genre": "Cricket",
+      "provider": "JioHotstar",
+      "image": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2977/1781964652977-h"
+    },
+    {
+      "id": 2,
       "isLive": true,
       "contentId": "1090535176",
       "name": "Sony Sports Ten 2",
@@ -14,7 +23,7 @@
       "image": "https://d229kpbsb5jevy.cloudfront.net/sony4/videoasset_images/manage_file/1000019660/1781677731809911_UFC_Fight_Night_Kape_vs_Horiguchi_landscape_thumbnail_kannada.jpg"
     },
     {
-      "id": 2,
+      "id": 3,
       "isLive": true,
       "contentId": "1090535174",
       "name": "Sony Sports Ten 2",
@@ -23,7 +32,7 @@
       "image": "https://d229kpbsb5jevy.cloudfront.net/sony4/videoasset_images/manage_file/1000019660/1781677714984911_UFC_Fight_Night_Kape_vs_Horiguchi_landscape_thumbnail_tamil.jpg"
     },
     {
-      "id": 3,
+      "id": 4,
       "isLive": true,
       "contentId": "1090535175",
       "name": "Sony Sports Ten 2",
@@ -32,7 +41,7 @@
       "image": "https://d229kpbsb5jevy.cloudfront.net/sony4/videoasset_images/manage_file/1000019660/1781677724057911_UFC_Fight_Night_Kape_vs_Horiguchi_landscape_thumbnail_telugu.jpg"
     },
     {
-      "id": 4,
+      "id": 5,
       "isLive": true,
       "contentId": "1090535172",
       "name": "Sony Sports Ten 2",
@@ -41,31 +50,13 @@
       "image": "https://d229kpbsb5jevy.cloudfront.net/sony4/videoasset_images/manage_file/1000019660/1781677694238911_UFC_Fight_Night_Kape_vs_Horiguchi_landscape_thumbnail.jpg"
     },
     {
-      "id": 5,
+      "id": 6,
       "isLive": true,
       "contentId": "1090535173",
       "name": "Sony Sports Ten 2",
       "genre": "Fight Sports",
       "provider": "Sony Liv",
       "image": "https://d229kpbsb5jevy.cloudfront.net/sony4/videoasset_images/manage_file/1000019660/1781677706355911_UFC_Fight_Night_Kape_vs_Horiguchi_landscape_thumbnail_hindi.jpg"
-    },
-    {
-      "id": 6,
-      "isLive": true,
-      "contentId": "1540072640",
-      "name": "Texas Super Kings vs San Francisco Unicorns",
-      "genre": "Cricket",
-      "provider": "JioHotstar",
-      "image": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/4616/1781964464616-h"
-    },
-    {
-      "id": 7,
-      "isLive": true,
-      "contentId": "143295",
-      "name": "US Open 2026",
-      "genre": "Sports",
-      "provider": "FanCode",
-      "image": "https://images.fancode.com/aig/match/v1781373602080/143295_CASACARDS_PARTNER_16_9_1920_1080.png"
     }
   ]
 }
