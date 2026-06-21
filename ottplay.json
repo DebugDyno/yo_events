@@ -1,11 +1,32 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 6,
-  "updatedAt": "21/06/2026, 09:56:47 PM",
+  "total": 4,
+  "updatedAt": "21/06/2026, 11:34:57 PM",
   "data": [
     {
       "id": 1,
+      "isLive": true,
+      "contentId": "143284",
+      "name": "BER vs BAH",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/be9b37d47d8702a7f825fb4e4dce3a42.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/8f6e4c334dae6a287409e79e65410891.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 2,
       "isLive": true,
       "contentId": "143296",
       "name": "US Open 2026",
@@ -18,48 +39,6 @@
       ],
       "posters": [
         "https://images.ottplay.com/posters/648054a19a21b5358ca8c2f2bc2b998c.jpg"
-      ],
-      "providerInfo": {
-        "id": "63ce216c483822001ca300a4",
-        "name": "FanCode",
-        "hashId": "c60fe425e3269"
-      }
-    },
-    {
-      "id": 2,
-      "isLive": true,
-      "contentId": "143252",
-      "name": "ATP vs LOC",
-      "genre": "lawn-tennis",
-      "language": "english",
-      "provider": "FanCode",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/backdrops/0f53066cf3b61508d11008916d6783e4.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/f28358aad2f4f0fa896b83c4f444230e.jpg"
-      ],
-      "providerInfo": {
-        "id": "63ce216c483822001ca300a4",
-        "name": "FanCode",
-        "hashId": "c60fe425e3269"
-      }
-    },
-    {
-      "id": 3,
-      "isLive": true,
-      "contentId": "143283",
-      "name": "PAN vs BEL",
-      "genre": "cricket",
-      "language": "english",
-      "provider": "FanCode",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/backdrops/af81ccae2659ef84094182a4df914eea.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/18e73849a1c505df482617826c2d2c1a.jpg"
       ],
       "providerInfo": {
         "id": "63ce216c483822001ca300a4",
@@ -90,27 +69,6 @@
     },
     {
       "id": 5,
-      "isLive": true,
-      "contentId": "143251",
-      "name": "ATP vs LOC",
-      "genre": "lawn-tennis",
-      "language": "english",
-      "provider": "FanCode",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/backdrops/561861be6fc2891aaa9fa82710c6051d.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/67080dc45dec3e2bf2b0a895d68678dd.jpg"
-      ],
-      "providerInfo": {
-        "id": "63ce216c483822001ca300a4",
-        "name": "FanCode",
-        "hashId": "c60fe425e3269"
-      }
-    },
-    {
-      "id": 6,
       "isLive": true,
       "contentId": "143270",
       "name": "ATP vs LOC",
