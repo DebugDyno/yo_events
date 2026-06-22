@@ -1,5 +1,50 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 2,
+  "updatedAt": "22/06/2026, 03:19:11 PM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "143277",
+      "name": "ATP vs LOC",
+      "genre": "lawn-tennis",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/a22eb8e96f1e3322d487819ba0d178dc.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/ad437c08f8832f4e47f4037b26855c10.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "contentId": "143419",
+      "name": "MW vs HT",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/2b85ad9980d63aba770ffc29dd9f6b91.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/860b7be7b3000a089294018c5bb97f0f.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    }
+  ]
 }
