@@ -1,53 +1,35 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 5,
-  "updatedAt": "23/06/2026, 11:50:38 PM",
+  "total": 3,
+  "updatedAt": "24/06/2026, 01:57:28 AM",
   "data": [
     {
       "id": 1,
+      "isLive": true,
+      "contentId": "1540072243",
+      "name": "Belgium vs Australia",
+      "genre": "Hockey",
+      "provider": "JioHotstar",
+      "image": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/6848/1782229456848-h"
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "contentId": "1540072246",
+      "name": "Germany vs Ireland",
+      "genre": "Hockey",
+      "provider": "JioHotstar",
+      "image": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7824/1782229587824-h"
+    },
+    {
+      "id": 3,
       "isLive": true,
       "contentId": "1540071934",
       "name": "Australia vs Pakistan",
       "genre": "Cricket",
       "provider": "JioHotstar",
       "image": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2949/1782138122949-h"
-    },
-    {
-      "id": 2,
-      "isLive": true,
-      "contentId": "1540072102",
-      "name": "Australia vs Netherlands",
-      "genre": "Hockey",
-      "provider": "JioHotstar",
-      "image": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/3668/1782137983668-h"
-    },
-    {
-      "id": 3,
-      "isLive": true,
-      "contentId": "1540072466",
-      "name": "Final: Chennai Bulls vs Delhi Redz",
-      "genre": "Rugby",
-      "provider": "JioHotstar",
-      "image": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7847/1782230817847-h"
-    },
-    {
-      "id": 4,
-      "isLive": true,
-      "contentId": "1540071620",
-      "name": "Final: Jamshedpur Steelers vs Chota Nagpur Royals",
-      "genre": "Cricket",
-      "provider": "JioHotstar",
-      "image": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/3964/1782161763964-h"
-    },
-    {
-      "id": 5,
-      "isLive": true,
-      "contentId": "143278",
-      "name": "ATP 250 - Lexus Eastbourne Open 2026",
-      "genre": "Sports",
-      "provider": "FanCode",
-      "image": "https://images.fancode.com/aig/match/v1781604002016/143278_CASACARDS_PARTNER_16_9_1920_1080.png"
     }
   ]
 }
