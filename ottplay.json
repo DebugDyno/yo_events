@@ -1,5 +1,29 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 1,
+  "updatedAt": "23/06/2026, 01:34:42 PM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "143545",
+      "name": "UZB vs INA",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/f47d715e3d03f2c31b4cd5cd5efb1f13.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/7955b35f4ee16bce5bad65a7d2a69b34.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    }
+  ]
 }
