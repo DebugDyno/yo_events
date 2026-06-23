@@ -1,11 +1,20 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 9,
-  "updatedAt": "23/06/2026, 09:57:33 PM",
+  "total": 5,
+  "updatedAt": "23/06/2026, 11:50:38 PM",
   "data": [
     {
       "id": 1,
+      "isLive": true,
+      "contentId": "1540071934",
+      "name": "Australia vs Pakistan",
+      "genre": "Cricket",
+      "provider": "JioHotstar",
+      "image": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2949/1782138122949-h"
+    },
+    {
+      "id": 2,
       "isLive": true,
       "contentId": "1540072102",
       "name": "Australia vs Netherlands",
@@ -14,22 +23,13 @@
       "image": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/3668/1782137983668-h"
     },
     {
-      "id": 2,
-      "isLive": true,
-      "contentId": "1540072099",
-      "name": "Argentina vs Spain",
-      "genre": "Hockey",
-      "provider": "JioHotstar",
-      "image": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/6127/1782137496127-h"
-    },
-    {
       "id": 3,
       "isLive": true,
       "contentId": "1540072466",
-      "name": "Kolkata Banga Tigers vs Chennai Bulls",
+      "name": "Final: Chennai Bulls vs Delhi Redz",
       "genre": "Rugby",
       "provider": "JioHotstar",
-      "image": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2318/1782229412318-h"
+      "image": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7847/1782230817847-h"
     },
     {
       "id": 4,
@@ -43,47 +43,11 @@
     {
       "id": 5,
       "isLive": true,
-      "contentId": "1540072727",
-      "name": "Ranga Reddy Risers vs Medak Falcons",
-      "genre": "Cricket",
-      "provider": "JioHotstar",
-      "image": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/1040/1782136011040-h"
-    },
-    {
-      "id": 6,
-      "isLive": true,
-      "contentId": "1540071872",
-      "name": "Sri Lanka vs Ireland",
-      "genre": "Cricket",
-      "provider": "JioHotstar",
-      "image": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/3568/1782135683568-h"
-    },
-    {
-      "id": 7,
-      "isLive": true,
-      "contentId": "143422",
-      "name": "Mysore Warriors VS Kalyani Bengaluru Blasters",
-      "genre": "Sports",
-      "provider": "FanCode",
-      "image": "https://images.fancode.com/aig/match/v1781618402124/143422_CASACARDS_PARTNER_16_9_1920_1080.png"
-    },
-    {
-      "id": 8,
-      "isLive": true,
       "contentId": "143278",
       "name": "ATP 250 - Lexus Eastbourne Open 2026",
       "genre": "Sports",
       "provider": "FanCode",
       "image": "https://images.fancode.com/aig/match/v1781604002016/143278_CASACARDS_PARTNER_16_9_1920_1080.png"
-    },
-    {
-      "id": 9,
-      "isLive": true,
-      "contentId": "143272",
-      "name": "ATP 250 - Vanda Pharma Mallorca Championships 2026",
-      "genre": "Sports",
-      "provider": "FanCode",
-      "image": "https://images.fancode.com/aig/match/v1781604001969/143272_CASACARDS_PARTNER_16_9_1920_1080.png"
     }
   ]
 }
