@@ -2,10 +2,31 @@
   "success": true,
   "message": "Live matches fetched successfully",
   "total": 4,
-  "updatedAt": "25/06/2026, 11:55:15 PM",
+  "updatedAt": "26/06/2026, 01:59:16 AM",
   "data": [
     {
       "id": 1,
+      "isLive": true,
+      "contentId": "143297",
+      "name": "Travelers Championship 2026",
+      "genre": "golf",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/fdd0baa90d5b63948b72e5aa77994562.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/efec8e1070157304564a9a0256cd759b.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 2,
       "isLive": true,
       "contentId": "143290",
       "name": "BRA vs BAH",
@@ -18,28 +39,6 @@
       ],
       "posters": [
         "https://images.ottplay.com/posters/aaf7894bebff371402b04fba2b37cae2.jpg"
-      ],
-      "providerInfo": {
-        "id": "63ce216c483822001ca300a4",
-        "name": "FanCode",
-        "hashId": "c60fe425e3269"
-      }
-    },
-    {
-      "id": 2,
-      "isLive": true,
-      "contentId": "143554",
-      "name": "DDHMS vs KANB",
-      "genre": "cricket",
-      "language": "english",
-      "provider": "FanCode",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/backdrops/cricket.jpg",
-        "https://images.ottplay.com/backdrops/6ec18133f1582c4d75a1867b425a94e2.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/c3d62b6b36b90f44665d4a62fdfd1656.jpg"
       ],
       "providerInfo": {
         "id": "63ce216c483822001ca300a4",
