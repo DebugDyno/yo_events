@@ -1,5 +1,30 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 1,
+  "updatedAt": "25/06/2026, 11:18:51 AM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "143547",
+      "name": "UZB vs TL",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/cricket.jpg",
+        "https://images.ottplay.com/backdrops/18bfbcb5f45fbcd4662d887e1b343d15.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/130f069d14d1171c30105988eacccc50.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    }
+  ]
 }
