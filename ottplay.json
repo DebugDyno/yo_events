@@ -1,11 +1,53 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 11,
-  "updatedAt": "27/06/2026, 10:49:11 PM",
+  "total": 9,
+  "updatedAt": "28/06/2026, 12:08:04 AM",
   "data": [
     {
       "id": 1,
+      "isLive": true,
+      "contentId": "143299",
+      "name": "Travelers Championship 2026",
+      "genre": "golf",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/873b8519bf3c79a61e83aaee4d2028f7.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/4dc0f35fb5cfad4af803a3dc318f8a10.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "contentId": "143292",
+      "name": "BER vs BRA",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/9f44ae69460b24dd69f3f4559968fa57.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/459dbe00801a464742a137482971263a.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 3,
       "isLive": true,
       "contentId": "1090535706",
       "name": "UFC Fight Night - Fiziev vs Torres - 27 Jun 2026",
@@ -30,7 +72,7 @@
       }
     },
     {
-      "id": 2,
+      "id": 4,
       "isLive": true,
       "contentId": "1090535705",
       "name": "UFC Fight Night - Fiziev vs Torres - 27 Jun 2026",
@@ -55,7 +97,7 @@
       }
     },
     {
-      "id": 3,
+      "id": 5,
       "isLive": true,
       "contentId": "1090535704",
       "name": "UFC Fight Night - Fiziev vs Torres - 27 Jun 2026",
@@ -80,7 +122,7 @@
       }
     },
     {
-      "id": 4,
+      "id": 6,
       "isLive": true,
       "contentId": "1090535703",
       "name": "UFC Fight Night - Fiziev vs Torres - 27 Jun 2026",
@@ -105,7 +147,7 @@
       }
     },
     {
-      "id": 5,
+      "id": 7,
       "isLive": true,
       "contentId": "1090535667",
       "name": "UFC Fight Night - Fiziev vs Torres - 27 Jun 2026",
@@ -130,28 +172,7 @@
       }
     },
     {
-      "id": 6,
-      "isLive": true,
-      "contentId": "143558",
-      "name": "BR vs DDHMS",
-      "genre": "cricket",
-      "language": "english",
-      "provider": "FanCode",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/backdrops/c08f2d253cd63e7d6b2b5383078106b2.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/758a5bb021c156441c5fab2da2f38916.jpg"
-      ],
-      "providerInfo": {
-        "id": "63ce216c483822001ca300a4",
-        "name": "FanCode",
-        "hashId": "c60fe425e3269"
-      }
-    },
-    {
-      "id": 7,
+      "id": 8,
       "isLive": true,
       "contentId": "142978",
       "name": "WI vs SL",
@@ -172,50 +193,7 @@
       }
     },
     {
-      "id": 8,
-      "isLive": true,
-      "contentId": "143282",
-      "name": "ATP vs LOC",
-      "genre": "lawn-tennis",
-      "language": "english",
-      "provider": "FanCode",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/backdrops/7f8aae5d7c5d041c032ec356c8a11d54.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/e970c694f113efdbc5b56e50b2fd2aaf.jpg"
-      ],
-      "providerInfo": {
-        "id": "63ce216c483822001ca300a4",
-        "name": "FanCode",
-        "hashId": "c60fe425e3269"
-      }
-    },
-    {
       "id": 9,
-      "isLive": true,
-      "contentId": "143428",
-      "name": "MW vs GMY",
-      "genre": "cricket",
-      "language": "english",
-      "provider": "FanCode",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/backdrops/cricket.jpg",
-        "https://images.ottplay.com/backdrops/47334ce94a81263d1863acad7d66b925.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/12dc3f8f6c4f34b03eb669a0e38152e1.jpg"
-      ],
-      "providerInfo": {
-        "id": "63ce216c483822001ca300a4",
-        "name": "FanCode",
-        "hashId": "c60fe425e3269"
-      }
-    },
-    {
-      "id": 10,
       "isLive": true,
       "contentId": "143576",
       "name": "Travelers Championship 2026",
@@ -233,31 +211,6 @@
         "id": "63ce216c483822001ca300a4",
         "name": "FanCode",
         "hashId": "c60fe425e3269"
-      }
-    },
-    {
-      "id": 11,
-      "isLive": true,
-      "contentId": "1090535664",
-      "name": "3rd Test - Day 3 - 27 Jun 2026",
-      "genre": "cricket",
-      "language": "english",
-      "provider": "SonyLIV",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/images/c4579b44b97e98f354710dd5c67e616f.jpg",
-        "https://images.ottplay.com/images/6e8181a59295833a89cbd69f65f232c4.jpg",
-        "https://images.ottplay.com/images/bd6e79631bac916e52596c1e4479cb91.jpg",
-        "https://images.ottplay.com/images/6a434f7a91e54342650c709ca4aca1b5.jpg",
-        "https://images.ottplay.com/images/5dbc0e082c9280cce5001f8f5ff89f20.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/74e21670403a8597de9b6bd21e9b3d80.jpg"
-      ],
-      "providerInfo": {
-        "id": "5f456c2aff9ccd034434e6fd",
-        "name": "SonyLIV",
-        "hashId": "100dc02b90dfc"
       }
     }
   ]

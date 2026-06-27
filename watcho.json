@@ -1,11 +1,20 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 17,
-  "updatedAt": "27/06/2026, 10:49:10 PM",
+  "total": 11,
+  "updatedAt": "28/06/2026, 12:08:03 AM",
   "data": [
     {
       "id": 1,
+      "isLive": true,
+      "contentId": "1540072138",
+      "name": "Belgium vs Netherlands",
+      "genre": "Hockey",
+      "provider": "JioHotstar",
+      "image": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/3878/1782524453878-h"
+    },
+    {
+      "id": 2,
       "isLive": true,
       "contentId": "1540071940",
       "name": "England vs New Zealand",
@@ -14,7 +23,7 @@
       "image": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/6346/1782579356346-h"
     },
     {
-      "id": 2,
+      "id": 3,
       "isLive": true,
       "contentId": "1090535703",
       "name": "Sony Sports Ten 2",
@@ -23,7 +32,7 @@
       "image": "https://d229kpbsb5jevy.cloudfront.net/sony4/videoasset_images/manage_file/1000020080/1782505055431606_UFC_Fight_Night_Fiziev_vs_Torres_hindi_landscape_thumb.jpg"
     },
     {
-      "id": 3,
+      "id": 4,
       "isLive": true,
       "contentId": "1090535705",
       "name": "Sony Sports Ten 2",
@@ -32,7 +41,7 @@
       "image": "https://d229kpbsb5jevy.cloudfront.net/sony4/videoasset_images/manage_file/1000020080/1782505026900606_UFC_Fight_Night_Fiziev_vs_Torres_telugu_landscape_thumb.jpg"
     },
     {
-      "id": 4,
+      "id": 5,
       "isLive": true,
       "contentId": "1090535667",
       "name": "Sony Sports Ten 2",
@@ -41,7 +50,7 @@
       "image": "https://d229kpbsb5jevy.cloudfront.net/sony4/videoasset_images/manage_file/1000020080/1782504993200606_UFC_Fight_Night_Fiziev_vs_Torres_eng_landscape_thumb.jpg"
     },
     {
-      "id": 5,
+      "id": 6,
       "isLive": true,
       "contentId": "1090535704",
       "name": "Sony Sports Ten 2",
@@ -50,7 +59,7 @@
       "image": "https://d229kpbsb5jevy.cloudfront.net/sony4/videoasset_images/manage_file/1000020080/1782505035482606_UFC_Fight_Night_Fiziev_vs_Torres_tamil_landscape_thumb.jpg"
     },
     {
-      "id": 6,
+      "id": 7,
       "isLive": true,
       "contentId": "1090535706",
       "name": "Sony Sports Ten 2",
@@ -59,61 +68,7 @@
       "image": "https://d229kpbsb5jevy.cloudfront.net/sony4/videoasset_images/manage_file/1000020080/1782505045515606_UFC_Fight_Night_Fiziev_vs_Torres_kannada_landscape_thumb.jpg"
     },
     {
-      "id": 7,
-      "isLive": true,
-      "contentId": "1540072135",
-      "name": "England vs Pakistan",
-      "genre": "Hockey",
-      "provider": "JioHotstar",
-      "image": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2692/1782478152692-h"
-    },
-    {
       "id": 8,
-      "isLive": true,
-      "contentId": "1540072282",
-      "name": "Ireland vs China",
-      "genre": "Hockey",
-      "provider": "JioHotstar",
-      "image": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/8587/1782477528587-h"
-    },
-    {
-      "id": 9,
-      "isLive": true,
-      "contentId": "1540072751",
-      "name": "Palamuru Strikers vs Pranava Ranga Reddy Risers",
-      "genre": "Cricket",
-      "provider": "JioHotstar",
-      "image": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/1800/1782479661800-h"
-    },
-    {
-      "id": 10,
-      "isLive": true,
-      "contentId": "1540071415",
-      "name": "Royals of Rayalaseema vs Capital Amaravathi Royals",
-      "genre": "Cricket",
-      "provider": "JioHotstar",
-      "image": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/8946/1782479288946-h"
-    },
-    {
-      "id": 11,
-      "isLive": true,
-      "contentId": "1540071887",
-      "name": "West Indies vs Ireland",
-      "genre": "Cricket",
-      "provider": "JioHotstar",
-      "image": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/562/1782479990562-h"
-    },
-    {
-      "id": 12,
-      "isLive": true,
-      "contentId": "1090535664",
-      "name": "Sony Sports Ten 5",
-      "genre": "Cricket",
-      "provider": "Sony Liv",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/sony4/videoasset_images/manage_file/1000019939/1782323541511153_ENGvsNZ_3rd_test_day3_landscape_thumb.jpg"
-    },
-    {
-      "id": 13,
       "isLive": true,
       "contentId": "143576",
       "name": "Travelers Championship 2026",
@@ -122,34 +77,25 @@
       "image": "https://images.fancode.com/aig/match/v1782295201609/143576_CASACARDS_PARTNER_16_9_1920_1080.png"
     },
     {
-      "id": 14,
+      "id": 9,
       "isLive": true,
-      "contentId": "143558",
-      "name": "Bahadurgarh Royals VS DDH Meerut Spartans",
+      "contentId": "143292",
+      "name": "Bermuda VS Brazil",
       "genre": "Sports",
       "provider": "FanCode",
-      "image": "https://images.fancode.com/aig/match/v1782115202018/143558_CASACARDS_PARTNER_16_9_1920_1080.png"
+      "image": "https://images.fancode.com/aig/match/v1781985600531/143292_CASACARDS_PARTNER_16_9_1920_1080.png"
     },
     {
-      "id": 15,
+      "id": 10,
       "isLive": true,
-      "contentId": "143428",
-      "name": "Mysore Warriors VS Gulbarga Mystics",
+      "contentId": "143299",
+      "name": "Travelers Championship 2026",
       "genre": "Sports",
       "provider": "FanCode",
-      "image": "https://images.fancode.com/aig/match/v1781964001896/143428_CASACARDS_PARTNER_16_9_1920_1080.png"
+      "image": "https://images.fancode.com/aig/match/v1781452801826/143299_CASACARDS_PARTNER_16_9_1920_1080.png"
     },
     {
-      "id": 16,
-      "isLive": true,
-      "contentId": "143282",
-      "name": "ATP 250 - Lexus Eastbourne Open 2026",
-      "genre": "Sports",
-      "provider": "FanCode",
-      "image": "https://images.fancode.com/aig/match/v1781949602545/143282_CASACARDS_PARTNER_16_9_1920_1080.png"
-    },
-    {
-      "id": 17,
+      "id": 11,
       "isLive": true,
       "contentId": "142978",
       "name": "West Indies VS Sri Lanka",
