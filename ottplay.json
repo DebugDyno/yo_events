@@ -1,5 +1,51 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 2,
+  "updatedAt": "27/06/2026, 11:09:52 AM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "143638",
+      "name": "FCS vs LOC",
+      "genre": "racing",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/520327d1680f5f9170891bf46c6ff052.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/96af33d3d92d3f302549a2e55f80a870.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "contentId": "143523",
+      "name": "MCC vs HPCAP",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/8895b7f0db3f4315e08201578f17dd3b.jpg",
+        "https://images.ottplay.com/backdrops/cricket.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/9beb0877d6056b6446d7c497529d71e9.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    }
+  ]
 }
