@@ -1,35 +1,26 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 3,
-  "updatedAt": "29/06/2026, 05:15:49 AM",
+  "total": 2,
+  "updatedAt": "29/06/2026, 07:26:29 AM",
   "data": [
     {
       "id": 1,
+      "isLive": true,
+      "contentId": "1540072673",
+      "name": "San Francisco Unicorns vs Washington Freedom",
+      "genre": "Cricket",
+      "provider": "JioHotstar",
+      "image": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7903/1782645977903-h"
+    },
+    {
+      "id": 2,
       "isLive": true,
       "contentId": "1540072670",
       "name": "Los Angeles Knight Riders vs Seattle Orcas",
       "genre": "Cricket",
       "provider": "JioHotstar",
       "image": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/4735/1782684684735-h"
-    },
-    {
-      "id": 2,
-      "isLive": true,
-      "contentId": "1540073144",
-      "name": "Final: Srikanth Kidambi vs Su Li Yang",
-      "genre": "Badminton",
-      "provider": "JioHotstar",
-      "image": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/1132/1782687851132-h"
-    },
-    {
-      "id": 3,
-      "isLive": true,
-      "contentId": "143300",
-      "name": "Travelers Championship 2026",
-      "genre": "Sports",
-      "provider": "FanCode",
-      "image": "https://images.fancode.com/aig/match/v1781452801851/143300_CASACARDS_PARTNER_16_9_1920_1080.png"
     }
   ]
 }
