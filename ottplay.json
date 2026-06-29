@@ -1,5 +1,30 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 1,
+  "updatedAt": "29/06/2026, 12:18:03 PM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "143527",
+      "name": "ISK vs MCC",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/cb34b3532cb07df4e467cbd62f04a120.jpg",
+        "https://images.ottplay.com/backdrops/cricket.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/c41aa7024f5ea36555d711c90fea5624.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    }
+  ]
 }
