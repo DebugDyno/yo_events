@@ -1,5 +1,29 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 1,
+  "updatedAt": "30/06/2026, 11:21:23 AM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "143529",
+      "name": "KCC vs HPCAP",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/d07f033fb1e99524c3edb38a5c858548.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/adfcf9e5d660df395be1ebff625af779.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    }
+  ]
 }
