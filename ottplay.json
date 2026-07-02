@@ -1,5 +1,50 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 2,
+  "updatedAt": "02/07/2026, 10:05:55 AM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "143584",
+      "name": "BOS vs AM",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/b8547ff2e0494d6adc4f25416ca37ab9.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/41dd87adb16eed0b1c8dd6fe79bd4603.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "contentId": "143533",
+      "name": "ISK vs KCC",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/cricket.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/bf0758a45d892b129d06966069aa56ac.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    }
+  ]
 }
