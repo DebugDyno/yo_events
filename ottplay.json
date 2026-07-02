@@ -1,11 +1,32 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 5,
-  "updatedAt": "02/07/2026, 08:10:10 PM",
+  "total": 4,
+  "updatedAt": "02/07/2026, 09:57:16 PM",
   "data": [
     {
       "id": 1,
+      "isLive": true,
+      "contentId": "143578",
+      "name": "US Senior Open Championship 2026",
+      "genre": "golf",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/a5973c070575b6dae6596fef8cce38a8.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/cf705b12ce0040a423af3ee3bdedb5d9.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 2,
       "isLive": true,
       "contentId": "143408",
       "name": "Hulencourt Women's Open 2026",
@@ -26,7 +47,7 @@
       }
     },
     {
-      "id": 2,
+      "id": 3,
       "isLive": true,
       "contentId": "143436",
       "name": "CKM vs SY",
@@ -47,7 +68,7 @@
       }
     },
     {
-      "id": 3,
+      "id": 4,
       "isLive": true,
       "contentId": "143665",
       "name": "John Deere Classic 2026",
@@ -60,53 +81,6 @@
       ],
       "posters": [
         "https://images.ottplay.com/posters/4547f58ecdadf3c06a90c7a24916f079.jpg"
-      ],
-      "providerInfo": {
-        "id": "63ce216c483822001ca300a4",
-        "name": "FanCode",
-        "hashId": "c60fe425e3269"
-      }
-    },
-    {
-      "id": 4,
-      "isLive": true,
-      "contentId": "1090535683",
-      "name": "BMW International Open - Day 1 - 2 Jul 2026",
-      "genre": "golf",
-      "language": "english",
-      "provider": "SonyLIV",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/images/52d70dc834b39fc3e5fe064aba5b80d9.jpg",
-        "https://images.ottplay.com/images/3e357e8a2c8ea2cf78047e120ed60e58.jpg",
-        "https://images.ottplay.com/images/35d33b3804dfcfcb69af575fcd3698ae.jpg",
-        "https://images.ottplay.com/images/ba01bdde967498d62f8f3101a25183d4.jpg",
-        "https://images.ottplay.com/images/bec2294d0321467b92ea78fed01e7d52.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/65953e7a5535d84d43ab10c457b9c6c8.jpg"
-      ],
-      "providerInfo": {
-        "id": "5f456c2aff9ccd034434e6fd",
-        "name": "SonyLIV",
-        "hashId": "100dc02b90dfc"
-      }
-    },
-    {
-      "id": 5,
-      "isLive": true,
-      "contentId": "143628",
-      "name": "NAM vs VID",
-      "genre": "cricket",
-      "language": "english",
-      "provider": "FanCode",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/backdrops/c2f57cd145feb1ecb0d6b56760d18578.jpg",
-        "https://images.ottplay.com/backdrops/cricket.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/2844fe58bb71b818d51852ab307506f6.jpg"
       ],
       "providerInfo": {
         "id": "63ce216c483822001ca300a4",
