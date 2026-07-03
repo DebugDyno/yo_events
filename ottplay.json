@@ -1,5 +1,52 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 2,
+  "updatedAt": "03/07/2026, 10:24:08 AM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "143586",
+      "name": "BD vs MAK",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/cricket.jpg",
+        "https://images.ottplay.com/backdrops/9d1b0410bc60b7d359f7b1d7034ca01c.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/a59e511e193cd0244b37b1f37a664810.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "contentId": "143535",
+      "name": "CL vs ISK",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/627322c936f7aa9469e52aa4c34fdee9.jpg",
+        "https://images.ottplay.com/backdrops/cricket.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/db6ffe5f53672ef266b42bf78769162e.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    }
+  ]
 }

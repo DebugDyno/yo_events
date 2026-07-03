@@ -1,7 +1,35 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 0,
-  "updatedAt": "03/07/2026, 06:36:08 AM",
-  "data": []
+  "total": 3,
+  "updatedAt": "03/07/2026, 10:24:07 AM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "1540073270",
+      "name": "Seattle Orcas vs MI New York",
+      "genre": "Cricket",
+      "provider": "JioHotstar",
+      "image": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/1457/1782990611457-h"
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "contentId": "143586",
+      "name": "Band-e-Amir Dragons VS Mis-e-Ainak Knights",
+      "genre": "Sports",
+      "provider": "FanCode",
+      "image": "https://images.fancode.com/aig/match/v1782468001159/143586_CASACARDS_PARTNER_16_9_1920_1080.png"
+    },
+    {
+      "id": 3,
+      "isLive": true,
+      "contentId": "143535",
+      "name": "Chhinnamasta Lions VS Itahari Super Kings",
+      "genre": "Sports",
+      "provider": "FanCode",
+      "image": "https://images.fancode.com/aig/match/v1781869171976/143535_CASACARDS_PARTNER_16_9_1920_1080.png"
+    }
+  ]
 }
