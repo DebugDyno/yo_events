@@ -1,11 +1,32 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 3,
-  "updatedAt": "04/07/2026, 03:04:13 AM",
+  "total": 2,
+  "updatedAt": "04/07/2026, 04:08:11 AM",
   "data": [
     {
       "id": 1,
+      "isLive": true,
+      "contentId": "143673",
+      "name": "US Senior Open Championship 2026",
+      "genre": "golf",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/19cd31ed73fa1feb5f24a1cf18f7c019.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/4889235803c820996a8ab66dfcb38267.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 2,
       "isLive": true,
       "contentId": "143666",
       "name": "John Deere Classic 2026",
@@ -18,49 +39,6 @@
       ],
       "posters": [
         "https://images.ottplay.com/posters/c5906b14bc760cb97f55737f7e1dfa38.jpg"
-      ],
-      "providerInfo": {
-        "id": "63ce216c483822001ca300a4",
-        "name": "FanCode",
-        "hashId": "c60fe425e3269"
-      }
-    },
-    {
-      "id": 2,
-      "isLive": true,
-      "contentId": "142979",
-      "name": "WI vs SL",
-      "genre": "cricket",
-      "language": "english",
-      "provider": "FanCode",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/backdrops/cricket.jpg",
-        "https://images.ottplay.com/backdrops/f3083deeb9eed80349f1e574eace29ca.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/242010fa44419a9d6630b6005d48f177.jpg"
-      ],
-      "providerInfo": {
-        "id": "63ce216c483822001ca300a4",
-        "name": "FanCode",
-        "hashId": "c60fe425e3269"
-      }
-    },
-    {
-      "id": 3,
-      "isLive": true,
-      "contentId": "143667",
-      "name": "John Deere Classic 2026",
-      "genre": "golf",
-      "language": "english",
-      "provider": "FanCode",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/backdrops/5f19bbe6e53d903a9aeb2ce0608a7fc1.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/ae71da2de018bd6783ef3b24450d5063.jpg"
       ],
       "providerInfo": {
         "id": "63ce216c483822001ca300a4",
