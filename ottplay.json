@@ -1,11 +1,33 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 4,
-  "updatedAt": "06/07/2026, 06:57:26 PM",
+  "total": 2,
+  "updatedAt": "06/07/2026, 10:07:01 PM",
   "data": [
     {
       "id": 1,
+      "isLive": true,
+      "contentId": "142979",
+      "name": "WI vs SL",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/cricket.jpg",
+        "https://images.ottplay.com/backdrops/f3083deeb9eed80349f1e574eace29ca.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/242010fa44419a9d6630b6005d48f177.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 2,
       "isLive": true,
       "contentId": "143442",
       "name": "GMY vs KBB",
@@ -18,69 +40,6 @@
       ],
       "posters": [
         "https://images.ottplay.com/posters/b9463a9e37df80328c36309eaa5b1d64.jpg"
-      ],
-      "providerInfo": {
-        "id": "63ce216c483822001ca300a4",
-        "name": "FanCode",
-        "hashId": "c60fe425e3269"
-      }
-    },
-    {
-      "id": 2,
-      "isLive": true,
-      "contentId": "143592",
-      "name": "AM vs BD",
-      "genre": "cricket",
-      "language": "english",
-      "provider": "FanCode",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/backdrops/bf00338fae79148182113c65bcdd63d3.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/859a3144c18e7feeb598ff9d04c0da91.jpg"
-      ],
-      "providerInfo": {
-        "id": "63ce216c483822001ca300a4",
-        "name": "FanCode",
-        "hashId": "c60fe425e3269"
-      }
-    },
-    {
-      "id": 3,
-      "isLive": true,
-      "contentId": "143630",
-      "name": "NAM vs VID",
-      "genre": "cricket",
-      "language": "english",
-      "provider": "FanCode",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/backdrops/245ca585ed67d2302d624ac2687d0d5c.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/7b7dd3377fb3ab5b9491187ad3061263.jpg"
-      ],
-      "providerInfo": {
-        "id": "63ce216c483822001ca300a4",
-        "name": "FanCode",
-        "hashId": "c60fe425e3269"
-      }
-    },
-    {
-      "id": 4,
-      "isLive": true,
-      "contentId": "143400",
-      "name": "ZIM vs BAN",
-      "genre": "cricket",
-      "language": "english",
-      "provider": "FanCode",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/backdrops/a1e27ba30bb7ed7327d899f077c4a61e.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/8a3f8c9fed882333cb62f3eeb8e91637.jpg"
       ],
       "providerInfo": {
         "id": "63ce216c483822001ca300a4",
