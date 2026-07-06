@@ -1,5 +1,30 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 1,
+  "updatedAt": "06/07/2026, 11:05:43 AM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "143591",
+      "name": "BOS vs MAK",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/cricket.jpg",
+        "https://images.ottplay.com/backdrops/83a296d134313697521bfe91a3b7fafa.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/36842d8aae299c61f31f4335c828ed35.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    }
+  ]
 }
