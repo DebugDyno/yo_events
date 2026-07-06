@@ -2,10 +2,31 @@
   "success": true,
   "message": "Live matches fetched successfully",
   "total": 4,
-  "updatedAt": "06/07/2026, 03:08:47 PM",
+  "updatedAt": "06/07/2026, 06:57:26 PM",
   "data": [
     {
       "id": 1,
+      "isLive": true,
+      "contentId": "143442",
+      "name": "GMY vs KBB",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/cb63b351b776e463f42edab2514b8f22.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/b9463a9e37df80328c36309eaa5b1d64.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 2,
       "isLive": true,
       "contentId": "143592",
       "name": "AM vs BD",
@@ -18,28 +39,6 @@
       ],
       "posters": [
         "https://images.ottplay.com/posters/859a3144c18e7feeb598ff9d04c0da91.jpg"
-      ],
-      "providerInfo": {
-        "id": "63ce216c483822001ca300a4",
-        "name": "FanCode",
-        "hashId": "c60fe425e3269"
-      }
-    },
-    {
-      "id": 2,
-      "isLive": true,
-      "contentId": "143441",
-      "name": "HT vs CKM",
-      "genre": "cricket",
-      "language": "english",
-      "provider": "FanCode",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/backdrops/cricket.jpg",
-        "https://images.ottplay.com/backdrops/86932bba36bfde77501dd45a84ae1b47.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/0d32e0ef557d159c64ed2c2e61be4a1b.jpg"
       ],
       "providerInfo": {
         "id": "63ce216c483822001ca300a4",
