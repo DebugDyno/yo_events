@@ -1,5 +1,30 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 1,
+  "updatedAt": "07/07/2026, 09:57:01 AM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "143540",
+      "name": "ISK vs CL",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/cricket.jpg",
+        "https://images.ottplay.com/backdrops/63692ec6d930debcb37d988df9371550.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/516415d4a547f677c38c128dfaec463e.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    }
+  ]
 }
