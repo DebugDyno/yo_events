@@ -1,5 +1,29 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 1,
+  "updatedAt": "10/07/2026, 09:42:09 AM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "4246601",
+      "name": "UTT JR vs LOC",
+      "genre": "liveevents",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/37ad859d4f113f3afa31d4dad1295e19.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/29cabe6826df6dd8e01ee880ba0aa946.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    }
+  ]
 }
