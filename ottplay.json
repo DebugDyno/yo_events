@@ -2,10 +2,31 @@
   "success": true,
   "message": "Live matches fetched successfully",
   "total": 2,
-  "updatedAt": "11/07/2026, 11:01:31 PM",
+  "updatedAt": "12/07/2026, 12:00:36 AM",
   "data": [
     {
       "id": 1,
+      "isLive": true,
+      "contentId": "143603",
+      "name": "WI vs NZ",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/ffd4a01d30ad878d7f8f3259482a80f8.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/0219ecddf575c4af99c71b3b15b705df.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 2,
       "isLive": true,
       "contentId": "1090535932",
       "name": "Genesis Scottish Open - Day 3 - 11 Jul 2026",
@@ -22,31 +43,6 @@
       ],
       "posters": [
         "https://images.ottplay.com/posters/331f42ba04474e865eb5ca1be0283b59.jpg"
-      ],
-      "providerInfo": {
-        "id": "5f456c2aff9ccd034434e6fd",
-        "name": "SonyLIV",
-        "hashId": "100dc02b90dfc"
-      }
-    },
-    {
-      "id": 2,
-      "isLive": true,
-      "contentId": "1090536424",
-      "name": "Day 2 - One-Off Test - 11 Jul 2026",
-      "genre": "cricket",
-      "language": "english",
-      "provider": "SonyLIV",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/images/022927f3ebc84bece87807f16977c132.jpg",
-        "https://images.ottplay.com/images/7cd6e365d5a00fc9631bb122f16df6a3.jpg",
-        "https://images.ottplay.com/images/492ac204498ccae24d3ac6268b4c621d.jpg",
-        "https://images.ottplay.com/images/e643f21f1e31bf5f4e6036785ceb32d0.jpg",
-        "https://images.ottplay.com/images/341cd34ed62173e052b94025e85d84ce.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/46ba9f51eb4740342215ed33c1b7487f.jpg"
       ],
       "providerInfo": {
         "id": "5f456c2aff9ccd034434e6fd",
