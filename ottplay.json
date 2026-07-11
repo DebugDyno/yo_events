@@ -1,5 +1,51 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 2,
+  "updatedAt": "11/07/2026, 09:52:59 AM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "143598",
+      "name": "SG vs AM",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/cricket.jpg",
+        "https://images.ottplay.com/backdrops/6506a79f5a565c1437f6b6be55ee4614.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/6df8f7ccfe8e4da0d17fbf6a87022221.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "contentId": "4246602",
+      "name": "UTT JR vs LOC",
+      "genre": "liveevents",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/493cc572cfc677c422afed09bb90c535.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/ef823fbc8e767e4af3a5c6ca373203ce.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    }
+  ]
 }
