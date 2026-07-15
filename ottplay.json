@@ -2,10 +2,33 @@
   "success": true,
   "message": "Live matches fetched successfully",
   "total": 4,
-  "updatedAt": "15/07/2026, 05:28:20 PM",
+  "updatedAt": "15/07/2026, 07:13:19 PM",
   "data": [
     {
       "id": 1,
+      "isLive": true,
+      "contentId": "143403",
+      "name": "ZIM vs BAN",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/1c7ac25a080cdb1717313c6ecd1ed19c.jpg",
+        "https://images.ottplay.com/backdrops/fa091dac3eb938d8354763d150bd8ee5.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/98bbb65d456a85fb79424ce55eed5ab8.jpg",
+        "https://images.ottplay.com/posters/4cdc67da5f470717ff2c5541f65e12a5.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 2,
       "isLive": true,
       "contentId": "143145",
       "name": "IR-W vs WI-W",
@@ -26,7 +49,7 @@
       }
     },
     {
-      "id": 2,
+      "id": 3,
       "isLive": true,
       "contentId": "143485",
       "name": "ATP vs LOC",
@@ -47,7 +70,7 @@
       }
     },
     {
-      "id": 3,
+      "id": 4,
       "isLive": true,
       "contentId": "143492",
       "name": "ATP vs LOC",
@@ -60,28 +83,6 @@
       ],
       "posters": [
         "https://images.ottplay.com/posters/2607fae45cbe7f663e9153a56f1927b2.jpg"
-      ],
-      "providerInfo": {
-        "id": "63ce216c483822001ca300a4",
-        "name": "FanCode",
-        "hashId": "c60fe425e3269"
-      }
-    },
-    {
-      "id": 4,
-      "isLive": true,
-      "contentId": "143696",
-      "name": "AM vs SG",
-      "genre": "cricket",
-      "language": "english",
-      "provider": "FanCode",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/backdrops/cricket.jpg",
-        "https://images.ottplay.com/backdrops/b04ce25c5d444074af1eab03a6a600cc.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/813cbfe73e1ce454a4147e9df715f6da.jpg"
       ],
       "providerInfo": {
         "id": "63ce216c483822001ca300a4",
