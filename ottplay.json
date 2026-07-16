@@ -1,5 +1,50 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 2,
+  "updatedAt": "16/07/2026, 11:33:51 AM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "4246808",
+      "name": "The Open 2026",
+      "genre": "golf",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/c6863a3894bbb35199e9633c2449370d.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/298f82e2ca192027318c078dbc98b7e0.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "contentId": "4246607",
+      "name": "UTT JR vs LOC",
+      "genre": "liveevents",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/b4abf374600641dc976f35fcc7eb00e8.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/8c136592844e449061e1f7c8d137c4db.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    }
+  ]
 }
