@@ -1,5 +1,50 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 2,
+  "updatedAt": "18/07/2026, 02:33:40 PM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "143495",
+      "name": "ATP vs LOC",
+      "genre": "lawn-tennis",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/7d7186114c4c4df9daaebd8bd8c818bb.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/de489e3a0540f4e6c2f21797dc23fdb3.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "contentId": "4246810",
+      "name": "The Open 2026",
+      "genre": "golf",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/ab719047d7f7853ee6554dbacc64bffa.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/55019a8251c8efd188c3051ef24f6c68.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    }
+  ]
 }
