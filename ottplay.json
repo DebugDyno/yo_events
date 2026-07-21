@@ -1,5 +1,30 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 1,
+  "updatedAt": "21/07/2026, 09:20:12 AM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "4247195",
+      "name": "MAS XI vs SHC",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/cricket.jpg",
+        "https://images.ottplay.com/backdrops/fd0792622fa12ac8812796458a81762b.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/6b66422b8c39dd4e0a9ce4d8f60f1cda.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    }
+  ]
 }
