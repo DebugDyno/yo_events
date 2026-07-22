@@ -1,5 +1,50 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 2,
+  "updatedAt": "22/07/2026, 03:07:54 PM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "4246715",
+      "name": "JK vs CK",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/371e958cef9fc37d6b6b889058d0671e.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/c0fe82a899208354c0f983fe35df384c.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "contentId": "143505",
+      "name": "ATP vs LOC",
+      "genre": "lawn-tennis",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/01301b61265f55fb46bc84568da60243.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/901ad147b97d19ed2facd2a0eec3e584.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    }
+  ]
 }
