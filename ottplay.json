@@ -1,5 +1,29 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 1,
+  "updatedAt": "23/07/2026, 03:04:58 PM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "4247425",
+      "name": "SL-W vs PAK-W",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/e136babfeda23d00524d73098884e637.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/c8b41b97bc5d6e3a95a5880c68592b56.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    }
+  ]
 }
