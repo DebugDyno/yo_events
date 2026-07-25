@@ -1,5 +1,53 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 2,
+  "updatedAt": "25/07/2026, 09:57:49 AM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "4247426",
+      "name": "SL-W vs PAK-W",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/96a007fddd0f4701dd8ed79f6fc64133.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/f2fac79563ad3df54ae6365d703f7cc8.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "contentId": "4247198",
+      "name": "MAS XI vs SHC",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/be44ce313908a0fd12f292c90a7c6d65.jpg",
+        "https://images.ottplay.com/backdrops/cricket.jpg",
+        "https://images.ottplay.com/backdrops/65f56b5fddfc0ec8cb2572760de296db.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/8be96fa1f80794049533c9e8b1f99dda.jpg",
+        "https://images.ottplay.com/posters/3913e54d2f8de5f5b6f3716ffb31a017.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    }
+  ]
 }
