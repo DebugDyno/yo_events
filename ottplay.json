@@ -1,5 +1,29 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 1,
+  "updatedAt": "26/07/2026, 05:04:57 AM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "4247437",
+      "name": "GUY vs DV",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/ec4caceae1268fafded30170585124e0.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/5aeebce3a07e51db01cd98cbfcc24049.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    }
+  ]
 }
