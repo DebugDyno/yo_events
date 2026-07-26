@@ -1,6 +1,475 @@
 {
-  "success": false,
-  "message": "Failed to fetch data",
-  "data": [],
-  "error": "HTTP error! Status: 403"
+  "success": true,
+  "message": "Live matches fetched successfully",
+  "total": 19,
+  "updatedAt": "26/07/2026, 07:26:24 PM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "1090537309",
+      "name": "India Army FT vs Samaleswari Sporting - 26 Jul 2026",
+      "genre": "football",
+      "language": "english",
+      "provider": "SonyLIV",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/f8e8d312fa8bb4530dca849a9d3cbbf6.jpg",
+        "https://images.ottplay.com/images/3bb92fcd5dbd1401cfe2d36c1c94bb61.jpg",
+        "https://images.ottplay.com/images/1889ae378be5407e56c613704ad7c56c.jpg",
+        "https://images.ottplay.com/images/b28aa009e5420d72fc3b0e46022ea887.jpg",
+        "https://images.ottplay.com/images/a36de5bc4a4e03c64550501dfd167cea.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/ff69e099c4d5902e780ca4edc5f65595.jpg"
+      ],
+      "providerInfo": {
+        "id": "5f456c2aff9ccd034434e6fd",
+        "name": "SonyLIV",
+        "hashId": "100dc02b90dfc"
+      }
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "contentId": "4247431",
+      "name": "SFU vs PER-XI",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/83c97a850a1a9c7cd66730b29c27cb66.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/cf45e90a05d6948d32279ea5feeaa75b.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 3,
+      "isLive": true,
+      "contentId": "4246713",
+      "name": "GG vs DS",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/4be963e5f4839cd70016ccf7b1a44a67.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/49256924ffb21641b0ba77842f997125.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 4,
+      "isLive": true,
+      "contentId": "1090536386",
+      "name": "Connor Campbell vs Jacob Cassar - Men's 65kg - Boxing - 26 Jul 2026",
+      "genre": "boxing",
+      "language": "english",
+      "provider": "SonyLIV",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/0999d690c3d153dd4b8ce69ca8ca9527.jpg",
+        "https://images.ottplay.com/images/302537436d2a531dbede83e0fc524e2d.jpg",
+        "https://images.ottplay.com/images/7b3955043d2fb0198afb86c6c7dfb3b1.jpg",
+        "https://images.ottplay.com/images/4ab540a58103627bd7c2eee27afa87bc.jpg",
+        "https://images.ottplay.com/images/836a6e699c2c68a00c55b160ce024cfc.jpg",
+        "https://images.ottplay.com/images/0c634bee3752cfe22683b0107f1c2caa.jpg",
+        "https://images.ottplay.com/images/abc6e6b439bbbea10838adfd1c57b924.jpg",
+        "https://images.ottplay.com/images/d0a25c687b9a3a792ab4099538599691.jpg",
+        "https://images.ottplay.com/images/e43f2b059c0d89c72f4392e27390f996.jpg",
+        "https://images.ottplay.com/images/2eadbb6563ad7f9d6152028b5f41f77b.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/2d85b7d959ed28fb4a8dec2e0b644f17.jpg",
+        "https://images.ottplay.com/posters/06c9d17c5c184359811b213677ff431f.jpg"
+      ],
+      "providerInfo": {
+        "id": "5f456c2aff9ccd034434e6fd",
+        "name": "SonyLIV",
+        "hashId": "100dc02b90dfc"
+      }
+    },
+    {
+      "id": 5,
+      "isLive": true,
+      "contentId": "1090536385",
+      "name": "Women's 48kg - Weightlifting - 26 Jul 2026",
+      "genre": "weightlifting",
+      "language": "english",
+      "provider": "SonyLIV",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/37e1a0dcec88459348be9b96e0c31f47.jpg",
+        "https://images.ottplay.com/images/d3bab25057fbcb34f9d745eb6df49470.jpg",
+        "https://images.ottplay.com/images/051ed81ba7f9621e359b477400940705.jpg",
+        "https://images.ottplay.com/images/970b82e0e2826eee3e93764d5b97b933.jpg",
+        "https://images.ottplay.com/images/d3e1e728a88a9e5c773eca671adf9b40.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/bb6914d33628f72405734391d9633c8e.jpg"
+      ],
+      "providerInfo": {
+        "id": "5f456c2aff9ccd034434e6fd",
+        "name": "SonyLIV",
+        "hashId": "100dc02b90dfc"
+      }
+    },
+    {
+      "id": 6,
+      "isLive": true,
+      "contentId": "1090536268",
+      "name": "England vs Canada - Wheelchair Men - Basketball - 26 Jul 2026",
+      "genre": "basketball",
+      "language": "english",
+      "provider": "SonyLIV",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/f668f6158a30e6f4b409edcb8bdf4b04.jpg",
+        "https://images.ottplay.com/images/3896a2a1643b74bc463d45b1310db688.jpg",
+        "https://images.ottplay.com/images/654bae78f610b14ea901e1b7e1f65c10.jpg",
+        "https://images.ottplay.com/images/22837a3276749e2b2f17bf8deb7b5848.jpg",
+        "https://images.ottplay.com/images/3c2fba96ea7cc3b2922ae7db926b4851.jpg",
+        "https://images.ottplay.com/images/b13d0d6d79d940e1a12df5d98f0e3d4b.jpg",
+        "https://images.ottplay.com/images/f4896bd599f1fc16c6d7885bd8bf4d23.jpg",
+        "https://images.ottplay.com/images/8aa536bd0d6855c3e5c7fda493a2f3e8.jpg",
+        "https://images.ottplay.com/images/ce3ec9cbf5d1bc054f7ebcd378008430.jpg",
+        "https://images.ottplay.com/images/2d46217830915050336576e28e685e11.jpg",
+        "https://images.ottplay.com/images/2e4b232f2a1392dbf8e615558831e8ce.jpg",
+        "https://images.ottplay.com/images/9562adc475f874bc7e1e8a1caca71af1.jpg",
+        "https://images.ottplay.com/images/1f64833fb0761fe7232c804818fda603.jpg",
+        "https://images.ottplay.com/images/0224ff708e1933a3e20182f26424f377.jpg",
+        "https://images.ottplay.com/images/39073f78c6f4c76156cb6849f4d8f44f.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/34cd3a20c04c8aef9c625cc535a329a7.jpg",
+        "https://images.ottplay.com/posters/f98d17004e0ac981efd78e99d358e20c.jpg",
+        "https://images.ottplay.com/posters/73abe4422e53268058567f99e331942c.jpg"
+      ],
+      "providerInfo": {
+        "id": "5f456c2aff9ccd034434e6fd",
+        "name": "SonyLIV",
+        "hashId": "100dc02b90dfc"
+      }
+    },
+    {
+      "id": 7,
+      "isLive": true,
+      "contentId": "1090536267",
+      "name": "Women's 48 kg - Weightlifting - 26 Jul 2026",
+      "genre": "weightlifting",
+      "language": "english",
+      "provider": "SonyLIV",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/e642336bd8c6d4a1ff29530f5ed77cef.jpg",
+        "https://images.ottplay.com/images/4c56896b44c38d1558fca771fc1f5194.jpg",
+        "https://images.ottplay.com/images/46a402710405e194bccf628e37f393c3.jpg",
+        "https://images.ottplay.com/images/44e3c7703849d039c4f58d2bcde994b6.jpg",
+        "https://images.ottplay.com/images/e845f6fa212e33264e364dc204471907.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/7f3e246c80af25049ac050abcbee2e57.jpg"
+      ],
+      "providerInfo": {
+        "id": "5f456c2aff9ccd034434e6fd",
+        "name": "SonyLIV",
+        "hashId": "100dc02b90dfc"
+      }
+    },
+    {
+      "id": 8,
+      "isLive": true,
+      "contentId": "143806",
+      "name": "ADAC GT vs LOC",
+      "genre": "racing",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/21cf025eac9b652c43cd4f5dcf6dfe4e.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/db3961ddae65c45eaec6f182e8b17a7f.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 9,
+      "isLive": true,
+      "contentId": "143633",
+      "name": "WI vs PAK",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/831e19d0a9faf1925ed38e5e2a1c1154.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/383af2900f55b3a8110786304721ae25.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 10,
+      "isLive": true,
+      "contentId": "4246805",
+      "name": "3M Open 2026",
+      "genre": "golf",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/004c01f1990ae77a5142a69234ce4a4d.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/1d498f53a273e3235fb6fd7555ce0d15.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 11,
+      "isLive": true,
+      "contentId": "1090537304",
+      "name": "UK - Day 4 - 26 Jul 2026",
+      "genre": "golf",
+      "language": "english",
+      "provider": "SonyLIV",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/d5c6b739b7564e35b65047111a5b987b.jpg",
+        "https://images.ottplay.com/images/6ca83985addfa2fdf4a5a773018e9416.jpg",
+        "https://images.ottplay.com/images/cf14bd1332988cb18c7f260de596ef4a.jpg",
+        "https://images.ottplay.com/images/2ab3d46344e375e3b12c6fdaec7e37f5.jpg",
+        "https://images.ottplay.com/images/0afcf8b4f94e68f0085fb43b1c3aedc1.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/e118b3eeaac8ba83181ba3cc7abf89b5.jpg"
+      ],
+      "providerInfo": {
+        "id": "5f456c2aff9ccd034434e6fd",
+        "name": "SonyLIV",
+        "hashId": "100dc02b90dfc"
+      }
+    },
+    {
+      "id": 12,
+      "isLive": true,
+      "contentId": "1090536387",
+      "name": "Men's All-Around - Gymnastics - 26 Jul 2026",
+      "genre": "gymnastics",
+      "language": "english",
+      "provider": "SonyLIV",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/e42436825f3cb8afae60d2cc9b19edbc.jpg",
+        "https://images.ottplay.com/images/0d0bdb23f59815a673a11bd566308fd2.jpg",
+        "https://images.ottplay.com/images/dbda829c574b998183f80f9139685a30.jpg",
+        "https://images.ottplay.com/images/11de72a4ba14fc2fb163e495efe353f8.jpg",
+        "https://images.ottplay.com/images/cf40f3e2480c87971b5eace0a0e9fcac.jpg",
+        "https://images.ottplay.com/images/a07cc32d1b097e75eac1f81c832abdd6.jpg",
+        "https://images.ottplay.com/images/3cd3586c4c20fb528e911d357240a497.jpg",
+        "https://images.ottplay.com/images/3ec1d0763de01a6b42c5150bf5a0c16a.jpg",
+        "https://images.ottplay.com/images/62929f2f0adb1272e328c9de10237a23.jpg",
+        "https://images.ottplay.com/images/aa99001c629bfebb81b49dc034ae84e5.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/98d38f578482a2f5d5cd970d48728f31.jpg",
+        "https://images.ottplay.com/posters/a6783b42d7ec604781aee964f11f6867.jpg"
+      ],
+      "providerInfo": {
+        "id": "5f456c2aff9ccd034434e6fd",
+        "name": "SonyLIV",
+        "hashId": "100dc02b90dfc"
+      }
+    },
+    {
+      "id": 13,
+      "isLive": true,
+      "contentId": "139476",
+      "name": "F1 AWS HUNGARIAN GRAND PRIX 2026",
+      "genre": "formula1",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/fa2bca08d626885bf941ba2d21f52904.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/b87a08990ad024ef3cf4ad91a1ae3b82.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 14,
+      "isLive": true,
+      "contentId": "4247420",
+      "name": "ISPS Handa Women's Scottish Open 2026",
+      "genre": "golf",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/a567dd742f5937347bb3a8460133cbdf.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/e1661b306035fbcc9965e615ca4f408a.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 15,
+      "isLive": true,
+      "contentId": "143353",
+      "name": "ZIM vs IND",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/ec9e9c4c681c288e7979eb95d373d60c.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/ad0ef59d489404c24233147a12f76bd5.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 16,
+      "isLive": true,
+      "contentId": "1090536272",
+      "name": "Day 3 - 26 Jul 2026",
+      "genre": "sports",
+      "language": "hindi",
+      "provider": "SonyLIV",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/d3177b3f4ef8c2cece940242f983baa2.jpg",
+        "https://images.ottplay.com/images/be6074b9a269538b2792ff757eecb0dc.jpg",
+        "https://images.ottplay.com/images/982d0867203f331087353cb7951ac429.jpg",
+        "https://images.ottplay.com/images/c2b3318b6b2da3fe3ecb375f9595e8f9.jpg",
+        "https://images.ottplay.com/images/d2e5e79df24d21962485add899b59b4a.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/94934b3004099384752c9ff9ebc307d5.jpg"
+      ],
+      "providerInfo": {
+        "id": "5f456c2aff9ccd034434e6fd",
+        "name": "SonyLIV",
+        "hashId": "100dc02b90dfc"
+      }
+    },
+    {
+      "id": 17,
+      "isLive": true,
+      "contentId": "1090536271",
+      "name": "Day 3 - 26 Jul 2026",
+      "genre": "sports",
+      "language": "tamil",
+      "provider": "SonyLIV",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/6c8a3dd42138bb45df6011cca52e57fd.jpg",
+        "https://images.ottplay.com/images/be6074b9a269538b2792ff757eecb0dc.jpg",
+        "https://images.ottplay.com/images/56a364887c866f44d0e6f665aeae67c8.jpg",
+        "https://images.ottplay.com/images/742c647a06c057bdf46018cc51b4070f.jpg",
+        "https://images.ottplay.com/images/bb0c92887e8910043a18f58e91053199.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/1db400a0099c91dafa5244561ccf535e.jpg"
+      ],
+      "providerInfo": {
+        "id": "5f456c2aff9ccd034434e6fd",
+        "name": "SonyLIV",
+        "hashId": "100dc02b90dfc"
+      }
+    },
+    {
+      "id": 18,
+      "isLive": true,
+      "contentId": "1090536270",
+      "name": "Day 3 - 26 Jul 2026",
+      "genre": "sports",
+      "language": "telugu",
+      "provider": "SonyLIV",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/a8df94dba81958fd098707e5fcb81c9a.jpg",
+        "https://images.ottplay.com/images/be6074b9a269538b2792ff757eecb0dc.jpg",
+        "https://images.ottplay.com/images/97a6be7f9539c99ceb71d02e020e1777.jpg",
+        "https://images.ottplay.com/images/36a6bca5f9696c2735b6fe83bf9699ec.jpg",
+        "https://images.ottplay.com/images/bfd24839d2533adc959636e1094b092b.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/778d337987d71f3ea81581f0d4d3f5c0.jpg"
+      ],
+      "providerInfo": {
+        "id": "5f456c2aff9ccd034434e6fd",
+        "name": "SonyLIV",
+        "hashId": "100dc02b90dfc"
+      }
+    },
+    {
+      "id": 19,
+      "isLive": true,
+      "contentId": "1090536269",
+      "name": "Day 3 - 26 Jul 2026",
+      "genre": "sports",
+      "language": "kannada",
+      "provider": "SonyLIV",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/8722cc6019cbc8b8eb9a821d37c0bd77.jpg",
+        "https://images.ottplay.com/images/be6074b9a269538b2792ff757eecb0dc.jpg",
+        "https://images.ottplay.com/images/3c100da72e7c229e02e8886596c1c75a.jpg",
+        "https://images.ottplay.com/images/743bc1f3e1e916de054b6761621a20fe.jpg",
+        "https://images.ottplay.com/images/b2588154fa0a7f2999f0dc56db8a1786.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/b23d45802b0e16b2f162147bbfe28b7a.jpg"
+      ],
+      "providerInfo": {
+        "id": "5f456c2aff9ccd034434e6fd",
+        "name": "SonyLIV",
+        "hashId": "100dc02b90dfc"
+      }
+    }
+  ]
 }
