@@ -1,5 +1,52 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 2,
+  "updatedAt": "03/08/2026, 01:46:53 PM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "4247968",
+      "name": "WDL vs PD",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/cricket.jpg",
+        "https://images.ottplay.com/backdrops/e0b13bff2da2852a2f62f0f728841a9c.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/991530fcfd82fe822ce174560132291f.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "contentId": "4248196",
+      "name": "AFP vs BAT",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/cricket.jpg",
+        "https://images.ottplay.com/backdrops/58b5c60a11d2080da10ca7cfb4a7e95d.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/b955bffa6839801ffd55061e68e33ade.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    }
+  ]
 }
