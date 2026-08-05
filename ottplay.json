@@ -1,5 +1,29 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 1,
+  "updatedAt": "05/08/2026, 02:22:07 PM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "4247969",
+      "name": "PD vs CDK",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/e593e513fdcb7992c673b4254d608c31.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/ac23b6e15e9ee15541ca3ac0f217e743.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    }
+  ]
 }
