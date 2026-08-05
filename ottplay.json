@@ -1,11 +1,32 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 7,
-  "updatedAt": "05/08/2026, 10:28:30 PM",
+  "total": 5,
+  "updatedAt": "05/08/2026, 11:52:47 PM",
   "data": [
     {
       "id": 1,
+      "isLive": true,
+      "contentId": "4248019",
+      "name": "ARS vs RB",
+      "genre": "football",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/acde0ec29c75c752b01c6e0bcd9e9fa6.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/1c2cdcdd4d15e64cb7adf57806c91072.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 2,
       "isLive": true,
       "contentId": "4248073",
       "name": "ATP vs LOC",
@@ -26,7 +47,7 @@
       }
     },
     {
-      "id": 2,
+      "id": 3,
       "isLive": true,
       "contentId": "4248071",
       "name": "ATP vs LOC",
@@ -47,7 +68,7 @@
       }
     },
     {
-      "id": 3,
+      "id": 4,
       "isLive": true,
       "contentId": "4248072",
       "name": "ATP vs LOC",
@@ -68,7 +89,7 @@
       }
     },
     {
-      "id": 4,
+      "id": 5,
       "isLive": true,
       "contentId": "4248070",
       "name": "ATP vs LOC",
@@ -86,75 +107,6 @@
         "id": "63ce216c483822001ca300a4",
         "name": "FanCode",
         "hashId": "c60fe425e3269"
-      }
-    },
-    {
-      "id": 5,
-      "isLive": true,
-      "contentId": "4246725",
-      "name": "CK vs KRL",
-      "genre": "cricket",
-      "language": "english",
-      "provider": "FanCode",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/backdrops/9624fd7f12198e4a49bac7d4b0e1cbc9.jpg",
-        "https://images.ottplay.com/backdrops/cricket.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/56c5d6083088a4ce838b47a0d22fc4fd.jpg"
-      ],
-      "providerInfo": {
-        "id": "63ce216c483822001ca300a4",
-        "name": "FanCode",
-        "hashId": "c60fe425e3269"
-      }
-    },
-    {
-      "id": 6,
-      "isLive": true,
-      "contentId": "143634",
-      "name": "WI vs PAK",
-      "genre": "cricket",
-      "language": "english",
-      "provider": "FanCode",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/backdrops/cricket.jpg",
-        "https://images.ottplay.com/backdrops/a400d9fd7496a9709613777f088a9aa4.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/a948496159c680ed143f2b1ff5045b97.jpg"
-      ],
-      "providerInfo": {
-        "id": "63ce216c483822001ca300a4",
-        "name": "FanCode",
-        "hashId": "c60fe425e3269"
-      }
-    },
-    {
-      "id": 7,
-      "isLive": true,
-      "contentId": "1090538638",
-      "name": "England vs India - 1st T20I - 5 Aug 2026",
-      "genre": "cricket",
-      "language": "english",
-      "provider": "SonyLIV",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/images/20c5642a51add9f6d43b80bb43e3c128.jpg",
-        "https://images.ottplay.com/images/56d85c66648a91d485fd4bdc0e155199.jpg",
-        "https://images.ottplay.com/images/3e58c13c1578d40b07ad8a18271f40ba.jpg",
-        "https://images.ottplay.com/images/d586dcfea77fbd027b1279487302b789.jpg",
-        "https://images.ottplay.com/images/ab91ab98ed81784ffdae8ca874d6d52f.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/fa76a869214d037e03697b7df3cddf42.jpg"
-      ],
-      "providerInfo": {
-        "id": "5f456c2aff9ccd034434e6fd",
-        "name": "SonyLIV",
-        "hashId": "100dc02b90dfc"
       }
     }
   ]
