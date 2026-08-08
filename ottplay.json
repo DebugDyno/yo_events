@@ -1,11 +1,32 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 2,
-  "updatedAt": "08/08/2026, 11:58:16 AM",
+  "total": 3,
+  "updatedAt": "08/08/2026, 01:00:41 PM",
   "data": [
     {
       "id": 1,
+      "isLive": true,
+      "contentId": "4248226",
+      "name": "AUB vs LOC",
+      "genre": "liveevents",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/73ed8159b50afc443356585f6367267d.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/ae643ee44ba44344234c31d5798e35f8.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 2,
       "isLive": true,
       "contentId": "4248250",
       "name": "TAN vs UGA",
@@ -26,7 +47,7 @@
       }
     },
     {
-      "id": 2,
+      "id": 3,
       "isLive": true,
       "contentId": "1090538798",
       "name": "Day 2 - SLC XI vs IND - Warm-Up Match - 8 Aug 2026",
