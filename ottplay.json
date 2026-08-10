@@ -1,5 +1,54 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 2,
+  "updatedAt": "10/08/2026, 04:11:45 PM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "1090538900",
+      "name": "Mohun Bagan SG vs CISF Protectors - 10 Aug 2026",
+      "genre": "football",
+      "language": "english",
+      "provider": "SonyLIV",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/7e58a68000842c65b2f1afed8383f0a5.jpg",
+        "https://images.ottplay.com/images/8dc73575b2e6fba757fadf71496b4f77.jpg",
+        "https://images.ottplay.com/images/1fe8e4399454a93fca36030da9e52678.jpg",
+        "https://images.ottplay.com/images/ad6c8069347619b5d69c3b497991e688.jpg",
+        "https://images.ottplay.com/images/0c5a7aa7ea509812307e6ad5a5c43be9.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/84ad26e27098f2bb4bdfe9ca302a5eb9.jpg"
+      ],
+      "providerInfo": {
+        "id": "5f456c2aff9ccd034434e6fd",
+        "name": "SonyLIV",
+        "hashId": "100dc02b90dfc"
+      }
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "contentId": "4248055",
+      "name": "IRE vs AFG",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/c2e18c601dba4c92290061cf9b9b3bc1.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/04108a7867efcb48a9629ac86ed3b84a.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    }
+  ]
 }
