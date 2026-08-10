@@ -1,5 +1,29 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 1,
+  "updatedAt": "11/08/2026, 01:03:45 AM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "4248176",
+      "name": "PLY vs EC",
+      "genre": "football",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/football.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/32a5fd88e533235f2f5ff0380c78ebb6.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    }
+  ]
 }
