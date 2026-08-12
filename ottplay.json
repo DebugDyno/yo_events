@@ -1,5 +1,50 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 2,
+  "updatedAt": "12/08/2026, 11:52:22 AM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "4248255",
+      "name": "BRN vs SIN",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/d8182517994eb6881f7c02ce1be5ccfb.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/2c8654ad33f7656a35974c0ac83863b0.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "contentId": "4248256",
+      "name": "HK vs UGA",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/57c566d45b248c1d42c80ca61a68a4d6.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/237ddf933c10fdfe59a017ef4b29b6de.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    }
+  ]
 }
