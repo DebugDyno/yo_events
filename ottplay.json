@@ -1,5 +1,79 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 3,
+  "updatedAt": "13/08/2026, 03:33:28 PM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "1090539093",
+      "name": "Jamshedpur FC vs Indian Air Force FT - 13 Aug 2026",
+      "genre": "football",
+      "language": "english",
+      "provider": "SonyLIV",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/759bb09b1a842dbd7b5f9c4081033973.jpg",
+        "https://images.ottplay.com/images/1cdf573d6affaab4f82cd84c10722113.jpg",
+        "https://images.ottplay.com/images/5e54f68650cebcff49f890806b74fd89.jpg",
+        "https://images.ottplay.com/images/b6ed2243538081c6ae9814c977b3ccf1.jpg",
+        "https://images.ottplay.com/images/01c3794871f8c05436db136794725cf7.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/562e4dd623f71e1306f75618ab53ded5.jpg"
+      ],
+      "providerInfo": {
+        "id": "5f456c2aff9ccd034434e6fd",
+        "name": "SonyLIV",
+        "hashId": "100dc02b90dfc"
+      }
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "contentId": "1090539092",
+      "name": "Bodoland FC vs Karbi Anglong Morning Star FC - 13 Aug 2026",
+      "genre": "football",
+      "language": "english",
+      "provider": "SonyLIV",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/35534ba2659ecc819c9cbf4271dfa332.jpg",
+        "https://images.ottplay.com/images/8f05d3d64b8a14b28199d20c8c8affa0.jpg",
+        "https://images.ottplay.com/images/95f74677c2ab9561f5e145007fa0c922.jpg",
+        "https://images.ottplay.com/images/ee3b2cb70fb54c9014dc4960708b24db.jpg",
+        "https://images.ottplay.com/images/81701dd11669fb4f1f72e169935cf0a5.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/174d4f172a9b339656af754c96f99d24.jpg"
+      ],
+      "providerInfo": {
+        "id": "5f456c2aff9ccd034434e6fd",
+        "name": "SonyLIV",
+        "hashId": "100dc02b90dfc"
+      }
+    },
+    {
+      "id": 3,
+      "isLive": true,
+      "contentId": "4248217",
+      "name": "SCO vs CAN",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/039075fbb4fff745ebdaeaf211c17d8a.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/7cb51be5edd3fd26aec8262e09f48360.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    }
+  ]
 }
