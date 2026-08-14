@@ -1,6 +1,53 @@
 {
-  "success": false,
-  "message": "Failed to fetch data",
-  "updatedAt": "14/08/2026, 12:48:46 PM",
-  "error": "HTTP error! Status: 522"
+  "success": true,
+  "message": "Live matches fetched successfully",
+  "total": 5,
+  "updatedAt": "14/08/2026, 02:11:30 PM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "1540075196",
+      "name": "Tezpur Titans vs Nagaon Rangers",
+      "genre": "Cricket",
+      "provider": "JioHotstar",
+      "image": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2366/1786619672366-h"
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "contentId": "4248380",
+      "name": "Israel VS Portugal",
+      "genre": "Sports",
+      "provider": "FanCode",
+      "image": "https://images.fancode.com/aig/match/v1786096800802/4248380_CASACARDS_PARTNER_16_9_1920_1080.png"
+    },
+    {
+      "id": 3,
+      "isLive": true,
+      "contentId": "4248372",
+      "name": "Finland VS Spain",
+      "genre": "Sports",
+      "provider": "FanCode",
+      "image": "https://images.fancode.com/aig/match/v1786096800763/4248372_CASACARDS_PARTNER_16_9_1920_1080.png"
+    },
+    {
+      "id": 4,
+      "isLive": true,
+      "contentId": "4248257",
+      "name": "Bahrain VS Hong Kong, China",
+      "genre": "Sports",
+      "provider": "FanCode",
+      "image": "https://images.fancode.com/aig/match/v1786089600560/4248257_CASACARDS_PARTNER_16_9_1920_1080.png"
+    },
+    {
+      "id": 5,
+      "isLive": true,
+      "contentId": "4248258",
+      "name": "Italy VS Singapore",
+      "genre": "Sports",
+      "provider": "FanCode",
+      "image": "https://images.fancode.com/aig/match/v1786089600593/4248258_CASACARDS_PARTNER_16_9_1920_1080.png"
+    }
+  ]
 }
