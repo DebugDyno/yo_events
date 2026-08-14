@@ -1,35 +1,6 @@
 {
-  "success": true,
-  "message": "Live matches fetched successfully",
-  "total": 3,
-  "updatedAt": "14/08/2026, 11:26:45 AM",
-  "data": [
-    {
-      "id": 1,
-      "isLive": true,
-      "contentId": "1540075693",
-      "name": "1st Test: Australia vs Bangladesh, Day 2",
-      "genre": "Cricket",
-      "provider": "JioHotstar",
-      "image": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/1266/1786619221266-h"
-    },
-    {
-      "id": 2,
-      "isLive": true,
-      "contentId": "4248257",
-      "name": "Bahrain VS Hong Kong, China",
-      "genre": "Sports",
-      "provider": "FanCode",
-      "image": "https://images.fancode.com/aig/match/v1786089600560/4248257_CASACARDS_PARTNER_16_9_1920_1080.png"
-    },
-    {
-      "id": 3,
-      "isLive": true,
-      "contentId": "4248258",
-      "name": "Italy VS Singapore",
-      "genre": "Sports",
-      "provider": "FanCode",
-      "image": "https://images.fancode.com/aig/match/v1786089600593/4248258_CASACARDS_PARTNER_16_9_1920_1080.png"
-    }
-  ]
+  "success": false,
+  "message": "Failed to fetch data",
+  "updatedAt": "14/08/2026, 12:48:46 PM",
+  "error": "HTTP error! Status: 522"
 }
