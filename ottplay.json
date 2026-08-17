@@ -1,11 +1,33 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 10,
-  "updatedAt": "17/08/2026, 03:47:22 PM",
+  "total": 9,
+  "updatedAt": "17/08/2026, 04:21:44 PM",
   "data": [
     {
       "id": 1,
+      "isLive": true,
+      "contentId": "4248366",
+      "name": "OMA vs GOA",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/cricket.jpg",
+        "https://images.ottplay.com/backdrops/4934c3651f7037112aa61c3191958443.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/63e53b3cdc6d1c37ff6289f040e51360.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 2,
       "isLive": true,
       "contentId": "1090539441",
       "name": "Mohun Bagan Super Giant vs Jamshedpur FC - Quarter Final 3 - 17 Aug 2026",
@@ -30,27 +52,6 @@
       }
     },
     {
-      "id": 2,
-      "isLive": true,
-      "contentId": "4248494",
-      "name": "EBWC vs RSFC-W",
-      "genre": "football",
-      "language": "english",
-      "provider": "FanCode",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/backdrops/football.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/bd24edc232f3d0de0c384322bde86fbb.jpg"
-      ],
-      "providerInfo": {
-        "id": "63ce216c483822001ca300a4",
-        "name": "FanCode",
-        "hashId": "c60fe425e3269"
-      }
-    },
-    {
       "id": 3,
       "isLive": true,
       "contentId": "4248384",
@@ -64,27 +65,6 @@
       ],
       "posters": [
         "https://images.ottplay.com/posters/1b4058a5d1cf8f5951e69738a7159251.jpg"
-      ],
-      "providerInfo": {
-        "id": "63ce216c483822001ca300a4",
-        "name": "FanCode",
-        "hashId": "c60fe425e3269"
-      }
-    },
-    {
-      "id": 4,
-      "isLive": true,
-      "contentId": "4248367",
-      "name": "GER vs ISR",
-      "genre": "cricket",
-      "language": "english",
-      "provider": "FanCode",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/backdrops/7f2b1ced5c777b8ac404396020e0a73d.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/b0284134e212601a7bf79ca0d0560d26.jpg"
       ],
       "providerInfo": {
         "id": "63ce216c483822001ca300a4",
