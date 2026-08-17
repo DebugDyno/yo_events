@@ -1,11 +1,53 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 8,
-  "updatedAt": "17/08/2026, 05:30:40 PM",
+  "total": 3,
+  "updatedAt": "17/08/2026, 06:26:40 PM",
   "data": [
     {
       "id": 1,
+      "isLive": true,
+      "contentId": "4248385",
+      "name": "GRE vs POR",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/90ef537cfea5bafb5cc77bca71cf74e7.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/d23f50805f56c38424ddee817f61d374.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "contentId": "4248383",
+      "name": "LUX vs ESP",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/73b2fe73aab3bdb4c263dcb9f74cf7c5.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/0654220041d4863645425e1009291441.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 3,
       "isLive": true,
       "contentId": "4248366",
       "name": "OMA vs GOA",
@@ -24,177 +66,6 @@
         "id": "63ce216c483822001ca300a4",
         "name": "FanCode",
         "hashId": "c60fe425e3269"
-      }
-    },
-    {
-      "id": 2,
-      "isLive": true,
-      "contentId": "1090539441",
-      "name": "Mohun Bagan Super Giant vs Jamshedpur FC - Quarter Final 3 - 17 Aug 2026",
-      "genre": "football",
-      "language": "english",
-      "provider": "SonyLIV",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/images/57f785fc5cef2b7b807bb179b413c8df.jpg",
-        "https://images.ottplay.com/images/157e0e12000bf889c7bd205718fc7a08.jpg",
-        "https://images.ottplay.com/images/ce554cddfc02868a5c099d02f0af02a3.jpg",
-        "https://images.ottplay.com/images/986f3a84141bed006307d85c428b7407.jpg",
-        "https://images.ottplay.com/images/2560f4e1bf1fc8edfa6a85f39f3faa83.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/13c8f604f968d0532fe29b940e261789.jpg"
-      ],
-      "providerInfo": {
-        "id": "5f456c2aff9ccd034434e6fd",
-        "name": "SonyLIV",
-        "hashId": "100dc02b90dfc"
-      }
-    },
-    {
-      "id": 3,
-      "isLive": true,
-      "contentId": "4248261",
-      "name": "HK vs ITA",
-      "genre": "cricket",
-      "language": "english",
-      "provider": "FanCode",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/backdrops/8add697318313e8de704623294c017c2.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/4276a5d00ccb7136cb5e8cfdc38d4b2a.jpg"
-      ],
-      "providerInfo": {
-        "id": "63ce216c483822001ca300a4",
-        "name": "FanCode",
-        "hashId": "c60fe425e3269"
-      }
-    },
-    {
-      "id": 4,
-      "isLive": true,
-      "contentId": "1090539463",
-      "name": "Day 3 - 1st Test - 17 Aug 2026",
-      "genre": "cricket",
-      "language": "tamil",
-      "provider": "SonyLIV",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/images/a3e15e7bba3ca13c18a9ae446695aaeb.jpg",
-        "https://images.ottplay.com/images/1c5cf893ad831d981055602027114a37.jpg",
-        "https://images.ottplay.com/images/5593f3579aaf65c9181a8d1d1af287dd.jpg",
-        "https://images.ottplay.com/images/03179ab6d92bd713f09739731db9dba3.jpg",
-        "https://images.ottplay.com/images/32ab697c244ef7e03eee03ce444742b6.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/2384e3b7bb730c8078ddd6298b9561f3.jpg"
-      ],
-      "providerInfo": {
-        "id": "5f456c2aff9ccd034434e6fd",
-        "name": "SonyLIV",
-        "hashId": "100dc02b90dfc"
-      }
-    },
-    {
-      "id": 5,
-      "isLive": true,
-      "contentId": "1090539462",
-      "name": "Day 3 - 1st Test - 17 Aug 2026",
-      "genre": "cricket",
-      "language": "kannada",
-      "provider": "SonyLIV",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/images/c182eccc50a141e064bb8044b1b6956e.jpg",
-        "https://images.ottplay.com/images/1c5cf893ad831d981055602027114a37.jpg",
-        "https://images.ottplay.com/images/6d9da0c9944681fef1ef6c98de0bdff5.jpg",
-        "https://images.ottplay.com/images/ddb5935a558331df28478e584093e08e.jpg",
-        "https://images.ottplay.com/images/9ce9fd127da8f2085b85b8317424a519.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/44697916ebcd6e351f3e7800f5a7f55f.jpg"
-      ],
-      "providerInfo": {
-        "id": "5f456c2aff9ccd034434e6fd",
-        "name": "SonyLIV",
-        "hashId": "100dc02b90dfc"
-      }
-    },
-    {
-      "id": 6,
-      "isLive": true,
-      "contentId": "1090539461",
-      "name": "Day 3 - 1st Test - 17 Aug 2026",
-      "genre": "cricket",
-      "language": "telugu",
-      "provider": "SonyLIV",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/images/c301e2718d9251b77d8d06d89b0981cd.jpg",
-        "https://images.ottplay.com/images/1c5cf893ad831d981055602027114a37.jpg",
-        "https://images.ottplay.com/images/8b8ca28bc54b5f861ecabf1f1ddb42ff.jpg",
-        "https://images.ottplay.com/images/fcb798a5cf6e879c07f00117a15263dc.jpg",
-        "https://images.ottplay.com/images/4b814527a52b88d43f6ba7bde1e16e34.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/3723b84bdbd82789c179f1970e0b6989.jpg"
-      ],
-      "providerInfo": {
-        "id": "5f456c2aff9ccd034434e6fd",
-        "name": "SonyLIV",
-        "hashId": "100dc02b90dfc"
-      }
-    },
-    {
-      "id": 7,
-      "isLive": true,
-      "contentId": "1090539460",
-      "name": "Day 3 - 1st Test - 17 Aug 2026",
-      "genre": "cricket",
-      "language": "hindi",
-      "provider": "SonyLIV",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/images/090acc367ec700129c058fe305400b5f.jpg",
-        "https://images.ottplay.com/images/1c5cf893ad831d981055602027114a37.jpg",
-        "https://images.ottplay.com/images/45cac293aba2edb0094e2a224255a347.jpg",
-        "https://images.ottplay.com/images/57fc12513a2478c4789cbc0425199a48.jpg",
-        "https://images.ottplay.com/images/b59ac30f2fc306d04dec9d686150e915.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/21a7054d34e996a4974a2108909b1f4d.jpg"
-      ],
-      "providerInfo": {
-        "id": "5f456c2aff9ccd034434e6fd",
-        "name": "SonyLIV",
-        "hashId": "100dc02b90dfc"
-      }
-    },
-    {
-      "id": 8,
-      "isLive": true,
-      "contentId": "1090539431",
-      "name": "Day 3 - 1st Test - 17 Aug 2026",
-      "genre": "cricket",
-      "language": "english",
-      "provider": "SonyLIV",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/images/5c00032ab23b1bce32a642e68ec4a383.jpg",
-        "https://images.ottplay.com/images/1c5cf893ad831d981055602027114a37.jpg",
-        "https://images.ottplay.com/images/e1e710b6f13b2a8f71a03f0b7d858e80.jpg",
-        "https://images.ottplay.com/images/1391cf91776908d5d6cd6217f83498f7.jpg",
-        "https://images.ottplay.com/images/c2896b360486174e2c2b872107571e19.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/8e6930f5775d96425a5a806f07c7a2d7.jpg"
-      ],
-      "providerInfo": {
-        "id": "5f456c2aff9ccd034434e6fd",
-        "name": "SonyLIV",
-        "hashId": "100dc02b90dfc"
       }
     }
   ]
