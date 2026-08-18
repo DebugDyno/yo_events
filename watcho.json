@@ -1,6 +1,62 @@
 {
-  "success": false,
-  "message": "Failed to fetch data",
-  "updatedAt": "18/08/2026, 07:48:30 PM",
-  "error": "HTTP error! Status: 520"
+  "success": true,
+  "message": "Live matches fetched successfully",
+  "total": 6,
+  "updatedAt": "18/08/2026, 08:26:20 PM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "1540076006",
+      "name": "Gorakhpur Lions vs Kashi Rudras",
+      "genre": "Cricket",
+      "provider": "JioHotstar",
+      "image": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/5925/1786974895925-h"
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "contentId": "1540075223",
+      "name": "Tezpur Titans vs Jorhat Stallions",
+      "genre": "Cricket",
+      "provider": "JioHotstar",
+      "image": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/6986/1786974456986-h"
+    },
+    {
+      "id": 3,
+      "isLive": true,
+      "contentId": "1540074726",
+      "name": "East Delhi Riders vs Central Delhi Kings",
+      "genre": "Cricket",
+      "provider": "JioHotstar",
+      "image": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/1390/1786973831390-h"
+    },
+    {
+      "id": 4,
+      "isLive": true,
+      "contentId": "1540075954",
+      "name": "India vs South Africa",
+      "genre": "Hockey",
+      "provider": "JioHotstar",
+      "image": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/3142/1786972063142-h"
+    },
+    {
+      "id": 5,
+      "isLive": true,
+      "contentId": "4248374",
+      "name": "Czechia VS Israel",
+      "genre": "Sports",
+      "provider": "FanCode",
+      "image": "https://images.fancode.com/aig/match/v1786456801545/4248374_CASACARDS_PARTNER_16_9_1920_1080.png"
+    },
+    {
+      "id": 6,
+      "isLive": true,
+      "contentId": "4248382",
+      "name": "Bulgaria VS Spain",
+      "genre": "Sports",
+      "provider": "FanCode",
+      "image": "https://images.fancode.com/aig/match/v1786456801567/4248382_CASACARDS_PARTNER_16_9_1920_1080.png"
+    }
+  ]
 }
