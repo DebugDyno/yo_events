@@ -1,5 +1,72 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 3,
+  "updatedAt": "20/08/2026, 01:28:00 PM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "4248495",
+      "name": "ROFC-W vs EBWC",
+      "genre": "football",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/football.jpg",
+        "https://images.ottplay.com/backdrops/30ef1dbc6cf85d74c6f95a7904f4fa1b.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/83acef3e4d7062f7dcbe4113b77a22fd.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "contentId": "4248381",
+      "name": "BUL vs LUX",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/0ec2e9db9cb1e9d7f4a4f4b21724fe2f.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/5d4ad02a2557764e33daa894e0996968.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 3,
+      "isLive": true,
+      "contentId": "4248378",
+      "name": "CZE vs POR",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/bee9d3f1dc117a26d2b3b07a4986b943.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/eacc1c991f6b3e0eefbb7d03769621a1.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    }
+  ]
 }
