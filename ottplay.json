@@ -1,11 +1,75 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 1,
-  "updatedAt": "21/08/2026, 12:46:24 PM",
+  "total": 4,
+  "updatedAt": "21/08/2026, 01:31:04 PM",
   "data": [
     {
       "id": 1,
+      "isLive": true,
+      "contentId": "4248387",
+      "name": "FIN vs GER",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/92593cff054bef063f5a2e8e8a180db6.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/dab55f882b3de958717b7c7ea5575f1e.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "contentId": "4248386",
+      "name": "BUL vs CZE",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/2bca23dd8e73adba790defd5bd33cf1d.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/36d9ca00f43d77b8250b27489c2c098c.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 3,
+      "isLive": true,
+      "contentId": "4247558",
+      "name": "NDS-W vs EDR-W",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/cricket.jpg",
+        "https://images.ottplay.com/backdrops/9e9dc0aedf575eae18f633895b4e9427.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/31132e66f34292d4187da3e76654ae4f.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 4,
       "isLive": true,
       "contentId": "4248428",
       "name": "ACT vs HYK",
