@@ -1,5 +1,50 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 2,
+  "updatedAt": "21/08/2026, 05:57:14 AM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "4248427",
+      "name": "HHA vs VA",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/046b386340cf3b636f053672217dd0df.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/c5979c75ca0d5b7c5dcdcffe7753b364.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "contentId": "4248136",
+      "name": "ATP vs LOC",
+      "genre": "lawn-tennis",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/2f1eebaa5e89d6ef7ef9fe20f4ffaa99.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/734a345ad31f076d1ab9694b194f7887.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    }
+  ]
 }
