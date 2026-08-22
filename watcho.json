@@ -1,11 +1,20 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 12,
-  "updatedAt": "22/08/2026, 03:32:39 PM",
+  "total": 10,
+  "updatedAt": "22/08/2026, 04:03:58 PM",
   "data": [
     {
       "id": 1,
+      "isLive": true,
+      "contentId": "1540076795",
+      "name": "Hull City vs Manchester United",
+      "genre": "Football",
+      "provider": "JioHotstar",
+      "image": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/8378/1787342788378-h"
+    },
+    {
+      "id": 2,
       "isLive": true,
       "contentId": "1540077141",
       "name": "Ireland vs Scotland",
@@ -14,7 +23,7 @@
       "image": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/8303/1787342258303-h"
     },
     {
-      "id": 2,
+      "id": 3,
       "isLive": true,
       "contentId": "1540076024",
       "name": "Kashi Rudras vs Gaur Gorakhpur Lions",
@@ -23,22 +32,13 @@
       "image": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7683/1787315477683-h"
     },
     {
-      "id": 3,
+      "id": 4,
       "isLive": true,
       "contentId": "1540076252",
       "name": "Aries Kollam Sailors vs Trivandrum Royals",
       "genre": "Cricket",
       "provider": "JioHotstar",
       "image": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/1722/1787315111722-h"
-    },
-    {
-      "id": 4,
-      "isLive": true,
-      "contentId": "1540077051",
-      "name": "New Zealand vs Wales",
-      "genre": "Hockey",
-      "provider": "JioHotstar",
-      "image": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2316/1787330662316-h"
     },
     {
       "id": 5,
@@ -87,24 +87,6 @@
     },
     {
       "id": 10,
-      "isLive": true,
-      "contentId": "4247417",
-      "name": "ISPS Handa Women's Scottish Open 2026",
-      "genre": "Sports",
-      "provider": "FanCode",
-      "image": ""
-    },
-    {
-      "id": 11,
-      "isLive": true,
-      "contentId": "4246577",
-      "name": "F1 Kids 2026",
-      "genre": "Sports",
-      "provider": "FanCode",
-      "image": ""
-    },
-    {
-      "id": 12,
       "isLive": true,
       "contentId": "139479",
       "name": "F1 HEINEKEN DUTCH GRAND PRIX 2026",
