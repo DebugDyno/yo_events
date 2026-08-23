@@ -1,11 +1,32 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 6,
-  "updatedAt": "23/08/2026, 09:06:16 PM",
+  "total": 4,
+  "updatedAt": "23/08/2026, 09:25:37 PM",
   "data": [
     {
       "id": 1,
+      "isLive": true,
+      "contentId": "4248413",
+      "name": "BMW Championship 2026",
+      "genre": "golf",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/18c6f205e3782b933bc5454d1f242c30.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/969ce29e71251ffb4850e88e9f4c326c.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 2,
       "isLive": true,
       "contentId": "4248394",
       "name": "EIB vs VLD",
@@ -26,7 +47,7 @@
       }
     },
     {
-      "id": 2,
+      "id": 3,
       "isLive": true,
       "contentId": "4247578",
       "name": "ATM vs VIL",
@@ -39,27 +60,6 @@
       ],
       "posters": [
         "https://images.ottplay.com/posters/4206250cad8bc208dcdaa1853a2a0b82.jpg"
-      ],
-      "providerInfo": {
-        "id": "63ce216c483822001ca300a4",
-        "name": "FanCode",
-        "hashId": "c60fe425e3269"
-      }
-    },
-    {
-      "id": 3,
-      "isLive": true,
-      "contentId": "4248534",
-      "name": "F1 Kids vs LOC",
-      "genre": "racing",
-      "language": "english",
-      "provider": "FanCode",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/backdrops/7679872092001dc30a91309462c65396.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/9fe711407d16b379a80f5105553ae005.jpg"
       ],
       "providerInfo": {
         "id": "63ce216c483822001ca300a4",
@@ -86,52 +86,6 @@
         "id": "63ce216c483822001ca300a4",
         "name": "FanCode",
         "hashId": "c60fe425e3269"
-      }
-    },
-    {
-      "id": 5,
-      "isLive": true,
-      "contentId": "139481",
-      "name": "F1 HEINEKEN DUTCH GRAND PRIX 2026",
-      "genre": "formula1",
-      "language": "english",
-      "provider": "FanCode",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/backdrops/ba8a69ae74c2cc92bdb1abb65900a44e.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/f1e452fa3809a361c02a8e39cd903a94.jpg"
-      ],
-      "providerInfo": {
-        "id": "63ce216c483822001ca300a4",
-        "name": "FanCode",
-        "hashId": "c60fe425e3269"
-      }
-    },
-    {
-      "id": 6,
-      "isLive": true,
-      "contentId": "1090540053",
-      "name": "Nexo Championship - Day 4 - 23 Aug 2026",
-      "genre": "golf",
-      "language": "english",
-      "provider": "SonyLIV",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/images/b616ff91474bdcb02cd7c0b5880c58a5.jpg",
-        "https://images.ottplay.com/images/02e853e4504326cb191c1706b7922262.jpg",
-        "https://images.ottplay.com/images/de5440d34ccf63cfed4121dc258b39fd.jpg",
-        "https://images.ottplay.com/images/9f881eaad574ccc9e3ae05235d9c6738.jpg",
-        "https://images.ottplay.com/images/679a60b24f7c22c93bf439e05485d8cd.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/3bf5e7aafa5822068b672b62037543ab.jpg"
-      ],
-      "providerInfo": {
-        "id": "5f456c2aff9ccd034434e6fd",
-        "name": "SonyLIV",
-        "hashId": "100dc02b90dfc"
       }
     }
   ]
