@@ -2,10 +2,31 @@
   "success": true,
   "message": "Live matches fetched successfully",
   "total": 6,
-  "updatedAt": "23/08/2026, 05:28:42 AM",
+  "updatedAt": "23/08/2026, 06:51:04 AM",
   "data": [
     {
       "id": 1,
+      "isLive": true,
+      "contentId": "4248431",
+      "name": "ACT vs NZ-A",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/cricket.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/e17f46b73c5374e7b86c397a6730b9da.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 2,
       "isLive": true,
       "contentId": "1090540105",
       "name": "UFC Fight Night - Hernandez vs Rodrigues - 23 Aug 2026",
@@ -30,7 +51,7 @@
       }
     },
     {
-      "id": 2,
+      "id": 3,
       "isLive": true,
       "contentId": "1090540104",
       "name": "UFC Fight Night - Hernandez vs Rodrigues - 23 Aug 2026",
@@ -55,7 +76,7 @@
       }
     },
     {
-      "id": 3,
+      "id": 4,
       "isLive": true,
       "contentId": "1090540103",
       "name": "UFC Fight Night - Hernandez vs Rodrigues - 23 Aug 2026",
@@ -80,7 +101,7 @@
       }
     },
     {
-      "id": 4,
+      "id": 5,
       "isLive": true,
       "contentId": "1090540102",
       "name": "UFC Fight Night - Hernandez vs Rodrigues - 23 Aug 2026",
@@ -105,7 +126,7 @@
       }
     },
     {
-      "id": 5,
+      "id": 6,
       "isLive": true,
       "contentId": "1090540101",
       "name": "UFC Fight Night - Hernandez vs Rodrigues - 23 Aug 2026",
@@ -127,27 +148,6 @@
         "id": "5f456c2aff9ccd034434e6fd",
         "name": "SonyLIV",
         "hashId": "100dc02b90dfc"
-      }
-    },
-    {
-      "id": 6,
-      "isLive": true,
-      "contentId": "4248143",
-      "name": "ATP vs LOC",
-      "genre": "lawn-tennis",
-      "language": "english",
-      "provider": "FanCode",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/backdrops/bf82f003f6d75facb9896e60b748567c.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/427c4ab5bb3bf4bc6fd36a14a64895e0.jpg"
-      ],
-      "providerInfo": {
-        "id": "63ce216c483822001ca300a4",
-        "name": "FanCode",
-        "hashId": "c60fe425e3269"
       }
     }
   ]
