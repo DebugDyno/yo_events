@@ -2,10 +2,32 @@
   "success": true,
   "message": "Live matches fetched successfully",
   "total": 7,
-  "updatedAt": "26/08/2026, 09:37:23 AM",
+  "updatedAt": "26/08/2026, 10:23:23 AM",
   "data": [
     {
       "id": 1,
+      "isLive": true,
+      "contentId": "4248442",
+      "name": "ACA vs HHA",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/cricket.jpg",
+        "https://images.ottplay.com/backdrops/3eabe92f63549ea0d48f0c50eceab78b.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/4f3f020284763e2b2d200bfdde6e9dcf.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 2,
       "isLive": true,
       "contentId": "1090540376",
       "name": "Pagariya Strikers vs Rajasthan Rajvansh - 26 Aug 2026",
@@ -30,7 +52,7 @@
       }
     },
     {
-      "id": 2,
+      "id": 3,
       "isLive": true,
       "contentId": "1090540358",
       "name": "Day 4 - 2nd Test - 26 Aug 2026",
@@ -55,7 +77,7 @@
       }
     },
     {
-      "id": 3,
+      "id": 4,
       "isLive": true,
       "contentId": "1090540357",
       "name": "Day 4 - 2nd Test - 26 Aug 2026",
@@ -80,7 +102,7 @@
       }
     },
     {
-      "id": 4,
+      "id": 5,
       "isLive": true,
       "contentId": "1090540356",
       "name": "Day 4 - 2nd Test - 26 Aug 2026",
@@ -105,7 +127,7 @@
       }
     },
     {
-      "id": 5,
+      "id": 6,
       "isLive": true,
       "contentId": "1090540355",
       "name": "Day 4 - 2nd Test - 26 Aug 2026",
@@ -130,7 +152,7 @@
       }
     },
     {
-      "id": 6,
+      "id": 7,
       "isLive": true,
       "contentId": "1090540354",
       "name": "Day 4 - 2nd Test - 26 Aug 2026",
@@ -153,27 +175,6 @@
         "id": "5f456c2aff9ccd034434e6fd",
         "name": "SonyLIV",
         "hashId": "100dc02b90dfc"
-      }
-    },
-    {
-      "id": 7,
-      "isLive": true,
-      "contentId": "4248441",
-      "name": "NZ-A vs VA",
-      "genre": "cricket",
-      "language": "english",
-      "provider": "FanCode",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/backdrops/24e187b7592de134962e6a9a753dfd61.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/a9574d19d6246f7151f1d1cbe555879e.jpg"
-      ],
-      "providerInfo": {
-        "id": "63ce216c483822001ca300a4",
-        "name": "FanCode",
-        "hashId": "c60fe425e3269"
       }
     }
   ]
