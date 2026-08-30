@@ -1,5 +1,118 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 5,
+  "updatedAt": "30/08/2026, 10:47:26 AM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "1090540892",
+      "name": "Mumbai Sobo Stars vs Bangalore Blasters - 30 Aug 2026",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "SonyLIV",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/7fef9e54d6d98e678ee7d292e16ee116.jpg",
+        "https://images.ottplay.com/images/9f880c41db76e9378a5c9b1358944d1a.jpg",
+        "https://images.ottplay.com/images/b7238bbe34e76ee5365aa11de6c6338a.jpg",
+        "https://images.ottplay.com/images/825baa4f70132e4e608f0b566bf2e4e5.jpg",
+        "https://images.ottplay.com/images/7328ba0b076311ebf78d8d77a274d59e.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/d48f6623d6b620c4a93ab476e7ef727f.jpg"
+      ],
+      "providerInfo": {
+        "id": "5f456c2aff9ccd034434e6fd",
+        "name": "SonyLIV",
+        "hashId": "100dc02b90dfc"
+      }
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "contentId": "4248609",
+      "name": "OMA vs SIN",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/cricket.jpg",
+        "https://images.ottplay.com/backdrops/50be1f9ba41482b98a8333a3b620b3bf.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/b3abdcef0a89b0adf651fb6b78061819.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 3,
+      "isLive": true,
+      "contentId": "4248610",
+      "name": "HK vs SDA",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/d3c5ece7b6bc7cb816604637e13cf7ff.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/8e8826ab7bd8c533bda2e5ddf7d33744.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 4,
+      "isLive": true,
+      "contentId": "4248449",
+      "name": "ASA vs NZ-A",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/cricket.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/7de4e6a315835a409a540de71da7738f.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 5,
+      "isLive": true,
+      "contentId": "4248451",
+      "name": "BAN HP vs VA",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/13a36888c95442b73e6c9a320547391f.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/e97668a406199565431e08dccd6e6fb1.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    }
+  ]
 }
