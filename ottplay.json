@@ -1,5 +1,75 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 3,
+  "updatedAt": "01/09/2026, 10:51:02 AM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "1090541057",
+      "name": "Chennai Strikers vs Indore Hawks - 1 Sep 2026",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "SonyLIV",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/4b10000486f4fa02f0c8fdeaf507f371.jpg",
+        "https://images.ottplay.com/images/a735f484bfc7adf4e5d72916840b5f03.jpg",
+        "https://images.ottplay.com/images/b523d59ec3388ac1a63f0b4e91e44576.jpg",
+        "https://images.ottplay.com/images/8b381a20da07520146f052fcfea6399c.jpg",
+        "https://images.ottplay.com/images/6623aff5b5b4a2cb7a7f005ba5a0b820.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/dab7335d1ad44a359957f2c34ead04b5.jpg"
+      ],
+      "providerInfo": {
+        "id": "5f456c2aff9ccd034434e6fd",
+        "name": "SonyLIV",
+        "hashId": "100dc02b90dfc"
+      }
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "contentId": "4248613",
+      "name": "MAS vs SDA",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/4f78ccce6a56d5f20797a94460480f78.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/a99ae05745b5caec569fa17efde46c31.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 3,
+      "isLive": true,
+      "contentId": "4248614",
+      "name": "KUW vs SIN",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/cricket.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/716a1d36d6a5558590ae214dc3de3f63.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    }
+  ]
 }
