@@ -1,5 +1,75 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 3,
+  "updatedAt": "02/09/2026, 11:11:09 AM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "1090541190",
+      "name": "Bengal Indians vs Gujarat Gladiators - 2 Sep 2026",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "SonyLIV",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/f178ee5b27e47949621062b0b7db4b36.jpg",
+        "https://images.ottplay.com/images/24cc5e4719cb5d3b2345e9f9cc394235.jpg",
+        "https://images.ottplay.com/images/3fcc786e4b319bbfb049fe1a8138a980.jpg",
+        "https://images.ottplay.com/images/d09f2785439746ecc76ef566a6d23ed8.jpg",
+        "https://images.ottplay.com/images/b67cb50a149b25d8bcca9395e70ac255.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/52d35e9817d9e3c59a33310512719620.jpg"
+      ],
+      "providerInfo": {
+        "id": "5f456c2aff9ccd034434e6fd",
+        "name": "SonyLIV",
+        "hashId": "100dc02b90dfc"
+      }
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "contentId": "4248615",
+      "name": "OMA vs QAT",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/43e9314b05c77de9385a54cba0b5f679.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/f98b350a7fab2f9ff35412f8924bfbf9.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 3,
+      "isLive": true,
+      "contentId": "4248616",
+      "name": "HK vs BRN",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/0f730b29828ca0946350ff049b690782.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/2fed1f4272bdea4942070cf8b6502423.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    }
+  ]
 }
