@@ -1,5 +1,97 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 4,
+  "updatedAt": "03/09/2026, 10:31:29 AM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "1090541267",
+      "name": "Bangalore Blasters vs Rajasthan Rajvansh - 3 Sep 2026",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "SonyLIV",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/c8af63486a8b3da76f6a6b223d1ce1fa.jpg",
+        "https://images.ottplay.com/images/3a40b4ad7d9601fc6c8d385257041926.jpg",
+        "https://images.ottplay.com/images/ae32455504355d133504885eca276055.jpg",
+        "https://images.ottplay.com/images/ae1f57470ce1816949390d038c9a9fbf.jpg",
+        "https://images.ottplay.com/images/62e7464cf556f37c4d83af3c32877b28.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/cbf1b276a86b2ea061b7783888956484.jpg"
+      ],
+      "providerInfo": {
+        "id": "5f456c2aff9ccd034434e6fd",
+        "name": "SonyLIV",
+        "hashId": "100dc02b90dfc"
+      }
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "contentId": "4249064",
+      "name": "DK vs VD",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/cricket.jpg",
+        "https://images.ottplay.com/backdrops/1f5c8ab191c47b885349ec347802a6d6.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/238063b8c24297aad92a7c5a299f1f8a.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 3,
+      "isLive": true,
+      "contentId": "4248617",
+      "name": "KUW vs UAE",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/ac44462323da0d9cb950bd553b5a1be0.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/d2b64faab2617bd5f66bf35cf78c58cd.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 4,
+      "isLive": true,
+      "contentId": "4248618",
+      "name": "MAS vs NEP",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/78335b87742bb3cc85037518b82f37fe.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/6ddda8fb8fdc94f81ef64c24d97ff2ed.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    }
+  ]
 }
