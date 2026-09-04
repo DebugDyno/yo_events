@@ -1,6 +1,23 @@
 {
-  "status": "500",
-  "success": false,
-  "message": "Failed to fetch data",
-  "error": "HTTP error! Status: 403"
+  "status": "200",
+  "success": true,
+  "message": "Data fetched successfully",
+  "total": 1,
+  "updatedAt": "04/09/2026, 05:40:00 AM",
+  "data": [
+    {
+      "id": "1540076484",
+      "name": "Iva Jovic vs Francesca Jones: Rd 2, Women's Singles",
+      "tounament": "Watch the live stream of the Women's Singles Round 2 match between Iva Jovic vs Francesca Jones in US Open 2026",
+      "Portrait_Image": "https://tstatic.videoready.tv/cms-ui/images/custom-content/4915af00-4446-44e5-82aa-9c0ac17cfb40.png",
+      "Landscape_Image": "https://img.hotstar.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/8727/1788478968727-h",
+      "provider": "Hotstar",
+      "language": [
+        "English"
+      ],
+      "isLive": true,
+      "metaDetailVerbiage": "English • Sports",
+      "genre": "Sports"
+    }
+  ]
 }
