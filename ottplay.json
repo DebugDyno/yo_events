@@ -1,5 +1,98 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 4,
+  "updatedAt": "05/09/2026, 11:03:41 AM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "1090541486",
+      "name": "Bangalore Blasters vs Rajasthan Rajvansh - Qualifier 2 - 5 Sep 2026",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "SonyLIV",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/a6feb9efae48f48997ee3b07bcb098bc.jpg",
+        "https://images.ottplay.com/images/3f55efadcc8b570d3dc5bdc9d387f52d.jpg",
+        "https://images.ottplay.com/images/2e94a9863545a7add3dcdaf3ea5fa7de.jpg",
+        "https://images.ottplay.com/images/1ee725992b42907ce664137f7b7bcd30.jpg",
+        "https://images.ottplay.com/images/bbfce37c3f58920e2109fee17e82b054.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/56ca98b5f9dacd3b628a8fbb3356dd12.jpg"
+      ],
+      "providerInfo": {
+        "id": "5f456c2aff9ccd034434e6fd",
+        "name": "SonyLIV",
+        "hashId": "100dc02b90dfc"
+      }
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "contentId": "4249070",
+      "name": "HKR vs MT",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/cricket.jpg",
+        "https://images.ottplay.com/backdrops/3464f7ca2558678a4fd3c0fc3e7d9350.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/1d169ff367670cba2e405e4320b2fa9a.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 3,
+      "isLive": true,
+      "contentId": "4248621",
+      "name": "KUW vs OMA",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/9285d9d4d005a280aa24fc37203fd707.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/b027fe145228c4635355b3433a1f9086.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 4,
+      "isLive": true,
+      "contentId": "4248622",
+      "name": "MAS vs HK",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/cricket.jpg",
+        "https://images.ottplay.com/backdrops/ad3dfd8f4df1f21a6800e57bdd608d7e.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/4714e7b0dc5b64bfabba4934c8486cb0.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    }
+  ]
 }
