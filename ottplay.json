@@ -1,5 +1,71 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 3,
+  "updatedAt": "06/09/2026, 11:15:53 AM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "4249073",
+      "name": "DK vs RD",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/735087b119d517f1c2eefef2aa3e53ca.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/5fae064568501793f9b076945e2cd8df.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "contentId": "4248624",
+      "name": "UAE vs SIN",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/51a75dc5b1d1aa5b8909814e4b83a00d.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/424a8f46e7277d3db0c70a71f980bb35.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 3,
+      "isLive": true,
+      "contentId": "4248623",
+      "name": "NEP vs SDA",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/b134022a3875ec4afe054a279672c268.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/7d1fec8e8c0ac1ddaabd70aa62c245eb.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    }
+  ]
 }
