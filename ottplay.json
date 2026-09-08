@@ -1,5 +1,50 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 2,
+  "updatedAt": "08/09/2026, 10:01:57 AM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "4248628",
+      "name": "UAE vs OMA",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/5a6b2b7c70843bb8db803fcde387584b.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/1044025969f9aef378cb057e1e3ab289.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "contentId": "4248627",
+      "name": "NEP vs HK",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/a626f8c06bffbb2eb7c348b28aef2a51.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/25599ed6996d76c3689f8e1b98923db0.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    }
+  ]
 }
