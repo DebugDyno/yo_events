@@ -1,37 +1,6 @@
 {
-  "status": "200",
-  "success": true,
-  "message": "Data fetched successfully",
-  "total": 2,
-  "updatedAt": "10/09/2026, 02:49:54 PM",
-  "data": [
-    {
-      "id": "1540076953",
-      "name": "Final: East Zone vs South Zone, Day 5",
-      "tounament": "Watch the live stream of Day 5 of the Duleep Trophy 2026 final between East Zone and South Zone",
-      "Portrait_Image": "https://tstatic.videoready.tv/cms-ui/images/custom-content/8bec93a7-7516-4479-9d2a-a10809a0ccd3.png",
-      "Landscape_Image": "https://img.hotstar.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/1887/1788950921887-h",
-      "provider": "Hotstar",
-      "language": [
-        "Hindi"
-      ],
-      "isLive": true,
-      "metaDetailVerbiage": "Hindi • Sports",
-      "genre": "Sports"
-    },
-    {
-      "id": "4249157",
-      "name": "ILT20 Africa Continent Cup 2026",
-      "tounament": "ILT20 Africa Continent Cup 2026",
-      "Portrait_Image": "https://images.fancode.com/aig/match/v1788768001219/4249157_CASACARDS_PARTNER_2_3_700_1050.png",
-      "Landscape_Image": "https://images.fancode.com/aig/match/v1788768001219/4249157_CASACARDS_PARTNER_11_10_550_500.png",
-      "provider": "FanCode",
-      "language": [
-        "English"
-      ],
-      "isLive": true,
-      "metaDetailVerbiage": "English • Sport • 18+",
-      "genre": "Sport"
-    }
-  ]
+  "status": "500",
+  "success": false,
+  "message": "Failed to fetch data",
+  "error": "HTTP error! Status: 403"
 }
