@@ -1,5 +1,29 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 1,
+  "updatedAt": "11/09/2026, 11:59:56 AM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "4249081",
+      "name": "The Solheim Cup 2026",
+      "genre": "golf",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/b6b074d4c1a1f61d923f6076b149cdce.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/124fced522f5b92efc8004582bd323d5.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    }
+  ]
 }
