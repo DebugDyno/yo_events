@@ -1,5 +1,71 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 3,
+  "updatedAt": "12/09/2026, 11:20:35 AM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "4249082",
+      "name": "The Solheim Cup 2026",
+      "genre": "golf",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/710b7c1015c610f87e5e7bcdeb93baa7.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/34d5e4b742aff0c56d8b5873a065cc3a.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "contentId": "4248631",
+      "name": "OMA vs HK",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/ca63e777fd861adfaf8e87759797710e.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/8f51bd675af17bfc823b45a18d18e4d7.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 3,
+      "isLive": true,
+      "contentId": "4248632",
+      "name": "NEP vs UAE",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/369339a65ec8199f7e5bcc94ca458cb3.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/8ff5c5f3d164d12776ebaf194105c1a6.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    }
+  ]
 }
