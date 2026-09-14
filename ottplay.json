@@ -1,5 +1,50 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 2,
+  "updatedAt": "14/09/2026, 07:21:47 PM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "4249241",
+      "name": "DVD vs MED",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/abf59271d6850da792f28c710ce83a45.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/f01749455160797e5bbbfd83a2fdc12e.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "contentId": "4248679",
+      "name": "YSG vs ROS",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/b95bd0c7c169002af2d00a08d4fe0b35.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/f2a6bf0f4abcfca6435c0ce057732d79.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    }
+  ]
 }
