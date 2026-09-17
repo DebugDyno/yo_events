@@ -1,6 +1,23 @@
 {
-  "status": "500",
-  "success": false,
-  "message": "Failed to fetch data",
-  "error": "HTTP error! Status: 403"
+  "status": "200",
+  "success": true,
+  "message": "Data fetched successfully",
+  "total": 1,
+  "updatedAt": "17/09/2026, 11:06:45 AM",
+  "data": [
+    {
+      "id": "4249260",
+      "name": "Malaysia VS United Arab Emirates",
+      "tounament": "United Arab Emirates tour of Malaysia, 2026",
+      "Portrait_Image": "https://images.fancode.com/aig/match/v1789380000263/4249260_CASACARDS_PARTNER_2_3_700_1050.png",
+      "Landscape_Image": "https://images.fancode.com/aig/match/v1789380000263/4249260_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "provider": "FanCode",
+      "language": [
+        "English"
+      ],
+      "isLive": true,
+      "metaDetailVerbiage": "English • Cricket • U",
+      "genre": "Cricket"
+    }
+  ]
 }
