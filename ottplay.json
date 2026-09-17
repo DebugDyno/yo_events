@@ -1,5 +1,33 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 1,
+  "updatedAt": "17/09/2026, 06:23:12 AM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "1090541367",
+      "name": "Bangladesh Women vs People’s Republic of China Women - QF 1 - 17 Sep 2026",
+      "genre": "sports",
+      "language": "english",
+      "provider": "SonyLIV",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/4a77746901f1454624a8ff60a65a136f.jpg",
+        "https://images.ottplay.com/images/d02e5cc38e1eb81e08cd72ea7379004a.jpg",
+        "https://images.ottplay.com/images/d71becfafac50197e950e2d00ebf669c.jpg",
+        "https://images.ottplay.com/images/35adbffb497caa8ded7403cbbb58fa4a.jpg",
+        "https://images.ottplay.com/images/0a3c1a604329113330aa110f4e42d1fa.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/919e5acd610ae104c655e31ba94ec19e.jpg"
+      ],
+      "providerInfo": {
+        "id": "5f456c2aff9ccd034434e6fd",
+        "name": "SonyLIV",
+        "hashId": "100dc02b90dfc"
+      }
+    }
+  ]
 }
