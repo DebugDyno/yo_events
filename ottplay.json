@@ -1,5 +1,58 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 2,
+  "updatedAt": "20/09/2026, 05:03:30 AM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "1090541854",
+      "name": "Men's and Women's Prelims - Beach Volleyball - 20 Sep 2026",
+      "genre": "beach volleyball",
+      "language": "english",
+      "provider": "SonyLIV",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/d7a0f09661fe24cd2ac4392326300d9f.jpg",
+        "https://images.ottplay.com/images/2343e92cf6897fad00b6bebf8f40cf76.jpg",
+        "https://images.ottplay.com/images/73d5f555933367f8684c377c8f886660.jpg",
+        "https://images.ottplay.com/images/f4b66a864b68b40db59b97341fb6f352.jpg",
+        "https://images.ottplay.com/images/8548b2b0ecd8a083cfad438fb5049df5.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/9ea2b9fe75433e74e0a0b1246fbfcd15.jpg"
+      ],
+      "providerInfo": {
+        "id": "5f456c2aff9ccd034434e6fd",
+        "name": "SonyLIV",
+        "hashId": "100dc02b90dfc"
+      }
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "contentId": "1090542963",
+      "name": "UFC 331 - Van vs Pantoja 2 - 20 Sep 2026",
+      "genre": "fight sports",
+      "language": "english",
+      "provider": "SonyLIV",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/3d11be950a8c4dc4a21fbc2154d15bce.jpg",
+        "https://images.ottplay.com/images/0b66a147b8b82a904e607eda870c644f.jpg",
+        "https://images.ottplay.com/images/ef02daf0b2cb405803b567baebed988a.jpg",
+        "https://images.ottplay.com/images/afb43c6a6881837678664eadb39dcfbd.jpg",
+        "https://images.ottplay.com/images/2ebb1f6074304a5376130d6441da0cb9.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/4108ad6b0d4aef797864e6c8c75cef2a.jpg"
+      ],
+      "providerInfo": {
+        "id": "5f456c2aff9ccd034434e6fd",
+        "name": "SonyLIV",
+        "hashId": "100dc02b90dfc"
+      }
+    }
+  ]
 }
