@@ -1,5 +1,50 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 2,
+  "updatedAt": "19/09/2026, 12:04:14 PM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "139970",
+      "name": "GRAND PRIX OF AUSTRIA 2026",
+      "genre": "motogp",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/df2bdb0869f0cba91c65533394284463.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/80d112eb3510ea881e2006680e0df0ac.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "contentId": "4249276",
+      "name": "QUN vs VCT",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/91294c54842e85a1a5af3e8fb087b0c5.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/124f968c225594f32135b2d942af1d1e.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    }
+  ]
 }
