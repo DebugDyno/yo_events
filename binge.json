@@ -1,65 +1,6 @@
 {
-  "status": "200",
-  "success": true,
-  "message": "Data fetched successfully",
-  "total": 4,
-  "updatedAt": "29/09/2026, 12:26:36 PM",
-  "data": [
-    {
-      "id": "1540080213",
-      "name": "India A vs Australia A: 2nd Multi-day Match, Day 1",
-      "tounament": "Watch the live stream of Day 1 from the 2nd Multi-day match between India A and Australia A",
-      "Portrait_Image": "https://tstatic.videoready.tv/cms-ui/images/custom-content/4ee48b9b-b690-4d1b-9e27-5ad73f21a594.png",
-      "Landscape_Image": "https://img.hotstar.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/8272/1790591848272-h",
-      "provider": "Hotstar",
-      "language": [
-        "Hindi"
-      ],
-      "isLive": true,
-      "metaDetailVerbiage": "Hindi • Sports",
-      "genre": "Sports"
-    },
-    {
-      "id": "4250039",
-      "name": "West Singhbhum T20 League 2026",
-      "tounament": "West Singhbhum T20 League 2026",
-      "Portrait_Image": "https://images.fancode.com/aig/match/v1790402401219/4250039_CASACARDS_PARTNER_2_3_700_1050.png",
-      "Landscape_Image": "https://images.fancode.com/aig/match/v1790402401219/4250039_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "provider": "FanCode",
-      "language": [
-        "English"
-      ],
-      "isLive": true,
-      "metaDetailVerbiage": "English • Cricket • U",
-      "genre": "Cricket"
-    },
-    {
-      "id": "4249530",
-      "name": "Western Australia Women VS Tasmania Women",
-      "tounament": "Women's National Cricket League, 2026/27",
-      "Portrait_Image": "https://images.fancode.com/aig/match/v1790064000450/4249530_CASACARDS_PARTNER_2_3_700_1050.png",
-      "Landscape_Image": "https://images.fancode.com/aig/match/v1790064000450/4249530_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "provider": "FanCode",
-      "language": [
-        "English"
-      ],
-      "isLive": true,
-      "metaDetailVerbiage": "English • Cricket • U",
-      "genre": "Cricket"
-    },
-    {
-      "id": "4249529",
-      "name": "Victoria Women VS South Australian Scorpions",
-      "tounament": "Women's National Cricket League, 2026/27",
-      "Portrait_Image": "https://images.fancode.com/aig/match/v1790056800441/4249529_CASACARDS_PARTNER_2_3_700_1050.png",
-      "Landscape_Image": "https://images.fancode.com/aig/match/v1790056800441/4249529_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "provider": "FanCode",
-      "language": [
-        "English"
-      ],
-      "isLive": true,
-      "metaDetailVerbiage": "English • Cricket • U",
-      "genre": "Cricket"
-    }
-  ]
+  "status": "500",
+  "success": false,
+  "message": "Failed to fetch data",
+  "error": "HTTP error! Status: 403"
 }
