@@ -1,59 +1,6 @@
 {
-  "status": "200",
-  "success": true,
-  "message": "Data fetched successfully",
-  "total": 3,
-  "updatedAt": "30/09/2026, 07:34:57 PM",
-  "data": [
-    {
-      "id": "1540080155",
-      "name": "India vs West Indies: 2nd ODI",
-      "tounament": "Watch the live stream of the 2nd ODI between India and West Indies",
-      "Portrait_Image": "https://tstatic.videoready.tv/cms-ui/images/custom-content/1790760717596.jpeg",
-      "Landscape_Image": "https://img.hotstar.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/5714/1790679255714-h",
-      "provider": "Hotstar",
-      "language": [
-        "English",
-        "Hindi",
-        "Tamil",
-        "Bhojpuri",
-        "Bengali",
-        "Haryanvi",
-        "Kannada",
-        "Telugu"
-      ],
-      "isLive": true,
-      "metaDetailVerbiage": "8 Languages • Sports",
-      "genre": "Sports"
-    },
-    {
-      "id": "4249780",
-      "name": "SA vs AUS",
-      "tounament": "Australia tour of South Africa, 2026",
-      "Portrait_Image": "https://images.fancode.com/aig/match/v1790186400592/4249780_CASACARDS_PARTNER_2_3_700_1050.png",
-      "Landscape_Image": "https://images.fancode.com/aig/match/v1790186400592/4249780_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "provider": "FanCode",
-      "language": [
-        "English"
-      ],
-      "isLive": true,
-      "metaDetailVerbiage": "English • Cricket • U",
-      "genre": "Cricket"
-    },
-    {
-      "id": "1540079909",
-      "name": "Korfball Premier League: Day 12",
-      "tounament": "Watch the live stream of Day 12 from Korfball Premier League 2026",
-      "Portrait_Image": "https://tstatic.videoready.tv/cms-ui/images/custom-content/72f17370-b2fb-49c4-bb79-48e5fbd395db.png",
-      "Landscape_Image": "https://img.hotstar.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/3996/1790681683996-h",
-      "provider": "Hotstar",
-      "language": [
-        "English",
-        "Hindi"
-      ],
-      "isLive": true,
-      "metaDetailVerbiage": "2 Languages • Sports",
-      "genre": "Sports"
-    }
-  ]
+  "status": "500",
+  "success": false,
+  "message": "Failed to fetch data",
+  "error": "HTTP error! Status: 403"
 }
