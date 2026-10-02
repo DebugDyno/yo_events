@@ -1,6 +1,51 @@
 {
-  "status": "500",
-  "success": false,
-  "message": "Failed to fetch data",
-  "error": "HTTP error! Status: 403"
+  "status": "200",
+  "success": true,
+  "message": "Data fetched successfully",
+  "total": 3,
+  "updatedAt": "03/10/2026, 02:28:26 AM",
+  "data": [
+    {
+      "id": "4249699",
+      "name": "Bank of Utah Championship 2026",
+      "tounament": "Bank of Utah Championship 2026",
+      "Portrait_Image": "https://images.fancode.com/aig/match/v1790006402454/4249699_CASACARDS_PARTNER_2_3_700_1050.png",
+      "Landscape_Image": "https://images.fancode.com/aig/match/v1790006402454/4249699_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "provider": "FanCode",
+      "language": [
+        "English"
+      ],
+      "isLive": false,
+      "metaDetailVerbiage": "English • Golf • U",
+      "genre": "Golf"
+    },
+    {
+      "id": "4249832",
+      "name": "Toronto Sixers Women VS Vancouver Anchors Women",
+      "tounament": "Canada Super 60 Women, 2026",
+      "Portrait_Image": "https://images.fancode.com/aig/match/v1790956800862/4249832_CASACARDS_PARTNER_2_3_700_1050.png",
+      "Landscape_Image": "https://images.fancode.com/aig/match/v1790956800862/4249832_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "provider": "FanCode",
+      "language": [
+        "English"
+      ],
+      "isLive": true,
+      "metaDetailVerbiage": "English • Cricket • U",
+      "genre": "Cricket"
+    },
+    {
+      "id": "4249702",
+      "name": "Bank of Utah Championship 2026",
+      "tounament": "Bank of Utah Championship 2026",
+      "Portrait_Image": "https://images.fancode.com/aig/match/v1790006402404/4249702_CASACARDS_PARTNER_2_3_700_1050.png",
+      "Landscape_Image": "https://images.fancode.com/aig/match/v1790006402404/4249702_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "provider": "FanCode",
+      "language": [
+        "English"
+      ],
+      "isLive": true,
+      "metaDetailVerbiage": "English • Golf • U",
+      "genre": "Golf"
+    }
+  ]
 }
