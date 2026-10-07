@@ -1,39 +1,6 @@
 {
-  "status": "200",
-  "success": true,
-  "message": "Data fetched successfully",
-  "total": 2,
-  "updatedAt": "07/10/2026, 05:28:36 AM",
-  "data": [
-    {
-      "id": "0-1-6z51087672",
-      "name": "Argentina Vs Benin",
-      "tounament": "Watch Argentina Vs Benin LIVE &amp; Exclusive only on ZEE5. International Friendlies 2026",
-      "Portrait_Image": "https://akamaividz2.zee5.com/image/upload/w_630,h_945,c_scale,f_auto,q_auto/resources/0-1-6z51087672/portrait_original/2000x3000hero63da217c7dde4b0b873e6340d88e6cee.jpg",
-      "Landscape_Image": "https://akamaividz2.zee5.com/image/upload/w_1920,h_1080,c_scale/resources/0-1-6z51087672/list_original/1920x1080list90c8d183103c41239aaa389b459d83d5d734c99034ab45239aac940ad8b6d7ce.jpg",
-      "provider": "Zee5",
-      "language": [
-        "English",
-        "Hindi",
-        "Malayalam"
-      ],
-      "isLive": true,
-      "metaDetailVerbiage": "3 Languages • Sports • U",
-      "genre": "Sports"
-    },
-    {
-      "id": "4249662",
-      "name": "Victoria VS South Australia",
-      "tounament": "Sheffield Shield, 2026/27",
-      "Portrait_Image": "https://images.fancode.com/aig/match/v1790726400679/4249662_CASACARDS_PARTNER_2_3_700_1050.png",
-      "Landscape_Image": "https://images.fancode.com/aig/match/v1790726400679/4249662_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "provider": "FanCode",
-      "language": [
-        "English"
-      ],
-      "isLive": true,
-      "metaDetailVerbiage": "English • Cricket • U",
-      "genre": "Cricket"
-    }
-  ]
+  "status": "500",
+  "success": false,
+  "message": "Failed to fetch data",
+  "error": "HTTP error! Status: 403"
 }
