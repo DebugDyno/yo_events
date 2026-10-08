@@ -1,23 +1,6 @@
 {
-  "status": "200",
-  "success": true,
-  "message": "Data fetched successfully",
-  "total": 1,
-  "updatedAt": "08/10/2026, 04:39:29 AM",
-  "data": [
-    {
-      "id": "4249658",
-      "name": "USA VS Namibia",
-      "tounament": "ICC CWC League 2 USA, 2026",
-      "Portrait_Image": "https://images.fancode.com/aig/match/v1790784000576/4249658_CASACARDS_PARTNER_2_3_700_1050.png",
-      "Landscape_Image": "https://images.fancode.com/aig/match/v1790784000576/4249658_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "provider": "FanCode",
-      "language": [
-        "English"
-      ],
-      "isLive": true,
-      "metaDetailVerbiage": "English • Cricket • U",
-      "genre": "Cricket"
-    }
-  ]
+  "status": "500",
+  "success": false,
+  "message": "Failed to fetch data",
+  "error": "HTTP error! Status: 403"
 }
