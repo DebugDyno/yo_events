@@ -1,6 +1,65 @@
 {
-  "status": "500",
-  "success": false,
-  "message": "Failed to fetch data",
-  "error": "HTTP error! Status: 403"
+  "status": "200",
+  "success": true,
+  "message": "Data fetched successfully",
+  "total": 4,
+  "updatedAt": "13/10/2026, 09:25:14 AM",
+  "data": [
+    {
+      "id": "4248835",
+      "name": "ATP Masters - Rolex Shanghai Masters",
+      "tounament": "ATP Masters - Rolex Shanghai Masters",
+      "Portrait_Image": "https://images.fancode.com/aig/match/v1791280803910/4248835_CASACARDS_PARTNER_2_3_700_1050.png",
+      "Landscape_Image": "https://images.fancode.com/aig/match/v1791280803910/4248835_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "provider": "FanCode",
+      "language": [
+        "English"
+      ],
+      "isLive": false,
+      "metaDetailVerbiage": "English • Lawn-tennis • U",
+      "genre": "Lawn-tennis"
+    },
+    {
+      "id": "4248836",
+      "name": "ATP Masters - Rolex Shanghai Masters",
+      "tounament": "ATP Masters - Rolex Shanghai Masters",
+      "Portrait_Image": "https://images.fancode.com/aig/match/v1791280804179/4248836_CASACARDS_PARTNER_2_3_700_1050.png",
+      "Landscape_Image": "https://images.fancode.com/aig/match/v1791280804179/4248836_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "provider": "FanCode",
+      "language": [
+        "English"
+      ],
+      "isLive": false,
+      "metaDetailVerbiage": "English • Lawn-tennis • U",
+      "genre": "Lawn-tennis"
+    },
+    {
+      "id": "4249789",
+      "name": "Adelaide Strikers Women VS Perth Scorchers Women",
+      "tounament": "T20 Spring Challenge, 2026",
+      "Portrait_Image": "https://images.fancode.com/aig/match/v1791259202015/4249789_CASACARDS_PARTNER_2_3_700_1050.png",
+      "Landscape_Image": "https://images.fancode.com/aig/match/v1791259202015/4249789_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "provider": "FanCode",
+      "language": [
+        "English"
+      ],
+      "isLive": false,
+      "metaDetailVerbiage": "English • Cricket • U",
+      "genre": "Cricket"
+    },
+    {
+      "id": "4249284",
+      "name": "New South Wales VS Tasmania",
+      "tounament": "One Day Cup, 2026/27",
+      "Portrait_Image": "https://images.fancode.com/aig/match/v1791244800530/4249284_CASACARDS_PARTNER_2_3_700_1050.png",
+      "Landscape_Image": "https://images.fancode.com/aig/match/v1791244800530/4249284_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "provider": "FanCode",
+      "language": [
+        "English"
+      ],
+      "isLive": false,
+      "metaDetailVerbiage": "English • Cricket • U",
+      "genre": "Cricket"
+    }
+  ]
 }
