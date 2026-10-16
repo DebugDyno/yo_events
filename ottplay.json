@@ -1,5 +1,75 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 3,
+  "updatedAt": "16/10/2026, 11:18:59 AM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "1090548548",
+      "name": "SJM Macao Open - Day 2 - 16 Oct 2026",
+      "genre": "golf",
+      "language": "english",
+      "provider": "SonyLIV",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/4166f6d2ab8072dd49502244c2de1340.jpg",
+        "https://images.ottplay.com/images/4e892ae9d5947a7262326ca4785061e8.jpg",
+        "https://images.ottplay.com/images/7bf6e7ae2e85c7d3df3b6f950808b9f5.jpg",
+        "https://images.ottplay.com/images/7d83ca77d80b47d917c5838740b9a32e.jpg",
+        "https://images.ottplay.com/images/a5cd408afd4aac9ce3d4cfa29a8c5094.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/6e69297fdd650f1e7c080de8bf8a76af.jpg"
+      ],
+      "providerInfo": {
+        "id": "5f456c2aff9ccd034434e6fd",
+        "name": "SonyLIV",
+        "hashId": "100dc02b90dfc"
+      }
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "contentId": "4248846",
+      "name": "ATP vs LOC",
+      "genre": "lawn-tennis",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/3171575d62f209df7e2b4a268048066d.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/00efb12d99417610d295924a305d098d.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 3,
+      "isLive": true,
+      "contentId": "4249793",
+      "name": "BH-W vs AM-W",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/000d959b8497390c486b0d59b315c471.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/790080d9afccffd92e6fff834d418f2a.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    }
+  ]
 }
