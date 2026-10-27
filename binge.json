@@ -1,6 +1,37 @@
 {
-  "status": "500",
-  "success": false,
-  "message": "Failed to fetch data",
-  "error": "HTTP error! Status: 403"
+  "status": "200",
+  "success": true,
+  "message": "Data fetched successfully",
+  "total": 2,
+  "updatedAt": "27/10/2026, 11:07:41 AM",
+  "data": [
+    {
+      "id": "4250517",
+      "name": "Netherlands VS Oman",
+      "tounament": "ICC CWC League 2 UAE, 2026",
+      "Portrait_Image": "https://images.fancode.com/aig/match/v1792569600696/4250517_CASACARDS_PARTNER_2_3_700_1050.png",
+      "Landscape_Image": "https://images.fancode.com/aig/match/v1792569600696/4250517_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "provider": "FanCode",
+      "language": [
+        "English"
+      ],
+      "isLive": false,
+      "metaDetailVerbiage": "English • Cricket • U",
+      "genre": "Cricket"
+    },
+    {
+      "id": "4250532",
+      "name": "Delhi Dynamites VS Uttrakhand Stars",
+      "tounament": "Northern Artist Champions League 2026",
+      "Portrait_Image": "https://images.fancode.com/aig/match/v1792778401590/4250532_CASACARDS_PARTNER_2_3_700_1050.png",
+      "Landscape_Image": "https://images.fancode.com/aig/match/v1792778401590/4250532_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "provider": "FanCode",
+      "language": [
+        "English"
+      ],
+      "isLive": true,
+      "metaDetailVerbiage": "English • Cricket • U",
+      "genre": "Cricket"
+    }
+  ]
 }
