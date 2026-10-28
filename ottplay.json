@@ -1,11 +1,57 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 1,
-  "updatedAt": "28/10/2026, 05:33:13 AM",
+  "total": 3,
+  "updatedAt": "28/10/2026, 10:56:55 AM",
   "data": [
     {
       "id": 1,
+      "isLive": true,
+      "contentId": "1090550845",
+      "name": "Gujarat Royals vs Punjab Falcons - Semi Final 2 - 28 Oct 2026",
+      "genre": "cricket",
+      "language": "hindi",
+      "provider": "SonyLIV",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/images/5d55acbdadfca946b2ab6b9bb476e2e0.jpg",
+        "https://images.ottplay.com/images/37d5ba4fc36df61276f43e649287f72b.jpg",
+        "https://images.ottplay.com/images/324302b3f7e816c2a32762dd20c3829c.jpg",
+        "https://images.ottplay.com/images/af00e45f2409a52af876137f7f631262.jpg",
+        "https://images.ottplay.com/images/6addd884bf770ae5ffc4576343e3fe25.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/8134399f2d1ecbbe468b6f2790866e95.jpg"
+      ],
+      "providerInfo": {
+        "id": "5f456c2aff9ccd034434e6fd",
+        "name": "SonyLIV",
+        "hashId": "100dc02b90dfc"
+      }
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "contentId": "4250526",
+      "name": "BAN vs WI",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/3e6327de394d3dcf9990964e9d9a7097.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/f58280992b319b073415fb74f8cc7538.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 3,
       "isLive": true,
       "contentId": "4249668",
       "name": "SAU vs WAU",
