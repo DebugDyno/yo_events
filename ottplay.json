@@ -1,11 +1,32 @@
 {
   "success": true,
   "message": "Live matches fetched successfully",
-  "total": 3,
-  "updatedAt": "02/11/2026, 04:36:24 AM",
+  "total": 2,
+  "updatedAt": "02/11/2026, 07:55:17 AM",
   "data": [
     {
       "id": 1,
+      "isLive": true,
+      "contentId": "4249670",
+      "name": "QUN vs VCT",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/3e6271916b3544daa2302afd804f057c.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/a2320cfa51fdb340269ed5fb95a53aad.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 2,
       "isLive": true,
       "contentId": "1090551673",
       "name": "2nd Unofficial Test - Day 3 - 2 Nov 2026",
@@ -27,48 +48,6 @@
         "id": "5f456c2aff9ccd034434e6fd",
         "name": "SonyLIV",
         "hashId": "100dc02b90dfc"
-      }
-    },
-    {
-      "id": 2,
-      "isLive": true,
-      "contentId": "4250511",
-      "name": "VidantaWorld Mexico Open 2026",
-      "genre": "golf",
-      "language": "english",
-      "provider": "FanCode",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/backdrops/b52cc4be0dc95223aed694331dd7d2e5.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/f8485fd35d6b32cf089c63e3cee25a97.jpg"
-      ],
-      "providerInfo": {
-        "id": "63ce216c483822001ca300a4",
-        "name": "FanCode",
-        "hashId": "c60fe425e3269"
-      }
-    },
-    {
-      "id": 3,
-      "isLive": true,
-      "contentId": "139511",
-      "name": "F1 GRAN PREMIO DE LA CUIDAD DE MEXICO 2026",
-      "genre": "formula1",
-      "language": "english",
-      "provider": "FanCode",
-      "content_type": "sport",
-      "image": [
-        "https://images.ottplay.com/backdrops/984391eedb6b93598796279f8ff287fd.jpg"
-      ],
-      "posters": [
-        "https://images.ottplay.com/posters/8ff687aca5795a64dc3f5956624ddd1a.jpg"
-      ],
-      "providerInfo": {
-        "id": "63ce216c483822001ca300a4",
-        "name": "FanCode",
-        "hashId": "c60fe425e3269"
       }
     }
   ]
