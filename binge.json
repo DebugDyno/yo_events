@@ -1,6 +1,65 @@
 {
-  "status": "500",
-  "success": false,
-  "message": "Failed to fetch data",
-  "error": "HTTP error! Status: 403"
+  "status": "200",
+  "success": true,
+  "message": "Data fetched successfully",
+  "total": 4,
+  "updatedAt": "17/11/2026, 05:26:41 PM",
+  "data": [
+    {
+      "id": "4250383",
+      "name": "Lumbini Lions VS Sudurpaschim Royals",
+      "tounament": "Nepal Premier League Season 3, 2026",
+      "Portrait_Image": "https://images.fancode.com/aig/match/v1794823200257/4250383_CASACARDS_PARTNER_2_3_700_1050.png",
+      "Landscape_Image": "https://images.fancode.com/aig/match/v1794823200257/4250383_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "provider": "FanCode",
+      "language": [
+        "English"
+      ],
+      "isLive": true,
+      "metaDetailVerbiage": "English • Cricket • U",
+      "genre": "Cricket"
+    },
+    {
+      "id": "4250727",
+      "name": "Nitto ATP Finals 2026",
+      "tounament": "Nitto ATP Finals 2026",
+      "Portrait_Image": "https://images.fancode.com/aig/match/v1794153601261/4250727_CASACARDS_PARTNER_2_3_700_1050.png",
+      "Landscape_Image": "https://images.fancode.com/aig/match/v1794153601261/4250727_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "provider": "FanCode",
+      "language": [
+        "English"
+      ],
+      "isLive": true,
+      "metaDetailVerbiage": "English • Lawn-tennis • U",
+      "genre": "Lawn-tennis"
+    },
+    {
+      "id": "4250650",
+      "name": "South Africa VS Bangladesh",
+      "tounament": "Bangladesh tour of South Africa, 2026",
+      "Portrait_Image": "https://images.fancode.com/aig/match/v1794132000507/4250650_CASACARDS_PARTNER_2_3_700_1050.png",
+      "Landscape_Image": "https://images.fancode.com/aig/match/v1794132000507/4250650_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "provider": "FanCode",
+      "language": [
+        "English"
+      ],
+      "isLive": true,
+      "metaDetailVerbiage": "English • Cricket • U",
+      "genre": "Cricket"
+    },
+    {
+      "id": "4249773",
+      "name": "Afghanistan VS Zimbabwe",
+      "tounament": "Zimbabwe Tour of Afghanistan in UAE, 2026",
+      "Portrait_Image": "https://images.fancode.com/aig/match/v1793952002119/4249773_CASACARDS_PARTNER_2_3_700_1050.png",
+      "Landscape_Image": "https://images.fancode.com/aig/match/v1793952002119/4249773_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "provider": "FanCode",
+      "language": [
+        "English"
+      ],
+      "isLive": true,
+      "metaDetailVerbiage": "English • Cricket • U",
+      "genre": "Cricket"
+    }
+  ]
 }
