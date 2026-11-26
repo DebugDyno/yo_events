@@ -1,5 +1,50 @@
 {
   "success": true,
-  "message": "No live matches at the moment",
-  "data": []
+  "message": "Live matches fetched successfully",
+  "total": 2,
+  "updatedAt": "26/11/2026, 09:54:26 AM",
+  "data": [
+    {
+      "id": 1,
+      "isLive": true,
+      "contentId": "4249675",
+      "name": "WAU vs TAS",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/9f96b1a53db6450e1150e0c576341daa.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/a68c9d28d7a66b5cf1c5142308c48d47.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    },
+    {
+      "id": 2,
+      "isLive": true,
+      "contentId": "4249676",
+      "name": "SAU vs VCT",
+      "genre": "cricket",
+      "language": "english",
+      "provider": "FanCode",
+      "content_type": "sport",
+      "image": [
+        "https://images.ottplay.com/backdrops/3c4dbd725203105a3abd66d2754cb9e5.jpg"
+      ],
+      "posters": [
+        "https://images.ottplay.com/posters/4c323108fb556884edf93a5a6a1e9e40.jpg"
+      ],
+      "providerInfo": {
+        "id": "63ce216c483822001ca300a4",
+        "name": "FanCode",
+        "hashId": "c60fe425e3269"
+      }
+    }
+  ]
 }
